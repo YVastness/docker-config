@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2025-07-06T15:01:39.4747969Z","EndTimeUtc":"2025-07-06T15:01:40.2229778Z","Status":"Completed","Name":"Hardware Detection","Key":"HardwareDetection","Id":"4ccba258b890b2b73ee3e1d0ceec11e9"}

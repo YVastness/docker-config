@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "yinhaoyu",
+        "name": "yinhaoyu",
+        "user_id": "7af7934b12794a888602d25e4c4f21a1",
+        "device_trackers": [
+          "device_tracker.iphone",
+          "device_tracker.my_iphone"
+        ],
+        "picture": null
+      }
+    ]
+  }
+}

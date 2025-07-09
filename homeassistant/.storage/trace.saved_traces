@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "trace.saved_traces",
+  "data": {
+    "automation.1751304824134": [
+      {
+        "extended_dict": {
+          "last_step": "action/0",
+          "run_id": "87325eeb9d9efd53ca74862821229c40",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-02T11:00:00.482155+00:00",
+            "finish": "2025-07-02T11:00:00.920087+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2025-07-02T11:00:00.482286+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.huan_qi",
+                    "state": "on",
+                    "attributes": {
+                      "id": "1751304824134",
+                      "last_triggered": "2025-07-02T10:50:00.435644+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "friendly_name": "\u6362\u6c14"
+                    },
+                    "last_changed": "2025-07-02T10:57:36.214570+00:00",
+                    "last_reported": "2025-07-02T10:57:36.214570+00:00",
+                    "last_updated": "2025-07-02T10:57:36.214570+00:00",
+                    "context": {
+                      "id": "01JZ5CHWEPRMZZ8KJT9DAN2856",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "alias": null,
+                    "platform": "time_pattern",
+                    "now": "2025-07-02T19:00:00.481683+08:00",
+                    "description": "time pattern"
+                  }
+                }
+              }
+            ],
+            "condition/0": [
+              {
+                "path": "condition/0",
+                "timestamp": "2025-07-02T11:00:00.482394+00:00",
+                "result": {
+                  "result": true
+                }
+              }
+            ],
+            "condition/1": [
+              {
+                "path": "condition/1",
+                "timestamp": "2025-07-02T11:00:00.482559+00:00",
+                "result": {
+                  "result": true
+                }
+              },
+              {
+                "path": "condition/1",
+                "timestamp": "2025-07-02T11:00:00.482603+00:00",
+                "result": {
+                  "result": true
+                }
+              }
+            ],
+            "condition/1/entity_id/0": [
+              {
+                "path": "condition/1/entity_id/0",
+                "timestamp": "2025-07-02T11:00:00.482651+00:00",
+                "result": {
+                  "result": true,
+                  "state": "off",
+                  "wanted_state": "off"
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2025-07-02T11:00:00.483443+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01JZ5CP9B2Y98DE151AAKFGYGW",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "params": {
+                    "domain": "switch",
+                    "service": "toggle",
+                    "service_data": {},
+                    "target": {
+                      "entity_id": [
+                        "switch.lxzn_cn_859682990_ben_ventilation_p_3_8"
+                      ]
+                    }
+                  },
+                  "running_script": false
+                }
+              }
+            ]
+          },
+          "config": {
+            "id": "1751304824134",
+            "alias": "\u6362\u6c14",
+            "description": "",
+            "triggers": [
+              {
+                "trigger": "time_pattern",
+                "minutes": "/10"
+              }
+            ],
+            "conditions": [
+              {
+                "condition": "zone",
+                "entity_id": "device_tracker.iphone",
+                "zone": "zone.home"
+              },
+              {
+                "type": "is_not_open",
+                "condition": "device",
+                "device_id": "51cbb007d76293095ca913738cffcd71",
+                "entity_id": "89dabe895cebc4e3cdfb27151d0e73f7",
+                "domain": "binary_sensor"
+              }
+            ],
+            "actions": [
+              {
+                "action": "switch.toggle",
+                "metadata": {},
+                "data": {},
+                "target": {
+                  "entity_id": [
+                    "switch.lxzn_cn_859682990_ben_ventilation_p_3_8"
+                  ]
+                }
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01JZ5CP9B2Y98DE151AAKFGYGW",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0",
+          "run_id": "87325eeb9d9efd53ca74862821229c40",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-02T11:00:00.482155+00:00",
+            "finish": "2025-07-02T11:00:00.920087+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern"
+        }
+      }
+    ]
+  }
+}

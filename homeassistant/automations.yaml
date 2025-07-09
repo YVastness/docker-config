@@ -1,0 +1,28 @@
+- id: '1751304824134'
+  alias: 换气
+  description: ''
+  triggers:
+  - trigger: time_pattern
+    minutes: /10
+  conditions: []
+  actions:
+  - if:
+    - type: is_not_open
+      condition: device
+      device_id: 51cbb007d76293095ca913738cffcd71
+      entity_id: 89dabe895cebc4e3cdfb27151d0e73f7
+      domain: binary_sensor
+    - condition: state
+      entity_id: device_tracker.my_iphone
+      state: home
+    then:
+    - type: toggle
+      device_id: fa8d40929fd9a2eeec7818a37e59242c
+      entity_id: 74e8caa06214bf289daa38306ea22744
+      domain: switch
+    else:
+    - type: turn_off
+      device_id: fa8d40929fd9a2eeec7818a37e59242c
+      entity_id: 74e8caa06214bf289daa38306ea22744
+      domain: switch
+  mode: single

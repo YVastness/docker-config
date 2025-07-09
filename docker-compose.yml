@@ -1,0 +1,63 @@
+version: "3"
+
+services:
+  quark-auto-save:
+    image: cp0204/quark-auto-save:latest
+    container_name: quark-auto-save
+    restart: unless-stopped
+    environment:
+      - TZ=Asia/Shanghai
+      - WEBUI_USERNAME=yinhaoyu
+      - WEBUI_PASSWORD=yhy.1999
+    volumes:
+      - /var/lib/docker/quark-auto-save/config:/app/config
+      - /mnt/HHD/Videos/Movies:/media
+    network_mode: "host"
+    ports:
+      - "5005:5005"  # 虽然 host 模式下 ports 可省略，但保留更直观
+
+  mdc:
+    image: mdcng/mdc:latest
+    container_name: mdc
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - /var/lib/docker/mdc/config:/config # 配置目录，必须
+      - /mnt/HHD/Videos/Girls:/media # 媒体库，可映射多个
+    network_mode: "host"
+    ports:
+      - 9208:9208
+    restart: unless-stopped  
+
+  homeassistant:
+    container_name: homeassistant
+    image: homeassistant/home-assistant:latest
+    privileged: true
+    restart: unless-stopped
+    network_mode: host
+    ports:
+      - 8123:8123
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - /var/lib/docker/homeassistant:/config
+
+  emby:
+    image: emby/embyserver
+    container_name: embyserver
+    runtime: nvidia # Expose NVIDIA GPUs
+    network_mode: host # Enable DLNA and Wake-on-Lan
+    environment:
+      - UID=1000 # The UID to run emby as (default: 2)
+      - GID=100 # The GID to run emby as (default 2)
+      - GIDLIST=100 # A comma-separated list of additional GIDs to run emby as (default: 2)
+    volumes:
+      - /var/lib/docker/embyserver/config:/config # Configuration directory
+      - /mnt/HHD/Videos:/mnt/Media # Media directory
+    ports:
+      - 8096:8096 # HTTP port
+      - 8920:8920 # HTTPS port
+    devices:
+      - /dev/dri:/dev/dri # VAAPI/NVDEC/NVENC render nodes
+      - /dev/vchiq:/dev/vchiq # MMAL/OMX on Raspberry Pi
+    restart: on-failure

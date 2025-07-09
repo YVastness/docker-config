@@ -1,0 +1,563 @@
+{
+  "cookie": [
+    "b-user-id=9344d5b4-75f2-35e9-c32d-420729990728; b-user-id=9344d5b4-75f2-35e9-c32d-420729990728; _UP_A4A_11_=wb9ca1fa12434dd493a3620a1ba85aa6; tfstk=gtk-JbxKknI89xM8m0Rc-SqBz-Km9Imr04o1Ky4lOq3xY2F3O7qupWg7oYV3Fz0YluqhPytzNJEK7lhnF8gHpyiauT0HaWXKk2ZONvxUV-_jWu1SKyaQlJernbX3rUyKAV2pSFvMI0ozeJTMS_Geney_fT1C-W9XhJqppkOfI0ozLiScRCcj4MHTxQeQd2wbGkZ8dkZ7PnIb4r67ATZClnU4lT1CN_1bGlZhRwgQdnnbukyQR2NWDmTrAeUfVyXKsSykxE7YM96IHuFXi0abpJt3D7nsVrL67xpQwPi7k9L-voa0llHX8a4EHmM7Yq9ceJnbvVeSME6-J0GZ8lgWHaZ-NcngMv81poljzSq-MH1bPcaYFrHeY9zSZDM39YT1xzMrrxFZLaL0-fmmFS36ot3U9bG_FvL9hgkIIAnScN4Tx_tvD65UNoW3rF20Hczh1oUM2pCFTS-4DPxv565UNorYSn05T6P20; __wpkreporterwid_=08a10d1d-0afe-49c0-0c2f-dc76e5adbc07; __sdid=AATpMM5ljZiSn9f0ogD16+WVSgTdIEuEkltE7BGEpNp94g2om9Vn+HWM+fOoR4lQT+M=; _UP_D_=pc; __pus=bf46c64734d92c9db0728ca314eaed6dAASHZVEyQjocYRN9gWn/A9bk3iNEuXJwAms7SJBNoF3xnmG33zdnNN+3nHMRKquECZaTJqimZP5Z48uNcrJm8FQR; __kp=1b1f2130-59ab-11f0-ae62-edbf88167813; __kps=AAQSa+dPw7UBqnfZatR7Mqw5; __ktd=zIW5tGOiVJ3ATBg3Qs3H2g==; __uid=AAQSa+dPw7UBqnfZatR7Mqw5; ctoken=9znE3n7kLyd5jJjMaD4VJeog; web-grey-id=90ed4984-7a76-3453-2fdd-c134da6f37c0; web-grey-id.sig=mNodApkQ7AcD6xq6OCrGKl6-ONgCP7LleOG35UGREF8; grey-id=cc05eac2-1403-05e3-7eb7-bc5cf4c614fb; grey-id.sig=-dpsO27lWFqVGNltVL0amKQbP8x5Au610_kRVRMrM0w; isQuark=false; isQuark.sig=DWPHMZYiiwQ-v58AbcP-rBdSIpzO8ZnrD67BdJuPatU; isg=BG5upK09ijPWp_4BzZCz_RRwv8IwbzJpuz_95Zg3UnE5ew_VAP5IeBVyN-eXoyqB; __puus=b9bac888e20c170aece1315ad6885bf1AAQNb7Dzmeujl8bfRVqc6nvc/sqRb2F/CbFj1me6vGOFnHhBq3E0njYcXVNT9iFYpbcd/MwFp4c6AB0ivsUm/p31jTdZjSIvd3PuTOw3N98JSL3qYiJsNIa1I5qpdBzMCuqPT0cuFBmD3Jvo4oQ46xcY8AlpPrpU6JZFWko9L/COeBCVPxcQDCM5KNZzlOB7kRXfv0j/20OivZmmRuaFe1L0"
+  ],
+  "push_config": {
+    "BARK_PUSH": "https://api.day.app/qtSCxHhNxnPujdpDt6hSPa/",
+    "BARK_URL": "https://pan.quark.cn/s/46ef886a2289"
+  },
+  "plugins": {
+    "alist": {
+      "url": "",
+      "token": "",
+      "storage_id": ""
+    },
+    "alist_strm": {
+      "url": "",
+      "cookie": "",
+      "config_id": ""
+    },
+    "alist_strm_gen": {
+      "url": "",
+      "token": "",
+      "storage_id": "",
+      "strm_save_dir": "/media",
+      "strm_replace_host": ""
+    },
+    "alist_sync": {
+      "url": "",
+      "token": "",
+      "quark_storage_id": "",
+      "save_storage_id": "",
+      "tv_mode": ""
+    },
+    "aria2": {
+      "host_port": "192.168.2.1:6800",
+      "secret": "wsoe8vkt3ob7uxgvqq63947cprbpspch",
+      "dir": "/mnt/sda2/Videos/Movies"
+    },
+    "emby": {
+      "url": "",
+      "token": ""
+    },
+    "plex": {
+      "url": "",
+      "token": "",
+      "quark_root_path": ""
+    }
+  },
+  "magic_regex": {
+    "$TV": {
+      "pattern": ".*?([Ss]\\d{1,2})?(?:[第EePpXx\\.\\-\\_\\( ]{1,2}|^)(\\d{1,3})(?!\\d).*?\\.(mp4|mkv)",
+      "replace": "\\1E\\2.\\3"
+    },
+    "$BLACK_WORD": {
+      "pattern": "^(?!.*纯享)(?!.*加更)(?!.*超前企划)(?!.*训练室)(?!.*蒸蒸日上).*",
+      "replace": ""
+    },
+    "$SHOW_PRO": {
+      "pattern": "^(?!.*纯享)(?!.*加更)(?!.*抢先)(?!.*预告).*?第\\d+期.*",
+      "replace": "{II}.{TASKNAME}.{DATE}.第{E}期{PART}.{EXT}"
+    },
+    "$TV_PRO": {
+      "pattern": "",
+      "replace": "{TASKNAME}.{SXX}E{E}.{EXT}"
+    }
+  },
+  "tasklist": [
+    {
+      "taskname": "一念永恒",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/aa14182590974da493b544f5655d0824-Y%20%E4%B8%80.%EF%BD%9C%E6%8D%BB%EF%BD%9CY.%E6%81%92/1726e1f7ee9f4559bb19fd1418950519-%E4%B8%80.%EF%BD%9C%E5%BF%B5%EF%BD%9CY.%E6%81%86/78e5ed292e7b4f468983c88994d30973-Season%203",
+      "savepath": "/国漫/一念永恒",
+      "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
+      "replace": "一念永恒S\\1E\\2.\\5",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "斗罗大陆Ⅱ绝世唐门",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/04888ff2907f41c996f394eada6ab340-D%20%E6%96%97.%E6%A4%A4%EF%BD%9C%E6%B1%8F.%E9%99%86/6a3d859ae02849ff8fcec0b70cf3c9c6-%E6%96%972%20%E7%BB%9D.%E4%B8%96.%E5%94%90.%E9%97%A8%204K",
+      "savepath": "/国漫/斗罗大陆Ⅱ绝世唐门",
+      "pattern": "(\\d+).*(\\.)(mp4|mkv)",
+      "replace": "斗罗大陆Ⅱ绝世唐门S01E\\1\\2\\3",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "沧元图",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/d09245b87d93460db96822ef708889ac-C%20%E6%B2%A7%EF%BD%9C%E5%9C%9C%EF%BD%9C%E6%B1%A2%EF%BD%9C/dd0b524359744ff4b98bcb1fad07db74-%E6%B2%A7%EF%BD%9C%E5%9C%9C%EF%BD%9C%E6%B1%A2%EF%BD%9C.%20%E6%9B%B4%E6%96%B0%E4%B8%AD/269b217a9ce24f31a0fb078b033ca1d0-S02",
+      "savepath": "/国漫/沧元图",
+      "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
+      "replace": "沧元图S\\1E\\2.\\5",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "斗破苍穹",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/a4f69e89d5854983b2c519225b29faa5-D%20%E6%96%97%EF%BD%9CP.%E5%80%89...*101%E7%A9%B9/f313f43762734bbc830b3082c259cf46-%E6%96%97%EF%BD%9CP.%E8%92%BC...%E7%AA%AE",
+      "savepath": "/国漫/斗破苍穹",
+      "pattern": "(\\d+).*(\\.)(mp4|mkv)",
+      "replace": "斗破苍穹S01E\\1\\2\\3",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "诡秘之主",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/867323990d514c188606326b51d5220d-G%20%E8%AF%A1.%E5%98%A7%EF%BD%9CZ.%E4%B8%BB/3be676b31bbd4897a70043f2eb27ce3e-CR%201080%202G*101%E9%9B%86",
+      "savepath": "/国漫/诡秘之主",
+      "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
+      "replace": "诡秘之主S\\1E\\2.\\5",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "神国之上",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/a80674b91ec7430b9631ecd1219e8218-S%20%E8%A8%B7.%E5%9C%8B.%EF%BD%9C%E4%B9%8B.%E4%B8%8A%20(2025)/6b58361c81f3430691b5e194067bc74c-S%20%E8%A8%B7.%E5%9C%8B.%EF%BD%9C%E4%B9%8B.%E4%B8%84%20(2025)",
+      "savepath": "/国漫/神国之上",
+      "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
+      "replace": "神国之上S\\1E\\2.\\5",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "神印王座",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/20354bc1b36f4b2284fbfb0de0172824-S%20%E7%A5%9E.Y%EF%BD%9C.%E7%8E%8B*101*101W*101*101.%E5%BA%A7./9890e0bd2d2b4739b8bb8539f418025d-%E7%A5%9E.Y%EF%BD%9C.%E7%8E%8B*101*101W*101*101.%E5%9D%90.",
+      "savepath": "/国漫/神印王座",
+      "pattern": "(\\d+).*(\\.)(mp4|mkv)",
+      "replace": "神印王座S01E\\1\\2\\3",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "吞噬星空",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/a078b027627a4f0099201ce7b78c5906-T%20%E5%90%9E.%E5%8F%A3%E7%AD%AE%EF%BD%9CX.%EF%BD%9C%E7%AE%9C/a3d2eff8abcf46d8b89b259ca499b538-%E5%90%9E%20%E5%97%9C%EF%BD%9C%E7%91%86%EF%BD%9C%E7%A9%BA",
+      "savepath": "/国漫/吞噬星空",
+      "pattern": "(\\d+).*(\\.)(mp4|mkv)",
+      "replace": "吞噬星空S01E\\1\\2\\3",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "完美世界",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/cec7ffc1684546079137459f4d1db909-W%20%E5%AE%8C.M.%EF%BD%9CS..%EF%BD%9C%E7%95%8C",
+      "savepath": "/国漫/完美世界",
+      "pattern": "(\\d+).*(\\.)(mp4|mkv)",
+      "replace": "完美世界S01E\\1\\2\\3",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "星辰变",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/79cab8a4a1b1488f9fd3d7c13ba64bbe-X%20%E6%98%9F.%E8%BE%B0.%E5%8F%98(2025)/86b8d970659747afb8980761e3445cea-S06",
+      "savepath": "/国漫/星辰变",
+      "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
+      "replace": "星辰变S\\1E\\2.\\5",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "仙逆",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/7e50aa0903fa45b1a305c9696fa58cce-X%20%E8%8B%AE.%EF%BD%9C%E5%B1%B0/d1e01007e1a246c5a505406b0118fbcd-X%20%E8%8B%AE%EF%BD%9C%20%E5%B1%B0",
+      "savepath": "/国漫/仙逆",
+      "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
+      "replace": "仙逆S\\1E\\2.\\5",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "遮天",
+      "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/61d8e7fee0424ab185af2624ef12e69e-Z*101%E9%81%AE..%EF%BD%9C..%E5%A4%A9/4667958b18504417a53bd27134b87ff5-%E8%BF%99..%EF%BD%9C..%E5%A4%A9",
+      "savepath": "/国漫/遮天",
+      "pattern": "(\\d+).*(\\.)(mp4|mkv)",
+      "replace": "遮天S01E\\1\\2\\3",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "taskname": "海贼王",
+      "shareurl": "https://pan.quark.cn/s/fa860d53315e#/list/share/28653facf6114356ac49b37ec631f07d-H%20%E6%B5%B7%E8%B4%BC%E7%8E%8B/fc68c0db603a4c8eaab85658665681fb-%E6%B5%B7%E8%B4%BC%E7%8E%8B%20TV%E7%89%88",
+      "savepath": "/海贼王",
+      "pattern": "(\\d+).*(\\.)(mp4|mkv)",
+      "replace": "海贼王S01E\\1\\2\\3",
+      "enddate": "",
+      "addition": {
+        "alist_strm_gen": {
+          "auto_gen": true
+        },
+        "alist_sync": {
+          "enable": false,
+          "save_path": "",
+          "verify_path": "",
+          "full_path_mode": false
+        },
+        "aria2": {
+          "auto_download": true,
+          "pause": false
+        },
+        "emby": {
+          "try_match": true,
+          "media_id": ""
+        }
+      },
+      "ignore_extension": false,
+      "runweek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "webui": {
+    "username": "yinhaoyu",
+    "password": "yhy.1999"
+  },
+  "crontab": "0,10 * * * *",
+  "source": {
+    "cloudsaver": {
+      "server": "",
+      "username": "",
+      "password": "",
+      "token": ""
+    }
+  }
+}
