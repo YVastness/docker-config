@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  quark-auto-save:
+    image: cp0204/quark-auto-save:latest
+    container_name: quark-auto-save
+    restart: unless-stopped
+    environment:
+      - TZ=Asia/Shanghai
+      - WEBUI_USERNAME=yinhaoyu
+      - WEBUI_PASSWORD=yhy.1999
+    volumes:
+      - /var/lib/docker/quark-auto-save/config:/app/config
+      - /mnt/sda2/Videos:/media
+    ports:
+      - "5005:5005"  # 虽然 host 模式下 ports 可省略，但保留更直观

@@ -1,0 +1,885 @@
+{
+    "name": "The Lord of the Rings: The Return of the King",
+    "tmdb_id": "122",
+    "imdb_id": "tt0167260",
+    "hdmovielogo": [
+        {
+            "id": "50921",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-5232b3cb292ba.png",
+            "lang": "en",
+            "likes": "22"
+        },
+        {
+            "id": "19599",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-50d0760d354d0.png",
+            "lang": "en",
+            "likes": "19"
+        },
+        {
+            "id": "54182",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-525d62becbd1b.png",
+            "lang": "fr",
+            "likes": "4"
+        },
+        {
+            "id": "106145",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-553ba9e907d46.png",
+            "lang": "es",
+            "likes": "4"
+        },
+        {
+            "id": "316636",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-5fd0859b6f49d.png",
+            "lang": "ru",
+            "likes": "4"
+        },
+        {
+            "id": "44917",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-5206b5cc694d8.png",
+            "lang": "fr",
+            "likes": "3"
+        },
+        {
+            "id": "264934",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-5d3262b6eec92.png",
+            "lang": "pt",
+            "likes": "3"
+        },
+        {
+            "id": "407080",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-6519aaf0c700a.png",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "34633",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-51913a7d02f42.png",
+            "lang": "hu",
+            "likes": "2"
+        },
+        {
+            "id": "35715",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-519a1f3c15e40.png",
+            "lang": "hu",
+            "likes": "2"
+        },
+        {
+            "id": "40062",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-51ce256609352.png",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "114888",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-55a61dac8c230.png",
+            "lang": "it",
+            "likes": "2"
+        },
+        {
+            "id": "237272",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-5bb5dad704741.png",
+            "lang": "it",
+            "likes": "2"
+        },
+        {
+            "id": "169803",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-5823d9c62ea0b.png",
+            "lang": "pl",
+            "likes": "1"
+        },
+        {
+            "id": "388303",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-63de9c3b7b3fe.png",
+            "lang": "sv",
+            "likes": "1"
+        },
+        {
+            "id": "316152",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-5fcb16cc29b22.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "372697",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-62dbd88b65e6d.png",
+            "lang": "zh",
+            "likes": "0"
+        },
+        {
+            "id": "387806",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-63d7773f2dff2.png",
+            "lang": "cz",
+            "likes": "0"
+        },
+        {
+            "id": "434756",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-66d1a7d2544ad.png",
+            "lang": "he",
+            "likes": "0"
+        },
+        {
+            "id": "447668",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovielogo/the-lord-of-the-rings-the-return-of-the-king-67bdd75bdca64.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "hdmovieclearart": [
+        {
+            "id": "90102",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovieclearart/the-lord-of-the-rings-the-return-of-the-king-5478a48c18a96.png",
+            "lang": "en",
+            "likes": "20"
+        },
+        {
+            "id": "45972",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovieclearart/the-lord-of-the-rings-the-return-of-the-king-520d0211306e0.png",
+            "lang": "fr",
+            "likes": "4"
+        },
+        {
+            "id": "166810",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovieclearart/the-lord-of-the-rings-the-return-of-the-king-58011b53a791d.png",
+            "lang": "es",
+            "likes": "4"
+        },
+        {
+            "id": "316638",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovieclearart/the-lord-of-the-rings-the-return-of-the-king-5fd085d4abd34.png",
+            "lang": "ru",
+            "likes": "4"
+        },
+        {
+            "id": "45973",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovieclearart/the-lord-of-the-rings-the-return-of-the-king-520d023c59a74.png",
+            "lang": "fr",
+            "likes": "3"
+        },
+        {
+            "id": "46183",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovieclearart/the-lord-of-the-rings-the-return-of-the-king-520e7c950f684.png",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "46185",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovieclearart/the-lord-of-the-rings-the-return-of-the-king-520e7ca873ce1.png",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "388319",
+            "url": "https://assets.fanart.tv/fanart/movies/122/hdmovieclearart/the-lord-of-the-rings-the-return-of-the-king-63dea33bbf3dd.png",
+            "lang": "cz",
+            "likes": "0"
+        }
+    ],
+    "movieposter": [
+        {
+            "id": "50923",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5232c0d6d0b39.jpg",
+            "lang": "en",
+            "likes": "18"
+        },
+        {
+            "id": "49340",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-52254bd9810a4.jpg",
+            "lang": "en",
+            "likes": "16"
+        },
+        {
+            "id": "60801",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-52ca392e8f463.jpg",
+            "lang": "en",
+            "likes": "12"
+        },
+        {
+            "id": "66687",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-532010c949be3.jpg",
+            "lang": "en",
+            "likes": "7"
+        },
+        {
+            "id": "146303",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-56ff95c78fb03.jpg",
+            "lang": "00",
+            "likes": "7"
+        },
+        {
+            "id": "57431",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-528be83bd4789.jpg",
+            "lang": "en",
+            "likes": "6"
+        },
+        {
+            "id": "50925",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5232c0d7218c9.jpg",
+            "lang": "en",
+            "likes": "5"
+        },
+        {
+            "id": "192898",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5905a5211955e.jpg",
+            "lang": "00",
+            "likes": "5"
+        },
+        {
+            "id": "106153",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-553bac4b0bec1.jpg",
+            "lang": "es",
+            "likes": "4"
+        },
+        {
+            "id": "210220",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5a0faf1e02390.jpg",
+            "lang": "en",
+            "likes": "4"
+        },
+        {
+            "id": "274479",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5da9f00fdacd1.jpg",
+            "lang": "en",
+            "likes": "4"
+        },
+        {
+            "id": "316637",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5fd085b14bd95.jpg",
+            "lang": "ru",
+            "likes": "4"
+        },
+        {
+            "id": "50924",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5232c0d7210e8.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "63457",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-52ef4c2c3d678.jpg",
+            "lang": "00",
+            "likes": "3"
+        },
+        {
+            "id": "105935",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-553a6c7138df0.jpg",
+            "lang": "00",
+            "likes": "2"
+        },
+        {
+            "id": "237274",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5bb5dbf4dc809.jpg",
+            "lang": "it",
+            "likes": "2"
+        },
+        {
+            "id": "274484",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5da9f11eeb8ff.jpg",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "283375",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5e190379257e0.jpg",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "284819",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5e2c9ca45e7e0.jpeg",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "290671",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5e6925bd5214b.jpg",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "105936",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-553a6d2ccc439.jpg",
+            "lang": "de",
+            "likes": "1"
+        },
+        {
+            "id": "105937",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-553a6d47465cb.jpg",
+            "lang": "fr",
+            "likes": "1"
+        },
+        {
+            "id": "105938",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-553a6d8d4b154.jpg",
+            "lang": "hu",
+            "likes": "1"
+        },
+        {
+            "id": "128683",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5650c152d85b2.jpg",
+            "lang": "de",
+            "likes": "1"
+        },
+        {
+            "id": "128685",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5650c1d9d1c02.jpg",
+            "lang": "de",
+            "likes": "1"
+        },
+        {
+            "id": "169804",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5823d9d96448f.jpg",
+            "lang": "pl",
+            "likes": "1"
+        },
+        {
+            "id": "192897",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5905a50fb973d.jpg",
+            "lang": "fr",
+            "likes": "1"
+        },
+        {
+            "id": "264996",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5d33c56381793.jpg",
+            "lang": "pt",
+            "likes": "1"
+        },
+        {
+            "id": "278899",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-5ddc6909a56a7.jpg",
+            "lang": "pl",
+            "likes": "1"
+        },
+        {
+            "id": "333717",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-609f80d1df2be.jpg",
+            "lang": "es",
+            "likes": "1"
+        },
+        {
+            "id": "349149",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-616e80ca71eed.jpg",
+            "lang": "hu",
+            "likes": "1"
+        },
+        {
+            "id": "368228",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-62871f87632de.jpg",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "406960",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-6517fe091f04e.jpg",
+            "lang": "zh",
+            "likes": "1"
+        },
+        {
+            "id": "388318",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieposter/the-lord-of-the-rings-the-return-of-the-king-63dea323db9ec.jpg",
+            "lang": "cz",
+            "likes": "0"
+        }
+    ],
+    "moviedisc": [
+        {
+            "id": "29005",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-5156393c006c9.png",
+            "lang": "en",
+            "likes": "11",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "57422",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-528be09cdb30b.png",
+            "lang": "en",
+            "likes": "7",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "166811",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-58011bb764bad.png",
+            "lang": "es",
+            "likes": "7",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "20582",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-50e71a0e8b1be.png",
+            "lang": "en",
+            "likes": "6",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "32470",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-517ed048e4929.png",
+            "lang": "en",
+            "likes": "6",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "32510",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-two-towers-517ee86a177e6.png",
+            "lang": "en",
+            "likes": "6",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "166812",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-58011bc50f7a1.png",
+            "lang": "es",
+            "likes": "6",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "120",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-4eea2dd33d732.png",
+            "lang": "en",
+            "likes": "5",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "1304",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-4f71c60888e7d.png",
+            "lang": "es",
+            "likes": "5",
+            "disc": "1",
+            "disc_type": "dvd"
+        },
+        {
+            "id": "32473",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-517ed32084eb6.png",
+            "lang": "fr",
+            "likes": "5",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "90895",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-5483bb546f179.png",
+            "lang": "en",
+            "likes": "5",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "143595",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-56eb08f4e36f6.png",
+            "lang": "en",
+            "likes": "5",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "317501",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-5fdbb1d0677e7.png",
+            "lang": "es",
+            "likes": "5",
+            "disc": "1",
+            "disc_type": "uhd-bluray"
+        },
+        {
+            "id": "44407",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-520389b389672.png",
+            "lang": "de",
+            "likes": "4",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "57198",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-52894d8cb0b54.png",
+            "lang": "fr",
+            "likes": "4",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "57199",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-52894db40ecd0.png",
+            "lang": "de",
+            "likes": "4",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "316639",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-5fd0861be901c.png",
+            "lang": "ru",
+            "likes": "4",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "109",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-4eea1a79807cf.png",
+            "lang": "en",
+            "likes": "3",
+            "disc": "2",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "44918",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-5206b5f209af9.png",
+            "lang": "fr",
+            "likes": "3",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "121107",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-55f29a7dd3060.png",
+            "lang": "es",
+            "likes": "3",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "7346",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-500c6f7773e02.png",
+            "lang": "de",
+            "likes": "2",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "15985",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-5072d2a65002c.png",
+            "lang": "fr",
+            "likes": "2",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "15986",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-5072d2b4ae4a7.png",
+            "lang": "fr",
+            "likes": "2",
+            "disc": "1",
+            "disc_type": "dvd"
+        },
+        {
+            "id": "88882",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-54671be98cf56.png",
+            "lang": "de",
+            "likes": "2",
+            "disc": "2",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "99587",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-54f9dc3f6c057.png",
+            "lang": "de",
+            "likes": "2",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "370130",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-62aba3001bc47.png",
+            "lang": "en",
+            "likes": "1",
+            "disc": "1",
+            "disc_type": "dvd"
+        },
+        {
+            "id": "370131",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-62aba3100ce75.png",
+            "lang": "en",
+            "likes": "0",
+            "disc": "2",
+            "disc_type": "dvd"
+        },
+        {
+            "id": "370132",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-62aba31e54c12.png",
+            "lang": "en",
+            "likes": "0",
+            "disc": "3",
+            "disc_type": "dvd"
+        },
+        {
+            "id": "370133",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-62aba33535ec6.png",
+            "lang": "en",
+            "likes": "0",
+            "disc": "4",
+            "disc_type": "dvd"
+        },
+        {
+            "id": "388320",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-63dea368cb2f6.png",
+            "lang": "cz",
+            "likes": "0",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "388321",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviedisc/the-lord-of-the-rings-the-return-of-the-king-63dea37f57cb3.png",
+            "lang": "en",
+            "likes": "0",
+            "disc": "1",
+            "disc_type": "bluray"
+        }
+    ],
+    "movieart": [
+        {
+            "id": "1142",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieart/the-lord-of-the-rings-the-return-of-the-king-4f6c962d83fd3.png",
+            "lang": "en",
+            "likes": "8"
+        },
+        {
+            "id": "991",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieart/the-lord-of-the-rings-the-return-of-the-king-4f6a1e5d00e09.png",
+            "lang": "es",
+            "likes": "3"
+        },
+        {
+            "id": "1552",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movieart/the-lord-of-the-rings-the-return-of-the-king-4f772ec5a90ba.png",
+            "lang": "de",
+            "likes": "3"
+        }
+    ],
+    "moviebackground": [
+        {
+            "id": "23509",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebackground/the-lord-of-the-rings-the-return-of-the-king-51121045c2707.jpg",
+            "lang": "",
+            "likes": "8"
+        },
+        {
+            "id": "5304",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebackground/the-lord-of-the-rings-the-return-of-the-king-4fdb8d149c367.jpg",
+            "lang": "",
+            "likes": "6"
+        },
+        {
+            "id": "5306",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebackground/the-lord-of-the-rings-the-return-of-the-king-4fdb8d149d4e6.jpg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "130838",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebackground/the-lord-of-the-rings-the-return-of-the-king-566c35135629c.jpg",
+            "lang": "",
+            "likes": "3"
+        },
+        {
+            "id": "130839",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebackground/the-lord-of-the-rings-the-return-of-the-king-566c35282e9e6.jpg",
+            "lang": "",
+            "likes": "3"
+        },
+        {
+            "id": "302247",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebackground/the-lord-of-the-rings-the-return-of-the-king-5ef0c7dda3c2c.jpg",
+            "lang": "",
+            "likes": "1"
+        },
+        {
+            "id": "334704",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebackground/the-lord-of-the-rings-the-return-of-the-king-60aa7f1b082ef.jpg",
+            "lang": "",
+            "likes": "1"
+        }
+    ],
+    "moviebanner": [
+        {
+            "id": "91645",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-548f7dc944fae.jpg",
+            "lang": "en",
+            "likes": "7"
+        },
+        {
+            "id": "166813",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-58011bd3b1ded.jpg",
+            "lang": "es",
+            "likes": "3"
+        },
+        {
+            "id": "177028",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-58647b695c00d.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "302245",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-5ef0c69472258.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "45974",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-520d0348b55de.jpg",
+            "lang": "fr",
+            "likes": "2"
+        },
+        {
+            "id": "105941",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-553a746c9480c.jpg",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "40957",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-51d7ecaa909de.jpg",
+            "lang": "de",
+            "likes": "1"
+        },
+        {
+            "id": "46186",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-520e7cbc38f07.jpg",
+            "lang": "de",
+            "likes": "1"
+        },
+        {
+            "id": "105942",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviebanner/the-lord-of-the-rings-the-return-of-the-king-553a748028fe8.jpg",
+            "lang": "hu",
+            "likes": "1"
+        }
+    ],
+    "movielogo": [
+        {
+            "id": "1615",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movielogo/the-lord-of-the-rings-the-return-of-the-king-4f785665abc0f.png",
+            "lang": "en",
+            "likes": "6"
+        },
+        {
+            "id": "1469",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movielogo/the-lord-of-the-rings-the-return-of-the-king-4f76b9ee91bda.png",
+            "lang": "de",
+            "likes": "4"
+        },
+        {
+            "id": "1466",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movielogo/the-lord-of-the-rings-the-return-of-the-king-4f76b5f060773.png",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "5658",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movielogo/the-lord-of-the-rings-the-return-of-the-king-4fdf626651a81.png",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "5659",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movielogo/the-lord-of-the-rings-the-return-of-the-king-4fdf62745fea9.png",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "5660",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movielogo/the-lord-of-the-rings-the-return-of-the-king-4fdf62829cce2.png",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "6782",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movielogo/the-lord-of-the-rings-the-return-of-the-king-4ff9371b615a9.png",
+            "lang": "hu",
+            "likes": "1"
+        },
+        {
+            "id": "10235",
+            "url": "https://assets.fanart.tv/fanart/movies/122/movielogo/the-lord-of-the-rings-the-return-of-the-king-5036708d59b03.png",
+            "lang": "fr",
+            "likes": "1"
+        }
+    ],
+    "moviethumb": [
+        {
+            "id": "40959",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-51d7ecd176f6a.jpg",
+            "lang": "en",
+            "likes": "6"
+        },
+        {
+            "id": "105974",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-553a8db07a4d1.jpg",
+            "lang": "en",
+            "likes": "5"
+        },
+        {
+            "id": "68151",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-532efceb7d45e.jpg",
+            "lang": "en",
+            "likes": "4"
+        },
+        {
+            "id": "166819",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-58011db2025dc.jpg",
+            "lang": "es",
+            "likes": "3"
+        },
+        {
+            "id": "177029",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-58647b7a31220.jpg",
+            "lang": "en",
+            "likes": "3"
+        },
+        {
+            "id": "302246",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-5ef0c6bbbeda8.jpg",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "40958",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-51d7ecbed3f80.jpg",
+            "lang": "de",
+            "likes": "1"
+        },
+        {
+            "id": "45975",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-520d035bcfd3e.jpg",
+            "lang": "fr",
+            "likes": "1"
+        },
+        {
+            "id": "46191",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-520e842216783.jpg",
+            "lang": "de",
+            "likes": "1"
+        },
+        {
+            "id": "105981",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-553a925388aff.jpg",
+            "lang": "hu",
+            "likes": "1"
+        },
+        {
+            "id": "369030",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-62972294e2791.jpg",
+            "lang": "pl",
+            "likes": "0"
+        },
+        {
+            "id": "388322",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviethumb/the-lord-of-the-rings-the-return-of-the-king-63dea395eba75.jpg",
+            "lang": "cz",
+            "likes": "0"
+        }
+    ],
+    "moviesquare": [
+        {
+            "id": "452743",
+            "url": "https://assets.fanart.tv/fanart/movies/122/moviesquare/the-lord-of-the-rings-the-return-of-the-king-683c556c7aa29.jpg",
+            "lang": "en",
+            "likes": "2"
+        }
+    ]
+}

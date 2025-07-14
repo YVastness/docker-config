@@ -6,7 +6,7 @@
     {
       "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-07-14T02:54:58.185300+00:00","last_reported":"2025-07-14T02:54:58.185300+00:00","last_updated":"2025-07-14T02:54:58.185300+00:00","context":{"id":"01K03DPS49EE2V70J5ZD03YNNH","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.backup_automatic_backup","state":"unknown","attributes":{"event_types":["completed","failed","in_progress"],"event_type":null,"friendly_name":"Backup 自动备份"},"last_changed":"2025-07-14T02:54:58.256209+00:00","last_reported":"2025-07-14T02:54:58.256209+00:00","last_updated":"2025-07-14T02:54:58.256209+00:00","context":{"id":"01K03DPS6G0MC4TERQF44SEHMM","parent_id":null,"user_id":null}},
@@ -14,17 +14,17 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"person.yinhaoyu","state":"home","attributes":{"editable":true,"id":"yinhaoyu","device_trackers":["device_tracker.iphone","device_tracker.my_iphone"],"source":"device_tracker.my_iphone","user_id":"7af7934b12794a888602d25e4c4f21a1","friendly_name":"yinhaoyu"},"last_changed":"2025-07-14T02:54:58.782293+00:00","last_reported":"2025-07-14T03:22:28.403167+00:00","last_updated":"2025-07-14T03:22:28.403167+00:00","context":{"id":"01K03F94NK5617BXK0SGF3X7ZC","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"device_tracker.iphone","state":"home","attributes":{"source_type":"gps","battery_level":95,"latitude":36.85505761457371,"longitude":117.11658986563204,"gps_accuracy":10,"altitude":44.41653895060091,"vertical_accuracy":214,"friendly_name":"iPhone"},"last_changed":"2025-07-14T02:55:01.387754+00:00","last_reported":"2025-07-14T02:55:01.387754+00:00","last_updated":"2025-07-14T02:55:01.387754+00:00","context":{"id":"01K03DPW8BNY251ZVNBDZ3HZR1","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_battery_level","state":"95","attributes":{"unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-90","friendly_name":"iPhone Battery Level"},"last_changed":"2025-07-14T02:55:01.388858+00:00","last_reported":"2025-07-14T02:55:01.388858+00:00","last_updated":"2025-07-14T02:55:01.388858+00:00","context":{"id":"01K03DPW8CXGQCRXY04RXE1195","parent_id":null,"user_id":null}},
@@ -32,7 +32,7 @@
         "native_value": 95,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_sim_1","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone SIM 1"},"last_changed":"2025-07-14T02:55:01.389118+00:00","last_reported":"2025-07-14T02:55:01.389118+00:00","last_updated":"2025-07-14T02:55:01.389118+00:00","context":{"id":"01K03DPW8D9CD0A4JYJDSH5A2F","parent_id":null,"user_id":null}},
@@ -40,7 +40,7 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_sim_2","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone SIM 2"},"last_changed":"2025-07-14T02:55:01.389271+00:00","last_reported":"2025-07-14T02:55:01.389271+00:00","last_updated":"2025-07-14T02:55:01.389271+00:00","context":{"id":"01K03DPW8DFTEQ9417EYVN315D","parent_id":null,"user_id":null}},
@@ -48,7 +48,7 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_geocoded_location","state":"中国\n山东省\n济南市 济阳区\n河兴路与簸箕刘街交叉口西180米路北","attributes":{"Administrative Area":"山东省","Areas Of Interest":"N/A","Country":"中国","Inland Water":"N/A","ISO Country Code":"CN","Locality":"济南市","Location":[36.85562536583033,117.1227418500833],"Name":"济南先投雅遇公寓(起步区)","Ocean":"N/A","Postal Code":"N/A","Sub Administrative Area":"N/A","Sub Locality":"济阳区","Sub Thoroughfare":"N/A","Thoroughfare":"河兴路与簸箕刘街交叉口西180米路北","Time Zone":"Asia/Shanghai","Zones":["我的家"],"icon":"mdi:map","friendly_name":"iPhone Geocoded Location"},"last_changed":"2025-07-14T02:55:01.389469+00:00","last_reported":"2025-07-14T02:55:01.389469+00:00","last_updated":"2025-07-14T02:55:01.389469+00:00","context":{"id":"01K03DPW8DXYC5ZA63CJ671HNA","parent_id":null,"user_id":null}},
@@ -56,7 +56,7 @@
         "native_value": "中国\n山东省\n济南市 济阳区\n河兴路与簸箕刘街交叉口西180米路北",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_last_update_trigger","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone Last Update Trigger"},"last_changed":"2025-07-14T02:55:01.389629+00:00","last_reported":"2025-07-14T02:55:01.389629+00:00","last_updated":"2025-07-14T02:55:01.389629+00:00","context":{"id":"01K03DPW8D01ZTT2HN6XKCES6E","parent_id":null,"user_id":null}},
@@ -64,7 +64,7 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_app_version","state":"2025.6","attributes":{"icon":"mdi:cellphone","friendly_name":"iPhone App Version"},"last_changed":"2025-07-14T02:55:01.389806+00:00","last_reported":"2025-07-14T02:55:01.389806+00:00","last_updated":"2025-07-14T02:55:01.389806+00:00","context":{"id":"01K03DPW8D364Y21F8V0PM8K26","parent_id":null,"user_id":null}},
@@ -72,7 +72,7 @@
         "native_value": "2025.6",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_location_permission","state":"Authorized Always","attributes":{"icon":"mdi:map","friendly_name":"iPhone Location permission"},"last_changed":"2025-07-14T02:55:01.389968+00:00","last_reported":"2025-07-14T02:55:01.389968+00:00","last_updated":"2025-07-14T02:55:01.389968+00:00","context":{"id":"01K03DPW8D1MKHM9GFWA3FKCJN","parent_id":null,"user_id":null}},
@@ -80,7 +80,7 @@
         "native_value": "Authorized Always",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_audio_output","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone Audio Output"},"last_changed":"2025-07-14T02:55:01.390117+00:00","last_reported":"2025-07-14T02:55:01.390117+00:00","last_updated":"2025-07-14T02:55:01.390117+00:00","context":{"id":"01K03DPW8ER9V1WH6GNETBP0E6","parent_id":null,"user_id":null}},
@@ -88,7 +88,7 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_battery_state","state":"Not Charging","attributes":{"Low Power Mode":false,"icon":"mdi:battery-90","friendly_name":"iPhone Battery State"},"last_changed":"2025-07-14T02:55:01.390260+00:00","last_reported":"2025-07-14T02:55:01.390260+00:00","last_updated":"2025-07-14T02:55:01.390260+00:00","context":{"id":"01K03DPW8ERHG314X51ENT0VEE","parent_id":null,"user_id":null}},
@@ -96,7 +96,7 @@
         "native_value": "Not Charging",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_storage","state":"unavailable","attributes":{"unit_of_measurement":"% available","icon":"mdi:dots-square","friendly_name":"iPhone Storage"},"last_changed":"2025-07-14T02:55:01.390403+00:00","last_reported":"2025-07-14T02:55:01.390403+00:00","last_updated":"2025-07-14T02:55:01.390403+00:00","context":{"id":"01K03DPW8EBZC1JQDSPDAH9SJJ","parent_id":null,"user_id":null}},
@@ -104,7 +104,7 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": "% available"
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_connection_type","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone Connection Type"},"last_changed":"2025-07-14T02:55:01.390538+00:00","last_reported":"2025-07-14T02:55:01.390538+00:00","last_updated":"2025-07-14T02:55:01.390538+00:00","context":{"id":"01K03DPW8E2DEWCM1EED08FW7X","parent_id":null,"user_id":null}},
@@ -112,7 +112,7 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_bssid","state":"90:fb:5d:7a:18:ea","attributes":{"icon":"mdi:wifi-star","friendly_name":"iPhone BSSID"},"last_changed":"2025-07-14T02:55:01.390699+00:00","last_reported":"2025-07-14T02:55:01.390699+00:00","last_updated":"2025-07-14T02:55:01.390699+00:00","context":{"id":"01K03DPW8EAEYSPQPPKAC04551","parent_id":null,"user_id":null}},
@@ -120,7 +120,7 @@
         "native_value": "90:fb:5d:7a:18:ea",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"sensor.iphone_ssid","state":"Xiaomi_09FB","attributes":{"icon":"mdi:wifi","friendly_name":"iPhone SSID"},"last_changed":"2025-07-14T02:55:01.390890+00:00","last_reported":"2025-07-14T02:55:01.390890+00:00","last_updated":"2025-07-14T02:55:01.390890+00:00","context":{"id":"01K03DPW8EM4NHDCQS98J4DH9G","parent_id":null,"user_id":null}},
@@ -128,52 +128,52 @@
         "native_value": "Xiaomi_09FB",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"update.iphone_device_tracker_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.4.1","in_progress":false,"latest_version":"2.4.1","release_summary":null,"release_url":"https://github.com/mudape/iphonedetect/releases/2.4.1","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/iphonedetect/icon.png","friendly_name":"iPhone Device Tracker update","supported_features":23},"last_changed":"2025-07-14T02:55:01.447664+00:00","last_reported":"2025-07-14T02:55:01.447664+00:00","last_updated":"2025-07-14T02:55:01.447664+00:00","context":{"id":"01K03DPWA7B3D7KWKPJMJ8VT7K","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"update.midea_ac_lan_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.6.8","in_progress":false,"latest_version":"v0.6.8","release_summary":null,"release_url":"https://github.com/wuwentao/midea_ac_lan/releases/v0.6.8","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/midea_ac_lan/icon.png","friendly_name":"Midea AC LAN update","supported_features":23},"last_changed":"2025-07-14T02:55:01.447881+00:00","last_reported":"2025-07-14T02:55:01.447881+00:00","last_updated":"2025-07-14T02:55:01.447881+00:00","context":{"id":"01K03DPWA7G2FJK0FT91XE5333","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"update.hacs_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.0.5","in_progress":false,"latest_version":"2.0.5","release_summary":null,"release_url":"https://github.com/hacs/integration/releases/2.0.5","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/hacs/icon.png","friendly_name":"HACS update","supported_features":23},"last_changed":"2025-07-14T02:55:01.448058+00:00","last_reported":"2025-07-14T02:55:01.448058+00:00","last_updated":"2025-07-14T02:55:01.448058+00:00","context":{"id":"01K03DPWA8FZDVAKV02H1T8DNE","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"update.xiaomi_home_update","state":"on","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.3.3","in_progress":false,"latest_version":"v0.3.4","release_summary":null,"release_url":"https://github.com/XiaoMi/ha_xiaomi_home/releases/v0.3.4","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/xiaomi_home/icon.png","friendly_name":"Xiaomi Home update","supported_features":23},"last_changed":"2025-07-14T02:55:01.448386+00:00","last_reported":"2025-07-14T02:55:01.448386+00:00","last_updated":"2025-07-14T02:55:01.448386+00:00","context":{"id":"01K03DPWA8J7F8Y2PPDKCNN5FM","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2025-07-14T02:55:01.454654+00:00","last_reported":"2025-07-14T02:55:01.454654+00:00","last_updated":"2025-07-14T02:55:01.454654+00:00","context":{"id":"01K03DPWAEAJQ9RA47ZRT2EZK0","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
-      "state": {"entity_id":"automation.huan_qi","state":"on","attributes":{"id":"1751304824134","last_triggered":"2025-07-14T03:40:00.136877+00:00","mode":"single","current":0,"friendly_name":"换气"},"last_changed":"2025-07-14T02:55:01.516233+00:00","last_reported":"2025-07-14T03:40:00.446649+00:00","last_updated":"2025-07-14T03:40:00.446649+00:00","context":{"id":"01K03G97R8RHN1ATN5A78DC39G","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"automation.huan_qi","state":"on","attributes":{"id":"1751304824134","last_triggered":"2025-07-14T07:10:00.134717+00:00","mode":"single","current":0,"friendly_name":"换气"},"last_changed":"2025-07-14T02:55:01.516233+00:00","last_reported":"2025-07-14T07:10:00.614235+00:00","last_updated":"2025-07-14T07:10:00.614235+00:00","context":{"id":"01K03W9RE68W5FMBSWJPRTF296","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"button.lumi_cn_766758622_acn048_toggle_a_5_1","state":"unavailable","attributes":{"friendly_name":"门厅灯  按键 1 开关状态切换"},"last_changed":"2025-07-14T02:55:06.564839+00:00","last_reported":"2025-07-14T02:55:06.564839+00:00","last_updated":"2025-07-14T02:55:06.564839+00:00","context":{"id":"01K03DQ1A41W9HKKDYDGV7J5A9","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"button.lxzn_cn_859682990_ben_stop_working_a_3_1","state":"unknown","attributes":{"friendly_name":"浴霸  浴霸风暖 停止工作"},"last_changed":"2025-07-14T02:55:14.709996+00:00","last_reported":"2025-07-14T02:55:14.709996+00:00","last_updated":"2025-07-14T02:55:14.709996+00:00","context":{"id":"01K03DQ98NK92328CQ49JRQYGM","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"button.cuco_cn_944016393_v3_toggle_a_2_1","state":"unknown","attributes":{"friendly_name":"电竞桌插座  开关 开关状态切换"},"last_changed":"2025-07-14T02:55:06.901299+00:00","last_reported":"2025-07-14T02:55:06.901299+00:00","last_updated":"2025-07-14T02:55:06.901299+00:00","context":{"id":"01K03DQ1MN8HT8KK6D7P0M56JN","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.zimi_cn_1111104566_v2_low_power_e_3_1","state":"unavailable","attributes":{"event_types":["电池电量低"],"friendly_name":"驱蚊器 * battery 电池电量低"},"last_changed":"2025-07-14T02:55:06.567981+00:00","last_reported":"2025-07-14T02:55:06.567981+00:00","last_updated":"2025-07-14T02:55:06.567981+00:00","context":{"id":"01K03DQ1A71QE7P9TXYTPSR9XC","parent_id":null,"user_id":null}},
@@ -181,7 +181,7 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.zimi_cn_1111104566_v2_low_e_7_1","state":"unavailable","attributes":{"event_types":["蚊香片耗尽"],"friendly_name":"驱蚊器 * 蚊香片耗尽 蚊香片耗尽"},"last_changed":"2025-07-14T02:55:06.568213+00:00","last_reported":"2025-07-14T02:55:06.568213+00:00","last_updated":"2025-07-14T02:55:06.568213+00:00","context":{"id":"01K03DQ1A85GWC6RS7EEHX0Q1N","parent_id":null,"user_id":null}},
@@ -189,7 +189,7 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.zimi_cn_1111104566_v2_power_on_alarm_e_10_1","state":"unavailable","attributes":{"event_types":["供电异常"],"friendly_name":"驱蚊器 * 重启次数异常警报 供电异常"},"last_changed":"2025-07-14T02:55:06.568397+00:00","last_reported":"2025-07-14T02:55:06.568397+00:00","last_updated":"2025-07-14T02:55:06.568397+00:00","context":{"id":"01K03DQ1A8QA02W1AT72M08194","parent_id":null,"user_id":null}},
@@ -197,7 +197,7 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.xiaomi_cn_1136232902_xw002_auto_light_e_4_1","state":"unavailable","attributes":{"event_types":["感应夜灯"],"friendly_name":"香氛机 * 其他设置 感应夜灯"},"last_changed":"2025-07-14T02:55:06.568583+00:00","last_reported":"2025-07-14T02:55:06.568583+00:00","last_updated":"2025-07-14T02:55:06.568583+00:00","context":{"id":"01K03DQ1A88VV3G5W276Q1424J","parent_id":null,"user_id":null}},
@@ -205,7 +205,7 @@
         "last_event_type": "感应夜灯",
         "last_event_attributes": {}
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.xiaomi_cn_1136232902_xw002_auto_fragrance_e_4_2","state":"unavailable","attributes":{"event_types":["人来增香"],"friendly_name":"香氛机 * 其他设置 人来增香"},"last_changed":"2025-07-14T02:55:06.568768+00:00","last_reported":"2025-07-14T02:55:06.568768+00:00","last_updated":"2025-07-14T02:55:06.568768+00:00","context":{"id":"01K03DQ1A889KPJ6Z9QS94XRFS","parent_id":null,"user_id":null}},
@@ -213,7 +213,7 @@
         "last_event_type": "人来增香",
         "last_event_attributes": {}
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.xiaomi_cn_1136232902_xw002_someone_move_e_4_3","state":"unavailable","attributes":{"event_types":["有人移动"],"friendly_name":"香氛机 * 其他设置 有人移动"},"last_changed":"2025-07-14T02:55:06.568940+00:00","last_reported":"2025-07-14T02:55:06.568940+00:00","last_updated":"2025-07-14T02:55:06.568940+00:00","context":{"id":"01K03DQ1A883QW997NZ5FDPC3V","parent_id":null,"user_id":null}},
@@ -221,7 +221,7 @@
         "last_event_type": "有人移动",
         "last_event_attributes": {}
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.xiaomi_cn_1136232902_xw002_nobody_move_e_4_4","state":"unavailable","attributes":{"event_types":["15秒后无人移动"],"friendly_name":"香氛机 * 其他设置 15秒后无人移动"},"last_changed":"2025-07-14T02:55:06.569112+00:00","last_reported":"2025-07-14T02:55:06.569112+00:00","last_updated":"2025-07-14T02:55:06.569112+00:00","context":{"id":"01K03DQ1A9J86W8N66AY1GJ52Z","parent_id":null,"user_id":null}},
@@ -229,7 +229,7 @@
         "last_event_type": "15秒后无人移动",
         "last_event_attributes": {}
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.lumi_cn_710335911_acn05_event_unbind_e_7_1","state":"unknown","attributes":{"event_types":["网关防误删功能开启后,本地按键长按10s上报该事件"],"event_type":null,"friendly_name":"空调伴侣 * 网关防误删功能 网关防误删功能开启后,本地按键长按10s上报该事件"},"last_changed":"2025-07-14T02:55:16.008636+00:00","last_reported":"2025-07-14T02:55:16.008636+00:00","last_updated":"2025-07-14T02:55:16.008636+00:00","context":{"id":"01K03DQAH8BS75X4MA1F6Q8CSD","parent_id":null,"user_id":null}},
@@ -237,7 +237,7 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.lumi_cn_710335911_acn05_eco_mode_prompt_e_11_1","state":"unknown","attributes":{"event_types":["节能模式提示"],"event_type":null,"friendly_name":"空调伴侣 * 自定义空调功能 节能模式提示"},"last_changed":"2025-07-14T02:55:16.008836+00:00","last_reported":"2025-07-14T02:55:16.008836+00:00","last_updated":"2025-07-14T02:55:16.008836+00:00","context":{"id":"01K03DQAH82SE4HPZVF8WA3822","parent_id":null,"user_id":null}},
@@ -245,7 +245,7 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.lumi_cn_761947090_acn048_click_e_6_1","state":"unavailable","attributes":{"event_types":["单击"],"device_class":"button","friendly_name":"客厅灯  开关传感器1 单击"},"last_changed":"2025-07-14T02:55:06.569630+00:00","last_reported":"2025-07-14T02:55:06.569630+00:00","last_updated":"2025-07-14T02:55:06.569630+00:00","context":{"id":"01K03DQ1A9XXWCNQ1EW63KZJQ7","parent_id":null,"user_id":null}},
@@ -253,7 +253,7 @@
         "last_event_type": "单击",
         "last_event_attributes": {}
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.lumi_cn_766758622_acn048_click_e_6_1","state":"unavailable","attributes":{"event_types":["单击"],"device_class":"button","friendly_name":"门厅灯  开关传感器1 单击"},"last_changed":"2025-07-14T02:55:06.569793+00:00","last_reported":"2025-07-14T02:55:06.569793+00:00","last_updated":"2025-07-14T02:55:06.569793+00:00","context":{"id":"01K03DQ1A92K2R6PHPDDJWJEKY","parent_id":null,"user_id":null}},
@@ -261,7 +261,7 @@
         "last_event_type": "单击",
         "last_event_attributes": {}
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.lumi_cn_770345566_acn001_door_not_closed_e_2_1","state":"unavailable","attributes":{"event_types":["一分钟门未关"],"friendly_name":"门  门窗传感器 一分钟门未关"},"last_changed":"2025-07-14T02:55:06.569954+00:00","last_reported":"2025-07-14T02:55:06.569954+00:00","last_updated":"2025-07-14T02:55:06.569954+00:00","context":{"id":"01K03DQ1A9BQ4QQA52Y0GHK1B0","parent_id":null,"user_id":null}},
@@ -269,7 +269,7 @@
         "last_event_type": "一分钟门未关",
         "last_event_attributes": {}
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.lumi_cn_770346666_acn001_door_not_closed_e_2_1","state":"unavailable","attributes":{"event_types":["一分钟门未关"],"friendly_name":"窗户  门窗传感器 一分钟门未关"},"last_changed":"2025-07-14T02:55:06.570113+00:00","last_reported":"2025-07-14T02:55:06.570113+00:00","last_updated":"2025-07-14T02:55:06.570113+00:00","context":{"id":"01K03DQ1AA21X11X82JFR1S7C8","parent_id":null,"user_id":null}},
@@ -277,27 +277,27 @@
         "last_event_type": "一分钟门未关",
         "last_event_attributes": {}
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
-      "state": {"entity_id":"event.xiaomi_cn_935098319_rn01_device_connect_e_2_1","state":"2025-07-14T03:22:12.571+00:00","attributes":{"event_types":["设备接入"],"event_type":"设备接入","接入设备列表":"B6:84:44:39:DD:53","friendly_name":"小米路由器  路由器 设备接入"},"last_changed":"2025-07-14T03:22:12.572068+00:00","last_reported":"2025-07-14T03:22:12.572068+00:00","last_updated":"2025-07-14T03:22:12.572068+00:00","context":{"id":"01K03F8N6WMYPRJ51MM9R1YS1G","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"event.xiaomi_cn_935098319_rn01_device_connect_e_2_1","state":"2025-07-14T03:56:11.179+00:00","attributes":{"event_types":["设备接入"],"event_type":"设备接入","接入设备列表":"86:88:BC:41:F8:5B","friendly_name":"小米路由器  路由器 设备接入"},"last_changed":"2025-07-14T03:56:11.179382+00:00","last_reported":"2025-07-14T03:56:11.179382+00:00","last_updated":"2025-07-14T03:56:11.179382+00:00","context":{"id":"01K03H6W1BZKJATFGBZPYXV5SG","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": "设备接入",
-        "last_event_attributes": {
-          "接入设备列表": "B6:84:44:39:DD:53"
-        }
-      },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
-    },
-    {
-      "state": {"entity_id":"event.xiaomi_cn_935098319_rn01_device_disconnect_e_2_2","state":"2025-07-14T03:22:13.065+00:00","attributes":{"event_types":["设备断开"],"event_type":"设备断开","接入设备列表":"86:88:BC:41:F8:5B","friendly_name":"小米路由器  路由器 设备断开"},"last_changed":"2025-07-14T03:22:13.066135+00:00","last_reported":"2025-07-14T03:22:13.066135+00:00","last_updated":"2025-07-14T03:22:13.066135+00:00","context":{"id":"01K03F8NPAFJ5PZ5B31GP9YHY4","parent_id":null,"user_id":null}},
-      "extra_data": {
-        "last_event_type": "设备断开",
         "last_event_attributes": {
           "接入设备列表": "86:88:BC:41:F8:5B"
         }
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
+    },
+    {
+      "state": {"entity_id":"event.xiaomi_cn_935098319_rn01_device_disconnect_e_2_2","state":"2025-07-14T05:40:22.624+00:00","attributes":{"event_types":["设备断开"],"event_type":"设备断开","接入设备列表":"B6:84:44:39:DD:53","friendly_name":"小米路由器  路由器 设备断开"},"last_changed":"2025-07-14T05:40:22.624679+00:00","last_reported":"2025-07-14T05:40:22.624679+00:00","last_updated":"2025-07-14T05:40:22.624679+00:00","context":{"id":"01K03Q5MZ0M1C18WCMCMC9QK81","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": "设备断开",
+        "last_event_attributes": {
+          "接入设备列表": "B6:84:44:39:DD:53"
+        }
+      },
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.xiaomi_cn_935098319_rn01_device_long_time_inactive_e_2_3","state":"unknown","attributes":{"event_types":["设备长时间无活动"],"event_type":null,"friendly_name":"小米路由器  路由器 设备长时间无活动"},"last_changed":"2025-07-14T02:55:20.718229+00:00","last_reported":"2025-07-14T02:55:20.718229+00:00","last_updated":"2025-07-14T02:55:20.718229+00:00","context":{"id":"01K03DQF4EQBFPYD4QDV04ZP7J","parent_id":null,"user_id":null}},
@@ -305,7 +305,7 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.cuco_cn_944016393_v3_open_event_e_8_1","state":"unknown","attributes":{"event_types":["快捷倒计时开启通知"],"event_type":null,"friendly_name":"电竞桌插座 * 快捷倒计时关闭 快捷倒计时开启通知"},"last_changed":"2025-07-14T02:55:06.901367+00:00","last_reported":"2025-07-14T02:55:06.901367+00:00","last_updated":"2025-07-14T02:55:06.901367+00:00","context":{"id":"01K03DQ1MNKRQ6J4GH9FW2B6G1","parent_id":null,"user_id":null}},
@@ -313,7 +313,7 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.cuco_cn_944016393_v3_over_day_push_e_10_1","state":"unknown","attributes":{"event_types":["过度用电（日）推送事件"],"event_type":null,"friendly_name":"电竞桌插座 * 过度用电提醒 过度用电（日）推送事件"},"last_changed":"2025-07-14T02:55:06.901410+00:00","last_reported":"2025-07-14T02:55:06.901410+00:00","last_updated":"2025-07-14T02:55:06.901410+00:00","context":{"id":"01K03DQ1MN383CSB6S6TC52YQH","parent_id":null,"user_id":null}},
@@ -321,7 +321,7 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"event.cuco_cn_944016393_v3_over_month_push_e_10_2","state":"unknown","attributes":{"event_types":["过度用电（月）推送事件"],"event_type":null,"friendly_name":"电竞桌插座 * 过度用电提醒 过度用电（月）推送事件"},"last_changed":"2025-07-14T02:55:06.901439+00:00","last_reported":"2025-07-14T02:55:06.901439+00:00","last_updated":"2025-07-14T02:55:06.901439+00:00","context":{"id":"01K03DQ1MNZBKWFEYK8VQWJBPJ","parent_id":null,"user_id":null}},
@@ -329,22 +329,22 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"notify.yeelink_cn_685622330_lamp22_delay_off_a_3_2","state":"unknown","attributes":{"action params":"[延时时间(int)]","friendly_name":"屏幕挂灯 * yeelight自定义功能 开灯并延时关灯","supported_features":0},"last_changed":"2025-07-14T02:55:06.900890+00:00","last_reported":"2025-07-14T02:55:06.900890+00:00","last_updated":"2025-07-14T02:55:06.900890+00:00","context":{"id":"01K03DQ1MM2E448KV2XY3N7FJ7","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"notify.yeelink_cn_685622330_lamp22_long_press_ids_set_a_3_13","state":"unknown","attributes":{"action params":"[设置长按启动场景对应的id(0：清除；1~4：我的模式；5~10：情景模式)(int), 设置长按启动场景对应的id(0：清除；1~4：我的模式；5~10：情景模式)(int), 设置长按启动场景对应的id(0：清除；1~4：我的模式；5~10：情景模式)(int)]","friendly_name":"屏幕挂灯 * yeelight自定义功能 设置用户长按键启动的情景","supported_features":0},"last_changed":"2025-07-14T02:55:06.901004+00:00","last_reported":"2025-07-14T02:55:06.901004+00:00","last_updated":"2025-07-14T02:55:06.901004+00:00","context":{"id":"01K03DQ1MN6TGJ17V8PF8ZJZQ9","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     },
     {
       "state": {"entity_id":"notify.yeelink_cn_685622330_lamp22_apply_scene_a_3_15","state":"unknown","attributes":{"action params":"[切换灯上的模式(int)]","friendly_name":"屏幕挂灯 * yeelight自定义功能 应用指定情景或者灯光效果","supported_features":0},"last_changed":"2025-07-14T02:55:06.901041+00:00","last_reported":"2025-07-14T02:55:06.901041+00:00","last_updated":"2025-07-14T02:55:06.901041+00:00","context":{"id":"01K03DQ1MNSW1NZFRDZ05EA3K3","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-07-14T03:40:18.533600+00:00"
+      "last_seen": "2025-07-14T07:10:18.558853+00:00"
     }
   ]
 }
