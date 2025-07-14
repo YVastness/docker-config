@@ -1,0 +1,158 @@
+2025-07-14 14:07:56.989
+Operating System: Linux version 6.6.86 (buildbot@buildbot.infra.immortalwrt.org) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 r33048-cc720ea55a71) 13.3.0, GNU ld
+OS/Process: x64/x64
+Emby Server version: 4.8.11.0
+Operating system: Unix 6.6.86.0
+Command Line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+
+App: Emby Web 4.8.11.0
+Chrome macOS
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+
+http://192.168.2.1:8096/emby/videos/2843/main.m3u8?DeviceId=e4151f37-70bf-44b7-840e-bcbbb995ae87&MediaSourceId=a414b184e6927fcfe02cce2c844db9ac&PlaySessionId=9b443991aba047e394cff6e193ca71f7&api_key=‌dce67f1d47ab4f009faafebd0d2ec11a‌&VideoCodec=h264,hevc,av1&AudioCodec=mp3,aac&VideoBitrate=199616000&AudioBitrate=384000&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&hevc-codectag=hvc1,hev1,hevc,hdmv&TranscodeReasons=AudioCodecNotSupported
+
+http://192.168.2.1:8096/emby/videos/2843/hls1/main/110.ts?PlaySessionId=9b443991aba047e394cff6e193ca71f7
+
+{"Protocol":"File","Id":"a414b184e6927fcfe02cce2c844db9ac","Path":"smb://192.168.2.1/HDD/Videos/Movies/黑客帝国 (1999)/黑客帝国 (1999) 2160p TrueHD Atmos.mkv","Type":"Default","Container":"mkv","Size":68202828466,"Name":"2160p TrueHD Atmos","IsRemote":false,"HasMixedProtocols":false,"RunTimeTicks":81786990000,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"RequiresOpening":false,"RequiresClosing":false,"RequiresLooping":false,"SupportsProbing":false,"MediaStreams":[{"Codec":"hevc","Language":"eng","ColorTransfer":"smpte2084","ColorPrimaries":"bt2020","ColorSpace":"bt2020nc","TimeBase":"1/1000","VideoRange":"DolbyVision","DisplayTitle":"4K Dolby Vision HEVC","DisplayLanguage":"English","IsInterlaced":false,"BitRate":66712643,"BitDepth":10,"RefFrames":1,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":2160,"Width":3840,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"Profile":"Main 10","Type":"Video","AspectRatio":"16:9","Index":0,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","PixelFormat":"yuv420p10le","Level":153,"IsAnamorphic":false,"ExtendedVideoType":"DolbyVision","ExtendedVideoSubType":"DoviProfile76","ExtendedVideoSubTypeDescription":"Profile 7.6 (Bluray)","AttachmentSize":0},{"Codec":"truehd","Language":"eng","TimeBase":"1/1000","Title":"TrueHD Atmos 7.1","DisplayTitle":"English TRUEHD 7.1 (默认)","DisplayLanguage":"English","IsInterlaced":false,"ChannelLayout":"7.1","BitDepth":24,"Channels":8,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Type":"Audio","Index":1,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"dts","Language":"eng","TimeBase":"1/1000","Title":"DTS-HD MA 7.1","DisplayTitle":"English DTS-HD MA 7.1","DisplayLanguage":"English","IsInterlaced":false,"ChannelLayout":"7.1","BitDepth":24,"Channels":8,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Profile":"DTS-HD MA","Type":"Audio","Index":2,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"dts","Language":"chi","TimeBase":"1/1000","Title":"国语 DTS-X 7.1","DisplayTitle":"Chinese Simplified DTS-HD MA 7.1","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"ChannelLayout":"7.1","BitDepth":24,"Channels":8,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Profile":"DTS-HD MA","Type":"Audio","Index":3,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"truehd","Language":"chi","TimeBase":"1/1000","Title":"国语 TrueHD 5.1","DisplayTitle":"Chinese Simplified TRUEHD 5.1","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"ChannelLayout":"5.1","BitDepth":24,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Audio","Index":4,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"ass","Language":"chi","TimeBase":"1/1000","Title":"简英","DisplayTitle":"Chinese Simplified (默认 ASS)","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":5,"IsExternal":false,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"PGSSUB","Language":"chi","TimeBase":"1/1000","Title":"国语 简体","DisplayTitle":"Chinese Simplified (PGSSUB)","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":6,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"mjpeg","ColorSpace":"bt470bg","TimeBase":"1/90000","IsInterlaced":false,"BitDepth":8,"RefFrames":1,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":254,"Width":254,"RealFrameRate":90000,"Profile":"Progressive","Type":"EmbeddedImage","AspectRatio":"1:1","Index":7,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","PixelFormat":"yuvj420p","Level":-99,"IsAnamorphic":false,"ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0}],"Formats":[],"Bitrate":66712643,"RequiredHttpHeaders":{},"AddApiKeyToDirectStreamUrl":false,"ReadAtNativeFramerate":false,"ItemId":"2843"}
+
+>>>>>>  User policy for yinhaoyu
+        Enable Playback Remuxing: True
+        Enable Video Playback Transcoding: True
+        Enable Audio Playback Transcoding: True
+
+
+>>>>>>  Processing Plan
+        Name                                        CanDoInHW  WillDoInHW  Reason                                                 
+        Copy video stream                        >> False      False       Software Codec                                          
+        VideoInput                               >> False      False       Not a hardware decoder                                  
+        VideoOutput                              >> False      False       Not a hardware encoder                                  
+        Copy video stream                        >> False      False       Software Codec                                          
+
+>>>>>>  Video Processing Steps for [0:0]: H.265 (HEVC)
+        Step                    HW-Context   Format       SW-Format           Size   Next
+        HEVC                 >> -            yuv420p10    yuv420p10      3840x2160 >> 
+
+/bin/ffmpeg -loglevel +timing -y -print_graphs_file "/config/logs/ffmpeg-remux-2bbf5c77-08a7-4903-8c99-6a3aa6cede1f_1graph.txt" -copyts -start_at_zero -f matroska,webm -ss 00:11:00.000 -noaccurate_seek -c:v:0 hevc -noautorotate -c:v:1 mjpeg -i "http://127.0.0.1:8096/Items/File?Id=smb%3A%2F%2F192.168.2.1%2FHDD%2FVideos%2FMovies%2F%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD+(1999)%2F%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD+(1999)+2160p+TrueHD+Atmos.mkv" -map 0:0 -map 0:1 -sn -c:v:0 copy -bsf:v:0 hevc_mp4toannexb -c:a:0 libmp3lame -ab:a:0 192000 -ac:a:0 2 -metadata:s:a:0 language=eng -filter:a:0 "volume=2" -disposition:a:0 default -max_delay 5000000 -avoid_negative_ts disabled -f segment -map_metadata -1 -map_chapters -1 -segment_format mpegts -segment_list "/config/transcoding-temp/D729E7/D729E7.m3u8" -segment_list_type m3u8 -segment_time 00:00:06.000 -segment_time_delta -00:11:00.000 -segment_start_number 110 -break_non_keyframes 1 -individual_header_trailer 0 -write_header_trailer 0 -segment_write_temp 1 "/config/transcoding-temp/D729E7/D729E7_%d.ts"
+
+14:07:56.995 ffmpeg version 5.1-emby_2023_06_25 Copyright (c) 2000-2022 the FFmpeg developers and softworkz for Emby LLC
+14:07:56.995   built with gcc 10.3.0 (crosstool-NG 1.25.0)
+14:07:56.995 Execution Date: 2025-07-14 14:07:56
+14:07:58.047 [matroska,webm @ 0x2c622240] Stream #7: not enough frames to estimate rate; consider increasing probesize
+14:07:58.047 [matroska,webm @ 0x2c622240] Could not find codec parameters for stream 6 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+14:07:59.023 Input #0, matroska,webm, from 'http://127.0.0.1:8096/Items/File?Id=smb%3A%2F%2F192.168.2.1%2FHDD%2FVideos%2FMovies%2F%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD+(1999)%2F%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD+(1999)+2160p+TrueHD+Atmos.mkv':
+14:07:59.023   Metadata:
+14:07:59.023     title           : The.Matrix.1999.2160p.BluRay.REMUX.HEVC.DV.HDR.DTS-X.7.1.TrueHD.7.1.Atmos-老K
+14:07:59.023     encoder         : libebml v1.4.2 + libmatroska v1.6.4
+14:07:59.023     creation_time   : 2024-04-10T03:50:33.000000Z
+14:07:59.023   Duration: 02:16:18.70, start: 0.000000, bitrate: 66712 kb/s
+14:07:59.023   Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2160 [SAR 1:1 DAR 16:9], Level 153, 23.98 fps, 23.98 tbr, 1k tbn
+14:07:59.023     Metadata:
+14:07:59.023       BPS             : 48909687
+14:07:59.023       DURATION        : 02:16:18.671000000
+14:07:59.024       NUMBER_OF_FRAMES: 196092
+14:07:59.024       NUMBER_OF_BYTES : 50002029968
+14:07:59.024       SOURCE_ID       : 001011
+14:07:59.024     Side data:
+14:07:59.024       DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+14:07:59.024   Stream #0:1(eng): Audio: truehd, 48000 Hz, 7.1, s32 (24 bit) (default)
+14:07:59.024     Metadata:
+14:07:59.024       title           : TrueHD Atmos 7.1
+14:07:59.024       BPS             : 4419605
+14:07:59.024       DURATION        : 02:16:18.671000000
+14:07:59.024       NUMBER_OF_FRAMES: 9814405
+14:07:59.024       NUMBER_OF_BYTES : 4518312588
+14:07:59.024       SOURCE_ID       : 001100
+14:07:59.024   Stream #0:2(eng): Audio: dts (DTS-HD MA), 48000 Hz, 7.1, s32p (24 bit)
+14:07:59.024     Metadata:
+14:07:59.024       title           : DTS-HD MA 7.1
+14:07:59.024       BPS             : 3746294
+14:07:59.024       DURATION        : 02:16:18.699000000
+14:07:59.024       NUMBER_OF_FRAMES: 766753
+14:07:59.024       NUMBER_OF_BYTES : 3829977276
+14:07:59.024   Stream #0:3(chi): Audio: dts (DTS-HD MA), 48000 Hz, 7.1, s32p (24 bit)
+14:07:59.024     Metadata:
+14:07:59.024       title           : 国语 DTS-X 7.1
+14:07:59.024       BPS             : 7862173
+14:07:59.024       DURATION        : 02:16:18.678000000
+14:07:59.024       NUMBER_OF_FRAMES: 766751
+14:07:59.024       NUMBER_OF_BYTES : 8037772980
+14:07:59.024       SOURCE_ID       : 001105
+14:07:59.024   Stream #0:4(chi): Audio: truehd, 48000 Hz, 5.1(side), s32 (24 bit)
+14:07:59.024     Metadata:
+14:07:59.024       title           : 国语 TrueHD 5.1
+14:07:59.024       BPS             : 1611661
+14:07:59.024       DURATION        : 02:16:17.837000000
+14:07:59.024       NUMBER_OF_FRAMES: 9813404
+14:07:59.024       NUMBER_OF_BYTES : 1647488628
+14:07:59.024       SOURCE_ID       : 001106
+14:07:59.024   Stream #0:5(chi): Subtitle: ass (default)
+14:07:59.024     Metadata:
+14:07:59.024       title           : 简英
+14:07:59.024       BPS             : 206
+14:07:59.024       DURATION        : 02:09:04.630000000
+14:07:59.024       NUMBER_OF_FRAMES: 1413
+14:07:59.024       NUMBER_OF_BYTES : 199429
+14:07:59.024   Stream #0:6(chi): Subtitle: hdmv_pgs_subtitle
+14:07:59.024     Metadata:
+14:07:59.024       title           : 国语 简体
+14:07:59.024       BPS             : 47150
+14:07:59.024       DURATION        : 02:10:52.511000000
+14:07:59.024       NUMBER_OF_FRAMES: 4455
+14:07:59.024       NUMBER_OF_BYTES : 46281071
+14:07:59.024       SOURCE_ID       : 0012A7
+14:07:59.024   Stream #0:7: Video: mjpeg (Progressive), yuvj420p(pc, bt470bg/unknown/unknown), 254x254 [SAR 1:1 DAR 1:1], 90k tbr, 90k tbn (attached pic)
+14:07:59.024     Metadata:
+14:07:59.024       filename        : 老K  QQ 195383233.jpg
+14:07:59.024       mimetype        : image/jpeg
+14:07:59.025 Stream mapping:
+14:07:59.025   Stream #0:0 -> #0:0 (copy)
+14:07:59.025   Stream #0:1 -> #0:1 (truehd (native) -> mp3 (libmp3lame))
+14:07:59.025 Press [q] to stop, [?] for help
+14:07:59.037 Output #0, segment, to '/config/transcoding-temp/D729E7/D729E7_%d.ts':
+14:07:59.037   Metadata:
+14:07:59.037     encoder         : Lavf59.27.100
+14:07:59.037   Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, Level 153, 23.98 fps, 23.98 tbr, 90k tbn
+14:07:59.037     Side data:
+14:07:59.037       DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+14:07:59.037   Stream #0:1(eng): Audio: mp3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+14:07:59.037     Metadata:
+14:07:59.037       encoder         : Lavc59.37.100 libmp3lame
+14:07:59.037 elapsed=00:00:00.00 frame=    1 fps=0.0 q=-1.0 size=N/A time=-00:10:59.65 bitrate=N/A throttle=off speed=N/A    
+14:07:59.422 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7.m3u8.tmp' for writing
+14:07:59.422 SegmentComplete=video:0 Index=110 Start=0.000000 End=666.040000 Duration=666.040000 offset_pts=0 start_pts=0 Frames=150 filename=D729E7_110.ts
+14:07:59.422 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7_111.ts.tmp' for writing
+14:07:59.528 elapsed=00:00:00.50 frame=  186 fps=0.0 q=-1.0 size=N/A time=00:00:07.90 bitrate=N/A throttle=off speed=15.7x    
+14:07:59.829 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7.m3u8.tmp' for writing
+14:07:59.829 SegmentComplete=video:0 Index=111 Start=666.124000 End=672.004000 Duration=5.880000 offset_pts=0 start_pts=666124000 Frames=143 filename=D729E7_111.ts
+14:07:59.829 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7_112.ts.tmp' for writing
+14:08:00.028 elapsed=00:00:01.00 frame=  366 fps=365 q=-1.0 size=N/A time=00:00:15.27 bitrate=N/A throttle=off speed=15.2x    
+14:08:00.215 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7.m3u8.tmp' for writing
+14:08:00.215 SegmentComplete=video:0 Index=112 Start=672.005000 End=677.801000 Duration=5.796000 offset_pts=0 start_pts=672005000 Frames=139 filename=D729E7_112.ts
+14:08:00.215 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7_113.ts.tmp' for writing
+14:08:00.528 elapsed=00:00:01.50 frame=  547 fps=364 q=-1.0 size=N/A time=00:00:22.95 bitrate=N/A throttle=off speed=15.3x    
+14:08:00.616 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7.m3u8.tmp' for writing
+14:08:00.617 SegmentComplete=video:0 Index=113 Start=678.094000 End=683.933000 Duration=5.839000 offset_pts=0 start_pts=678094000 Frames=147 filename=D729E7_113.ts
+14:08:00.617 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7_114.ts.tmp' for writing
+14:08:02.099 elapsed=00:00:03.07 frame=  666 fps=217 q=-1.0 size=N/A time=00:00:27.77 bitrate=N/A throttle=off speed=9.04x    
+14:08:02.239 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7.m3u8.tmp' for writing
+14:08:02.239 SegmentComplete=video:0 Index=114 Start=684.225000 End=689.897000 Duration=5.672000 offset_pts=0 start_pts=684225000 Frames=143 filename=D729E7_114.ts
+14:08:02.239 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7_115.ts.tmp' for writing
+14:08:02.607 elapsed=00:00:03.57 frame=  858 fps=240 q=-1.0 size=N/A time=00:00:35.86 bitrate=N/A throttle=off speed=  10x    
+14:08:02.702 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7.m3u8.tmp' for writing
+14:08:03.760 SegmentComplete=video:0 Index=115 Start=690.190000 End=696.028000 Duration=5.838000 offset_pts=0 start_pts=690190000 Frames=147 filename=D729E7_115.ts
+14:08:03.760 [segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7_116.ts.tmp' for writing
+14:08:03.761 elapsed=00:00:04.73 frame=  871 fps=184 q=-1.0 size=N/A time=00:00:36.58 bitrate=N/A throttle=off speed=7.73x    
+14:08:03.961 
+
+[q] command received. Exiting.
+
+[segment @ 0x2cafa340] Opening '/config/transcoding-temp/D729E7/D729E7.m3u8.tmp' for writing
+SegmentComplete=video:0 Index=116 Start=696.321000 End=699.865000 Duration=3.544000 offset_pts=0 start_pts=696321000 Frames=92 filename=D729E7_116.ts
+elapsed=00:00:04.93 frame=  961 fps=195 q=-1.0 Lsize=N/A time=00:00:40.18 bitrate=N/A throttle=off speed=8.14x    
+video:251607kB audio:937kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+EXIT
+
+======= ExtraData
+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
+---

@@ -1,0 +1,584 @@
+2025-07-14 14:08:08.572
+Operating System: Linux version 6.6.86 (buildbot@buildbot.infra.immortalwrt.org) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 r33048-cc720ea55a71) 13.3.0, GNU ld
+OS/Process: x64/x64
+Emby Server version: 4.8.11.0
+Operating system: Unix 6.6.86.0
+Command Line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+
+App: Emby Web 4.8.11.0
+Chrome macOS
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+
+http://192.168.2.1:8096/emby/videos/2843/main.m3u8?DeviceId=e4151f37-70bf-44b7-840e-bcbbb995ae87&MediaSourceId=a414b184e6927fcfe02cce2c844db9ac&PlaySessionId=e34d07f9712f4229a2c7c6335fdac663&api_key=‌dce67f1d47ab4f009faafebd0d2ec11a‌&VideoCodec=h264,hevc,av1&AudioCodec=mp3,aac&VideoBitrate=199616000&AudioBitrate=384000&AudioStreamIndex=1&SubtitleStreamIndex=6&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&hevc-codectag=hvc1,hev1,hevc,hdmv&TranscodeReasons=SubtitleCodecNotSupported
+
+http://192.168.2.1:8096/emby/videos/2843/hls1/main/0.ts?PlaySessionId=e34d07f9712f4229a2c7c6335fdac663
+
+{"Protocol":"File","Id":"a414b184e6927fcfe02cce2c844db9ac","Path":"smb://192.168.2.1/HDD/Videos/Movies/黑客帝国 (1999)/黑客帝国 (1999) 2160p TrueHD Atmos.mkv","Type":"Default","Container":"mkv","Size":68202828466,"Name":"2160p TrueHD Atmos","IsRemote":false,"HasMixedProtocols":false,"RunTimeTicks":81786990000,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"RequiresOpening":false,"RequiresClosing":false,"RequiresLooping":false,"SupportsProbing":false,"MediaStreams":[{"Codec":"hevc","Language":"eng","ColorTransfer":"smpte2084","ColorPrimaries":"bt2020","ColorSpace":"bt2020nc","TimeBase":"1/1000","VideoRange":"DolbyVision","DisplayTitle":"4K Dolby Vision HEVC","DisplayLanguage":"English","IsInterlaced":false,"BitRate":66712643,"BitDepth":10,"RefFrames":1,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":2160,"Width":3840,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"Profile":"Main 10","Type":"Video","AspectRatio":"16:9","Index":0,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","PixelFormat":"yuv420p10le","Level":153,"IsAnamorphic":false,"ExtendedVideoType":"DolbyVision","ExtendedVideoSubType":"DoviProfile76","ExtendedVideoSubTypeDescription":"Profile 7.6 (Bluray)","AttachmentSize":0},{"Codec":"truehd","Language":"eng","TimeBase":"1/1000","Title":"TrueHD Atmos 7.1","DisplayTitle":"English TRUEHD 7.1 (默认)","DisplayLanguage":"English","IsInterlaced":false,"ChannelLayout":"7.1","BitDepth":24,"Channels":8,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Type":"Audio","Index":1,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"dts","Language":"eng","TimeBase":"1/1000","Title":"DTS-HD MA 7.1","DisplayTitle":"English DTS-HD MA 7.1","DisplayLanguage":"English","IsInterlaced":false,"ChannelLayout":"7.1","BitDepth":24,"Channels":8,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Profile":"DTS-HD MA","Type":"Audio","Index":2,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"dts","Language":"chi","TimeBase":"1/1000","Title":"国语 DTS-X 7.1","DisplayTitle":"Chinese Simplified DTS-HD MA 7.1","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"ChannelLayout":"7.1","BitDepth":24,"Channels":8,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Profile":"DTS-HD MA","Type":"Audio","Index":3,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"truehd","Language":"chi","TimeBase":"1/1000","Title":"国语 TrueHD 5.1","DisplayTitle":"Chinese Simplified TRUEHD 5.1","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"ChannelLayout":"5.1","BitDepth":24,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Audio","Index":4,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"ass","Language":"chi","TimeBase":"1/1000","Title":"简英","DisplayTitle":"Chinese Simplified (默认 ASS)","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":5,"IsExternal":false,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"PGSSUB","Language":"chi","TimeBase":"1/1000","Title":"国语 简体","DisplayTitle":"Chinese Simplified (PGSSUB)","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":6,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"mjpeg","ColorSpace":"bt470bg","TimeBase":"1/90000","IsInterlaced":false,"BitDepth":8,"RefFrames":1,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":254,"Width":254,"RealFrameRate":90000,"Profile":"Progressive","Type":"EmbeddedImage","AspectRatio":"1:1","Index":7,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","PixelFormat":"yuvj420p","Level":-99,"IsAnamorphic":false,"ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0}],"Formats":[],"Bitrate":66712643,"RequiredHttpHeaders":{},"AddApiKeyToDirectStreamUrl":false,"ReadAtNativeFramerate":false,"ItemId":"2843"}
+
+>>>>>>  User policy for yinhaoyu
+        Enable Playback Remuxing: True
+        Enable Video Playback Transcoding: True
+        Enable Audio Playback Transcoding: True
+
+>>>>>>  Selected Codecs
+Decoder Automatic software decoder
+
+
+Encoder x264
+        Max Bitrate: 781 Mbit/s
+        Color Formats: YUV420P, YUVJ420P, YUV422P, YUVJ422P, YUV444P, YUVJ444P, NV12, NV16, NV21, YUV420P10, YUV422P10, YUV444P10, NV20, GRAY8, GRAY10 - Bit Depths: 8, 10, 12, 14
+        Profiles: Baseline Profile (Level 6.2), Main Profile (Level 6.2), High Profile (Level 6.2), High 10 Profile (Level 6.2), High 4:2:2 Profile (Level 6.2), High 4:4:4 Predictive Profile (Level 6.2)
+
+
+>>>>>>  FindVideoEncoder - MediaType: h264, UseHardwareCodecs: True, HWA-Mode: Automatic
+Info    Checking: 'x264'
+Info    Check successful - selecting 'x264'
+
+>>>>>>  FindVideoDecoder - MediaType: hevc, UseHardwareCodecs: True, HWA-Mode: Automatic
+Info    Checking: 'Automatic software decoder'
+Info    Check successful - selecting 'Automatic software decoder'
+Info    Tone Mapping would be desired, but software tone mapping is disabled
+
+>>>>>>  Processing Plan
+        Name                                        CanDoInHW  WillDoInHW  Reason                                                 
+        Automatic software decoder               >> False      False       Software Codec                                          
+        VideoInput                               >> False      False       Not a hardware decoder                                  
+        ToneMapping (when possible)              >> False      False                                                               
+        SubtitleOverlay                          >> False      False                                                               
+        VideoOutput                              >> False      False       Not a hardware encoder                                  
+        x264                                     >> False      False       Software Codec                                          
+
+>>>>>>  Video Processing Steps for [0:0]: H.265 (HEVC)
+        Step                    HW-Context   Format       SW-Format           Size   Next
+        HEVC                 >> -            yuv420p10    yuv420p10      3840x2160 >> format
+        format               >> -            yuv420p      yuv420p        3840x2160 >> overlay
+        overlay              >> -            yuv420p      yuv420p        3840x2160 >> 
+
+/bin/ffmpeg -loglevel +timing -y -print_graphs_file "/config/logs/ffmpeg-transcode-08b0af7b-2013-43be-9c5b-fc3fec8cdfff_1graph.txt" -copyts -start_at_zero -f matroska,webm -c:v:0 hevc -noautorotate -c:v:1 mjpeg -i "http://127.0.0.1:8096/Items/File?Id=smb%3A%2F%2F192.168.2.1%2FHDD%2FVideos%2FMovies%2F%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD+(1999)%2F%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD+(1999)+2160p+TrueHD+Atmos.mkv" -filter_complex "[0:0]format@f1=pix_fmts=yuv420p[f1_out0];[0:6]scale@f2=width=3840:height=2160[f2_out0];[f1_out0][f2_out0]overlay@f3=x=(W-w)/2:y=(H-h):repeatlast=0[f3_out0]" -map [f3_out0] -map 0:1 -sn -c:v:0 libx264 -g:v:0 72 -maxrate:v:0 100068964 -bufsize:v:0 200137928 -sc_threshold:v:0 0 -keyint_min:v:0 72 -r:v:0 23.976024627685547 -pix_fmt:v:0 yuv420p -preset:v:0 veryfast -profile:v:0 high -x264opts:v:0 "subme=0:me_range=4:rc_lookahead=10:partitions=none" -crf:v:0 23 -c:a:0 libmp3lame -ab:a:0 192000 -ac:a:0 2 -metadata:s:a:0 language=eng -filter:a:0 "volume=2" -disposition:a:0 default -max_delay 5000000 -avoid_negative_ts disabled -f segment -map_metadata -1 -map_chapters -1 -segment_format mpegts -segment_list "/config/transcoding-temp/F2FACF/F2FACF.m3u8" -segment_list_type m3u8 -segment_time 00:00:03.000 -segment_start_number 0 -individual_header_trailer 0 -write_header_trailer 0 -segment_write_temp 1 "/config/transcoding-temp/F2FACF/F2FACF_%d.ts"
+
+14:08:08.592 ffmpeg version 5.1-emby_2023_06_25 Copyright (c) 2000-2022 the FFmpeg developers and softworkz for Emby LLC
+14:08:08.592   built with gcc 10.3.0 (crosstool-NG 1.25.0)
+14:08:08.592 Execution Date: 2025-07-14 14:08:08
+14:08:09.619 [matroska,webm @ 0x23e32b00] Stream #7: not enough frames to estimate rate; consider increasing probesize
+14:08:09.619 [matroska,webm @ 0x23e32b00] Could not find codec parameters for stream 6 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+14:08:09.620 Input #0, matroska,webm, from 'http://127.0.0.1:8096/Items/File?Id=smb%3A%2F%2F192.168.2.1%2FHDD%2FVideos%2FMovies%2F%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD+(1999)%2F%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD+(1999)+2160p+TrueHD+Atmos.mkv':
+14:08:09.620   Metadata:
+14:08:09.620     title           : The.Matrix.1999.2160p.BluRay.REMUX.HEVC.DV.HDR.DTS-X.7.1.TrueHD.7.1.Atmos-老K
+14:08:09.620     encoder         : libebml v1.4.2 + libmatroska v1.6.4
+14:08:09.620     creation_time   : 2024-04-10T03:50:33.000000Z
+14:08:09.620   Duration: 02:16:18.70, start: 0.000000, bitrate: 66712 kb/s
+14:08:09.620   Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2160 [SAR 1:1 DAR 16:9], Level 153, 23.98 fps, 23.98 tbr, 1k tbn
+14:08:09.620     Metadata:
+14:08:09.620       BPS             : 48909687
+14:08:09.620       DURATION        : 02:16:18.671000000
+14:08:09.620       NUMBER_OF_FRAMES: 196092
+14:08:09.620       NUMBER_OF_BYTES : 50002029968
+14:08:09.620       SOURCE_ID       : 001011
+14:08:09.620     Side data:
+14:08:09.620       DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+14:08:09.620   Stream #0:1(eng): Audio: truehd, 48000 Hz, 7.1, s32 (24 bit) (default)
+14:08:09.620     Metadata:
+14:08:09.620       title           : TrueHD Atmos 7.1
+14:08:09.620       BPS             : 4419605
+14:08:09.620       DURATION        : 02:16:18.671000000
+14:08:09.620       NUMBER_OF_FRAMES: 9814405
+14:08:09.620       NUMBER_OF_BYTES : 4518312588
+14:08:09.620       SOURCE_ID       : 001100
+14:08:09.620   Stream #0:2(eng): Audio: dts (DTS-HD MA), 48000 Hz, 7.1, s32p (24 bit)
+14:08:09.620     Metadata:
+14:08:09.620       title           : DTS-HD MA 7.1
+14:08:09.620       BPS             : 3746294
+14:08:09.620       DURATION        : 02:16:18.699000000
+14:08:09.620       NUMBER_OF_FRAMES: 766753
+14:08:09.620       NUMBER_OF_BYTES : 3829977276
+14:08:09.620   Stream #0:3(chi): Audio: dts (DTS-HD MA), 48000 Hz, 7.1, s32p (24 bit)
+14:08:09.620     Metadata:
+14:08:09.620       title           : 国语 DTS-X 7.1
+14:08:09.620       BPS             : 7862173
+14:08:09.620       DURATION        : 02:16:18.678000000
+14:08:09.620       NUMBER_OF_FRAMES: 766751
+14:08:09.620       NUMBER_OF_BYTES : 8037772980
+14:08:09.620       SOURCE_ID       : 001105
+14:08:09.620   Stream #0:4(chi): Audio: truehd, 48000 Hz, 5.1(side), s32 (24 bit)
+14:08:09.620     Metadata:
+14:08:09.620       title           : 国语 TrueHD 5.1
+14:08:09.621       BPS             : 1611661
+14:08:09.621       DURATION        : 02:16:17.837000000
+14:08:09.621       NUMBER_OF_FRAMES: 9813404
+14:08:09.621       NUMBER_OF_BYTES : 1647488628
+14:08:09.621       SOURCE_ID       : 001106
+14:08:09.621   Stream #0:5(chi): Subtitle: ass (default)
+14:08:09.621     Metadata:
+14:08:09.621       title           : 简英
+14:08:09.621       BPS             : 206
+14:08:09.621       DURATION        : 02:09:04.630000000
+14:08:09.621       NUMBER_OF_FRAMES: 1413
+14:08:09.621       NUMBER_OF_BYTES : 199429
+14:08:09.621   Stream #0:6(chi): Subtitle: hdmv_pgs_subtitle
+14:08:09.621     Metadata:
+14:08:09.621       title           : 国语 简体
+14:08:09.621       BPS             : 47150
+14:08:09.621       DURATION        : 02:10:52.511000000
+14:08:09.621       NUMBER_OF_FRAMES: 4455
+14:08:09.621       NUMBER_OF_BYTES : 46281071
+14:08:09.621       SOURCE_ID       : 0012A7
+14:08:09.621   Stream #0:7: Video: mjpeg (Progressive), yuvj420p(pc, bt470bg/unknown/unknown), 254x254 [SAR 1:1 DAR 1:1], 90k tbr, 90k tbn (attached pic)
+14:08:09.621     Metadata:
+14:08:09.621       filename        : 老K  QQ 195383233.jpg
+14:08:09.621       mimetype        : image/jpeg
+14:08:09.624 Stream mapping:
+14:08:09.624   Stream #0:0 (hevc) -> format:default (graph 0)
+14:08:09.624   Stream #0:6 (pgssub) -> scale:default (graph 0)
+14:08:09.624   overlay:default (graph 0) -> Stream #0:0 (libx264)
+14:08:09.624   Stream #0:1 -> #0:1 (truehd (native) -> mp3 (libmp3lame))
+14:08:09.624 Press [q] to stop, [?] for help
+14:08:09.667 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 8 times
+14:08:09.683 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.702 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.719 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.738 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.749 subtitle input filter: decoding size 0x0
+14:08:09.750 Auto-inserting subfeed filter
+14:08:09.750 Auto-inserting graphicsub2video filter
+14:08:09.755 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.772 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.788 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.831 [libx264 @ 0x23eb3a80] using SAR=1/1
+14:08:09.831 [libx264 @ 0x23eb3a80] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+14:08:09.833 [libx264 @ 0x23eb3a80] profile High, level 5.1, 4:2:0, 8-bit
+14:08:09.833 [libx264 @ 0x23eb3a80] 264 - core 163 r3060 5db6aa6 - H.264/MPEG-4 AVC codec - Copyleft 2003-2021 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0 me=hex subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=4 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=6 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=72 keyint_min=37 scenecut=0 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 vbv_maxrate=100068 vbv_bufsize=200137 crf_max=0.0 nal_hrd=none filler=0 ip_ratio=1.40 aq=1:1.00
+14:08:09.833 Output #0, segment, to '/config/transcoding-temp/F2FACF/F2FACF_%d.ts':
+14:08:09.833   Metadata:
+14:08:09.833     encoder         : Lavf59.27.100
+14:08:09.833   Stream #0:0: Video: h264, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 23.98 fps, 90k tbn
+14:08:09.833     Metadata:
+14:08:09.833       encoder         : Lavc59.37.100 libx264
+14:08:09.833     Side data:
+14:08:09.834       cpb: bitrate max/min/avg: 100068000/0/0 buffer size: 200137000 vbv_delay: N/A
+14:08:09.834   Stream #0:1(eng): Audio: mp3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+14:08:09.834     Metadata:
+14:08:09.834       encoder         : Lavc59.37.100 libmp3lame
+14:08:09.847 elapsed=00:00:00.10 frame=    1 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A throttle=off speed=   0x    
+14:08:09.886 subtitle_kickoff: resend - pts: 292
+14:08:09.886 subtitle_kickoff: call subtitle_resend_current 302 frame->format: 1
+14:08:09.927 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.955 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:09.982 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.011 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.035 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.096 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.125 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.157 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.196 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.228 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.258 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.261 elapsed=00:00:00.63 frame=   12 fps=0.0 q=0.0 size=N/A time=00:00:00.43 bitrate=N/A throttle=off speed=0.679x    
+14:08:10.297 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 8 times
+14:08:10.331 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.387 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.413 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.441 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.497 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.530 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.568 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.605 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.651 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.692 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.736 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.761 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.787 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.815 elapsed=00:00:01.16 frame=   27 fps= 23 q=28.0 size=N/A time=00:00:01.12 bitrate=N/A throttle=off speed=0.97x    
+14:08:10.842 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.850 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.906 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.948 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:10.978 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.014 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.041 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.095 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.122 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.149 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.187 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:11.276 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.299 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.307 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.335 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.339 elapsed=00:00:01.67 frame=   41 fps= 24 q=28.0 size=N/A time=00:00:01.68 bitrate=N/A throttle=off speed=   1x    
+14:08:11.400 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.472 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 8 times
+14:08:11.592 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.616 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.637 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.681 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.736 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.788 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.804 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.858 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:11.893 elapsed=00:00:02.23 frame=   53 fps= 24 q=28.0 size=N/A time=00:00:02.37 bitrate=N/A throttle=off speed=1.06x    
+14:08:11.905 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.004 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.036 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.051 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.111 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.153 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.217 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.309 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.338 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.359 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:12.402 elapsed=00:00:02.74 frame=   63 fps= 23 q=28.0 size=N/A time=00:00:02.68 bitrate=N/A throttle=off speed=0.978x    
+14:08:12.499 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.529 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.542 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.550 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.684 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.749 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:12.813 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.865 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.902 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:12.955 elapsed=00:00:03.26 frame=   71 fps= 22 q=28.0 size=N/A time=00:00:03.04 bitrate=N/A throttle=off speed=0.932x    
+14:08:13.018 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.059 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.132 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.186 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.302 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.315 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.474 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.510 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.539 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.564 elapsed=00:00:03.82 frame=   80 fps= 21 q=28.0 size=N/A time=00:00:03.38 bitrate=N/A throttle=off speed=0.884x    
+14:08:13.579 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.669 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.742 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.859 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:13.967 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.023 elapsed=00:00:04.34 frame=   87 fps= 20 q=28.0 size=N/A time=00:00:03.67 bitrate=N/A throttle=off speed=0.844x    
+14:08:14.039 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:14.099 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.139 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.165 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.211 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.456 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.531 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:14.564 [segment @ 0x23eb24c0] Opening '/config/transcoding-temp/F2FACF/F2FACF.m3u8.tmp' for writing
+14:08:14.566 SegmentComplete=video:0 Index=0 Start=0.000000 End=3.003000 Duration=3.003000 offset_pts=0 start_pts=0 Frames=72 filename=F2FACF_0.ts
+14:08:14.567 [segment @ 0x23eb24c0] Opening '/config/transcoding-temp/F2FACF/F2FACF_1.ts.tmp' for writing
+14:08:14.608 elapsed=00:00:04.94 frame=   94 fps= 19 q=28.0 size=N/A time=00:00:04.05 bitrate=N/A throttle=off speed=0.821x    
+14:08:14.636 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.714 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.788 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.812 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.829 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:14.886 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.034 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.072 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.111 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.154 elapsed=00:00:05.50 frame=  102 fps= 19 q=28.0 size=N/A time=00:00:04.39 bitrate=N/A throttle=off speed=0.798x    
+14:08:15.187 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.245 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.289 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.338 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.460 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.516 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.552 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.622 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.653 elapsed=00:00:06.02 frame=  109 fps= 18 q=28.0 size=N/A time=00:00:04.46 bitrate=N/A throttle=off speed=0.74x    
+14:08:15.685 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:15.786 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.882 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.902 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:15.942 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.049 subtitle_kickoff: resend - pts: 5380
+14:08:16.049 subtitle_kickoff: call subtitle_resend_current 5390 frame->format: 1
+14:08:16.067 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.100 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:16.180 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.265 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.280 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.308 elapsed=00:00:06.57 frame=  119 fps= 18 q=28.0 size=N/A time=00:00:05.06 bitrate=N/A throttle=off speed=0.77x    
+14:08:16.385 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.425 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.492 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.513 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.571 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.709 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.744 elapsed=00:00:07.07 frame=  126 fps= 18 q=28.0 size=N/A time=00:00:05.40 bitrate=N/A throttle=off speed=0.763x    
+14:08:16.786 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.811 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.859 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:16.914 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.022 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.074 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.156 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.217 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.223 elapsed=00:00:07.59 frame=  133 fps= 18 q=28.0 size=N/A time=00:00:05.47 bitrate=N/A throttle=off speed=0.72x    
+14:08:17.250 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:17.323 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.382 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.448 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.499 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.571 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.659 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:17.754 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.787 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.863 elapsed=00:00:08.17 frame=  142 fps= 17 q=28.0 size=N/A time=00:00:06.04 bitrate=N/A throttle=off speed=0.74x    
+14:08:17.870 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:17.951 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.053 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.111 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.177 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.233 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.255 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.355 elapsed=00:00:08.69 frame=  150 fps= 17 q=28.0 size=N/A time=00:00:06.38 bitrate=N/A throttle=off speed=0.734x    
+14:08:18.378 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.475 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.485 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.596 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.604 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.712 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.746 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.832 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.864 elapsed=00:00:09.24 frame=  157 fps= 17 q=28.0 size=N/A time=00:00:06.48 bitrate=N/A throttle=off speed=0.701x    
+14:08:18.887 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:18.977 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:18.987 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.058 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.116 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.195 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.236 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 9 times
+14:08:19.311 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.323 [segment @ 0x23eb24c0] Opening '/config/transcoding-temp/F2FACF/F2FACF.m3u8.tmp' for writing
+14:08:19.324 SegmentComplete=video:0 Index=1 Start=3.003000 End=6.006000 Duration=3.003000 offset_pts=0 start_pts=3003000 Frames=72 filename=F2FACF_1.ts
+14:08:19.324 [segment @ 0x23eb24c0] Opening '/config/transcoding-temp/F2FACF/F2FACF_2.ts.tmp' for writing
+14:08:19.355 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.392 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.447 elapsed=00:00:09.74 frame=  167 fps= 17 q=28.0 size=N/A time=00:00:07.05 bitrate=N/A throttle=off speed=0.724x    
+14:08:19.473 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.528 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.579 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.629 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.664 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.766 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.831 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.907 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.940 [hevc @ 0x23e7b080] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:19.941 elapsed=00:00:10.26 frame=  176 fps= 17 q=28.0 size=N/A time=00:00:07.39 bitrate=N/A throttle=off speed=0.72x    
+14:08:19.976 [hevc @ 0x23ed44c0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:20.027 [hevc @ 0x24877ec0] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:20.086 [hevc @ 0x2493ad80] Skipping NAL unit 63
+    Last message repeated 1 times
+14:08:20.115 
+
+[q] command received. Exiting.
+
+14:08:20.128 [subfeed @ 0x23edad40] EOF timestamp not reliable
+14:08:20.134 [hevc @ 0x23fc3340] Skipping NAL unit 63
+    Last message repeated 1 times
+[segment @ 0x23eb24c0] Opening '/config/transcoding-temp/F2FACF/F2FACF.m3u8.tmp' for writing
+SegmentComplete=video:0 Index=2 Start=6.006000 End=7.465789 Duration=1.459789 offset_pts=0 start_pts=6006000 Frames=35 filename=F2FACF_2.ts
+elapsed=00:00:10.83 frame=  179 fps= 17 q=-1.0 Lsize=N/A time=00:00:07.51 bitrate=N/A throttle=off speed=0.693x    
+video:11597kB audio:182kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+[libx264 @ 0x23eb3a80] frame I:3     Avg QP:14.32  size:115606
+[libx264 @ 0x23eb3a80] frame P:100   Avg QP:20.29  size: 88128
+[libx264 @ 0x23eb3a80] frame B:76    Avg QP:18.49  size: 35730
+[libx264 @ 0x23eb3a80] consecutive B-frames: 39.7%  8.9%  6.7% 44.7%
+[libx264 @ 0x23eb3a80] mb I  I16..4: 62.8% 33.6%  3.7%
+[libx264 @ 0x23eb3a80] mb P  I16..4: 39.0%  0.0%  0.0%  P16..4: 17.1%  0.0%  0.0%  0.0%  0.0%    skip:43.9%
+[libx264 @ 0x23eb3a80] mb B  I16..4:  7.4%  0.0%  0.0%  B16..8: 17.1%  0.0%  0.0%  direct: 4.0%  skip:71.5%  L0:45.0% L1:46.6% BI: 8.4%
+[libx264 @ 0x23eb3a80] 8x8 transform intra:2.1% inter:79.7%
+[libx264 @ 0x23eb3a80] coded y,uvDC,uvAC intra: 14.1% 54.1% 23.7% inter: 6.4% 12.3% 1.8%
+[libx264 @ 0x23eb3a80] i16 v,h,dc,p: 31% 39% 14% 15%
+[libx264 @ 0x23eb3a80] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 12% 29% 12%  7%  6%  6% 10%  6% 12%
+[libx264 @ 0x23eb3a80] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 24% 10% 13%  7%  6%  7%  7%  8%
+[libx264 @ 0x23eb3a80] i8c dc,h,v,p: 43% 28% 21%  8%
+[libx264 @ 0x23eb3a80] Weighted P-Frames: Y:4.0% UV:1.0%
+[libx264 @ 0x23eb3a80] kb/s:12724.77
+EXIT
+
+======= ExtraData
+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
+---

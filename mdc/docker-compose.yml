@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  
+  mdc:
+    image: mdcng/mdc:latest
+    container_name: mdc
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - /var/lib/docker/mdc/config:/config # 配置目录，必须
+      - /mnt/sda2/Videos/Girls:/media # 媒体库，可映射多个
+    ports:
+      - 9208:9208
+    restart: unless-stopped  
+
