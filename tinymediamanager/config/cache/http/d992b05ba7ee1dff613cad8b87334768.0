@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/292624/season/1/episode/6?language=zh-CN&append_to_response=external_ids%2Ccredits%2Cimages&include_image_language=null&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:03 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=6414
+x-az: us-east-1b
+x-task-id: f9c53df32445444d91202c48f5cf8823
+etag: W/"5f693af4b1b4fc1d81a6c97bfee64b0b"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 29vLKMxREOUV_SK-8TB2y52alTXT7v2JtK4hSISASimmQKoL4joUbQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752303783005
+OkHttp-Received-Millis: 1752303783341
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

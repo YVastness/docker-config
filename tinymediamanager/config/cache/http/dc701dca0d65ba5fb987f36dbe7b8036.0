@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/37854/season/2/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:16 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=5598
+x-memc: HIT
+x-memc-key: bb94d1ccf2c3ab86ca670d944695a3a0b7886f250fe2d7480b15a69bcaefb98d
+x-memc-age: 22457
+x-memc-expires: 5598
+x-az: us-east-1c
+x-task-id: 70735e56c18a47b49f02154ff57dfd68
+etag: W/"41c992062c24fe3ad7f10d855c3ef056"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 1Jd7VdTvtYy8mDyUN0ERC88oXpdekf1UDqddbxdj9pwMtyS0obvNYA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303795955
+OkHttp-Received-Millis: 1752303796268
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

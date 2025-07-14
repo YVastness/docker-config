@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2025-07-08T18:00:00.0017168Z","EndTimeUtc":"2025-07-08T18:00:00.0037871Z","Status":"Completed","Name":"Video preview thumbnail extraction","Key":"RefreshChapterImages","Id":"d15b3f9fc313609ffe7e49bd1c74f753"}
+{"StartTimeUtc":"2025-07-13T18:00:00.0018503Z","EndTimeUtc":"2025-07-13T18:00:00.0044407Z","Status":"Completed","Name":"Video preview thumbnail extraction","Key":"RefreshChapterImages","Id":"d15b3f9fc313609ffe7e49bd1c74f753"}

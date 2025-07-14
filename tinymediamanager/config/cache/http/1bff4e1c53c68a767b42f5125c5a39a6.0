@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/83708/season/5?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:33 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=18085
+x-memc: HIT
+x-memc-key: 82198da77dbbcbdefd0e2f5b38eb8ce36c8d433605f35a71ff58cfcc4706ef76
+x-memc-age: 7163
+x-memc-expires: 18085
+x-az: us-east-1c
+x-task-id: a54dc0b0c9ae410493110e348ce951c8
+etag: W/"6b246f8b0d5aea1659b6549e5a9d1ceb"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 4px1iqInwsDACXwmOoBtwyHAKwSb89TGGLQL-lAuJNzIz5WayxefaA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303813696
+OkHttp-Received-Millis: 1752303814008
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

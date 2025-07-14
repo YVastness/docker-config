@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/292388?language=zh&append_to_response=translations%2Ccredits%2Cexternal_ids%2Ccontent_ratings%2Ckeywords%2Cepisode_groups&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:28:08 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=20903
+x-az: us-east-1a
+x-task-id: d2b340547157405f90257e5e88b33a4d
+etag: W/"803a321b68ce9f2e27eb57accd439a30"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 7bbe2b3303fef5a6eb0e74bb6f4bdd04.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX54-P4
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: NN3aR2ykrmuaisDBTYu7twhCRBZsTaruuJtmIXNHzn9Jogr9QfRcWg==
+vary: Origin
+OkHttp-Sent-Millis: 1752305288188
+OkHttp-Received-Millis: 1752305288500
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

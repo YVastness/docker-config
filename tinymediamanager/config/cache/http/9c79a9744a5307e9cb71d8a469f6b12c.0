@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/37854/season/12/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:19 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=23830
+x-memc: HIT
+x-memc-key: 4e35294e2385ab166b7864d9b395c1f8f2e8fb5936ec7175dc03e41356ea8888
+x-memc-age: 2712
+x-memc-expires: 23830
+x-az: us-east-1c
+x-task-id: 70735e56c18a47b49f02154ff57dfd68
+etag: W/"38be6b808018d0da337dd6f3c479d4c6"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: ecnRC2hdO0kWFFvEn4KS2y_C3bBcd_CyUNsw7mqA0H1LN0dkPZQymw==
+vary: Origin
+OkHttp-Sent-Millis: 1752303799104
+OkHttp-Received-Millis: 1752303799417
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

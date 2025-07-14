@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/285779/videos?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 11:46:00 GMT
+etag: W/"9fd278d86058d079e7f14f9821ca2ec4"
+server: openresty
+cache-control: public, max-age=28119
+x-memc: MISS, STORE
+x-memc-key: dacf4b36692e56bd940457a3b6021875210ee196ae3f430c0270ef2485acf1f1
+x-memc-age: 0
+x-memc-expires: 28119
+x-az: us-east-1b
+x-task-id: 6dc62571563f402396e6b4d9f7519c09
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 0a60df055acf18164b14661cb4d16952.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: yEhsWDw4U3QAoh4GYso5VgLxAY1Q_A5iH5RoGWzkLkdozcoF86UozQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752320760340
+OkHttp-Received-Millis: 1752320760619
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

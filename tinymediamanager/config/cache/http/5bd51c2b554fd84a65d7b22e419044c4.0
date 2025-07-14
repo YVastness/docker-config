@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/movie/122917?language=zh-CN&append_to_response=translations&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:30 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=23187
+x-az: us-east-1b
+x-task-id: 494f156cb9f34af7a984303825377784
+etag: W/"6d0a3499001cd293ba8f201260c1d6ae"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: ZpAxCr51KjIoR2tF2BIIEvYn8KQ1SO4LCImj2K70CdNm2J1HWyeVSA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303690294
+OkHttp-Received-Millis: 1752303690630
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

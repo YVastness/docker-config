@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/1425/season/2?language=en&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:37 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=21999
+x-memc: HIT
+x-memc-key: 04782a34401e6f3b20d0b9047a0081f23e01a7e0abce59190ceeca8f6f490dcf
+x-memc-age: 2886
+x-memc-expires: 21999
+x-az: us-east-1c
+x-task-id: 9bd085e97fbf42d6861fc3c3a190b799
+etag: W/"d2afb029fd46f1e5ba87778ddcb4083e"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: dqLKOpyHt5d8DISM-loo-xHMK1zAt4Txa9eK1bW1zEH7wtAdiyJfVQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752303817112
+OkHttp-Received-Millis: 1752303817425
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/292624?append_to_response=images&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 17:23:28 GMT
+server: openresty
+cache-control: public, max-age=14544
+x-az: us-east-1a
+x-task-id: b8f65fc675cf46a8a6cd336b6d7b4577
+etag: W/"8cc5aad1082e21a50f91326a992739c0"
+vary: accept-encoding
+x-cache: RefreshHit from cloudfront
+via: 1.1 b13f158bdf9805ca47e07c0c35870c12.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: aWilPX2dZBO2R-ZNLWDwqlZftqMosrWcKLTkfTkFGZ8cMrCBazaKUg==
+vary: Origin
+OkHttp-Sent-Millis: 1752341008738
+OkHttp-Received-Millis: 1752341009001
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

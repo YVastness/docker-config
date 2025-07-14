@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/37854/season/9?language=ja&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:02 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=7255
+x-memc: HIT
+x-memc-key: bc8723e187b3dbde3cdc928f1cafb7e34e3fc1789ffe4c409e359ea60a79446e
+x-memc-age: 20037
+x-memc-expires: 7255
+x-az: us-east-1a
+x-task-id: 5c9c9ee7e3894590b5038fe23d0226a3
+etag: W/"e83008e658733a6990501574f736934c"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: WqB6alShNNWbpFsk3q_XtFPR6UArq_A5dcX4SLTVhZuO7IZdfrA8vw==
+vary: Origin
+OkHttp-Sent-Millis: 1752303781953
+OkHttp-Received-Millis: 1752303782275
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

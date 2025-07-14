@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/search/tv?query=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9&page=1&language=zh&include_adult=false&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:28:07 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=15236
+x-memc: HIT
+x-memc-key: 238c8c876043edadc44a9253b75e9458d2c5d41d44bee632d9d83aaadc747837
+x-memc-age: 9343
+x-memc-expires: 15236
+x-az: us-east-1c
+x-task-id: 70735e56c18a47b49f02154ff57dfd68
+etag: W/"793bebbd949c08c37d3361fae6526665"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 7bbe2b3303fef5a6eb0e74bb6f4bdd04.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX54-P4
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: o2G3ZvNOdJO27rU0ib4jmzIZgWaAZGupmaZpMh5YrpC0zuJ8h41yog==
+vary: Origin
+OkHttp-Sent-Millis: 1752305287840
+OkHttp-Received-Millis: 1752305288140
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

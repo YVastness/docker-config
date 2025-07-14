@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/movie/624860?language=zh-CN&append_to_response=credits%2Ckeywords%2Crelease_dates%2Ctranslations%2Cexternal_ids&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:30 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=16181
+x-az: us-east-1a
+x-task-id: 3cb2411ae41b42ccb10d82afd9090f28
+etag: W/"8faa8a843c46d12ca08b6cdb7271b284"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: usGAR_lx0IS2Bm-plpxfgYPfBt_xiYYzrFMi0QYVy6B7v9SzNuXxdw==
+vary: Origin
+OkHttp-Sent-Millis: 1752303690483
+OkHttp-Received-Millis: 1752303690829
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

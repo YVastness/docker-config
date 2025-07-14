@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/224839/season/2/translations?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:34 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=11105
+x-memc: HIT
+x-memc-key: e04935bb9caa04b67b91d9832cf9851d89884496401551bd468b648762d1b35a
+x-memc-age: 14717
+x-memc-expires: 11105
+x-az: us-east-1c
+x-task-id: 70735e56c18a47b49f02154ff57dfd68
+etag: W/"c267e6a09c51718761cfe7b0c4ed4501"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: slHHlQAWC9CHGVa-OcKBndBVt0ZCAdFeFSLgXRcqi63zjx7J_Lyk2Q==
+vary: Origin
+OkHttp-Sent-Millis: 1752303814276
+OkHttp-Received-Millis: 1752303814588
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

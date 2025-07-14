@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/79481/season/0?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:02:41 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=16669
+x-memc: HIT
+x-memc-key: e784d6e48ecdeb5fab6efc00ed487494457ee414975d44bc3291ff7ed08ebbe9
+x-memc-age: 11310
+x-memc-expires: 16669
+x-az: us-east-1a
+x-task-id: b8f65fc675cf46a8a6cd336b6d7b4577
+etag: W/"04948ce8e66ac48f1b8d078343f7bda0"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: b8ssWbgIYkaUQPUNzj5wWwhkHAqR9PaYXbmC3KL3UVDH3gYX3ea62w==
+vary: Origin
+OkHttp-Sent-Millis: 1752303761797
+OkHttp-Received-Millis: 1752303762115
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

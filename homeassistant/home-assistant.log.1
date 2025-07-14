@@ -1,478 +1,90 @@
-2025-07-05 10:10:39.761 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration midea_ac_lan which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
-2025-07-05 10:10:39.762 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration iphonedetect which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
-2025-07-05 10:10:39.763 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration xiaomi_home which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
-2025-07-05 10:10:39.764 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration hacs which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
-2025-07-05 10:10:40.810 WARNING (Recorder) [homeassistant.components.recorder.util] The system could not validate that the sqlite3 database at //config/home-assistant_v2.db was shutdown cleanly
-2025-07-05 10:10:40.837 WARNING (Recorder) [homeassistant.components.recorder.util] Ended unfinished session (id=27 from 2025-07-02 11:07:53.645595)
-2025-07-05 10:10:44.390 ERROR (MainThread) [custom_components.hacs] Could not update template - Error fetching data from HACS: Cannot connect to host data-v2.hacs.xyz:443 ssl:default [Could not contact DNS servers]
-2025-07-05 10:10:44.390 ERROR (MainThread) [custom_components.hacs] Could not update integration - Error fetching data from HACS: Cannot connect to host data-v2.hacs.xyz:443 ssl:default [Could not contact DNS servers]
-2025-07-05 10:10:44.390 ERROR (MainThread) [custom_components.hacs] Could not update plugin - Error fetching data from HACS: Cannot connect to host data-v2.hacs.xyz:443 ssl:default [Could not contact DNS servers]
-2025-07-05 10:10:44.391 ERROR (MainThread) [custom_components.hacs] Could not update theme - Error fetching data from HACS: Cannot connect to host data-v2.hacs.xyz:443 ssl:default [Could not contact DNS servers]
-2025-07-05 10:10:44.404 ERROR (MainThread) [homeassistant.components.homeassistant_alerts.coordinator] Error requesting homeassistant_alerts data: Cannot connect to host alerts.home-assistant.io:443 ssl:default [Could not contact DNS servers]
-2025-07-05 10:10:44.542 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+2025-07-14 10:48:11.888 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration midea_ac_lan which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
+2025-07-14 10:48:11.889 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration iphonedetect which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
+2025-07-14 10:48:11.890 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration xiaomi_home which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
+2025-07-14 10:48:11.891 WARNING (SyncWorker_0) [homeassistant.loader] We found a custom integration hacs which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you experience issues with Home Assistant
+2025-07-14 10:48:17.593 WARNING (MainThread) [custom_components.hacs] <HacsData async_restore_repository> duplicate IDs The repo id for rsnodgrass/water-heater-card is already set to 279157206
+2025-07-14 10:48:17.602 WARNING (MainThread) [custom_components.hacs] <HacsData async_restore_repository> duplicate IDs The repo id for rsnodgrass/hass-adtpulse is already set to 1016273752
+2025-07-14 10:48:17.613 WARNING (MainThread) [custom_components.hacs] <HacsData async_restore_repository> duplicate IDs The repo id for rsnodgrass/hass-sensorpush is already set to 1016273292
+2025-07-14 10:48:28.479 WARNING (洗衣机) [midealocal.device] [210006734334358] Unable to connect, sleep 5 seconds and retry
+2025-07-14 10:48:38.864 ERROR (MainThread) [homeassistant] Error doing job: Task exception was never retrieved (None)
+Traceback (most recent call last):
+  File "/config/custom_components/hacs/base.py", line 667, in startup_tasks
+    await self.async_get_all_category_repositories()
+  File "/config/custom_components/hacs/base.py", line 832, in async_get_all_category_repositories
+    await asyncio.gather(
+    ...<4 lines>...
+    )
+  File "/config/custom_components/hacs/base.py", line 862, in async_get_category_repositories_experimental
+    self.repositories.set_repository_id(repository, repo_id)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/config/custom_components/hacs/base.py", line 290, in set_repository_id
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The repo id for rsnodgrass/water-heater-card is already set to 279157206
+2025-07-14 10:48:39.006 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
   __import__('pkg_resources').declare_namespace(__name__)
 
-2025-07-05 10:10:45.383 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/ProtocolMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.054 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/ProtocolMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.384 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/AudioFadeMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.055 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/AudioFadeMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.385 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/PlayerPath.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.055 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/PlayerPath.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.386 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/Origin.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.056 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/Origin.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.387 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/DeviceInfoMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.056 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/DeviceInfoMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.388 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/Common.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.057 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/Common.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.389 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/NowPlayingClient.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.059 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/NowPlayingClient.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.390 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/NowPlayingPlayer.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.059 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/NowPlayingPlayer.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.391 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/AudioFadeResponseMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.060 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/AudioFadeResponseMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.391 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/ClientUpdatesConfigMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.060 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/ClientUpdatesConfigMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.392 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/ConfigureConnectionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.061 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/ConfigureConnectionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.393 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/CryptoPairingMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.062 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/CryptoPairingMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.393 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GenericMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.062 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GenericMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.394 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GetKeyboardSessionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.063 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GetKeyboardSessionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.395 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GetRemoteTextInputSessionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.064 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GetRemoteTextInputSessionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.396 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GetVolumeMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.065 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GetVolumeMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.396 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GetVolumeResultMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.065 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/GetVolumeResultMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.397 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/KeyboardMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.066 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/KeyboardMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.398 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/ModifyOutputContextRequestMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.067 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/ModifyOutputContextRequestMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 10:10:45.399 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/NotificationMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+2025-07-14 10:48:40.067 WARNING (ImportExecutor_0) [py.warnings] /usr/local/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.31.1 at pyatv/protocols/mrp/protobuf/NotificationMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
   warnings.warn(
 
-2025-07-05 16:20:40.965 ERROR (MainThread) [async_upnp_client.ssdp] Received error: [Errno 101] Network unreachable, transport: <_SelectorDatagramTransport fd=23 read=polling write=<idle, bufsize=0>>, socket: <asyncio.TransportSocket fd=23, family=2, type=2, proto=0, laddr=('0.0.0.0', 60859)>
-2025-07-05 21:28:22.858 ERROR (ha.1a8d91666f8914d8a74b7f52c9b76ee5) [custom_components.xiaomi_home.miot.miot_client] ha.1a8d91666f8914d8a74b7f52c9b76ee5, mips disconnect, 7, None
-2025-07-05 21:28:22.858 ERROR (ha.1a8d91666f8914d8a74b7f52c9b76ee5) [custom_components.xiaomi_home.miot.miot_client] ha.1a8d91666f8914d8a74b7f52c9b76ee5, mips try reconnect after 30s
-2025-07-06 16:40:15.146 ERROR (MainThread) [homeassistant.components.automation.huan_qi] 换气: If at step 1: Error executing script. Unexpected error for device at pos 1: 
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 770, in _request
-    resp = await handler(req)
-           ^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 725, in _connect_and_send_request
-    conn = await self._connector.connect(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        req, traces=traces, timeout=real_timeout
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 622, in connect
-    proto = await self._create_connection(req, traces, timeout)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1189, in _create_connection
-    _, proto = await self._create_direct_connection(req, traces, timeout)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1530, in _create_direct_connection
-    transp, proto = await self._wrap_create_connection(
-                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<7 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1248, in _wrap_create_connection
-    sock = await aiohappyeyeballs.start_connection(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohappyeyeballs/impl.py", line 73, in start_connection
-    sock = await _connect_sock(
-           ^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohappyeyeballs/impl.py", line 208, in _connect_sock
-    await loop.sock_connect(sock, address)
-  File "/usr/local/lib/python3.13/asyncio/selector_events.py", line 641, in sock_connect
-    return await fut
-           ^^^^^^^^^
-asyncio.exceptions.CancelledError
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 524, in _async_step
-    await getattr(self, handler)()
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 1029, in _async_step_device
-    await device_action.async_call_action_from_config(
-        self._hass, self._action, dict(self._variables), self._context
-    )
-  File "/usr/src/homeassistant/homeassistant/components/device_automation/action.py", line 72, in async_call_action_from_config
-    await platform.async_call_action_from_config(hass, config, variables, context)
-  File "/usr/src/homeassistant/homeassistant/components/switch/device_action.py", line 36, in async_call_action_from_config
-    await toggle_entity.async_call_action_from_config(
-        hass, config, variables, context, DOMAIN
-    )
-  File "/usr/src/homeassistant/homeassistant/components/device_automation/toggle_entity.py", line 124, in async_call_action_from_config
-    await hass.services.async_call(
-        domain, action, service_data, blocking=True, context=context
-    )
-  File "/usr/src/homeassistant/homeassistant/core.py", line 2802, in async_call
-    response_data = await coro
-                    ^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/core.py", line 2845, in _execute_service
-    return await target(service_call)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/helpers/service.py", line 1009, in entity_service_call
-    single_response = await _handle_entity_call(
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^
-        hass, entity, func, data, call.context
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/service.py", line 1081, in _handle_entity_call
-    result = await task
-             ^^^^^^^^^^
-  File "/config/custom_components/xiaomi_home/switch.py", line 105, in async_toggle
-    await self.set_property_async(value=not self.is_on)
-  File "/config/custom_components/xiaomi_home/miot/miot_device.py", line 1260, in set_property_async
-    await self.miot_device.miot_client.set_prop_async(
-        did=self.miot_device.did, siid=self.spec.service.iid,
-        piid=self.spec.iid, value=value)
-  File "/config/custom_components/xiaomi_home/miot/miot_client.py", line 664, in set_prop_async
-    result = await self._http.set_prop_async(
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<2 lines>...
-        ])
-        ^^
-  File "/config/custom_components/xiaomi_home/miot/miot_cloud.py", line 817, in set_prop_async
-    res_obj = await self.__mihome_api_post_async(
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<5 lines>...
-    )
-    ^
-  File "/config/custom_components/xiaomi_home/miot/miot_cloud.py", line 340, in __mihome_api_post_async
-    http_res = await self._session.post(
-               ^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<3 lines>...
-        timeout=timeout)
-        ^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 622, in _request
-    with timer:
-         ^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/helpers.py", line 685, in __exit__
-    raise asyncio.TimeoutError from exc_val
-TimeoutError
-2025-07-06 16:40:15.171 ERROR (MainThread) [homeassistant.components.automation.huan_qi] 换气: Error executing script. Unexpected error for if at pos 1: 
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 770, in _request
-    resp = await handler(req)
-           ^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 725, in _connect_and_send_request
-    conn = await self._connector.connect(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        req, traces=traces, timeout=real_timeout
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 622, in connect
-    proto = await self._create_connection(req, traces, timeout)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1189, in _create_connection
-    _, proto = await self._create_direct_connection(req, traces, timeout)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1530, in _create_direct_connection
-    transp, proto = await self._wrap_create_connection(
-                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<7 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1248, in _wrap_create_connection
-    sock = await aiohappyeyeballs.start_connection(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohappyeyeballs/impl.py", line 73, in start_connection
-    sock = await _connect_sock(
-           ^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohappyeyeballs/impl.py", line 208, in _connect_sock
-    await loop.sock_connect(sock, address)
-  File "/usr/local/lib/python3.13/asyncio/selector_events.py", line 641, in sock_connect
-    return await fut
-           ^^^^^^^^^
-asyncio.exceptions.CancelledError
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 524, in _async_step
-    await getattr(self, handler)()
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 765, in _async_step_if
-    await self._async_run_script(if_data["if_then"])
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 636, in _async_run_script
-    result = await self._async_run_long_action(
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 624, in _async_run_long_action
-    return await long_task
-           ^^^^^^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 1836, in async_run
-    return await asyncio.shield(create_eager_task(run.async_run()))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 460, in async_run
-    await self._async_step(log_exceptions=False)
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 526, in _async_step
-    self._handle_exception(
-    ~~~~~~~~~~~~~~~~~~~~~~^
-        ex, continue_on_error, self._log_exceptions or log_exceptions
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 556, in _handle_exception
-    raise exception
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 524, in _async_step
-    await getattr(self, handler)()
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 1029, in _async_step_device
-    await device_action.async_call_action_from_config(
-        self._hass, self._action, dict(self._variables), self._context
-    )
-  File "/usr/src/homeassistant/homeassistant/components/device_automation/action.py", line 72, in async_call_action_from_config
-    await platform.async_call_action_from_config(hass, config, variables, context)
-  File "/usr/src/homeassistant/homeassistant/components/switch/device_action.py", line 36, in async_call_action_from_config
-    await toggle_entity.async_call_action_from_config(
-        hass, config, variables, context, DOMAIN
-    )
-  File "/usr/src/homeassistant/homeassistant/components/device_automation/toggle_entity.py", line 124, in async_call_action_from_config
-    await hass.services.async_call(
-        domain, action, service_data, blocking=True, context=context
-    )
-  File "/usr/src/homeassistant/homeassistant/core.py", line 2802, in async_call
-    response_data = await coro
-                    ^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/core.py", line 2845, in _execute_service
-    return await target(service_call)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/helpers/service.py", line 1009, in entity_service_call
-    single_response = await _handle_entity_call(
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^
-        hass, entity, func, data, call.context
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/service.py", line 1081, in _handle_entity_call
-    result = await task
-             ^^^^^^^^^^
-  File "/config/custom_components/xiaomi_home/switch.py", line 105, in async_toggle
-    await self.set_property_async(value=not self.is_on)
-  File "/config/custom_components/xiaomi_home/miot/miot_device.py", line 1260, in set_property_async
-    await self.miot_device.miot_client.set_prop_async(
-        did=self.miot_device.did, siid=self.spec.service.iid,
-        piid=self.spec.iid, value=value)
-  File "/config/custom_components/xiaomi_home/miot/miot_client.py", line 664, in set_prop_async
-    result = await self._http.set_prop_async(
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<2 lines>...
-        ])
-        ^^
-  File "/config/custom_components/xiaomi_home/miot/miot_cloud.py", line 817, in set_prop_async
-    res_obj = await self.__mihome_api_post_async(
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<5 lines>...
-    )
-    ^
-  File "/config/custom_components/xiaomi_home/miot/miot_cloud.py", line 340, in __mihome_api_post_async
-    http_res = await self._session.post(
-               ^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<3 lines>...
-        timeout=timeout)
-        ^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 622, in _request
-    with timer:
-         ^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/helpers.py", line 685, in __exit__
-    raise asyncio.TimeoutError from exc_val
-TimeoutError
-2025-07-06 16:40:15.177 ERROR (MainThread) [homeassistant.components.automation.huan_qi] While executing automation automation.huan_qi
-Traceback (most recent call last):
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 770, in _request
-    resp = await handler(req)
-           ^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 725, in _connect_and_send_request
-    conn = await self._connector.connect(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        req, traces=traces, timeout=real_timeout
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 622, in connect
-    proto = await self._create_connection(req, traces, timeout)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1189, in _create_connection
-    _, proto = await self._create_direct_connection(req, traces, timeout)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1530, in _create_direct_connection
-    transp, proto = await self._wrap_create_connection(
-                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<7 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/connector.py", line 1248, in _wrap_create_connection
-    sock = await aiohappyeyeballs.start_connection(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohappyeyeballs/impl.py", line 73, in start_connection
-    sock = await _connect_sock(
-           ^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/usr/local/lib/python3.13/site-packages/aiohappyeyeballs/impl.py", line 208, in _connect_sock
-    await loop.sock_connect(sock, address)
-  File "/usr/local/lib/python3.13/asyncio/selector_events.py", line 641, in sock_connect
-    return await fut
-           ^^^^^^^^^
-asyncio.exceptions.CancelledError
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/usr/src/homeassistant/homeassistant/components/automation/__init__.py", line 717, in async_trigger
-    return await self.action_script.async_run(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        variables, trigger_context, started_action
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 1836, in async_run
-    return await asyncio.shield(create_eager_task(run.async_run()))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 460, in async_run
-    await self._async_step(log_exceptions=False)
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 526, in _async_step
-    self._handle_exception(
-    ~~~~~~~~~~~~~~~~~~~~~~^
-        ex, continue_on_error, self._log_exceptions or log_exceptions
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 556, in _handle_exception
-    raise exception
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 524, in _async_step
-    await getattr(self, handler)()
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 765, in _async_step_if
-    await self._async_run_script(if_data["if_then"])
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 636, in _async_run_script
-    result = await self._async_run_long_action(
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 624, in _async_run_long_action
-    return await long_task
-           ^^^^^^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 1836, in async_run
-    return await asyncio.shield(create_eager_task(run.async_run()))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 460, in async_run
-    await self._async_step(log_exceptions=False)
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 526, in _async_step
-    self._handle_exception(
-    ~~~~~~~~~~~~~~~~~~~~~~^
-        ex, continue_on_error, self._log_exceptions or log_exceptions
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 556, in _handle_exception
-    raise exception
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 524, in _async_step
-    await getattr(self, handler)()
-  File "/usr/src/homeassistant/homeassistant/helpers/script.py", line 1029, in _async_step_device
-    await device_action.async_call_action_from_config(
-        self._hass, self._action, dict(self._variables), self._context
-    )
-  File "/usr/src/homeassistant/homeassistant/components/device_automation/action.py", line 72, in async_call_action_from_config
-    await platform.async_call_action_from_config(hass, config, variables, context)
-  File "/usr/src/homeassistant/homeassistant/components/switch/device_action.py", line 36, in async_call_action_from_config
-    await toggle_entity.async_call_action_from_config(
-        hass, config, variables, context, DOMAIN
-    )
-  File "/usr/src/homeassistant/homeassistant/components/device_automation/toggle_entity.py", line 124, in async_call_action_from_config
-    await hass.services.async_call(
-        domain, action, service_data, blocking=True, context=context
-    )
-  File "/usr/src/homeassistant/homeassistant/core.py", line 2802, in async_call
-    response_data = await coro
-                    ^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/core.py", line 2845, in _execute_service
-    return await target(service_call)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/src/homeassistant/homeassistant/helpers/service.py", line 1009, in entity_service_call
-    single_response = await _handle_entity_call(
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^
-        hass, entity, func, data, call.context
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/usr/src/homeassistant/homeassistant/helpers/service.py", line 1081, in _handle_entity_call
-    result = await task
-             ^^^^^^^^^^
-  File "/config/custom_components/xiaomi_home/switch.py", line 105, in async_toggle
-    await self.set_property_async(value=not self.is_on)
-  File "/config/custom_components/xiaomi_home/miot/miot_device.py", line 1260, in set_property_async
-    await self.miot_device.miot_client.set_prop_async(
-        did=self.miot_device.did, siid=self.spec.service.iid,
-        piid=self.spec.iid, value=value)
-  File "/config/custom_components/xiaomi_home/miot/miot_client.py", line 664, in set_prop_async
-    result = await self._http.set_prop_async(
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<2 lines>...
-        ])
-        ^^
-  File "/config/custom_components/xiaomi_home/miot/miot_cloud.py", line 817, in set_prop_async
-    res_obj = await self.__mihome_api_post_async(
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<5 lines>...
-    )
-    ^
-  File "/config/custom_components/xiaomi_home/miot/miot_cloud.py", line 340, in __mihome_api_post_async
-    http_res = await self._session.post(
-               ^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<3 lines>...
-        timeout=timeout)
-        ^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/client.py", line 622, in _request
-    with timer:
-         ^^^^^
-  File "/usr/local/lib/python3.13/site-packages/aiohttp/helpers.py", line 685, in __exit__
-    raise asyncio.TimeoutError from exc_val
-TimeoutError
-2025-07-06 23:00:18.367 ERROR (MainThread) [aiodhcpwatcher] Error while processing dhcp packet: [Errno 100] Network is down
-                                                                                                                                                                                                                                                                                                                                                                                                                                    
+2025-07-14 10:54:01.871 ERROR (ha.1a8d91666f8914d8a74b7f52c9b76ee5) [custom_components.xiaomi_home.miot.miot_client] ha.1a8d91666f8914d8a74b7f52c9b76ee5, mips disconnect, 7, None
+2025-07-14 10:54:01.871 ERROR (ha.1a8d91666f8914d8a74b7f52c9b76ee5) [custom_components.xiaomi_home.miot.miot_client] ha.1a8d91666f8914d8a74b7f52c9b76ee5, mips try reconnect after 30s
+2025-07-14 10:54:05.809 ERROR (MainThread) [aiodhcpwatcher] Error while processing dhcp packet: [Errno 100] Network is down

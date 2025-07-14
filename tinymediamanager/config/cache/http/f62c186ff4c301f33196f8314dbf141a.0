@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/229192/season/1/episode/61?language=zh&append_to_response=external_ids%2Ccredits%2Cimages&include_image_language=null&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 11:52:28 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=25397
+x-az: us-east-1b
+x-task-id: d3f9190ff103494594dfd1ae9378078c
+etag: W/"9d2ba2cd15cb0f5e3e36398497a3457e"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 00980881c14af16ba44a5b402a52c1fc.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: hD79E9zHELL0YC0XlOil7iPXUFIY0sBqtOOX3fyiBW1JOD59Vp5-qQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752321148041
+OkHttp-Received-Millis: 1752321148343
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

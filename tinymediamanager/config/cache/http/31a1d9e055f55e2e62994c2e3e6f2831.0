@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/1425/season/3/episode/4?language=zh-CN&append_to_response=external_ids%2Ccredits%2Cimages&include_image_language=null&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:56 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=25515
+x-az: us-east-1c
+x-task-id: 9bd085e97fbf42d6861fc3c3a190b799
+etag: W/"6c25aec7deb06c16152d501065d5c92d"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: LT7IGnNsDhbFRm89BiBhVFsSZp_MEjfH1IRxKS_O0U4tO5Ej53aBvA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303836634
+OkHttp-Received-Millis: 1752303836963
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

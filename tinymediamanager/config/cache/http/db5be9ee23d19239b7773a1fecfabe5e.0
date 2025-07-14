@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/292388/season/4?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:28:36 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=8093
+x-memc: HIT
+x-memc-key: 49debd363f3f28f74abff0f78b0f78df2717d987531abb6c9e29ac943acb69b7
+x-memc-age: 19690
+x-memc-expires: 8093
+x-az: us-east-1c
+x-task-id: a54dc0b0c9ae410493110e348ce951c8
+etag: W/"8a6e8df56fecba173d1c7c6f43781ffb"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 e9e4bbba23d13e123df627eb1b33ec60.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P9
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: pN8gNolmCVsTgCQc6BOvzC6ewF6Ll0CBI8NfV5wtPrrHn_Qz-kWMvg==
+vary: Origin
+OkHttp-Sent-Millis: 1752305316832
+OkHttp-Received-Millis: 1752305317105
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

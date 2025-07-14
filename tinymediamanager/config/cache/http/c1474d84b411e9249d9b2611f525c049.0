@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/79481/season/1?language=zh&append_to_response=credits&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 20:41:20 GMT
+etag: W/"eaeeef42abc44040bef7beb6324f1bf9"
+server: openresty
+cache-control: public, max-age=23434
+x-az: us-east-1a
+x-task-id: 5c9c9ee7e3894590b5038fe23d0226a3
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 7af4698bea7e964f89ad8d7ae22213a2.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: WUlMdlPmTOjoq1J28yK5SFBSGUz_Zy0pXJdFWtLbB5KxaMe66DEwYw==
+vary: Origin
+OkHttp-Sent-Millis: 1752352880399
+OkHttp-Received-Millis: 1752352880648
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

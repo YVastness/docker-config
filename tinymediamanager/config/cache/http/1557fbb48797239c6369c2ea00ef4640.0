@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/292400/season/1?language=zh&append_to_response=credits&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:30:32 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=16292
+x-az: us-east-1c
+x-task-id: 5023ab3b9c144ee0baa20e04eba6a948
+etag: W/"f502e8e2cbe6e7b278f4f3854417f909"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 0d4ebcaa87ba94709def0eaac9371e5a.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: zHXpkBHUAjUpRObsj40MndpbCkEinCAB2dwCuJI8Z7HBijNIuxvRDg==
+vary: Origin
+OkHttp-Sent-Millis: 1752305432399
+OkHttp-Received-Millis: 1752305432664
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

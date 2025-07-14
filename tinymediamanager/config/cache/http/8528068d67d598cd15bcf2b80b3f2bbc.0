@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/224839/season/2?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:36 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=10158
+x-memc: HIT
+x-memc-key: e9fa250e3531293a6e3b418f7452395143cd8da0a82953b081a05cd6ca56c759
+x-memc-age: 11520
+x-memc-expires: 10158
+x-az: us-east-1a
+x-task-id: 471f28648e7840068978596e0ff1009b
+etag: W/"031ff2845a49606e22a6c69e53de18eb"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: zOd1fEJdAqRlePiEOq3Ysdl-dySXxPI_kxOBaJ1-nH1tRFIDgOWy-w==
+vary: Origin
+OkHttp-Sent-Millis: 1752303816259
+OkHttp-Received-Millis: 1752303816568
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

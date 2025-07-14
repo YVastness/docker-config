@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/1425/season/6?language=zh-CN&append_to_response=credits&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:39 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=20286
+x-az: us-east-1a
+x-task-id: 09ec38820a2a4bd6a5ff96114573f0ba
+etag: W/"16d734cc5fbc2d3c91075687c7c2a401"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: u8z6zpafcKk7vA88F0g9bvTHKOBEr5aPKI66_1smMiCUDSp_EgUlMQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752303819360
+OkHttp-Received-Millis: 1752303819674
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

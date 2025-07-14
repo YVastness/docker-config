@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/292624/videos?language=&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 17:23:30 GMT
+server: openresty
+cache-control: public, max-age=5138
+x-memc: HIT
+x-memc-key: af24e22ae5f5a8f36b0ea3d791fda94a32a1b87b722cc66deb3b7b3c0076f0fc
+x-memc-age: 17352
+x-memc-expires: 5138
+x-az: us-east-1b
+x-task-id: d3f9190ff103494594dfd1ae9378078c
+etag: W/"2962b93b1bf283f7448e0bde3bd65ee5"
+vary: accept-encoding
+x-cache: RefreshHit from cloudfront
+via: 1.1 b13f158bdf9805ca47e07c0c35870c12.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: m7oHFbW27MVWmiGKx1sxLd3Mbex1I1qwRrbhoAe2JYy8aZmRGz9APg==
+vary: Origin
+OkHttp-Sent-Millis: 1752341010469
+OkHttp-Received-Millis: 1752341010731
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

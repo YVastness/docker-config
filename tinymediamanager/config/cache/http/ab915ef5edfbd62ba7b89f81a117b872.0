@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/292388/season/2/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:28:34 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=16548
+x-memc: HIT
+x-memc-key: c7a9c2d6c8b45f6d1a17ee48a78c3d396830f6a422da1d46a6e981257ce8f761
+x-memc-age: 8164
+x-memc-expires: 16548
+x-az: us-east-1c
+x-task-id: 5023ab3b9c144ee0baa20e04eba6a948
+etag: W/"aac619fa1a488b5661a3ad615fba4d93"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 e9e4bbba23d13e123df627eb1b33ec60.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P9
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: s7-aTIeLVHaewcazF5Ha2w0qD8tqwtwibntBGoEcZovCoOdVR8qPRQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752305313881
+OkHttp-Received-Millis: 1752305314155
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

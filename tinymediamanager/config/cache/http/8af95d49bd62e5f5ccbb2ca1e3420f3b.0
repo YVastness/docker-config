@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/37854/season/12?language=ja&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:04 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=9963
+x-memc: HIT
+x-memc-key: c324508b5c54357bd2bcafc7b1105541548eff6b17577eeaf351ed73b8583416
+x-memc-age: 13297
+x-memc-expires: 9963
+x-az: us-east-1b
+x-task-id: ae98e7a3d5ea4847b0e21faffd540620
+etag: W/"dc3f8b90d6c9bb458b754d8c1c406537"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: juWZKLfvKrVmAKlZJFXlDrfosovLoajOss1BV8ZkQRE3Gh-l7udgSw==
+vary: Origin
+OkHttp-Sent-Millis: 1752303783901
+OkHttp-Received-Millis: 1752303784260
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

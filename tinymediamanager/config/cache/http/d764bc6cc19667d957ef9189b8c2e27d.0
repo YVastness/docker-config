@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/285779/season/1?language=zh&append_to_response=credits&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 11:45:49 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=9265
+x-az: us-east-1a
+x-task-id: 3cb2411ae41b42ccb10d82afd9090f28
+etag: W/"438412f0aa1953d1698c5ee46045bb17"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 c84ddafed7088f377cf7518b7821ae6c.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: GshP40JGdLEgD1eusx_0vSALw0OIlPovvKZS-uueE9LsV6NvbMDaGg==
+vary: Origin
+OkHttp-Sent-Millis: 1752320749202
+OkHttp-Received-Millis: 1752320749500
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

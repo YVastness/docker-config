@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/1425/season/3/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:43 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=22719
+x-memc: HIT
+x-memc-key: a993319f291180253422ed9052e150761ffb67bab1817469298d9c285575d6a0
+x-memc-age: 2559
+x-memc-expires: 22719
+x-az: us-east-1b
+x-task-id: 6dc62571563f402396e6b4d9f7519c09
+etag: W/"0940a1da80fe18e4c6d352ad0b79b991"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: WpDlgY6iP1UhFjkUUTHNROqD9NBqDYNnJiIz34j4hxuZASPpPh2PWA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303823671
+OkHttp-Received-Millis: 1752303823992
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

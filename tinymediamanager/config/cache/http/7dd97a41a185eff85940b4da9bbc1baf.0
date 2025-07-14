@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/movie/121/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:34 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=24794
+x-memc: HIT
+x-memc-key: 78dfe8aa28059e7e5313f510c5ca564b5e8f3e259c1d5310d87b801973dd71ab
+x-memc-age: 1030
+x-memc-expires: 24794
+x-az: us-east-1a
+x-task-id: 09ec38820a2a4bd6a5ff96114573f0ba
+etag: W/"6216fa1cb8d6a4bf2e9b737f68d72d57"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 2i2qigWUlnwpeF8k7JQ5ECR9CIis2ZpuZcIneLwdyHuFSqSbcrSAaA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303694406
+OkHttp-Received-Millis: 1752303694752
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3
