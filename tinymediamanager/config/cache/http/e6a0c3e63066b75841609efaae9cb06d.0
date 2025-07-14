@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/223911/season/0?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:24 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=2351
+x-memc: HIT
+x-memc-key: acc9698ff027ce75c6fc3da8f667dd4b1035d8c526282325197023ad526ab7d0
+x-memc-age: 20093
+x-memc-expires: 2351
+x-az: us-east-1b
+x-task-id: 494f156cb9f34af7a984303825377784
+etag: W/"c3ababeeb615a08ea0d4e8fd4e56fb06"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: WvqvLQOeAkUFgXCPcZZ3VvUQbAmGnSEWLSF2UarczL0_q4NqTJHmOA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303804451
+OkHttp-Received-Millis: 1752303804764
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

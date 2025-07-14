@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/37854/season/18?language=zh-CN&append_to_response=credits&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:08 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=2467
+x-az: us-east-1a
+x-task-id: b8f65fc675cf46a8a6cd336b6d7b4577
+etag: W/"4e5c933a2ad3b46016bd08c79d3627be"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: XUxm0azzYV1hAhO8ShI3yltT5wQCrKhWdiIvCxSSKz5NNA1HnYvQ4A==
+vary: Origin
+OkHttp-Sent-Millis: 1752303787843
+OkHttp-Received-Millis: 1752303788157
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

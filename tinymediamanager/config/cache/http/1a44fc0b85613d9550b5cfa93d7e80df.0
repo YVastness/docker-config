@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/movie/603/videos?language=&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:29 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=14660
+x-memc: HIT
+x-memc-key: c30b2ef9f9be9718c59a61ec9436661e3a0b27703540e14ecd8fc763a0212411
+x-memc-age: 9914
+x-memc-expires: 14660
+x-az: us-east-1b
+x-task-id: 494f156cb9f34af7a984303825377784
+etag: W/"218a833377bfe5c27ab17dcc326a30f4"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: w1bfSXT44H7b-YJb8o5hGthjKCs9b2n4f1bGoILc02ppxUDSOKLR3A==
+vary: Origin
+OkHttp-Sent-Millis: 1752303689799
+OkHttp-Received-Millis: 1752303690116
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

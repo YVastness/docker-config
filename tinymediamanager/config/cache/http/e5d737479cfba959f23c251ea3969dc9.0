@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/79481/season/3/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 20:41:34 GMT
+etag: W/"b10aa97a6b1a6d2f5bb1b81b7d4d83ef"
+server: openresty
+cache-control: public, max-age=5461
+x-memc: HIT
+x-memc-key: 830be90fd27f0702731603c6106db29f0744e8089d99563f4abce9890c1dcdd2
+x-memc-age: 21176
+x-memc-expires: 5461
+x-az: us-east-1b
+x-task-id: d3f9190ff103494594dfd1ae9378078c
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 00980881c14af16ba44a5b402a52c1fc.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 7YIoFyDj8QM3hl4Giu0I5QlikDCRfpl7lECn-quYwfOAxD1lg1Ausg==
+vary: Origin
+OkHttp-Sent-Millis: 1752352893886
+OkHttp-Received-Millis: 1752352894167
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

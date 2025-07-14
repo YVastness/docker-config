@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/261597/season/1/translations?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:26:44 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=10337
+x-memc: HIT
+x-memc-key: b6cb9be68afc6081c1bc50d08d7b2966963d1ecaeaa8409b7df00895c7f8c941
+x-memc-age: 11850
+x-memc-expires: 10337
+x-az: us-east-1b
+x-task-id: 4df14dbffd4c4d5fa5ffbf938ea4fd37
+etag: W/"ecfcc7249f590550d5bdafa1d8b5b87a"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 31119c39c5a6dc62dfa1fe940afd7be2.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: QqpP-jTboIToYF4fO-Ul08f-FVYsm5eh_l0C80zvpeSSMx0DTtCDIA==
+vary: Origin
+OkHttp-Sent-Millis: 1752305203962
+OkHttp-Received-Millis: 1752305204227
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

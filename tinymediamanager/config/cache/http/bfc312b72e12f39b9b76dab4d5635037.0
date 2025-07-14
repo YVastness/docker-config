@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/37854/season/3?language=ja&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:02:58 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=5626
+x-memc: HIT
+x-memc-key: 9e20a76517a6fc3c5dc8d34b3af05820856fa6d06328b4c8714ebbe4f62e5b2e
+x-memc-age: 20258
+x-memc-expires: 5626
+x-az: us-east-1c
+x-task-id: 70735e56c18a47b49f02154ff57dfd68
+etag: W/"a683f966f0197a7711944173e30233c4"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: myfnMv4KPV7p57tFG-N28Ivkhan730KPd0V-jagcR0Xyvj3_fBYhKw==
+vary: Origin
+OkHttp-Sent-Millis: 1752303777924
+OkHttp-Received-Millis: 1752303778233
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

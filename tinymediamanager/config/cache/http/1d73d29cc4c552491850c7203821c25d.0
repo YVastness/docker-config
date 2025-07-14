@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/124003/season/1?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:22 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=8361
+x-memc: HIT
+x-memc-key: bd2b77a3e45635b7ec517f5ea1c87e5633f5ec1d14edf830ad873b9e42bb957f
+x-memc-age: 19970
+x-memc-expires: 8361
+x-az: us-east-1b
+x-task-id: 6dc62571563f402396e6b4d9f7519c09
+etag: W/"5154727df7d678eda4cb8fc01d735a10"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: vXyb9cuxZ7wZFLbLw26bnEq4F6leqV4I9FUSqXig0c8VBDrREZLrxA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303802468
+OkHttp-Received-Millis: 1752303802846
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

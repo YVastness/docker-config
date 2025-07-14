@@ -1,0 +1,128 @@
+2025-07-13 00:00:00.015 Info App: Emby Server Version: 4.8.11.0
+2025-07-13 00:00:00.015 Info App: Emby
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.86 (buildbot@buildbot.infra.immortalwrt.org) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 r33048-cc720ea55a71) 13.3.0, GNU ld
+	Framework: .NET 6.0.36
+	OS/Process: x64/x64
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+2025-07-13 00:00:00.015 Info App: Logs path: /config/logs
+2025-07-13 00:00:00.015 Info App: Cache path: /config/cache
+2025-07-13 00:00:00.015 Info App: Internal metadata path: /config/metadata
+2025-07-13 00:00:00.015 Info App: Transcoding temporary files path: /config/transcoding-temp
+2025-07-13 00:00:00.015 Info App: Plugins:
+	Backup & Restore 1.8.0.0
+	Bluray Folder Support 1.0.2.0
+	Cinema Intros 1.0.47.0
+	DLNA 1.5.1.0
+	Dvd Folder Support 1.0.0.0
+	Emby Guide Data 1.0.18.0
+	Fanart.tv 1.0.16.0
+	M3U TV Tuner 1.0.39.0
+	MetaTube 2025.410.110.0
+	MovieDb 1.8.3.0
+	MusicBrainz 1.0.25.0
+	Nfo Metadata 1.0.83.0
+	OMDb 1.0.22.0
+	Open Subtitles 1.0.64.0
+	Port Mapper 1.2.8.0
+	Studio Images 1.0.3.0
+	TheAudioDb 1.0.20.0
+	TheTVDB 1.6.2.0
+	Webhooks 1.0.35.0
+	XmlTV 1.2.0.0
+2025-07-13 01:04:40.228 Info Server: Stopping HttpListener...
+2025-07-13 01:04:40.236 Info Server: HttpListener stopped
+2025-07-13 01:04:40.236 Info App: Disposing CoreAppHost
+2025-07-13 01:04:40.237 Info App: Disposing LoopUtilEntryPoint
+2025-07-13 01:04:40.237 Info App: Disposing SyncNotificationEntryPoint
+2025-07-13 01:04:40.240 Info App: Disposing ConnectEntryPoint
+2025-07-13 01:04:40.240 Info App: Disposing NotificationManagerEntryPoint
+2025-07-13 01:04:40.240 Info App: Disposing EncodingManagerEntryPoint
+2025-07-13 01:04:40.240 Info App: Disposing ActivityLogEntryPoint
+2025-07-13 01:04:40.246 Info App: Disposing RecordingNotifier
+2025-07-13 01:04:40.247 Info App: Disposing EntryPoint
+2025-07-13 01:04:40.248 Info App: Disposing ChannelsEntryPoint
+2025-07-13 01:04:40.248 Info App: Disposing UserDataChangeNotifier
+2025-07-13 01:04:40.248 Info App: Disposing SystemEvents
+2025-07-13 01:04:40.248 Info App: Disposing StartupWizard
+2025-07-13 01:04:40.248 Info App: Disposing ServerEventNotifier
+2025-07-13 01:04:40.250 Info App: Disposing LibraryChangedNotifier
+2025-07-13 01:04:40.251 Info App: Disposing KeepServerAwake
+2025-07-13 01:04:40.251 Info App: Disposing AutomaticRestartEntryPoint
+2025-07-13 01:04:40.251 Info App: Disposing LibraryMonitorStartup
+2025-07-13 01:04:40.251 Info App: Disposing DeviceAccessEntryPoint
+2025-07-13 01:04:40.251 Info App: Disposing RemoteAddressEntryPoint
+2025-07-13 01:04:40.251 Info App: Disposing PlaylistUpgradeEntryPoint
+2025-07-13 01:04:40.251 Info App: Disposing UdpServerEntryPoint
+2025-07-13 01:04:40.251 Info App: Disposing ExternalPortForwarding
+2025-07-13 01:04:40.252 Info App: Disposing ServerEntryPoint
+2025-07-13 01:04:40.252 Info App: Disposing EntryPoint
+2025-07-13 01:04:40.252 Info App: Disposing IntrosEntryPoint
+2025-07-13 01:04:40.252 Info App: Disposing PluginSecurityManager
+2025-07-13 01:04:40.252 Info App: Disposing PluginStartup
+2025-07-13 01:04:40.253 Info App: Disposing EntryPoint
+2025-07-13 01:04:40.253 Info App: Disposing DlnaEntryPoint
+2025-07-13 01:04:40.253 Info DLNA: Disposing PlayToManager
+2025-07-13 01:04:40.253 Info App: Disposing MigrationEntryPoint
+2025-07-13 01:04:40.253 Info App: Disposing StrmMounter
+2025-07-13 01:04:40.253 Info App: Disposing BlurayMounter
+2025-07-13 01:04:40.253 Info App: Disposing DvdMounter
+2025-07-13 01:04:40.253 Info App: Disposing OpenSubtitleDownloader
+2025-07-13 01:04:40.253 Info App: Disposing HauppaugeTunerWindows
+2025-07-13 01:04:40.253 Info App: Disposing ActivityLogWebSocketListener
+2025-07-13 01:04:40.254 Info App: Disposing SessionWebSocketListener
+2025-07-13 01:04:40.254 Info App: Disposing ScheduledTasksWebSocketListener
+2025-07-13 01:04:40.255 Info App: Disposing SessionInfoWebSocketListener
+2025-07-13 01:04:40.255 Info App: Disposing SessionInfosWebSocketListener
+2025-07-13 01:04:40.257 Info App: Disposing SessionEventsWebSocketListener
+2025-07-13 01:04:40.257 Info App: Disposing UIPagesManager
+2025-07-13 01:04:40.258 Info App: Disposing EncodingManager
+2025-07-13 01:04:40.258 Info App: Disposing ActivityRepository
+2025-07-13 01:04:40.259 Info ActivityRepository: DisposeConnection
+2025-07-13 01:04:40.259 Info ActivityRepository: PRAGMA analysis_limit=400;PRAGMA optimize
+2025-07-13 01:04:40.260 Info ActivityRepository: Closing sqlite connection
+2025-07-13 01:04:40.260 Info App: Disposing MediaEncoder
+2025-07-13 01:04:40.260 Info App: Disposing SsdpDevicePublisher
+2025-07-13 01:04:40.263 Info App: Disposing SsdpCommunicationsServer
+2025-07-13 01:04:40.264 Info App: SsdpCommunicationsServer Disposing 4 sendSockets
+2025-07-13 01:04:40.264 Info App: SsdpCommunicationsServer disposing sendSocket from 0.0.0.0:1900
+2025-07-13 01:04:40.264 Info App: SsdpCommunicationsServer disposing sendSocket from 0.0.0.0:33689
+2025-07-13 01:04:40.264 Info App: SsdpCommunicationsServer disposing sendSocket from 192.168.1.2:48810
+2025-07-13 01:04:40.264 Info App: SsdpCommunicationsServer disposing sendSocket from 127.0.0.1:43917
+2025-07-13 01:04:40.264 Info App: Disposing NotificationManager
+2025-07-13 01:04:40.265 Info App: Disposing LiveTvManager
+2025-07-13 01:04:40.265 Info App: Disposing SessionManager
+2025-07-13 01:04:40.267 Info App: Disposing ProviderManager
+2025-07-13 01:04:40.267 Info App: Disposing MediaSourceManager
+2025-07-13 01:04:40.268 Info App: Disposing ImageProcessor
+2025-07-13 01:04:40.268 Info App: Disposing ProcessManager
+2025-07-13 01:04:40.269 Info App: Disposing HttpListenerHost
+2025-07-13 01:04:40.269 Info Server: Stopping HttpListener...
+2025-07-13 01:04:40.269 Info Server: HttpListener stopped
+2025-07-13 01:04:40.269 Info App: Disposing LibraryMonitor
+2025-07-13 01:04:40.270 Info App: Disposing AuthenticationRepository
+2025-07-13 01:04:40.270 Info AuthenticationRepository: DisposeConnection
+2025-07-13 01:04:40.270 Info AuthenticationRepository: PRAGMA analysis_limit=400;PRAGMA optimize
+2025-07-13 01:04:40.270 Info AuthenticationRepository: Closing sqlite connection
+2025-07-13 01:04:40.273 Info App: Disposing SqliteUserDataRepository
+2025-07-13 01:04:40.273 Info SqliteUserDataRepository: DisposeConnection
+2025-07-13 01:04:40.273 Info App: Disposing SqliteItemRepository
+2025-07-13 01:04:40.273 Info SqliteItemRepository: DisposeConnection
+2025-07-13 01:04:40.273 Info SqliteItemRepository: PRAGMA analysis_limit=400;PRAGMA optimize
+2025-07-13 01:04:40.290 Info SqliteItemRepository: Closing sqlite connection
+2025-07-13 01:04:40.302 Info App: Disposing SqliteDisplayPreferencesRepository
+2025-07-13 01:04:40.302 Info SqliteDisplayPreferencesRepository: DisposeConnection
+2025-07-13 01:04:40.302 Info SqliteDisplayPreferencesRepository: PRAGMA analysis_limit=400;PRAGMA optimize
+2025-07-13 01:04:40.302 Info SqliteDisplayPreferencesRepository: Closing sqlite connection
+2025-07-13 01:04:40.302 Info App: Disposing SqliteUserRepository
+2025-07-13 01:04:40.302 Info SqliteUserRepository: DisposeConnection
+2025-07-13 01:04:40.302 Info SqliteUserRepository: PRAGMA analysis_limit=400;PRAGMA optimize
+2025-07-13 01:04:40.302 Info SqliteUserRepository: Closing sqlite connection
+2025-07-13 01:04:40.302 Info App: Disposing InstallationManager
+2025-07-13 01:04:40.303 Info App: Disposing TaskManager
+2025-07-13 01:04:40.304 Info App: Disposing MediaMountManager
+2025-07-13 01:04:40.305 Info App: Dispose complete
+2025-07-13 01:04:40.320 Info Main: Shutdown complete

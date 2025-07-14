@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/203367/season/1/episode/34?language=zh-CN&append_to_response=external_ids%2Ccredits%2Cimages&include_image_language=null&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 07:15:23 GMT
+server: openresty
+cache-control: public, max-age=21546
+x-az: us-east-1c
+x-task-id: 9bd085e97fbf42d6861fc3c3a190b799
+etag: W/"509afa0eec8380911feadb0402667eb6"
+vary: accept-encoding
+x-cache: RefreshHit from cloudfront
+via: 1.1 2324edbcb8fc72f617442c65f36a40fc.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: pelCEQfoP_BaB2Scm2fjEDiQKWaFhoe3TPVEPIOdtY9baAhXwAgJlA==
+vary: Origin
+OkHttp-Sent-Millis: 1752304523772
+OkHttp-Received-Millis: 1752304524038
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

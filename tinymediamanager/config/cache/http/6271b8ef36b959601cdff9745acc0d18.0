@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/229192/season/0?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:02:36 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=26690
+x-memc: HIT
+x-memc-key: 80f83d971d7d3038659331c709a2b0eebf5982ddaddfd2ccf5d13d5c9e4c6608
+x-memc-age: 1
+x-memc-expires: 26690
+x-az: us-east-1c
+x-task-id: 70735e56c18a47b49f02154ff57dfd68
+etag: W/"85f0365f87f44caac7833cdd43752073"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 23OPzhkIbTVm3P-5nkdmwJt7Y-Pmb1AHDac0m4HDjmziaEeVvD2erQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752303756085
+OkHttp-Received-Millis: 1752303756396
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

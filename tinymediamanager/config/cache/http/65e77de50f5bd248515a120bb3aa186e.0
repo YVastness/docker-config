@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/229192/season/3/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 11:49:40 GMT
+etag: W/"1a09905164432af584a6a34d4d985474"
+server: openresty
+cache-control: public, max-age=14856
+x-memc: HIT
+x-memc-key: 333266746542027f8d94c1879b79ef604e8646d2d034719f90edbec4262ad573
+x-memc-age: 8735
+x-memc-expires: 14856
+x-az: us-east-1a
+x-task-id: 5c9c9ee7e3894590b5038fe23d0226a3
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 9b3fc559d946648abd0005d8a170b26c.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: lSWKYj2GvHtAX11aCVuRW_mXah-E9JmoKqB_rBdsBxwMP7boTHwkCg==
+vary: Origin
+OkHttp-Sent-Millis: 1752320980138
+OkHttp-Received-Millis: 1752320980419
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

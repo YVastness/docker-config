@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/movie/122/videos?language=&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:35 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=6689
+x-memc: HIT
+x-memc-key: 52d4d653f246a70168753f468ea4b23a4ecec56fa50001cde5d5f57b610d53dc
+x-memc-age: 17687
+x-memc-expires: 6689
+x-az: us-east-1b
+x-task-id: ae98e7a3d5ea4847b0e21faffd540620
+etag: W/"ff354dedb9dbe952f7555613826c345d"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: mfLnxhAjgHuv6QySctSKuXBRHiY9wq-x4S05yQzyeRGCuUlT1IkDmA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303695172
+OkHttp-Received-Millis: 1752303695499
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

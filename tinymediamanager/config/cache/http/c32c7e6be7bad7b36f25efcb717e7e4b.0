@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/37854/season/11?language=zh-CN&append_to_response=credits&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:03 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=24043
+x-az: us-east-1c
+x-task-id: 8c9404d870b64dffa1dc250deb1e024f
+etag: W/"5478b068e1cfd99f6de06c8a533d91a7"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: wT8lGX1HcuhpwB2Y3MIB6oAH1sqfXTRSI9uDrbUWMzSz58Wq1sbmJA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303782942
+OkHttp-Received-Millis: 1752303783263
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

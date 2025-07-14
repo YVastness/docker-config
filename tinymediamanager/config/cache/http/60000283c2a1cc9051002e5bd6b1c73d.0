@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/1425/season/0?language=en&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:36 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=26899
+x-memc: HIT
+x-memc-key: 79551bb2358662c52a0170a40f371c4697c018d838d0c0b1e967f9a32356b273
+x-memc-age: 340
+x-memc-expires: 26899
+x-az: us-east-1c
+x-task-id: 5023ab3b9c144ee0baa20e04eba6a948
+etag: W/"776f306b4c0f359dd522cd0ed21a3cf9"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: vBNpe13qknSWi7TujV6M7fcaPudWyFDWJmuiwTAWgDHEWFvmunUWoA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303815844
+OkHttp-Received-Millis: 1752303816155
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

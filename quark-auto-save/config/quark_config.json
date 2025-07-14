@@ -34,11 +34,11 @@
     "aria2": {
       "host_port": "192.168.2.1:6800",
       "secret": "wsoe8vkt3ob7uxgvqq63947cprbpspch",
-      "dir": "/mnt/sda2/Videos/Movies"
+      "dir": "/mnt/sda2/Videos"
     },
     "emby": {
-      "url": "",
-      "token": ""
+      "url": "http://192.168.2.1:8096/",
+      "token": "dd5ec842e9314277b3544fddffb0e5ee"
     },
     "plex": {
       "url": "",
@@ -68,9 +68,9 @@
     {
       "taskname": "一念永恒",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/aa14182590974da493b544f5655d0824-Y%20%E4%B8%80.%EF%BD%9C%E6%8D%BB%EF%BD%9CY.%E6%81%92/1726e1f7ee9f4559bb19fd1418950519-%E4%B8%80.%EF%BD%9C%E5%BF%B5%EF%BD%9CY.%E6%81%86/78e5ed292e7b4f468983c88994d30973-Season%203",
-      "savepath": "/国漫/一念永恒",
+      "savepath": "/Animes/一念永恒（分季版） (2020)",
       "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
-      "replace": "一念永恒S\\1E\\2.\\5",
+      "replace": "一念永恒（分季版） - S\\1E\\2.\\5",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -105,9 +105,9 @@
     {
       "taskname": "斗罗大陆Ⅱ绝世唐门",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/04888ff2907f41c996f394eada6ab340-D%20%E6%96%97.%E6%A4%A4%EF%BD%9C%E6%B1%8F.%E9%99%86/6a3d859ae02849ff8fcec0b70cf3c9c6-%E6%96%972%20%E7%BB%9D.%E4%B8%96.%E5%94%90.%E9%97%A8%204K",
-      "savepath": "/国漫/斗罗大陆Ⅱ绝世唐门",
+      "savepath": "/Animes/斗罗大陆Ⅱ绝世唐门 (2023)",
       "pattern": "(\\d+).*(\\.)(mp4|mkv)",
-      "replace": "斗罗大陆Ⅱ绝世唐门S01E\\1\\2\\3",
+      "replace": "斗罗大陆Ⅱ绝世唐门 - S01E\\1\\2\\3",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -142,9 +142,9 @@
     {
       "taskname": "沧元图",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/d09245b87d93460db96822ef708889ac-C%20%E6%B2%A7%EF%BD%9C%E5%9C%9C%EF%BD%9C%E6%B1%A2%EF%BD%9C/dd0b524359744ff4b98bcb1fad07db74-%E6%B2%A7%EF%BD%9C%E5%9C%9C%EF%BD%9C%E6%B1%A2%EF%BD%9C.%20%E6%9B%B4%E6%96%B0%E4%B8%AD/269b217a9ce24f31a0fb078b033ca1d0-S02",
-      "savepath": "/国漫/沧元图",
+      "savepath": "/Animes/沧元图 (2023)",
       "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
-      "replace": "沧元图S\\1E\\2.\\5",
+      "replace": "沧元图 - S\\1E\\2.\\5",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -179,9 +179,9 @@
     {
       "taskname": "斗破苍穹",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/a4f69e89d5854983b2c519225b29faa5-D%20%E6%96%97%EF%BD%9CP.%E5%80%89...*101%E7%A9%B9/f313f43762734bbc830b3082c259cf46-%E6%96%97%EF%BD%9CP.%E8%92%BC...%E7%AA%AE",
-      "savepath": "/国漫/斗破苍穹",
+      "savepath": "/Animes/斗破苍穹 (2017)",
       "pattern": "(\\d+).*(\\.)(mp4|mkv)",
-      "replace": "斗破苍穹S01E\\1\\2\\3",
+      "replace": "斗破苍穹 - S05E\\1\\2\\3",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -216,9 +216,9 @@
     {
       "taskname": "诡秘之主",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/867323990d514c188606326b51d5220d-G%20%E8%AF%A1.%E5%98%A7%EF%BD%9CZ.%E4%B8%BB/3be676b31bbd4897a70043f2eb27ce3e-CR%201080%202G*101%E9%9B%86",
-      "savepath": "/国漫/诡秘之主",
+      "savepath": "/Animes/诡秘之主 (2025)",
       "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
-      "replace": "诡秘之主S\\1E\\2.\\5",
+      "replace": "诡秘之主 - S\\1E\\2.\\5",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -253,9 +253,9 @@
     {
       "taskname": "神国之上",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/a80674b91ec7430b9631ecd1219e8218-S%20%E8%A8%B7.%E5%9C%8B.%EF%BD%9C%E4%B9%8B.%E4%B8%8A%20(2025)/6b58361c81f3430691b5e194067bc74c-S%20%E8%A8%B7.%E5%9C%8B.%EF%BD%9C%E4%B9%8B.%E4%B8%84%20(2025)",
-      "savepath": "/国漫/神国之上",
+      "savepath": "/Animes/神国之上 (2025)",
       "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
-      "replace": "神国之上S\\1E\\2.\\5",
+      "replace": "神国之上 - S\\1E\\2.\\5",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -290,9 +290,9 @@
     {
       "taskname": "神印王座",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/20354bc1b36f4b2284fbfb0de0172824-S%20%E7%A5%9E.Y%EF%BD%9C.%E7%8E%8B*101*101W*101*101.%E5%BA%A7./9890e0bd2d2b4739b8bb8539f418025d-%E7%A5%9E.Y%EF%BD%9C.%E7%8E%8B*101*101W*101*101.%E5%9D%90.",
-      "savepath": "/国漫/神印王座",
+      "savepath": "/Animes/神印王座 (2022)",
       "pattern": "(\\d+).*(\\.)(mp4|mkv)",
-      "replace": "神印王座S01E\\1\\2\\3",
+      "replace": "神印王座 - S01E\\1\\2\\3",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -327,9 +327,9 @@
     {
       "taskname": "吞噬星空",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/a078b027627a4f0099201ce7b78c5906-T%20%E5%90%9E.%E5%8F%A3%E7%AD%AE%EF%BD%9CX.%EF%BD%9C%E7%AE%9C/a3d2eff8abcf46d8b89b259ca499b538-%E5%90%9E%20%E5%97%9C%EF%BD%9C%E7%91%86%EF%BD%9C%E7%A9%BA",
-      "savepath": "/国漫/吞噬星空",
+      "savepath": "/Animes/吞噬星空 (2020)",
       "pattern": "(\\d+).*(\\.)(mp4|mkv)",
-      "replace": "吞噬星空S01E\\1\\2\\3",
+      "replace": "吞噬星空 - S01E\\1\\2\\3",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -364,9 +364,9 @@
     {
       "taskname": "完美世界",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/cec7ffc1684546079137459f4d1db909-W%20%E5%AE%8C.M.%EF%BD%9CS..%EF%BD%9C%E7%95%8C",
-      "savepath": "/国漫/完美世界",
+      "savepath": "/Animes/完美世界 (2021)",
       "pattern": "(\\d+).*(\\.)(mp4|mkv)",
-      "replace": "完美世界S01E\\1\\2\\3",
+      "replace": "完美世界 - S01E\\1\\2\\3",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -401,9 +401,9 @@
     {
       "taskname": "星辰变",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/79cab8a4a1b1488f9fd3d7c13ba64bbe-X%20%E6%98%9F.%E8%BE%B0.%E5%8F%98(2025)/86b8d970659747afb8980761e3445cea-S06",
-      "savepath": "/国漫/星辰变",
+      "savepath": "/Animes/星辰变 (2018)",
       "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
-      "replace": "星辰变S\\1E\\2.\\5",
+      "replace": "星辰变 - S\\1E\\2.\\5",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -438,9 +438,9 @@
     {
       "taskname": "仙逆",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/7e50aa0903fa45b1a305c9696fa58cce-X%20%E8%8B%AE.%EF%BD%9C%E5%B1%B0/d1e01007e1a246c5a505406b0118fbcd-X%20%E8%8B%AE%EF%BD%9C%20%E5%B1%B0",
-      "savepath": "/国漫/仙逆",
+      "savepath": "/Animes/仙逆 (2023)",
       "pattern": "S(\\d+)E(\\d+)(\\.).*(\\.)(mp4|mkv)",
-      "replace": "仙逆S\\1E\\2.\\5",
+      "replace": "仙逆 - S\\1E\\2.\\5",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -475,9 +475,9 @@
     {
       "taskname": "遮天",
       "shareurl": "https://pan.quark.cn/s/f5576df61e17#/list/share/7182b5d713d74081998b9bf15039a6da-%E5%9B%BD%E6%BC%AB/61d8e7fee0424ab185af2624ef12e69e-Z*101%E9%81%AE..%EF%BD%9C..%E5%A4%A9/4667958b18504417a53bd27134b87ff5-%E8%BF%99..%EF%BD%9C..%E5%A4%A9",
-      "savepath": "/国漫/遮天",
+      "savepath": "/Animes/遮天 (2023)",
       "pattern": "(\\d+).*(\\.)(mp4|mkv)",
-      "replace": "遮天S01E\\1\\2\\3",
+      "replace": "遮天 - S01E\\1\\2\\3",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {
@@ -510,11 +510,11 @@
       ]
     },
     {
-      "taskname": "海贼王",
+      "taskname": "航海王",
       "shareurl": "https://pan.quark.cn/s/fa860d53315e#/list/share/28653facf6114356ac49b37ec631f07d-H%20%E6%B5%B7%E8%B4%BC%E7%8E%8B/fc68c0db603a4c8eaab85658665681fb-%E6%B5%B7%E8%B4%BC%E7%8E%8B%20TV%E7%89%88",
-      "savepath": "/海贼王",
+      "savepath": "/Animes/航海王 (1999)",
       "pattern": "(\\d+).*(\\.)(mp4|mkv)",
-      "replace": "海贼王S01E\\1\\2\\3",
+      "replace": "航海王 - S01E\\1\\2\\3",
       "enddate": "",
       "addition": {
         "alist_strm_gen": {

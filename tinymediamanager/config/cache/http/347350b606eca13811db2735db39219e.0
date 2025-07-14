@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/198182?language=zh-CN&append_to_response=translations&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 07:15:16 GMT
+server: openresty
+cache-control: public, max-age=23451
+x-az: us-east-1b
+x-task-id: f9c53df32445444d91202c48f5cf8823
+etag: W/"8746e8e834f832c900a40f990e4c9758"
+vary: accept-encoding
+x-cache: RefreshHit from cloudfront
+via: 1.1 60da66b0b895927a557eca913aeebc9a.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX54-P4
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: dQqGGIclrIVDcBPNG9HORSHZ2fjBldtQSa_N39P0xhVavCflPHSCKQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752304516428
+OkHttp-Received-Millis: 1752304516733
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/232230/videos?language=zh-CN&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:02:50 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=26348
+x-memc: HIT
+x-memc-key: 24aba1da1ef199b6ff12ac9a7ba71dad74c28292ad37f98c44ff61ec16d6fcb9
+x-memc-age: 50
+x-memc-expires: 26348
+x-az: us-east-1b
+x-task-id: f9c53df32445444d91202c48f5cf8823
+etag: W/"ed25311de74e516890f56e1e7683864c"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: zVCJbXLNJECo1QNU4NXv5IgaKV7ZDF8qQqDOTla5nOdq46b9cgfL-Q==
+vary: Origin
+OkHttp-Sent-Millis: 1752303770011
+OkHttp-Received-Millis: 1752303770328
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

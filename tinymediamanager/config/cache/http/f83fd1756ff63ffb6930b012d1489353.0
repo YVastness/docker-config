@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/movie/120?language=zh-CN&append_to_response=translations&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:32 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=7436
+x-az: us-east-1b
+x-task-id: 6dc62571563f402396e6b4d9f7519c09
+etag: W/"f167390227e7a46163212c453960af2b"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 24q8kYlEsl7sbwPXi9xeWydD_3ujXbCTRxttA0peo8CmbPsDnVkw6w==
+vary: Origin
+OkHttp-Sent-Millis: 1752303692720
+OkHttp-Received-Millis: 1752303693051
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

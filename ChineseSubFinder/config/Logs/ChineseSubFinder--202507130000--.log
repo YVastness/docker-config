@@ -1,0 +1,699 @@
+[INFO]: 2025-07-13 00:48:28 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 00:48:28 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 00:48:28 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 00:48:28 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 00:48:28 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 00:48:28 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 00:48:28 - UseHttpProxy = false
+[ERROR]: 2025-07-13 00:48:33 - UrlConnectednessTest Target Site https://baidu.com, Get "https://baidu.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[INFO]: 2025-07-13 00:48:33 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 00:50:33 - a4k CheckAlive.Get Get "https://www.a4k.net": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[WARNING]: 2025-07-13 00:50:33 - a4k Check Alive = false
+[ERROR]: 2025-07-13 00:50:33 - xunlei NewHttpClient: CheckFileName Get "http://sub.xmp.sandai.net:8000/subxl/FB4E2AFF106112136DFC5ACC7339EB29D1EC0CF8.json": dial tcp 198.18.1.216:8000: i/o timeout (Client.Timeout exceeded while awaiting headers)
+[ERROR]: 2025-07-13 00:50:33 - xunlei CheckAlive Error Get "http://sub.xmp.sandai.net:8000/subxl/FB4E2AFF106112136DFC5ACC7339EB29D1EC0CF8.json": dial tcp 198.18.1.216:8000: i/o timeout (Client.Timeout exceeded while awaiting headers)
+[WARNING]: 2025-07-13 00:50:33 - xunlei Check Alive = false
+[ERROR]: 2025-07-13 00:50:33 - shooter NewHttpClient: S05E09.mkv Post "https://www.shooter.cn/api/subapi.php": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[ERROR]: 2025-07-13 00:50:33 - shooter CheckAlive Error Post "https://www.shooter.cn/api/subapi.php": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[WARNING]: 2025-07-13 00:50:33 - shooter Check Alive = false
+[INFO]: 2025-07-13 00:50:33 - Check Sub Supplier End
+[INFO]: 2025-07-13 00:50:33 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 00:50:33 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 00:50:33 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 00:50:33 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 00:50:33 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 00:50:33 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 01:05:28 - LiteMode is true
+[INFO]: 2025-07-13 01:05:28 - ChineseSubFinder Version: v0.55.3 Lite
+[INFO]: 2025-07-13 01:05:28 - Reload Log Settings, level = Info
+[INFO]: 2025-07-13 01:05:28 - Speed Dev Mode is Off
+[INFO]: 2025-07-13 01:05:28 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 01:05:28 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 01:05:28 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 01:05:28 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 01:05:28 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 01:05:28 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 01:05:28 - UseHttpProxy = false
+[INFO]: 2025-07-13 01:05:29 - UrlConnectednessTest Target Site https://baidu.com Speed: 298 ms, Status: true
+[INFO]: 2025-07-13 01:05:29 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 01:05:29 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 01:05:29 - a4k Check Alive = false
+[INFO]: 2025-07-13 01:05:29 - xunlei Check Alive = true, Speed = 148 ms
+[INFO]: 2025-07-13 01:05:30 - shooter Check Alive = true, Speed = 947 ms
+[INFO]: 2025-07-13 01:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 01:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 01:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 01:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 01:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 01:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 01:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 01:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 01:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 01:05:30 - Try Start Http Server At Port 19035
+[INFO]: 2025-07-13 01:05:30 - Setup is Done
+[INFO]: 2025-07-13 01:05:30 - PreJob Will Start...
+[INFO]: 2025-07-13 01:05:30 - PreJob.HotFix() Start...
+[INFO]: 2025-07-13 01:05:30 - If you have a lot of videos, it may take a lot of time, just wait...
+[INFO]: 2025-07-13 01:05:30 - PreJob.HotFix() End
+[INFO]: 2025-07-13 01:05:30 - PreJob.ChangeSubNameFormat() Start...
+[INFO]: 2025-07-13 01:05:30 - If you have a lot of videos, it may take a lot of time, just wait...
+[INFO]: 2025-07-13 01:05:30 - DesSubFormatter == LateTimeSubFormatter then skip process
+[INFO]: 2025-07-13 01:05:30 - PreJob.ChangeSubNameFormat() End
+[INFO]: 2025-07-13 01:05:30 - PreJob.Wait() Done.
+[INFO]: 2025-07-13 01:05:30 - Setup is Done
+[INFO]: 2025-07-13 01:05:30 - RunAtStartup: false, so will not Run At Startup
+[INFO]: 2025-07-13 01:05:30 - CronHelper Start...
+[INFO]: 2025-07-13 01:05:30 - Next Sub Scan Will Process At: 2025-07-13 07:05:30
+[INFO]: 2025-07-13 02:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 02:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 02:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 02:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 02:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 02:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 02:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 02:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 224 ms, Status: true
+[INFO]: 2025-07-13 02:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 02:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 02:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 02:05:30 - xunlei Check Alive = true, Speed = 265 ms
+[INFO]: 2025-07-13 02:05:30 - shooter Check Alive = true, Speed = 742 ms
+[INFO]: 2025-07-13 02:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 02:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 02:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 02:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 02:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 02:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 02:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 02:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 02:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 03:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 03:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 03:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 03:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 03:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 03:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 03:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 03:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 157 ms, Status: true
+[INFO]: 2025-07-13 03:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 03:05:30 - xunlei Check Alive = true, Speed = 117 ms
+[ERROR]: 2025-07-13 03:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 03:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 03:05:30 - shooter Check Alive = true, Speed = 696 ms
+[INFO]: 2025-07-13 03:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 03:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 03:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 03:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 03:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 03:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 03:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 03:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 03:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 04:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 04:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 04:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 04:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 04:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 04:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 04:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 04:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 257 ms, Status: true
+[INFO]: 2025-07-13 04:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 04:05:30 - xunlei Check Alive = true, Speed = 94 ms
+[ERROR]: 2025-07-13 04:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 04:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 04:05:31 - shooter Check Alive = true, Speed = 1136 ms
+[INFO]: 2025-07-13 04:05:31 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 04:05:31 - Alive Supplier: shooter
+[INFO]: 2025-07-13 04:05:31 - Check Sub Supplier End
+[INFO]: 2025-07-13 04:05:31 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 04:05:31 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 04:05:31 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 04:05:31 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 04:05:31 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 04:05:31 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 05:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 05:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 05:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 05:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 05:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 05:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 05:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 05:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 223 ms, Status: true
+[INFO]: 2025-07-13 05:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 05:05:30 - xunlei Check Alive = true, Speed = 159 ms
+[ERROR]: 2025-07-13 05:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 05:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 05:05:30 - shooter Check Alive = true, Speed = 502 ms
+[INFO]: 2025-07-13 05:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 05:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 05:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 05:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 05:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 05:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 05:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 05:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 05:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 06:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 06:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 06:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 06:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 06:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 06:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 06:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 06:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 161 ms, Status: true
+[INFO]: 2025-07-13 06:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 06:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 06:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 06:05:30 - xunlei Check Alive = true, Speed = 288 ms
+[INFO]: 2025-07-13 06:05:30 - shooter Check Alive = true, Speed = 675 ms
+[INFO]: 2025-07-13 06:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 06:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 06:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 06:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 06:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 06:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 06:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 06:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 06:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 07:05:30 - scanVideoProcessAdd2DownloadQueue Start: 2025-07-13 07:05:30
+[INFO]: 2025-07-13 07:05:30 - ------------------------------------
+[INFO]: 2025-07-13 07:05:30 - Video Scan Started...
+[INFO]: 2025-07-13 07:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 07:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 07:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 07:05:30 - ScanNormalMovieAndSeries Start...
+[INFO]: 2025-07-13 07:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 07:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 07:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 07:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 07:05:30 -  --------------------------------------------------
+[INFO]: 2025-07-13 07:05:30 - MatchedVideoFileFromDirs Start...
+[INFO]: 2025-07-13 07:05:30 - ------------------------------------------
+[INFO]: 2025-07-13 07:05:30 - GetSeriesListFromDirs Start...
+[INFO]: 2025-07-13 07:05:30 - MatchedVideoFileFromDirs End
+[INFO]: 2025-07-13 07:05:30 -  --------------------------------------------------
+[INFO]: 2025-07-13 07:05:30 - GetSeriesListFromDirs End
+[INFO]: 2025-07-13 07:05:30 - ------------------------------------------
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 0 /media/Videos/Movies/黑客帝国 (1999)/黑客帝国 (1999) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 1 /media/Videos/Movies/指环王3：王者无敌 (2003)/指环王3：王者无敌 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 2 /media/Videos/Movies/指环王1：护戒使者 (2001)/指环王1：护戒使者 (2001) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 3 /media/Videos/Movies/指环王2：双塔奇兵 (2002)/指环王2：双塔奇兵 (2002) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 4 /media/Videos/Movies/霍比特人2：史矛革之战 (2013)/霍比特人2：史矛革之战 (2013) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 235 ms, Status: true
+[INFO]: 2025-07-13 07:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 5 /media/Videos/Movies/霍比特人3：五军之战 (2014)/霍比特人3：五军之战 (2014) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 6 /media/Videos/Movies/黑客帝国2：重装上阵 (2003)/黑客帝国2：重装上阵 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 7 /media/Videos/Movies/黑客帝国4：矩阵重启 (2021)/黑客帝国4：矩阵重启 (2021) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 8 /media/Videos/Movies/黑客帝国3：矩阵革命 (2003)/黑客帝国3：矩阵革命 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 07:05:30 - xunlei Check Alive = true, Speed = 131 ms
+[INFO]: 2025-07-13 07:05:30 - updateLocalVideoCacheInfo 0 /media/Videos/Animes/一念永恒（分季版） (2020)
+[ERROR]: 2025-07-13 07:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 07:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 07:05:30 - shooter Check Alive = true, Speed = 677 ms
+[INFO]: 2025-07-13 07:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 07:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 07:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 07:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 07:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 07:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 07:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 07:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 07:05:30 - Download.SupplierCheck() End
+[WARNING]: 2025-07-13 07:06:50 - status code: 522
+[INFO]: 2025-07-13 07:06:50 - updateLocalVideoCacheInfo 1 /media/Videos/Animes/仙逆 (2023)
+[INFO]: 2025-07-13 07:06:50 - updateLocalVideoCacheInfo 2 /media/Videos/Animes/吞噬星空 (2020)
+[INFO]: 2025-07-13 07:06:51 - updateLocalVideoCacheInfo 3 /media/Videos/Animes/完美世界 (2021)
+[INFO]: 2025-07-13 07:06:51 - updateLocalVideoCacheInfo 4 /media/Videos/Animes/斗破苍穹 (2017)
+[INFO]: 2025-07-13 07:06:51 - updateLocalVideoCacheInfo 5 /media/Videos/Animes/斗罗大陆Ⅱ绝世唐门 (2023)
+[INFO]: 2025-07-13 07:06:51 - updateLocalVideoCacheInfo 6 /media/Videos/Animes/星辰变 (2018)
+[INFO]: 2025-07-13 07:06:51 - updateLocalVideoCacheInfo 7 /media/Videos/Animes/沧元图 (2023)
+[INFO]: 2025-07-13 07:06:51 - updateLocalVideoCacheInfo 8 /media/Videos/Animes/神印王座 (2022)
+[INFO]: 2025-07-13 07:06:51 - updateLocalVideoCacheInfo 9 /media/Videos/Animes/神国之上 (2025)
+[WARNING]: 2025-07-13 07:07:11 - status code: 522
+[INFO]: 2025-07-13 07:07:11 - updateLocalVideoCacheInfo 10 /media/Videos/Animes/航海王 (1999)
+[INFO]: 2025-07-13 07:07:11 - updateLocalVideoCacheInfo 11 /media/Videos/Animes/诡秘之主 (2025)
+[INFO]: 2025-07-13 07:07:11 - updateLocalVideoCacheInfo 12 /media/Videos/Animes/遮天 (2023)
+[INFO]: 2025-07-13 07:07:11 - updateLocalVideoCacheInfo 0 /media/Videos/TV Shows/纸牌屋 (2013)
+[INFO]: 2025-07-13 07:07:11 - updateLocalVideoCacheInfo 1 /media/Videos/TV Shows/长安的荔枝 (2025)
+[INFO]: 2025-07-13 07:07:11 - ScanNormalMovieAndSeries End
+[INFO]: 2025-07-13 07:07:11 - ScanEmbyMovieAndSeries Start...
+[INFO]: 2025-07-13 07:07:11 - Not Forced Scan And DownSub
+[INFO]: 2025-07-13 07:07:11 - Movie Sub Dl From Emby API...
+[INFO]: 2025-07-13 07:07:11 - Refresh Emby Sub List Start...
+[INFO]: 2025-07-13 07:07:13 - Refresh Emby Sub List Success
+[INFO]: 2025-07-13 07:07:13 - getUpdateVideoListFromEmby Start...
+[INFO]: 2025-07-13 07:07:22 - getUpdateVideoListFromEmby End
+[INFO]: 2025-07-13 07:07:22 - ScanEmbyMovieAndSeries End
+[INFO]: 2025-07-13 07:07:22 - VideoScanAndRefreshHelper finished, cost: 1.86815319825 min
+[INFO]: 2025-07-13 07:07:22 - Video Scan End
+[INFO]: 2025-07-13 07:07:22 - ------------------------------------
+[INFO]: 2025-07-13 08:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 08:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 08:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 08:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 08:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 08:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 08:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 08:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 228 ms, Status: true
+[INFO]: 2025-07-13 08:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 08:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 08:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 08:05:30 - xunlei Check Alive = true, Speed = 196 ms
+[INFO]: 2025-07-13 08:05:31 - shooter Check Alive = true, Speed = 1107 ms
+[INFO]: 2025-07-13 08:05:31 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 08:05:31 - Alive Supplier: shooter
+[INFO]: 2025-07-13 08:05:31 - Check Sub Supplier End
+[INFO]: 2025-07-13 08:05:31 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 08:05:31 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 08:05:31 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 08:05:31 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 08:05:31 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 08:05:31 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 09:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 09:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 09:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 09:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 09:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 09:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 09:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 09:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 160 ms, Status: true
+[INFO]: 2025-07-13 09:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 09:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 09:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 09:05:30 - xunlei Check Alive = true, Speed = 230 ms
+[INFO]: 2025-07-13 09:05:30 - shooter Check Alive = true, Speed = 571 ms
+[INFO]: 2025-07-13 09:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 09:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 09:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 09:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 09:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 09:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 09:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 09:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 09:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 10:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 10:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 10:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 10:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 10:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 10:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 10:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 10:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 149 ms, Status: true
+[INFO]: 2025-07-13 10:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 10:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 10:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 10:05:30 - xunlei Check Alive = true, Speed = 227 ms
+[INFO]: 2025-07-13 10:05:31 - shooter Check Alive = true, Speed = 999 ms
+[INFO]: 2025-07-13 10:05:31 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 10:05:31 - Alive Supplier: shooter
+[INFO]: 2025-07-13 10:05:31 - Check Sub Supplier End
+[INFO]: 2025-07-13 10:05:31 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 10:05:31 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 10:05:31 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 10:05:31 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 10:05:31 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 10:05:31 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 11:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 11:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 11:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 11:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 11:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 11:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 11:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 11:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 235 ms, Status: true
+[INFO]: 2025-07-13 11:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 11:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 11:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 11:05:30 - xunlei Check Alive = true, Speed = 300 ms
+[INFO]: 2025-07-13 11:05:32 - shooter Check Alive = true, Speed = 2402 ms
+[INFO]: 2025-07-13 11:05:32 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 11:05:32 - Alive Supplier: shooter
+[INFO]: 2025-07-13 11:05:32 - Check Sub Supplier End
+[INFO]: 2025-07-13 11:05:32 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 11:05:32 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 11:05:32 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 11:05:32 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 11:05:32 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 11:05:32 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 12:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 12:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 12:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 12:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 12:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 12:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 12:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 12:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 158 ms, Status: true
+[INFO]: 2025-07-13 12:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 12:05:30 - xunlei Check Alive = true, Speed = 85 ms
+[ERROR]: 2025-07-13 12:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 12:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 12:05:31 - shooter Check Alive = true, Speed = 1127 ms
+[INFO]: 2025-07-13 12:05:31 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 12:05:31 - Alive Supplier: shooter
+[INFO]: 2025-07-13 12:05:31 - Check Sub Supplier End
+[INFO]: 2025-07-13 12:05:31 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 12:05:31 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 12:05:31 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 12:05:31 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 12:05:31 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 12:05:31 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 13:05:30 - scanVideoProcessAdd2DownloadQueue Start: 2025-07-13 13:05:30
+[INFO]: 2025-07-13 13:05:30 - ------------------------------------
+[INFO]: 2025-07-13 13:05:30 - Video Scan Started...
+[INFO]: 2025-07-13 13:05:30 - ScanNormalMovieAndSeries Start...
+[INFO]: 2025-07-13 13:05:30 - ------------------------------------------
+[INFO]: 2025-07-13 13:05:30 - GetSeriesListFromDirs Start...
+[INFO]: 2025-07-13 13:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 13:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 13:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 13:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 13:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 13:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 13:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 13:05:30 -  --------------------------------------------------
+[INFO]: 2025-07-13 13:05:30 - MatchedVideoFileFromDirs Start...
+[INFO]: 2025-07-13 13:05:30 - MatchedVideoFileFromDirs End
+[INFO]: 2025-07-13 13:05:30 -  --------------------------------------------------
+[INFO]: 2025-07-13 13:05:30 - GetSeriesListFromDirs End
+[INFO]: 2025-07-13 13:05:30 - ------------------------------------------
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 0 /media/Videos/Movies/黑客帝国 (1999)/黑客帝国 (1999) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 1 /media/Videos/Movies/指环王3：王者无敌 (2003)/指环王3：王者无敌 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 2 /media/Videos/Movies/指环王1：护戒使者 (2001)/指环王1：护戒使者 (2001) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 3 /media/Videos/Movies/指环王2：双塔奇兵 (2002)/指环王2：双塔奇兵 (2002) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 4 /media/Videos/Movies/霍比特人2：史矛革之战 (2013)/霍比特人2：史矛革之战 (2013) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 5 /media/Videos/Movies/霍比特人3：五军之战 (2014)/霍比特人3：五军之战 (2014) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 6 /media/Videos/Movies/黑客帝国2：重装上阵 (2003)/黑客帝国2：重装上阵 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 7 /media/Videos/Movies/黑客帝国4：矩阵重启 (2021)/黑客帝国4：矩阵重启 (2021) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 8 /media/Videos/Movies/黑客帝国3：矩阵革命 (2003)/黑客帝国3：矩阵革命 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 13:05:30 - updateLocalVideoCacheInfo 0 /media/Videos/Animes/一念永恒（分季版） (2020)
+[INFO]: 2025-07-13 13:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 235 ms, Status: true
+[INFO]: 2025-07-13 13:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 13:05:30 - xunlei Check Alive = true, Speed = 76 ms
+[ERROR]: 2025-07-13 13:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 13:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 13:05:30 - shooter Check Alive = true, Speed = 678 ms
+[INFO]: 2025-07-13 13:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 13:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 13:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 13:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 13:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 13:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 13:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 13:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 13:05:30 - Download.SupplierCheck() End
+[WARNING]: 2025-07-13 13:05:50 - status code: 522
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 1 /media/Videos/Animes/仙逆 (2023)
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 2 /media/Videos/Animes/吞噬星空 (2020)
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 3 /media/Videos/Animes/完美世界 (2021)
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 4 /media/Videos/Animes/斗破苍穹 (2017)
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 5 /media/Videos/Animes/斗罗大陆Ⅱ绝世唐门 (2023)
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 6 /media/Videos/Animes/星辰变 (2018)
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 7 /media/Videos/Animes/沧元图 (2023)
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 8 /media/Videos/Animes/神印王座 (2022)
+[INFO]: 2025-07-13 13:05:50 - updateLocalVideoCacheInfo 9 /media/Videos/Animes/神国之上 (2025)
+[WARNING]: 2025-07-13 13:06:11 - status code: 522
+[INFO]: 2025-07-13 13:06:11 - updateLocalVideoCacheInfo 10 /media/Videos/Animes/航海王 (1999)
+[INFO]: 2025-07-13 13:06:11 - updateLocalVideoCacheInfo 11 /media/Videos/Animes/诡秘之主 (2025)
+[INFO]: 2025-07-13 13:06:11 - updateLocalVideoCacheInfo 12 /media/Videos/Animes/遮天 (2023)
+[INFO]: 2025-07-13 13:06:11 - updateLocalVideoCacheInfo 0 /media/Videos/TV Shows/纸牌屋 (2013)
+[INFO]: 2025-07-13 13:06:11 - updateLocalVideoCacheInfo 1 /media/Videos/TV Shows/长安的荔枝 (2025)
+[INFO]: 2025-07-13 13:06:11 - ScanNormalMovieAndSeries End
+[INFO]: 2025-07-13 13:06:11 - ScanEmbyMovieAndSeries Start...
+[INFO]: 2025-07-13 13:06:11 - Not Forced Scan And DownSub
+[INFO]: 2025-07-13 13:06:11 - Movie Sub Dl From Emby API...
+[INFO]: 2025-07-13 13:06:11 - Refresh Emby Sub List Start...
+[INFO]: 2025-07-13 13:06:13 - Refresh Emby Sub List Success
+[INFO]: 2025-07-13 13:06:13 - getUpdateVideoListFromEmby Start...
+[INFO]: 2025-07-13 13:06:21 - getUpdateVideoListFromEmby End
+[INFO]: 2025-07-13 13:06:21 - ScanEmbyMovieAndSeries End
+[INFO]: 2025-07-13 13:06:21 - VideoScanAndRefreshHelper finished, cost: 0.8546454246833334 min
+[INFO]: 2025-07-13 13:06:21 - Video Scan End
+[INFO]: 2025-07-13 13:06:21 - ------------------------------------
+[INFO]: 2025-07-13 14:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 14:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 14:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 14:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 14:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 14:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 14:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 14:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 203 ms, Status: true
+[INFO]: 2025-07-13 14:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 14:05:30 - xunlei Check Alive = true, Speed = 67 ms
+[ERROR]: 2025-07-13 14:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 14:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 14:05:33 - shooter Check Alive = true, Speed = 3245 ms
+[INFO]: 2025-07-13 14:05:33 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 14:05:33 - Alive Supplier: shooter
+[INFO]: 2025-07-13 14:05:33 - Check Sub Supplier End
+[INFO]: 2025-07-13 14:05:33 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 14:05:33 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 14:05:33 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 14:05:33 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 14:05:33 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 14:05:33 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 15:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 15:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 15:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 15:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 15:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 15:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 15:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 15:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 120 ms, Status: true
+[INFO]: 2025-07-13 15:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 15:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 15:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 15:05:30 - xunlei Check Alive = true, Speed = 150 ms
+[INFO]: 2025-07-13 15:05:33 - shooter Check Alive = true, Speed = 2974 ms
+[INFO]: 2025-07-13 15:05:33 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 15:05:33 - Alive Supplier: shooter
+[INFO]: 2025-07-13 15:05:33 - Check Sub Supplier End
+[INFO]: 2025-07-13 15:05:33 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 15:05:33 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 15:05:33 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 15:05:33 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 15:05:33 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 15:05:33 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 16:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 16:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 16:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 16:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 16:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 16:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 16:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 16:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 204 ms, Status: true
+[INFO]: 2025-07-13 16:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 16:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 16:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 16:05:30 - xunlei Check Alive = true, Speed = 222 ms
+[INFO]: 2025-07-13 16:05:30 - shooter Check Alive = true, Speed = 589 ms
+[INFO]: 2025-07-13 16:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 16:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 16:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 16:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 16:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 16:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 16:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 16:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 16:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 17:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 17:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 17:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 17:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 17:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 17:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 17:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 17:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 210 ms, Status: true
+[INFO]: 2025-07-13 17:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 17:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 17:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 17:05:30 - xunlei Check Alive = true, Speed = 183 ms
+[INFO]: 2025-07-13 17:05:31 - shooter Check Alive = true, Speed = 998 ms
+[INFO]: 2025-07-13 17:05:31 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 17:05:31 - Alive Supplier: shooter
+[INFO]: 2025-07-13 17:05:31 - Check Sub Supplier End
+[INFO]: 2025-07-13 17:05:31 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 17:05:31 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 17:05:31 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 17:05:31 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 17:05:31 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 17:05:31 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 18:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 18:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 18:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 18:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 18:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 18:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 18:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 18:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 208 ms, Status: true
+[INFO]: 2025-07-13 18:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 18:05:30 - xunlei Check Alive = true, Speed = 125 ms
+[ERROR]: 2025-07-13 18:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 18:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 18:05:30 - shooter Check Alive = true, Speed = 760 ms
+[INFO]: 2025-07-13 18:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 18:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 18:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 18:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 18:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 18:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 18:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 18:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 18:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 19:05:30 - scanVideoProcessAdd2DownloadQueue Start: 2025-07-13 19:05:30
+[INFO]: 2025-07-13 19:05:30 - ------------------------------------
+[INFO]: 2025-07-13 19:05:30 - Video Scan Started...
+[INFO]: 2025-07-13 19:05:30 - ScanNormalMovieAndSeries Start...
+[INFO]: 2025-07-13 19:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 19:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 19:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 19:05:30 - ------------------------------------------
+[INFO]: 2025-07-13 19:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 19:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 19:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 19:05:30 - GetSeriesListFromDirs Start...
+[INFO]: 2025-07-13 19:05:30 -  --------------------------------------------------
+[INFO]: 2025-07-13 19:05:30 - MatchedVideoFileFromDirs Start...
+[INFO]: 2025-07-13 19:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 19:05:30 - MatchedVideoFileFromDirs End
+[INFO]: 2025-07-13 19:05:30 -  --------------------------------------------------
+[INFO]: 2025-07-13 19:05:30 - GetSeriesListFromDirs End
+[INFO]: 2025-07-13 19:05:30 - ------------------------------------------
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 0 /media/Videos/Movies/黑客帝国 (1999)/黑客帝国 (1999) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 1 /media/Videos/Movies/指环王3：王者无敌 (2003)/指环王3：王者无敌 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 2 /media/Videos/Movies/指环王1：护戒使者 (2001)/指环王1：护戒使者 (2001) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 3 /media/Videos/Movies/指环王2：双塔奇兵 (2002)/指环王2：双塔奇兵 (2002) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 4 /media/Videos/Movies/霍比特人2：史矛革之战 (2013)/霍比特人2：史矛革之战 (2013) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 5 /media/Videos/Movies/霍比特人3：五军之战 (2014)/霍比特人3：五军之战 (2014) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 6 /media/Videos/Movies/黑客帝国2：重装上阵 (2003)/黑客帝国2：重装上阵 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 7 /media/Videos/Movies/黑客帝国4：矩阵重启 (2021)/黑客帝国4：矩阵重启 (2021) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 8 /media/Videos/Movies/黑客帝国3：矩阵革命 (2003)/黑客帝国3：矩阵革命 (2003) 2160p TrueHD Atmos.mkv
+[INFO]: 2025-07-13 19:05:30 - updateLocalVideoCacheInfo 0 /media/Videos/Animes/一念永恒（分季版） (2020)
+[INFO]: 2025-07-13 19:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 142 ms, Status: true
+[INFO]: 2025-07-13 19:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 19:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 19:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 19:05:30 - xunlei Check Alive = true, Speed = 220 ms
+[INFO]: 2025-07-13 19:05:31 - shooter Check Alive = true, Speed = 1570 ms
+[INFO]: 2025-07-13 19:05:31 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 19:05:31 - Alive Supplier: shooter
+[INFO]: 2025-07-13 19:05:31 - Check Sub Supplier End
+[INFO]: 2025-07-13 19:05:31 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 19:05:31 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 19:05:31 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 19:05:31 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 19:05:31 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 19:05:31 - Download.SupplierCheck() End
+[WARNING]: 2025-07-13 19:05:49 - status code: 522
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 1 /media/Videos/Animes/仙逆 (2023)
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 2 /media/Videos/Animes/吞噬星空 (2020)
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 3 /media/Videos/Animes/完美世界 (2021)
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 4 /media/Videos/Animes/斗破苍穹 (2017)
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 5 /media/Videos/Animes/斗罗大陆Ⅱ绝世唐门 (2023)
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 6 /media/Videos/Animes/星辰变 (2018)
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 7 /media/Videos/Animes/沧元图 (2023)
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 8 /media/Videos/Animes/神印王座 (2022)
+[INFO]: 2025-07-13 19:05:49 - updateLocalVideoCacheInfo 9 /media/Videos/Animes/神国之上 (2025)
+[WARNING]: 2025-07-13 19:06:10 - status code: 522
+[INFO]: 2025-07-13 19:06:10 - updateLocalVideoCacheInfo 10 /media/Videos/Animes/航海王 (1999)
+[INFO]: 2025-07-13 19:06:10 - updateLocalVideoCacheInfo 11 /media/Videos/Animes/诡秘之主 (2025)
+[INFO]: 2025-07-13 19:06:10 - updateLocalVideoCacheInfo 12 /media/Videos/Animes/遮天 (2023)
+[INFO]: 2025-07-13 19:06:10 - updateLocalVideoCacheInfo 0 /media/Videos/TV Shows/纸牌屋 (2013)
+[INFO]: 2025-07-13 19:06:10 - updateLocalVideoCacheInfo 1 /media/Videos/TV Shows/长安的荔枝 (2025)
+[INFO]: 2025-07-13 19:06:10 - ScanNormalMovieAndSeries End
+[INFO]: 2025-07-13 19:06:10 - ScanEmbyMovieAndSeries Start...
+[INFO]: 2025-07-13 19:06:10 - Not Forced Scan And DownSub
+[INFO]: 2025-07-13 19:06:10 - Movie Sub Dl From Emby API...
+[INFO]: 2025-07-13 19:06:10 - Refresh Emby Sub List Start...
+[INFO]: 2025-07-13 19:06:12 - Refresh Emby Sub List Success
+[INFO]: 2025-07-13 19:06:12 - getUpdateVideoListFromEmby Start...
+[INFO]: 2025-07-13 19:06:20 - getUpdateVideoListFromEmby End
+[INFO]: 2025-07-13 19:06:20 - ScanEmbyMovieAndSeries End
+[INFO]: 2025-07-13 19:06:20 - VideoScanAndRefreshHelper finished, cost: 0.8374411721333334 min
+[INFO]: 2025-07-13 19:06:20 - Video Scan End
+[INFO]: 2025-07-13 19:06:20 - ------------------------------------
+[INFO]: 2025-07-13 20:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 20:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 20:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 20:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 20:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 20:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 20:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 20:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 211 ms, Status: true
+[INFO]: 2025-07-13 20:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 20:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 20:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 20:05:30 - xunlei Check Alive = true, Speed = 138 ms
+[INFO]: 2025-07-13 20:05:30 - shooter Check Alive = true, Speed = 716 ms
+[INFO]: 2025-07-13 20:05:30 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 20:05:30 - Alive Supplier: shooter
+[INFO]: 2025-07-13 20:05:30 - Check Sub Supplier End
+[INFO]: 2025-07-13 20:05:30 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 20:05:30 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 20:05:30 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 20:05:30 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 20:05:30 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 20:05:30 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 21:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 21:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 21:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 21:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 21:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 21:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 21:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 21:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 132 ms, Status: true
+[INFO]: 2025-07-13 21:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 21:05:30 - xunlei Check Alive = true, Speed = 69 ms
+[ERROR]: 2025-07-13 21:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 21:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 21:05:31 - shooter Check Alive = true, Speed = 1535 ms
+[INFO]: 2025-07-13 21:05:31 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 21:05:31 - Alive Supplier: shooter
+[INFO]: 2025-07-13 21:05:31 - Check Sub Supplier End
+[INFO]: 2025-07-13 21:05:31 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 21:05:31 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 21:05:31 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 21:05:31 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 21:05:31 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 21:05:31 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 22:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 22:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 22:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 22:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 22:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 22:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 22:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 22:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 136 ms, Status: true
+[INFO]: 2025-07-13 22:05:30 - Check Sub Supplier Start...
+[ERROR]: 2025-07-13 22:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 22:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 22:05:30 - xunlei Check Alive = true, Speed = 196 ms
+[INFO]: 2025-07-13 22:05:33 - shooter Check Alive = true, Speed = 2975 ms
+[INFO]: 2025-07-13 22:05:33 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 22:05:33 - Alive Supplier: shooter
+[INFO]: 2025-07-13 22:05:33 - Check Sub Supplier End
+[INFO]: 2025-07-13 22:05:33 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 22:05:33 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 22:05:33 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 22:05:33 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 22:05:33 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 22:05:33 - Download.SupplierCheck() End
+[INFO]: 2025-07-13 23:05:30 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-13 23:05:30 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-13 23:05:30 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-13 23:05:30 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-13 23:05:30 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-13 23:05:30 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-13 23:05:30 - UseHttpProxy = false
+[INFO]: 2025-07-13 23:05:30 - UrlConnectednessTest Target Site https://baidu.com Speed: 162 ms, Status: true
+[INFO]: 2025-07-13 23:05:30 - Check Sub Supplier Start...
+[INFO]: 2025-07-13 23:05:30 - xunlei Check Alive = true, Speed = 85 ms
+[ERROR]: 2025-07-13 23:05:30 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 172.17.0.1:53: no such host
+[WARNING]: 2025-07-13 23:05:30 - a4k Check Alive = false
+[INFO]: 2025-07-13 23:05:33 - shooter Check Alive = true, Speed = 2873 ms
+[INFO]: 2025-07-13 23:05:33 - Alive Supplier: xunlei
+[INFO]: 2025-07-13 23:05:33 - Alive Supplier: shooter
+[INFO]: 2025-07-13 23:05:33 - Check Sub Supplier End
+[INFO]: 2025-07-13 23:05:33 - MovieFolder Index 0 -- /media/Videos/Movies
+[INFO]: 2025-07-13 23:05:33 - SeriesPaths Index 0 -- /media/Videos/TV Shows/
+[INFO]: 2025-07-13 23:05:33 - SeriesPaths Index 1 -- /media/Videos/Animes/
+[INFO]: 2025-07-13 23:05:33 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-13 23:05:33 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-13 23:05:33 - Download.SupplierCheck() End

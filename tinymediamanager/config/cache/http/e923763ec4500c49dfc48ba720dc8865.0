@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/79481/videos?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 20:41:30 GMT
+server: openresty
+cache-control: public, max-age=17024
+x-memc: HIT
+x-memc-key: 961d04c71240ddd75ab22f9ba5430ff6d129715e1d0dc83da4bfe0901e480923
+x-memc-age: 9073
+x-memc-expires: 17024
+x-az: us-east-1b
+x-task-id: ae98e7a3d5ea4847b0e21faffd540620
+etag: W/"32574368fb69a6d64b22bbd285ae22d4"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 00980881c14af16ba44a5b402a52c1fc.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: a8QToquy8JTKD-QsRGP6HTqC5UX2gMjQG7Zak3Lmjcv6x_rDgO0MVw==
+vary: Origin
+OkHttp-Sent-Millis: 1752352890831
+OkHttp-Received-Millis: 1752352891112
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

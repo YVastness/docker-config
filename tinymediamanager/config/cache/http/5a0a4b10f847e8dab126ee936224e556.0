@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/movie/604/videos?language=&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:30 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=3308
+x-memc: HIT
+x-memc-key: af0f944f005a9ae7bc9dd5d0ffe0eb2c0a280dddfe2beac8efb8fa75c373eaa7
+x-memc-age: 18930
+x-memc-expires: 3308
+x-az: us-east-1b
+x-task-id: 494f156cb9f34af7a984303825377784
+etag: W/"6d30a6bf02625944bf3ceba32046b265"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 1rkyhApSFbDXJLPyGnzQ6C5oeJaB0Ryi_aD4_Vdblz08y_W1tYeyGg==
+vary: Origin
+OkHttp-Sent-Millis: 1752303689948
+OkHttp-Received-Millis: 1752303690264
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

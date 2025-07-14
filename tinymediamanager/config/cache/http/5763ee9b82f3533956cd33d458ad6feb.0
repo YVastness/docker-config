@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/movie/122?language=zh-CN&append_to_response=credits%2Ckeywords%2Crelease_dates%2Ctranslations%2Cexternal_ids&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:33 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=1704
+x-az: us-east-1c
+x-task-id: 8c9404d870b64dffa1dc250deb1e024f
+etag: W/"afc9264f69092db3e7dd9c78b89c2524"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: OWtJgJFRUyX-zExXDVYzkV2jwSwwkQa84KXDh31l4LJevfqUGAPBog==
+vary: Origin
+OkHttp-Sent-Millis: 1752303693210
+OkHttp-Received-Millis: 1752303693552
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

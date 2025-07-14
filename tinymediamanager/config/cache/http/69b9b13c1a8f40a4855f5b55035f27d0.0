@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/292388/season/5?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:28:37 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=3085
+x-memc: HIT
+x-memc-key: ee357bf4688e227b2ab83087ff48434b919bb7848f0dd3d90a85ac613074fc32
+x-memc-age: 21361
+x-memc-expires: 3085
+x-az: us-east-1a
+x-task-id: 3cb2411ae41b42ccb10d82afd9090f28
+etag: W/"d7dc182f48dd6593a5f330cde6a274cc"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 e9e4bbba23d13e123df627eb1b33ec60.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P9
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: kmENtKiAvjYjW3faW39wMv6niocGJXzIVfjD-2oH3ZDwaJCiTXkjAA==
+vary: Origin
+OkHttp-Sent-Millis: 1752305317392
+OkHttp-Received-Millis: 1752305317667
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

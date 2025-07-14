@@ -139,7 +139,7 @@
     "crop_type_uncensored": "None",
     "crop_type_fc2": "Face",
     "crop_type_cn": "None",
-    "subtitles_folder": null
+    "subtitles_folder": "/media/34000字幕/sub"
   },
   "metadata": {
     "flaresolverr": "",
@@ -156,100 +156,9 @@
   },
   "provider": {
     "configs": {
-      "fc2ppvdb": {
-        "enabled": true,
-        "base_url": "https://fc2ppvdb.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "freejavbt": {
-        "enabled": true,
-        "base_url": "https://freejavbt.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "fc2_hub": {
-        "enabled": true,
-        "base_url": "https://fc2hub.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Javdb": {
-        "enabled": true,
-        "base_url": "https://javdb.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 10
-      },
-      "Mgstage": {
-        "enabled": true,
-        "base_url": "https://www.mgstage.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Fc2": {
-        "enabled": true,
-        "base_url": "https://adult.contents.fc2.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "hbox_jp": {
-        "enabled": true,
-        "base_url": "https://hbox.jp",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Javlibrary": {
-        "enabled": true,
-        "base_url": "https://www.javlibrary.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Madouqu": {
-        "enabled": true,
-        "base_url": "https://madouqu.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "airav_io": {
-        "enabled": true,
-        "base_url": "https://airav.io",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Javbus": {
-        "enabled": true,
-        "base_url": "https://www.javbus.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "xiao_huang_shu": {
-        "enabled": true,
-        "base_url": "https://xchina.co",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
       "jav321": {
         "enabled": true,
         "base_url": "https://www.jav321.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Madou": {
-        "enabled": true,
-        "base_url": "https://madou.club",
         "cookies": "",
         "user_agent": "",
         "cooldown_seconds": 0
@@ -261,9 +170,79 @@
         "user_agent": "",
         "cooldown_seconds": 0
       },
+      "Fc2": {
+        "enabled": true,
+        "base_url": "https://adult.contents.fc2.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "airav_io": {
+        "enabled": true,
+        "base_url": "https://airav.io",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "Javdb": {
+        "enabled": true,
+        "base_url": "https://javdb.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 10
+      },
+      "Madou": {
+        "enabled": true,
+        "base_url": "https://madou.club",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "freejavbt": {
+        "enabled": true,
+        "base_url": "https://freejavbt.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "Madouqu": {
+        "enabled": true,
+        "base_url": "https://madouqu.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "xiao_huang_shu": {
+        "enabled": true,
+        "base_url": "https://xchina.co",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "Javlibrary": {
+        "enabled": true,
+        "base_url": "https://www.javlibrary.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "Javbus": {
+        "enabled": true,
+        "base_url": "https://www.javbus.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
       "dmm": {
         "enabled": true,
         "base_url": "https://www.dmm.co.jp",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "avbase": {
+        "enabled": true,
+        "base_url": "https://www.avbase.net",
         "cookies": "",
         "user_agent": "",
         "cooldown_seconds": 0
@@ -275,9 +254,30 @@
         "user_agent": "",
         "cooldown_seconds": 0
       },
-      "avbase": {
+      "fc2ppvdb": {
         "enabled": true,
-        "base_url": "https://www.avbase.net",
+        "base_url": "https://fc2ppvdb.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "hbox_jp": {
+        "enabled": true,
+        "base_url": "https://hbox.jp",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "fc2_hub": {
+        "enabled": true,
+        "base_url": "https://fc2hub.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0
+      },
+      "Mgstage": {
+        "enabled": true,
+        "base_url": "https://www.mgstage.com",
         "cookies": "",
         "user_agent": "",
         "cooldown_seconds": 0
@@ -345,6 +345,17 @@
         "xiao_huang_shu"
       ],
       "by_fields": {
+        "Poster": [
+          "hbox_jp"
+        ],
+        "Tags": [
+          "Javbus",
+          "avbase",
+          "freejavbt"
+        ],
+        "Title": [
+          "airav_io"
+        ],
         "Cover": [
           "Javbus"
         ],
@@ -352,25 +363,14 @@
           "airav_io",
           "Airav"
         ],
-        "UserRating": [
-          "dmm",
-          "jav321"
-        ],
         "ExtraFanart": [
           "Javbus",
           "avbase",
           "freejavbt"
         ],
-        "Poster": [
-          "hbox_jp"
-        ],
-        "Title": [
-          "airav_io"
-        ],
-        "Tags": [
-          "Javbus",
-          "avbase",
-          "freejavbt"
+        "UserRating": [
+          "dmm",
+          "jav321"
         ]
       }
     },

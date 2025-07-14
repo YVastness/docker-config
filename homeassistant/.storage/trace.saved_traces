@@ -6,13 +6,13 @@
     "automation.1751304824134": [
       {
         "extended_dict": {
-          "last_step": "action/0",
-          "run_id": "87325eeb9d9efd53ca74862821229c40",
+          "last_step": "action/0/else/0",
+          "run_id": "9d688da43d7b7a4ea023e7565ee770f6",
           "state": "stopped",
           "script_execution": "finished",
           "timestamp": {
-            "start": "2025-07-02T11:00:00.482155+00:00",
-            "finish": "2025-07-02T11:00:00.920087+00:00"
+            "start": "2025-07-14T02:00:00.449332+00:00",
+            "finish": "2025-07-14T02:00:00.721768+00:00"
           },
           "domain": "automation",
           "item_id": "1751304824134",
@@ -21,23 +21,23 @@
             "trigger/0": [
               {
                 "path": "trigger/0",
-                "timestamp": "2025-07-02T11:00:00.482286+00:00",
+                "timestamp": "2025-07-14T02:00:00.449527+00:00",
                 "changed_variables": {
                   "this": {
                     "entity_id": "automation.huan_qi",
                     "state": "on",
                     "attributes": {
                       "id": "1751304824134",
-                      "last_triggered": "2025-07-02T10:50:00.435644+00:00",
+                      "last_triggered": "2025-07-14T01:50:00.449852+00:00",
                       "mode": "single",
                       "current": 0,
                       "friendly_name": "\u6362\u6c14"
                     },
-                    "last_changed": "2025-07-02T10:57:36.214570+00:00",
-                    "last_reported": "2025-07-02T10:57:36.214570+00:00",
-                    "last_updated": "2025-07-02T10:57:36.214570+00:00",
+                    "last_changed": "2025-07-12T17:05:30.718943+00:00",
+                    "last_reported": "2025-07-14T01:50:00.916255+00:00",
+                    "last_updated": "2025-07-14T01:50:00.916255+00:00",
                     "context": {
-                      "id": "01JZ5CHWEPRMZZ8KJT9DAN2856",
+                      "id": "01K039ZTR1T35E9BG408T2SJTR",
                       "parent_id": null,
                       "user_id": null
                     }
@@ -47,72 +47,68 @@
                     "idx": "0",
                     "alias": null,
                     "platform": "time_pattern",
-                    "now": "2025-07-02T19:00:00.481683+08:00",
+                    "now": "2025-07-14T10:00:00.448923+08:00",
                     "description": "time pattern"
                   }
-                }
-              }
-            ],
-            "condition/0": [
-              {
-                "path": "condition/0",
-                "timestamp": "2025-07-02T11:00:00.482394+00:00",
-                "result": {
-                  "result": true
-                }
-              }
-            ],
-            "condition/1": [
-              {
-                "path": "condition/1",
-                "timestamp": "2025-07-02T11:00:00.482559+00:00",
-                "result": {
-                  "result": true
-                }
-              },
-              {
-                "path": "condition/1",
-                "timestamp": "2025-07-02T11:00:00.482603+00:00",
-                "result": {
-                  "result": true
-                }
-              }
-            ],
-            "condition/1/entity_id/0": [
-              {
-                "path": "condition/1/entity_id/0",
-                "timestamp": "2025-07-02T11:00:00.482651+00:00",
-                "result": {
-                  "result": true,
-                  "state": "off",
-                  "wanted_state": "off"
                 }
               }
             ],
             "action/0": [
               {
                 "path": "action/0",
-                "timestamp": "2025-07-02T11:00:00.483443+00:00",
+                "timestamp": "2025-07-14T02:00:00.450054+00:00",
                 "changed_variables": {
                   "context": {
-                    "id": "01JZ5CP9B2Y98DE151AAKFGYGW",
+                    "id": "01K03AJ4P1WZ5XHS3HBG63FZKC",
                     "parent_id": null,
                     "user_id": null
                   }
                 },
                 "result": {
-                  "params": {
-                    "domain": "switch",
-                    "service": "toggle",
-                    "service_data": {},
-                    "target": {
-                      "entity_id": [
-                        "switch.lxzn_cn_859682990_ben_ventilation_p_3_8"
-                      ]
-                    }
-                  },
-                  "running_script": false
+                  "choice": "else"
                 }
+              }
+            ],
+            "action/0/if": [
+              {
+                "path": "action/0/if",
+                "timestamp": "2025-07-14T02:00:00.450267+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0": [
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:00:00.450406+00:00",
+                "result": {
+                  "result": false
+                }
+              },
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:00:00.450488+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0/entity_id/0": [
+              {
+                "path": "action/0/if/condition/0/entity_id/0",
+                "timestamp": "2025-07-14T02:00:00.450574+00:00",
+                "result": {
+                  "result": false,
+                  "state": "unavailable",
+                  "wanted_state": "off"
+                }
+              }
+            ],
+            "action/0/else/0": [
+              {
+                "path": "action/0/else/0",
+                "timestamp": "2025-07-14T02:00:00.450976+00:00"
               }
             ]
           },
@@ -126,49 +122,762 @@
                 "minutes": "/10"
               }
             ],
-            "conditions": [
-              {
-                "condition": "zone",
-                "entity_id": "device_tracker.iphone",
-                "zone": "zone.home"
-              },
-              {
-                "type": "is_not_open",
-                "condition": "device",
-                "device_id": "51cbb007d76293095ca913738cffcd71",
-                "entity_id": "89dabe895cebc4e3cdfb27151d0e73f7",
-                "domain": "binary_sensor"
-              }
-            ],
+            "conditions": [],
             "actions": [
               {
-                "action": "switch.toggle",
-                "metadata": {},
-                "data": {},
-                "target": {
-                  "entity_id": [
-                    "switch.lxzn_cn_859682990_ben_ventilation_p_3_8"
-                  ]
-                }
+                "if": [
+                  {
+                    "type": "is_not_open",
+                    "condition": "device",
+                    "device_id": "51cbb007d76293095ca913738cffcd71",
+                    "entity_id": "89dabe895cebc4e3cdfb27151d0e73f7",
+                    "domain": "binary_sensor"
+                  },
+                  {
+                    "condition": "state",
+                    "entity_id": "device_tracker.my_iphone",
+                    "state": "home"
+                  }
+                ],
+                "then": [
+                  {
+                    "type": "toggle",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ],
+                "else": [
+                  {
+                    "type": "turn_off",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ]
               }
             ],
             "mode": "single"
           },
           "blueprint_inputs": null,
           "context": {
-            "id": "01JZ5CP9B2Y98DE151AAKFGYGW",
+            "id": "01K03AJ4P1WZ5XHS3HBG63FZKC",
             "parent_id": null,
             "user_id": null
           }
         },
         "short_dict": {
-          "last_step": "action/0",
-          "run_id": "87325eeb9d9efd53ca74862821229c40",
+          "last_step": "action/0/else/0",
+          "run_id": "9d688da43d7b7a4ea023e7565ee770f6",
           "state": "stopped",
           "script_execution": "finished",
           "timestamp": {
-            "start": "2025-07-02T11:00:00.482155+00:00",
-            "finish": "2025-07-02T11:00:00.920087+00:00"
+            "start": "2025-07-14T02:00:00.449332+00:00",
+            "finish": "2025-07-14T02:00:00.721768+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0/else/0",
+          "run_id": "6e4327b9148d54c4c44e2f46f2039dd5",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-14T02:10:00.450608+00:00",
+            "finish": "2025-07-14T02:10:00.758747+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2025-07-14T02:10:00.450764+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.huan_qi",
+                    "state": "on",
+                    "attributes": {
+                      "id": "1751304824134",
+                      "last_triggered": "2025-07-14T02:00:00.449753+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "friendly_name": "\u6362\u6c14"
+                    },
+                    "last_changed": "2025-07-12T17:05:30.718943+00:00",
+                    "last_reported": "2025-07-14T02:00:00.721556+00:00",
+                    "last_updated": "2025-07-14T02:00:00.721556+00:00",
+                    "context": {
+                      "id": "01K03AJ4P1WZ5XHS3HBG63FZKC",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "alias": null,
+                    "platform": "time_pattern",
+                    "now": "2025-07-14T10:10:00.450199+08:00",
+                    "description": "time pattern"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2025-07-14T02:10:00.451381+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01K03B4EM2QNB7E56X100ZJ611",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "choice": "else"
+                }
+              }
+            ],
+            "action/0/if": [
+              {
+                "path": "action/0/if",
+                "timestamp": "2025-07-14T02:10:00.451622+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0": [
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:10:00.451771+00:00",
+                "result": {
+                  "result": false
+                }
+              },
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:10:00.451857+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0/entity_id/0": [
+              {
+                "path": "action/0/if/condition/0/entity_id/0",
+                "timestamp": "2025-07-14T02:10:00.451948+00:00",
+                "result": {
+                  "result": false,
+                  "state": "unavailable",
+                  "wanted_state": "off"
+                }
+              }
+            ],
+            "action/0/else/0": [
+              {
+                "path": "action/0/else/0",
+                "timestamp": "2025-07-14T02:10:00.452387+00:00"
+              }
+            ]
+          },
+          "config": {
+            "id": "1751304824134",
+            "alias": "\u6362\u6c14",
+            "description": "",
+            "triggers": [
+              {
+                "trigger": "time_pattern",
+                "minutes": "/10"
+              }
+            ],
+            "conditions": [],
+            "actions": [
+              {
+                "if": [
+                  {
+                    "type": "is_not_open",
+                    "condition": "device",
+                    "device_id": "51cbb007d76293095ca913738cffcd71",
+                    "entity_id": "89dabe895cebc4e3cdfb27151d0e73f7",
+                    "domain": "binary_sensor"
+                  },
+                  {
+                    "condition": "state",
+                    "entity_id": "device_tracker.my_iphone",
+                    "state": "home"
+                  }
+                ],
+                "then": [
+                  {
+                    "type": "toggle",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ],
+                "else": [
+                  {
+                    "type": "turn_off",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ]
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01K03B4EM2QNB7E56X100ZJ611",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0/else/0",
+          "run_id": "6e4327b9148d54c4c44e2f46f2039dd5",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-14T02:10:00.450608+00:00",
+            "finish": "2025-07-14T02:10:00.758747+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0/else/0",
+          "run_id": "0fd925ee4ada220e58e7c23f7d269b23",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-14T02:20:00.450075+00:00",
+            "finish": "2025-07-14T02:20:00.784110+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2025-07-14T02:20:00.450165+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.huan_qi",
+                    "state": "on",
+                    "attributes": {
+                      "id": "1751304824134",
+                      "last_triggered": "2025-07-14T02:10:00.450981+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "friendly_name": "\u6362\u6c14"
+                    },
+                    "last_changed": "2025-07-12T17:05:30.718943+00:00",
+                    "last_reported": "2025-07-14T02:10:00.758520+00:00",
+                    "last_updated": "2025-07-14T02:10:00.758520+00:00",
+                    "context": {
+                      "id": "01K03B4EM2QNB7E56X100ZJ611",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "alias": null,
+                    "platform": "time_pattern",
+                    "now": "2025-07-14T10:20:00.449899+08:00",
+                    "description": "time pattern"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2025-07-14T02:20:00.450368+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01K03BPRJ25BBMW2T6SC8HB70Q",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "choice": "else"
+                }
+              }
+            ],
+            "action/0/if": [
+              {
+                "path": "action/0/if",
+                "timestamp": "2025-07-14T02:20:00.450451+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0": [
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:20:00.450498+00:00",
+                "result": {
+                  "result": false
+                }
+              },
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:20:00.450527+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0/entity_id/0": [
+              {
+                "path": "action/0/if/condition/0/entity_id/0",
+                "timestamp": "2025-07-14T02:20:00.450555+00:00",
+                "result": {
+                  "result": false,
+                  "state": "unavailable",
+                  "wanted_state": "off"
+                }
+              }
+            ],
+            "action/0/else/0": [
+              {
+                "path": "action/0/else/0",
+                "timestamp": "2025-07-14T02:20:00.450690+00:00"
+              }
+            ]
+          },
+          "config": {
+            "id": "1751304824134",
+            "alias": "\u6362\u6c14",
+            "description": "",
+            "triggers": [
+              {
+                "trigger": "time_pattern",
+                "minutes": "/10"
+              }
+            ],
+            "conditions": [],
+            "actions": [
+              {
+                "if": [
+                  {
+                    "type": "is_not_open",
+                    "condition": "device",
+                    "device_id": "51cbb007d76293095ca913738cffcd71",
+                    "entity_id": "89dabe895cebc4e3cdfb27151d0e73f7",
+                    "domain": "binary_sensor"
+                  },
+                  {
+                    "condition": "state",
+                    "entity_id": "device_tracker.my_iphone",
+                    "state": "home"
+                  }
+                ],
+                "then": [
+                  {
+                    "type": "toggle",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ],
+                "else": [
+                  {
+                    "type": "turn_off",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ]
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01K03BPRJ25BBMW2T6SC8HB70Q",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0/else/0",
+          "run_id": "0fd925ee4ada220e58e7c23f7d269b23",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-14T02:20:00.450075+00:00",
+            "finish": "2025-07-14T02:20:00.784110+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0/else/0",
+          "run_id": "86ccd936a1cb44c69f939dac10b8b637",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-14T02:30:00.450732+00:00",
+            "finish": "2025-07-14T02:30:00.732804+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2025-07-14T02:30:00.450893+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.huan_qi",
+                    "state": "on",
+                    "attributes": {
+                      "id": "1751304824134",
+                      "last_triggered": "2025-07-14T02:20:00.450252+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "friendly_name": "\u6362\u6c14"
+                    },
+                    "last_changed": "2025-07-12T17:05:30.718943+00:00",
+                    "last_reported": "2025-07-14T02:20:00.783113+00:00",
+                    "last_updated": "2025-07-14T02:20:00.783113+00:00",
+                    "context": {
+                      "id": "01K03BPRJ25BBMW2T6SC8HB70Q",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "alias": null,
+                    "platform": "time_pattern",
+                    "now": "2025-07-14T10:30:00.450320+08:00",
+                    "description": "time pattern"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2025-07-14T02:30:00.451434+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01K03C92G2BCA0DDD9HD12KM9G",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "choice": "else"
+                }
+              }
+            ],
+            "action/0/if": [
+              {
+                "path": "action/0/if",
+                "timestamp": "2025-07-14T02:30:00.451654+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0": [
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:30:00.451787+00:00",
+                "result": {
+                  "result": false
+                }
+              },
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:30:00.451866+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0/entity_id/0": [
+              {
+                "path": "action/0/if/condition/0/entity_id/0",
+                "timestamp": "2025-07-14T02:30:00.451950+00:00",
+                "result": {
+                  "result": false,
+                  "state": "unavailable",
+                  "wanted_state": "off"
+                }
+              }
+            ],
+            "action/0/else/0": [
+              {
+                "path": "action/0/else/0",
+                "timestamp": "2025-07-14T02:30:00.452339+00:00"
+              }
+            ]
+          },
+          "config": {
+            "id": "1751304824134",
+            "alias": "\u6362\u6c14",
+            "description": "",
+            "triggers": [
+              {
+                "trigger": "time_pattern",
+                "minutes": "/10"
+              }
+            ],
+            "conditions": [],
+            "actions": [
+              {
+                "if": [
+                  {
+                    "type": "is_not_open",
+                    "condition": "device",
+                    "device_id": "51cbb007d76293095ca913738cffcd71",
+                    "entity_id": "89dabe895cebc4e3cdfb27151d0e73f7",
+                    "domain": "binary_sensor"
+                  },
+                  {
+                    "condition": "state",
+                    "entity_id": "device_tracker.my_iphone",
+                    "state": "home"
+                  }
+                ],
+                "then": [
+                  {
+                    "type": "toggle",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ],
+                "else": [
+                  {
+                    "type": "turn_off",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ]
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01K03C92G2BCA0DDD9HD12KM9G",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0/else/0",
+          "run_id": "86ccd936a1cb44c69f939dac10b8b637",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-14T02:30:00.450732+00:00",
+            "finish": "2025-07-14T02:30:00.732804+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/0/else/0",
+          "run_id": "32664ea7338aa71c30dc8c81ffcb4db1",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-14T02:40:00.450534+00:00",
+            "finish": "2025-07-14T02:40:00.960897+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1751304824134",
+          "trigger": "time pattern",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2025-07-14T02:40:00.450693+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.huan_qi",
+                    "state": "on",
+                    "attributes": {
+                      "id": "1751304824134",
+                      "last_triggered": "2025-07-14T02:30:00.451113+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "friendly_name": "\u6362\u6c14"
+                    },
+                    "last_changed": "2025-07-12T17:05:30.718943+00:00",
+                    "last_reported": "2025-07-14T02:30:00.732559+00:00",
+                    "last_updated": "2025-07-14T02:30:00.732559+00:00",
+                    "context": {
+                      "id": "01K03C92G2BCA0DDD9HD12KM9G",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "alias": null,
+                    "platform": "time_pattern",
+                    "now": "2025-07-14T10:40:00.450119+08:00",
+                    "description": "time pattern"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2025-07-14T02:40:00.451207+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01K03CVCE22864C1GQG87CC22G",
+                    "parent_id": null,
+                    "user_id": null
+                  }
+                },
+                "result": {
+                  "choice": "else"
+                }
+              }
+            ],
+            "action/0/if": [
+              {
+                "path": "action/0/if",
+                "timestamp": "2025-07-14T02:40:00.451456+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0": [
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:40:00.451593+00:00",
+                "result": {
+                  "result": false
+                }
+              },
+              {
+                "path": "action/0/if/condition/0",
+                "timestamp": "2025-07-14T02:40:00.451673+00:00",
+                "result": {
+                  "result": false
+                }
+              }
+            ],
+            "action/0/if/condition/0/entity_id/0": [
+              {
+                "path": "action/0/if/condition/0/entity_id/0",
+                "timestamp": "2025-07-14T02:40:00.454064+00:00",
+                "result": {
+                  "result": false,
+                  "state": "unavailable",
+                  "wanted_state": "off"
+                }
+              }
+            ],
+            "action/0/else/0": [
+              {
+                "path": "action/0/else/0",
+                "timestamp": "2025-07-14T02:40:00.454486+00:00"
+              }
+            ]
+          },
+          "config": {
+            "id": "1751304824134",
+            "alias": "\u6362\u6c14",
+            "description": "",
+            "triggers": [
+              {
+                "trigger": "time_pattern",
+                "minutes": "/10"
+              }
+            ],
+            "conditions": [],
+            "actions": [
+              {
+                "if": [
+                  {
+                    "type": "is_not_open",
+                    "condition": "device",
+                    "device_id": "51cbb007d76293095ca913738cffcd71",
+                    "entity_id": "89dabe895cebc4e3cdfb27151d0e73f7",
+                    "domain": "binary_sensor"
+                  },
+                  {
+                    "condition": "state",
+                    "entity_id": "device_tracker.my_iphone",
+                    "state": "home"
+                  }
+                ],
+                "then": [
+                  {
+                    "type": "toggle",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ],
+                "else": [
+                  {
+                    "type": "turn_off",
+                    "device_id": "fa8d40929fd9a2eeec7818a37e59242c",
+                    "entity_id": "74e8caa06214bf289daa38306ea22744",
+                    "domain": "switch"
+                  }
+                ]
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01K03CVCE22864C1GQG87CC22G",
+            "parent_id": null,
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/0/else/0",
+          "run_id": "32664ea7338aa71c30dc8c81ffcb4db1",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2025-07-14T02:40:00.450534+00:00",
+            "finish": "2025-07-14T02:40:00.960897+00:00"
           },
           "domain": "automation",
           "item_id": "1751304824134",

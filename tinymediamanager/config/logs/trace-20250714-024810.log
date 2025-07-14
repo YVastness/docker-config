@@ -1,0 +1,76 @@
+2025-07-14 02:48:10,889 TRACE [main] org.tinymediamanager.TinyMediaManager:108 - entered launch
+2025-07-14 02:48:11,302 DEBUG [main] o.tinymediamanager.core.AbstractSettings:242 - Loading settings (tmm.json) from /data/data
+2025-07-14 02:48:11,957 INFO  [main] org.tinymediamanager.TinyMediaManager:343 - =======================================================
+2025-07-14 02:48:11,957 INFO  [main] org.tinymediamanager.TinyMediaManager:344 - === tinyMediaManager (c) 2012 - 2025 Manuel Laggner ===
+2025-07-14 02:48:11,957 INFO  [main] org.tinymediamanager.TinyMediaManager:345 - =======================================================
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:346 - tmm.version      : 5.1.7
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:348 - tmm.build        : 2025-06-15 13:10
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:351 - tmm.docker       : true
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:353 - os.name          : Linux
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:354 - os.version       : 6.6.86
+2025-07-14 02:48:11,960 INFO  [main] org.tinymediamanager.TinyMediaManager:355 - os.arch          : amd64
+2025-07-14 02:48:11,960 INFO  [main] org.tinymediamanager.TinyMediaManager:356 - java.version     : 21.0.6
+2025-07-14 02:48:11,960 INFO  [main] org.tinymediamanager.TinyMediaManager:357 - java.maxMem      : 512 MiB
+2025-07-14 02:48:11,960 INFO  [main] org.tinymediamanager.TinyMediaManager:368 - current encoding : UTF-8 | UTF8 | UTF-8
+2025-07-14 02:48:11,972 INFO  [main] org.tinymediamanager.TinyMediaManager:373 - JVM parameters   : -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data -XX:+DisableAttachMechanism -XX:-EnableDynamicAgentLoading
+2025-07-14 02:48:11,972 INFO  [main] org.tinymediamanager.TinyMediaManager:376 - System language  : en_US
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:377 - GUI language     : zh-Hans
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:378 - tmm.datafolder   : /data/data 
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:379 - tmm.cachefolder  : /data/cache 
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:380 - tmm.backupfolder : /data/backup 
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:381 - tmm.logfolder    : /data/logs 
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:382 - =====================================================
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:383 - starting tinyMediaManager
+2025-07-14 02:48:11,973 TRACE [main] org.tinymediamanager.TinyMediaManager:128 - entered GUI mode
+2025-07-14 02:48:11,982 TRACE [AWT-EventQueue-0] org.tinymediamanager.ui.TmmUIHelper:91 - load theme
+2025-07-14 02:48:12,501 TRACE [AWT-EventQueue-0] org.tinymediamanager.ui.TmmUIHelper:103 - load font settings
+2025-07-14 02:48:12,503 TRACE [AWT-EventQueue-0] org.tinymediamanager.TinyMediaManager:134 - loading splash
+2025-07-14 02:48:13,189 TRACE [SwingWorker-pool-2-thread-1] org.tinymediamanager.TinyMediaManager:146 - entered doInBackground
+2025-07-14 02:48:13,197 TRACE [main] org.tinymediamanager.TinyMediaManager:533 - entered doPreStartupTasks
+2025-07-14 02:48:13,474 TRACE [main] org.tinymediamanager.TinyMediaManager:416 - entered doUpgradeTasks
+2025-07-14 02:48:13,475 TRACE [main] org.tinymediamanager.TinyMediaManager:435 - entered loadInternals
+2025-07-14 02:48:13,475 TRACE [main] org.tinymediamanager.TinyMediaManager:573 - splash.internals - 20%
+2025-07-14 02:48:13,477 DEBUG [main] org.tinymediamanager.TmmOsUtils:177 - Loading native libs from: /app/native/linux
+2025-07-14 02:48:13,685 INFO  [main] org.tinymediamanager.TmmOsUtils:184 - Using libmediainfo version 'MediaInfoLib - v25.04'
+2025-07-14 02:48:18,270 TRACE [main] org.tinymediamanager.TinyMediaManager:464 - entered loadModules
+2025-07-14 02:48:18,271 TRACE [main] org.tinymediamanager.TinyMediaManager:573 - splash.movie - 30%
+2025-07-14 02:48:18,559 DEBUG [main] o.tinymediamanager.core.AbstractSettings:242 - Loading settings (movies.json) from /data/data
+2025-07-14 02:48:18,718 INFO  [main] o.tinymediamanager.core.movie.MovieList:433 - Loading 9 movies from database...
+2025-07-14 02:48:18,812 DEBUG [main] o.tinymediamanager.core.movie.MovieList:479 - took 93 ms
+2025-07-14 02:48:18,812 INFO  [main] o.tinymediamanager.core.movie.MovieList:483 - Loading 3 movie sets from database...
+2025-07-14 02:48:18,816 DEBUG [main] o.tinymediamanager.core.movie.MovieList:517 - took 3 ms
+2025-07-14 02:48:18,848 TRACE [main] org.tinymediamanager.TinyMediaManager:573 - splash.tvshow - 50%
+2025-07-14 02:48:18,921 INFO  [main] o.t.core.tvshow.TvShowList:545 - Loading 15 TvShows from database...
+2025-07-14 02:48:19,698 DEBUG [main] o.t.core.tvshow.TvShowList:594 - took 776 ms
+2025-07-14 02:48:19,698 INFO  [main] o.t.core.tvshow.TvShowList:606 - Loading 62 seasons from database...
+2025-07-14 02:48:19,708 DEBUG [main] o.t.core.tvshow.TvShowList:640 - took 9 ms
+2025-07-14 02:48:19,709 INFO  [main] o.t.core.tvshow.TvShowList:645 - Loading 106 episodes from database... (+ 2879 dummy w/o physical file)
+2025-07-14 02:48:19,722 DEBUG [main] o.tinymediamanager.core.AbstractSettings:242 - Loading settings (tvShows.json) from /data/data
+2025-07-14 02:48:19,824 DEBUG [main] o.t.core.tvshow.TvShowList:698 - took 114 ms
+2025-07-14 02:48:19,881 TRACE [main] org.tinymediamanager.TinyMediaManager:479 - entered loadPlugins
+2025-07-14 02:48:19,882 TRACE [main] org.tinymediamanager.TinyMediaManager:573 - splash.plugins - 60%
+2025-07-14 02:48:19,893 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie.conf'
+2025-07-14 02:48:19,914 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:330 - searching for Kodi commons
+2025-07-14 02:48:19,915 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:364 - Meh - could not find any common folders...
+2025-07-14 02:48:19,915 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:419 - Meh - could not find any common function...
+2025-07-14 02:48:19,915 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:260 - searching for Kodi scrapers
+2025-07-14 02:48:19,916 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:290 - Meh - could not find any scrapers...
+2025-07-14 02:48:19,919 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie_artwork.conf'
+2025-07-14 02:48:20,003 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie_trailer.conf'
+2025-07-14 02:48:20,017 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow.conf'
+2025-07-14 02:48:20,030 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow_artwork.conf'
+2025-07-14 02:48:20,033 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow_trailer.conf'
+2025-07-14 02:48:20,036 TRACE [main] org.tinymediamanager.TinyMediaManager:495 - entered loadServices
+2025-07-14 02:48:20,036 TRACE [main] org.tinymediamanager.TinyMediaManager:573 - splash.services - 70%
+2025-07-14 02:48:20,036 TRACE [main] org.tinymediamanager.TinyMediaManager:558 - entered doPostStartupTasks
+2025-07-14 02:48:20,036 TRACE [main] org.tinymediamanager.TinyMediaManager:573 - splash.upgrade2 - 80%
+2025-07-14 02:48:20,037 INFO  [main] o.t.core.movie.MovieUpgradeTasks:52 - Current movie DB version: 5005
+2025-07-14 02:48:20,039 INFO  [main] o.t.core.tvshow.TvShowUpgradeTasks:59 - Current tvshow DB version: 5009
+2025-07-14 02:48:20,039 TRACE [main] org.tinymediamanager.TinyMediaManager:573 - splash.ui - 90%
+2025-07-14 02:48:20,918 DEBUG [AWT-EventQueue-0] org.tinymediamanager.ui.MainWindow:204 - Initializing MovieUIModule...
+2025-07-14 02:48:23,404 DEBUG [AWT-EventQueue-0] org.tinymediamanager.ui.MainWindow:206 - Initializing MovieSetUIModule...
+2025-07-14 02:48:23,715 DEBUG [AWT-EventQueue-0] org.tinymediamanager.ui.MainWindow:208 - Initializing TvShowUIModule...
+2025-07-14 02:48:25,045 DEBUG [AWT-EventQueue-0] org.tinymediamanager.ui.MainWindow:210 - Done initializing UI modules :)
+2025-07-14 02:48:25,052 TRACE [AWT-EventQueue-0] org.tinymediamanager.TinyMediaManager:573 - finished starting :) - 100%
+2025-07-14 02:48:25,388 INFO  [AWT-EventQueue-0] org.tinymediamanager.TinyMediaManager:188 - UI loaded
+2025-07-14 02:48:38,274 DEBUG [Timer-0] o.tinymediamanager.core.TmmModuleManager:107 - Memory usage: used - 171 M | free - 340 M

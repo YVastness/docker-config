@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/198182?language=zh-CN&append_to_response=translations%2Ccredits%2Cexternal_ids%2Ccontent_ratings%2Ckeywords%2Cepisode_groups&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 07:15:16 GMT
+server: openresty
+cache-control: public, max-age=23451
+x-az: us-east-1a
+x-task-id: d2b340547157405f90257e5e88b33a4d
+etag: W/"8e0cbe1afbcbc676c2c60259d595858f"
+vary: accept-encoding
+x-cache: RefreshHit from cloudfront
+via: 1.1 60da66b0b895927a557eca913aeebc9a.cloudfront.net (CloudFront)
+x-amz-cf-pop: LAX54-P4
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: PGi_rooEkQYZKRmMt48aQ1uQzXPEiTBLymutkathEfXsDJSGpZm1XQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752304516736
+OkHttp-Received-Millis: 1752304517044
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

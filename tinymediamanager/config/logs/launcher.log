@@ -1,0 +1,276 @@
+[2025-07-12 06:31:49]  INFO ------------------ System Info ------------------
+[2025-07-12 06:31:49]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 06:31:49]  INFO OS Arch:      x86_64
+[2025-07-12 06:31:49]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 06:31:49]  INFO OS Kernel:    6.6.86
+[2025-07-12 06:31:49]  INFO Launcher ver: 20250119.194954
+[2025-07-12 06:31:49]  INFO Content dir:  /data
+[2025-07-12 06:31:49]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 06:31:49]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 06:31:49]  INFO Readonly:     false
+[2025-07-12 06:31:49]  INFO Portable:     false
+[2025-07-12 06:31:49]  INFO -------------------------------------------------
+[2025-07-12 06:31:49]  INFO Loading static config from launcher.yml
+[2025-07-12 06:31:49]  INFO parsed launcher.yml
+[2025-07-12 06:31:49]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 06:31:49]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 06:31:49]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 06:31:49]  INFO no update found
+[2025-07-12 06:31:49]  INFO Using Java from: /app/jre
+[2025-07-12 06:31:49]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 06:31:49]  INFO Working directory: /app
+[2025-07-12 06:31:49]  INFO Content directory: /data
+[2025-07-12 06:31:49]  WARN classpath entry '/app/addons' not found
+[2025-07-12 06:31:49]  WARN classpath entry '/data/addons' not found
+[2025-07-12 06:31:49]  INFO CMD: false
+[2025-07-12 06:31:49]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-12 07:12:05]  INFO ------------------ System Info ------------------
+[2025-07-12 07:12:05]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 07:12:05]  INFO OS Arch:      x86_64
+[2025-07-12 07:12:05]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 07:12:05]  INFO OS Kernel:    6.6.86
+[2025-07-12 07:12:05]  INFO Launcher ver: 20250119.194954
+[2025-07-12 07:12:05]  INFO Content dir:  /data
+[2025-07-12 07:12:05]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 07:12:05]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 07:12:05]  INFO Readonly:     false
+[2025-07-12 07:12:05]  INFO Portable:     false
+[2025-07-12 07:12:05]  INFO -------------------------------------------------
+[2025-07-12 07:12:05]  INFO Loading static config from launcher.yml
+[2025-07-12 07:12:05]  INFO parsed launcher.yml
+[2025-07-12 07:12:05]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 07:12:05]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 07:12:05]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 07:12:05]  INFO no update found
+[2025-07-12 07:12:05]  INFO Using Java from: /app/jre
+[2025-07-12 07:12:05]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 07:12:05]  INFO Working directory: /app
+[2025-07-12 07:12:05]  INFO Content directory: /data
+[2025-07-12 07:12:05]  WARN classpath entry '/app/addons' not found
+[2025-07-12 07:12:05]  INFO CMD: false
+[2025-07-12 07:12:05]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-12 15:46:12]  INFO ------------------ System Info ------------------
+[2025-07-12 15:46:12]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 15:46:12]  INFO OS Arch:      x86_64
+[2025-07-12 15:46:12]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 15:46:12]  INFO OS Kernel:    6.6.86
+[2025-07-12 15:46:12]  INFO Launcher ver: 20250119.194954
+[2025-07-12 15:46:12]  INFO Content dir:  /data
+[2025-07-12 15:46:12]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 15:46:12]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 15:46:12]  INFO Readonly:     false
+[2025-07-12 15:46:12]  INFO Portable:     false
+[2025-07-12 15:46:12]  INFO -------------------------------------------------
+[2025-07-12 15:46:12]  INFO Loading static config from launcher.yml
+[2025-07-12 15:46:12]  INFO parsed launcher.yml
+[2025-07-12 15:46:12]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 15:46:12]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 15:46:12]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 15:46:12]  INFO no update found
+[2025-07-12 15:46:12]  INFO Using Java from: /app/jre
+[2025-07-12 15:46:12]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 15:46:12]  INFO Working directory: /app
+[2025-07-12 15:46:12]  INFO Content directory: /data
+[2025-07-12 15:46:12]  WARN classpath entry '/app/addons' not found
+[2025-07-12 15:46:12]  INFO CMD: false
+[2025-07-12 15:46:12]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-12 17:06:34]  INFO ------------------ System Info ------------------
+[2025-07-12 17:06:34]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 17:06:34]  INFO OS Arch:      x86_64
+[2025-07-12 17:06:34]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 17:06:34]  INFO OS Kernel:    6.6.86
+[2025-07-12 17:06:34]  INFO Launcher ver: 20250119.194954
+[2025-07-12 17:06:34]  INFO Content dir:  /data
+[2025-07-12 17:06:34]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 17:06:34]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 17:06:34]  INFO Readonly:     false
+[2025-07-12 17:06:34]  INFO Portable:     false
+[2025-07-12 17:06:34]  INFO -------------------------------------------------
+[2025-07-12 17:06:34]  INFO Loading static config from launcher.yml
+[2025-07-12 17:06:34]  INFO parsed launcher.yml
+[2025-07-12 17:06:34]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 17:06:34]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 17:06:34]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 17:06:34]  INFO no update found
+[2025-07-12 17:06:34]  INFO Using Java from: /app/jre
+[2025-07-12 17:06:34]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 17:06:34]  INFO Working directory: /app
+[2025-07-12 17:06:34]  INFO Content directory: /data
+[2025-07-12 17:06:34]  WARN classpath entry '/app/addons' not found
+[2025-07-12 17:06:34]  INFO CMD: false
+[2025-07-12 17:06:34]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-12 20:09:31]  INFO ------------------ System Info ------------------
+[2025-07-12 20:09:31]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 20:09:31]  INFO OS Arch:      x86_64
+[2025-07-12 20:09:31]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 20:09:31]  INFO OS Kernel:    6.6.86
+[2025-07-12 20:09:31]  INFO Launcher ver: 20250119.194954
+[2025-07-12 20:09:31]  INFO Content dir:  /data
+[2025-07-12 20:09:31]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 20:09:31]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 20:09:31]  INFO Readonly:     false
+[2025-07-12 20:09:31]  INFO Portable:     false
+[2025-07-12 20:09:31]  INFO -------------------------------------------------
+[2025-07-12 20:09:31]  INFO Loading static config from launcher.yml
+[2025-07-12 20:09:31]  INFO parsed launcher.yml
+[2025-07-12 20:09:31]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 20:09:31]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 20:09:31]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 20:09:31]  INFO no update found
+[2025-07-12 20:09:31]  INFO Using Java from: /app/jre
+[2025-07-12 20:09:31]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 20:09:31]  INFO Working directory: /app
+[2025-07-12 20:09:31]  INFO Content directory: /data
+[2025-07-12 20:09:31]  WARN classpath entry '/app/addons' not found
+[2025-07-12 20:09:31]  INFO CMD: false
+[2025-07-12 20:09:31]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-12 20:35:34]  INFO ------------------ System Info ------------------
+[2025-07-12 20:35:34]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 20:35:34]  INFO OS Arch:      x86_64
+[2025-07-12 20:35:34]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 20:35:34]  INFO OS Kernel:    6.6.86
+[2025-07-12 20:35:34]  INFO Launcher ver: 20250119.194954
+[2025-07-12 20:35:34]  INFO Content dir:  /data
+[2025-07-12 20:35:34]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 20:35:34]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 20:35:34]  INFO Readonly:     false
+[2025-07-12 20:35:34]  INFO Portable:     false
+[2025-07-12 20:35:34]  INFO -------------------------------------------------
+[2025-07-12 20:35:34]  INFO Loading static config from launcher.yml
+[2025-07-12 20:35:34]  INFO parsed launcher.yml
+[2025-07-12 20:35:34]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 20:35:34]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 20:35:34]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 20:35:34]  INFO no update found
+[2025-07-12 20:35:34]  INFO Using Java from: /app/jre
+[2025-07-12 20:35:34]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 20:35:34]  INFO Working directory: /app
+[2025-07-12 20:35:34]  INFO Content directory: /data
+[2025-07-12 20:35:34]  WARN classpath entry '/app/addons' not found
+[2025-07-12 20:35:34]  INFO CMD: false
+[2025-07-12 20:35:34]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-12 20:37:07]  INFO ------------------ System Info ------------------
+[2025-07-12 20:37:07]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 20:37:07]  INFO OS Arch:      x86_64
+[2025-07-12 20:37:07]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 20:37:07]  INFO OS Kernel:    6.6.86
+[2025-07-12 20:37:07]  INFO Launcher ver: 20250119.194954
+[2025-07-12 20:37:07]  INFO Content dir:  /data
+[2025-07-12 20:37:07]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 20:37:07]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 20:37:07]  INFO Readonly:     false
+[2025-07-12 20:37:07]  INFO Portable:     false
+[2025-07-12 20:37:07]  INFO -------------------------------------------------
+[2025-07-12 20:37:07]  INFO Loading static config from launcher.yml
+[2025-07-12 20:37:07]  INFO parsed launcher.yml
+[2025-07-12 20:37:07]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 20:37:07]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 20:37:07]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 20:37:07]  INFO no update found
+[2025-07-12 20:37:07]  INFO Using Java from: /app/jre
+[2025-07-12 20:37:07]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 20:37:07]  INFO Working directory: /app
+[2025-07-12 20:37:07]  INFO Content directory: /data
+[2025-07-12 20:37:07]  WARN classpath entry '/app/addons' not found
+[2025-07-12 20:37:07]  INFO CMD: false
+[2025-07-12 20:37:07]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-12 20:39:02]  INFO ------------------ System Info ------------------
+[2025-07-12 20:39:02]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 20:39:02]  INFO OS Arch:      x86_64
+[2025-07-12 20:39:02]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 20:39:02]  INFO OS Kernel:    6.6.86
+[2025-07-12 20:39:02]  INFO Launcher ver: 20250119.194954
+[2025-07-12 20:39:02]  INFO Content dir:  /data
+[2025-07-12 20:39:02]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 20:39:02]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 20:39:02]  INFO Readonly:     false
+[2025-07-12 20:39:02]  INFO Portable:     false
+[2025-07-12 20:39:02]  INFO -------------------------------------------------
+[2025-07-12 20:39:02]  INFO Loading static config from launcher.yml
+[2025-07-12 20:39:02]  INFO parsed launcher.yml
+[2025-07-12 20:39:02]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 20:39:02]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 20:39:02]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 20:39:02]  INFO no update found
+[2025-07-12 20:39:02]  INFO Using Java from: /app/jre
+[2025-07-12 20:39:02]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 20:39:02]  INFO Working directory: /app
+[2025-07-12 20:39:02]  INFO Content directory: /data
+[2025-07-12 20:39:02]  WARN classpath entry '/app/addons' not found
+[2025-07-12 20:39:02]  INFO CMD: false
+[2025-07-12 20:39:02]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-12 20:40:35]  INFO ------------------ System Info ------------------
+[2025-07-12 20:40:35]  INFO OS Name:      Debian GNU/Linux
+[2025-07-12 20:40:35]  INFO OS Arch:      x86_64
+[2025-07-12 20:40:35]  INFO OS Vers:      12 (bookworm)
+[2025-07-12 20:40:35]  INFO OS Kernel:    6.6.86
+[2025-07-12 20:40:35]  INFO Launcher ver: 20250119.194954
+[2025-07-12 20:40:35]  INFO Content dir:  /data
+[2025-07-12 20:40:35]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-12 20:40:35]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-12 20:40:35]  INFO Readonly:     false
+[2025-07-12 20:40:35]  INFO Portable:     false
+[2025-07-12 20:40:35]  INFO -------------------------------------------------
+[2025-07-12 20:40:35]  INFO Loading static config from launcher.yml
+[2025-07-12 20:40:35]  INFO parsed launcher.yml
+[2025-07-12 20:40:35]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-12 20:40:35]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-12 20:40:35]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-12 20:40:35]  INFO no update found
+[2025-07-12 20:40:35]  INFO Using Java from: /app/jre
+[2025-07-12 20:40:35]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-12 20:40:35]  INFO Working directory: /app
+[2025-07-12 20:40:35]  INFO Content directory: /data
+[2025-07-12 20:40:35]  WARN classpath entry '/app/addons' not found
+[2025-07-12 20:40:35]  INFO CMD: false
+[2025-07-12 20:40:35]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-14 02:48:08]  INFO ------------------ System Info ------------------
+[2025-07-14 02:48:08]  INFO OS Name:      Debian GNU/Linux
+[2025-07-14 02:48:08]  INFO OS Arch:      x86_64
+[2025-07-14 02:48:08]  INFO OS Vers:      12 (bookworm)
+[2025-07-14 02:48:08]  INFO OS Kernel:    6.6.86
+[2025-07-14 02:48:08]  INFO Launcher ver: 20250119.194954
+[2025-07-14 02:48:08]  INFO Content dir:  /data
+[2025-07-14 02:48:08]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-14 02:48:08]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-14 02:48:08]  INFO Readonly:     false
+[2025-07-14 02:48:08]  INFO Portable:     false
+[2025-07-14 02:48:08]  INFO -------------------------------------------------
+[2025-07-14 02:48:08]  INFO Loading static config from launcher.yml
+[2025-07-14 02:48:08]  INFO parsed launcher.yml
+[2025-07-14 02:48:08]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-14 02:48:08]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-14 02:48:08]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-14 02:48:08]  INFO no update found
+[2025-07-14 02:48:08]  INFO Using Java from: /app/jre
+[2025-07-14 02:48:08]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-14 02:48:08]  INFO Working directory: /app
+[2025-07-14 02:48:08]  INFO Content directory: /data
+[2025-07-14 02:48:08]  WARN classpath entry '/app/addons' not found
+[2025-07-14 02:48:08]  INFO CMD: false
+[2025-07-14 02:48:08]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]
+[2025-07-14 02:54:50]  INFO ------------------ System Info ------------------
+[2025-07-14 02:54:50]  INFO OS Name:      Debian GNU/Linux
+[2025-07-14 02:54:50]  INFO OS Arch:      x86_64
+[2025-07-14 02:54:50]  INFO OS Vers:      12 (bookworm)
+[2025-07-14 02:54:50]  INFO OS Kernel:    6.6.86
+[2025-07-14 02:54:50]  INFO Launcher ver: 20250119.194954
+[2025-07-14 02:54:50]  INFO Content dir:  /data
+[2025-07-14 02:54:50]  INFO Args:         [/app/tinyMediaManager -Dtmm.contentfolder=/data]
+[2025-07-14 02:54:50]  INFO Tmm ver:      5.1.7 - 20b988e
+[2025-07-14 02:54:50]  INFO Readonly:     false
+[2025-07-14 02:54:50]  INFO Portable:     false
+[2025-07-14 02:54:50]  INFO -------------------------------------------------
+[2025-07-14 02:54:50]  INFO Loading static config from launcher.yml
+[2025-07-14 02:54:50]  INFO parsed launcher.yml
+[2025-07-14 02:54:50]  INFO Loading custom config from /data/launcher-extra.yml
+[2025-07-14 02:54:50]  INFO Failed to read '/data/launcher-extra.yml', assuming no custom config
+[2025-07-14 02:54:50]  INFO Failed to read 'launcher-extra.yml', assuming no custom config
+[2025-07-14 02:54:50]  INFO no update found
+[2025-07-14 02:54:50]  INFO Using Java from: /app/jre
+[2025-07-14 02:54:50]  INFO Resolved libjvm path: /app/jre/lib/server/libjvm.so
+[2025-07-14 02:54:50]  INFO Working directory: /app
+[2025-07-14 02:54:50]  INFO Content directory: /data
+[2025-07-14 02:54:50]  WARN classpath entry '/app/addons' not found
+[2025-07-14 02:54:50]  INFO CMD: false
+[2025-07-14 02:54:50]  INFO Using JVM args: [-Djava.class.path=/app/tmm.jar:/app/lib/aXMLRPC.jar:/app/lib/activation.jar:/app/lib/animated-gif-lib.jar:/app/lib/annotations.jar:/app/lib/aspectjrt.jar:/app/lib/betterbeansbinding-core.jar:/app/lib/betterbeansbinding-el.jar:/app/lib/betterbeansbinding-swingbinding.jar:/app/lib/cling-core.jar:/app/lib/cling-support.jar:/app/lib/common-image.jar:/app/lib/common-io.jar:/app/lib/common-lang.jar:/app/lib/commons-codec.jar:/app/lib/commons-compiler.jar:/app/lib/commons-compress.jar:/app/lib/commons-csv.jar:/app/lib/commons-io.jar:/app/lib/commons-lang3.jar:/app/lib/commons-text.jar:/app/lib/converter-gson.jar:/app/lib/dec.jar:/app/lib/flatlaf.jar:/app/lib/getdown-core.jar:/app/lib/glazedlists.jar:/app/lib/gson.jar:/app/lib/h2-mvstore.jar:/app/lib/imageio-core.jar:/app/lib/imageio-jpeg.jar:/app/lib/imageio-metadata.jar:/app/lib/imageio-webp.jar:/app/lib/imgscalr-lib.jar:/app/lib/isoparser.jar:/app/lib/jISO8601.jar:/app/lib/jackson-annotations.jar:/app/lib/jackson-core.jar:/app/lib/jackson-databind.jar:/app/lib/jackson-dataformat-yaml.jar:/app/lib/jackson-module-blackbird.jar:/app/lib/jakarta.activation.jar:/app/lib/jakarta.xml.bind-api.jar:/app/lib/janino.jar:/app/lib/jaxb-core.jar:/app/lib/jaxb-impl.jar:/app/lib/jcl-over-slf4j.jar:/app/lib/jmte.jar:/app/lib/jna-platform.jar:/app/lib/jna.jar:/app/lib/jsoup.jar:/app/lib/jsr305.jar:/app/lib/jul-to-slf4j.jar:/app/lib/jwfd-natives.jar:/app/lib/jwfd.jar:/app/lib/kodi-json-rpc.jar:/app/lib/kotlin-stdlib-common.jar:/app/lib/kotlin-stdlib-jdk7.jar:/app/lib/kotlin-stdlib-jdk8.jar:/app/lib/kotlin-stdlib.jar:/app/lib/libbluray.jar:/app/lib/libdvd.jar:/app/lib/license.jar:/app/lib/logback-classic.jar:/app/lib/logback-core.jar:/app/lib/logging-interceptor.jar:/app/lib/loop-fs-api.jar:/app/lib/loop-fs-iso-impl.jar:/app/lib/loop-fs-spi.jar:/app/lib/loop-fs-udf-impl.jar:/app/lib/miglayout-core.jar:/app/lib/miglayout-swing.jar:/app/lib/muxer.jar:/app/lib/nanohttpd.jar:/app/lib/okhttp-brotli.jar:/app/lib/okhttp-urlconnection.jar:/app/lib/okhttp.jar:/app/lib/okio-jvm.jar:/app/lib/okio.jar:/app/lib/picocli.jar:/app/lib/retrofit.jar:/app/lib/seamless-http.jar:/app/lib/seamless-swing.jar:/app/lib/seamless-util.jar:/app/lib/seamless-xml.jar:/app/lib/slf4j-api.jar:/app/lib/snakeyaml.jar:/app/lib/svgSalamander.jar:/app/lib/threetenbp.jar:/app/lib/trakt-java.jar:/app/lib/yt.jar:/app/lib/zip4j.jar -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data]

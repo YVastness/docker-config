@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/229192/season/2?language=zh&append_to_response=credits&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:36:08 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=20127
+x-az: us-east-1b
+x-task-id: 4df14dbffd4c4d5fa5ffbf938ea4fd37
+etag: W/"5f229ebdf9df44091939887245b444f5"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 5954c6394458ffb44c970b3819d7ff2a.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 9pVbLKBhDQJzcEkbyiKupVagA361Ev9wEpsAYq-htv91cfaGim6V6A==
+vary: Origin
+OkHttp-Sent-Millis: 1752305767883
+OkHttp-Received-Millis: 1752305768198
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

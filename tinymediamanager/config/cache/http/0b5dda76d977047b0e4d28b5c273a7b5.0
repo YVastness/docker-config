@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/292388/season/4/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:28:34 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=18234
+x-memc: HIT
+x-memc-key: 778294a5640dada65c59bae28d4157db09dcd54a2e80d7898fbcef7742f9c1b7
+x-memc-age: 8164
+x-memc-expires: 18234
+x-az: us-east-1b
+x-task-id: e853c9a51503423686614dd8d52d92fc
+etag: W/"0139809fbc89a062f472942447aacd63"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 e9e4bbba23d13e123df627eb1b33ec60.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P9
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: sBYu4PnG6dxzIb3SIhpesyYZu2Ct2UK0WMeN4LbtfaI3dNwGkeGQvg==
+vary: Origin
+OkHttp-Sent-Millis: 1752305314436
+OkHttp-Received-Millis: 1752305314714
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

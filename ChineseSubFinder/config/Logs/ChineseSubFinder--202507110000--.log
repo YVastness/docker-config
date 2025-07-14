@@ -1,0 +1,28 @@
+[INFO]: 2025-07-11 22:57:40 - LiteMode is true
+[INFO]: 2025-07-11 22:57:40 - ChineseSubFinder Version: v0.55.3 Lite
+[INFO]: 2025-07-11 22:57:40 - Reload Log Settings, level = Info
+[INFO]: 2025-07-11 22:57:40 - Speed Dev Mode is Off
+[INFO]: 2025-07-11 22:57:40 - Download.SupplierCheck() Start ...
+[INFO]: 2025-07-11 22:57:40 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2025-07-11 22:57:40 - PreDownloadProcess.Init() Start...
+[INFO]: 2025-07-11 22:57:40 - ClearRodTmpRootFolder Done
+[INFO]: 2025-07-11 22:57:40 - PreDownloadProcess.Init() End
+[INFO]: 2025-07-11 22:57:40 - PreDownloadProcess.Check() Start...
+[INFO]: 2025-07-11 22:57:40 - UseHttpProxy = false
+[INFO]: 2025-07-11 22:57:40 - UrlConnectednessTest Target Site https://baidu.com Speed: 188 ms, Status: true
+[INFO]: 2025-07-11 22:57:40 - Check Sub Supplier Start...
+[INFO]: 2025-07-11 22:57:40 - xunlei Check Alive = true, Speed = 165 ms
+[INFO]: 2025-07-11 22:57:41 - shooter Check Alive = true, Speed = 885 ms
+[ERROR]: 2025-07-11 22:57:48 - a4k CheckAlive.Get Get "https://www.a4k.net": EOF
+[WARNING]: 2025-07-11 22:57:48 - a4k Check Alive = false
+[INFO]: 2025-07-11 22:57:48 - Alive Supplier: xunlei
+[INFO]: 2025-07-11 22:57:48 - Alive Supplier: shooter
+[INFO]: 2025-07-11 22:57:48 - Check Sub Supplier End
+[WARNING]: 2025-07-11 22:57:48 - MoviePaths not set, len == 0
+[WARNING]: 2025-07-11 22:57:48 - SeriesPaths not set, len == 0
+[INFO]: 2025-07-11 22:57:48 - PreDownloadProcess.Check() End
+[INFO]: 2025-07-11 22:57:48 - PreDownloadProcess.Wait() Done.
+[INFO]: 2025-07-11 22:57:48 - Download.SupplierCheck() End
+[INFO]: 2025-07-11 22:57:48 - Try Start Http Server At Port 19035
+[INFO]: 2025-07-11 22:57:48 - Need do Setup, then do PreJob
+[INFO]: 2025-07-11 22:57:48 - Need do Setup, then do CornJob

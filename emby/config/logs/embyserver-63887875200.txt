@@ -1,0 +1,383 @@
+2025-07-11 22:57:33.319 Info Main: Application path: /system/EmbyServer.dll
+2025-07-11 22:57:33.441 Info NetworkManager: Adding event handler for NetworkChange.NetworkAddressChanged
+2025-07-11 22:57:33.608 Info App: Setting default culture to zh-CN
+2025-07-11 22:57:33.612 Info Main: Emby
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.86 (buildbot@buildbot.infra.immortalwrt.org) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 r33048-cc720ea55a71) 13.3.0, GNU ld
+	Framework: .NET 6.0.36
+	OS/Process: x64/x64
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+2025-07-11 22:57:33.612 Info Main: Logs path: /config/logs
+2025-07-11 22:57:33.612 Info Main: Cache path: /config/cache
+2025-07-11 22:57:33.613 Info Main: Internal metadata path: /config/metadata
+2025-07-11 22:57:33.615 Info App: Emby Server Version: 4.8.11.0
+2025-07-11 22:57:33.618 Info App: Loading assemblies
+2025-07-11 22:57:33.699 Info App: File /config/plugins/AudioDb.dll has version 1.0.20.0
+2025-07-11 22:57:33.700 Info App: File /system/plugins/AudioDb.dll has version 1.0.18.0
+2025-07-11 22:57:33.703 Info App: File /config/plugins/BlurayMounter.dll has version 1.0.2.0
+2025-07-11 22:57:33.706 Info App: File /system/plugins/BlurayMounter.dll has version 1.0.2.0
+2025-07-11 22:57:33.711 Info App: File /config/plugins/DvdMounter.dll has version 1.0.0.0
+2025-07-11 22:57:33.717 Info App: File /system/plugins/DvdMounter.dll has version 1.0.0.0
+2025-07-11 22:57:33.720 Info App: File /config/plugins/Emby.Dlna.dll has version 1.5.1.0
+2025-07-11 22:57:33.723 Info App: File /system/plugins/Emby.Dlna.dll has version 1.4.7.0
+2025-07-11 22:57:33.725 Info App: File /config/plugins/Emby.M3UTuner.dll has version 1.0.39.0
+2025-07-11 22:57:33.728 Info App: File /system/plugins/Emby.M3UTuner.dll has version 1.0.39.0
+2025-07-11 22:57:33.731 Info App: File /config/plugins/Emby.PortMapper.dll has version 1.2.8.0
+2025-07-11 22:57:33.734 Info App: File /system/plugins/Emby.PortMapper.dll has version 1.2.8.0
+2025-07-11 22:57:33.737 Info App: File /config/plugins/Emby.Server.CinemaMode.dll has version 1.0.47.0
+2025-07-11 22:57:33.740 Info App: File /system/plugins/Emby.Server.CinemaMode.dll has version 1.0.47.0
+2025-07-11 22:57:33.746 Info App: File /config/plugins/Emby.Webhooks.dll has version 1.0.35.0
+2025-07-11 22:57:33.752 Info App: File /system/plugins/Emby.Webhooks.dll has version 1.0.35.0
+2025-07-11 22:57:33.755 Info App: File /config/plugins/Emby.XmlTV.dll has version 1.2.0.0
+2025-07-11 22:57:33.758 Info App: File /system/plugins/Emby.XmlTV.dll has version 1.2.0.0
+2025-07-11 22:57:33.761 Info App: File /config/plugins/EmbyGuideData.dll has version 1.0.18.0
+2025-07-11 22:57:33.764 Info App: File /system/plugins/EmbyGuideData.dll has version 1.0.18.0
+2025-07-11 22:57:33.767 Info App: File /config/plugins/Fanart.dll has version 1.0.16.0
+2025-07-11 22:57:33.770 Info App: File /system/plugins/Fanart.dll has version 1.0.16.0
+2025-07-11 22:57:33.773 Info App: File /config/plugins/MBBackup.dll has version 1.8.0.0
+2025-07-11 22:57:33.775 Info App: File /system/plugins/MBBackup.dll has version 1.7.2.0
+2025-07-11 22:57:33.778 Info App: File /config/plugins/MovieDb.dll has version 1.8.3.0
+2025-07-11 22:57:33.781 Info App: File /system/plugins/MovieDb.dll has version 1.8.0.0
+2025-07-11 22:57:33.781 Info App: File /config/plugins/MusicBrainz.dll has version 1.0.25.0
+2025-07-11 22:57:33.781 Info App: File /system/plugins/MusicBrainz.dll has version 1.0.24.0
+2025-07-11 22:57:33.782 Info App: File /config/plugins/NfoMetadata.dll has version 1.0.83.0
+2025-07-11 22:57:33.782 Info App: File /system/plugins/NfoMetadata.dll has version 1.0.82.0
+2025-07-11 22:57:33.782 Info App: File /config/plugins/OMDb.dll has version 1.0.22.0
+2025-07-11 22:57:33.782 Info App: File /system/plugins/OMDb.dll has version 1.0.21.0
+2025-07-11 22:57:33.782 Info App: File /config/plugins/OpenSubtitles.dll has version 1.0.64.0
+2025-07-11 22:57:33.782 Info App: File /system/plugins/OpenSubtitles.dll has version 1.0.63.0
+2025-07-11 22:57:33.782 Info App: File /config/plugins/StudioImages.dll has version 1.0.3.0
+2025-07-11 22:57:33.782 Info App: File /system/plugins/StudioImages.dll has version 1.0.3.0
+2025-07-11 22:57:33.783 Info App: File /config/plugins/Tvdb.dll has version 1.6.2.0
+2025-07-11 22:57:33.783 Info App: File /system/plugins/Tvdb.dll has version 1.5.8.0
+2025-07-11 22:57:33.803 Info App: Loading Emby.XmlTV, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.XmlTV.dll
+2025-07-11 22:57:33.803 Info App: Loading OpenSubtitles, Version=1.0.64.0, Culture=neutral, PublicKeyToken=null from /config/plugins/OpenSubtitles.dll
+2025-07-11 22:57:33.803 Info App: Loading Emby.Webhooks, Version=1.0.35.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Webhooks.dll
+2025-07-11 22:57:33.803 Info App: Loading Emby.M3UTuner, Version=1.0.39.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.M3UTuner.dll
+2025-07-11 22:57:33.803 Info App: Loading DvdMounter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from /config/plugins/DvdMounter.dll
+2025-07-11 22:57:33.803 Info App: Loading EmbyGuideData, Version=1.0.18.0, Culture=neutral, PublicKeyToken=null from /config/plugins/EmbyGuideData.dll
+2025-07-11 22:57:33.803 Info App: Loading Emby.Dlna, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Dlna.dll
+2025-07-11 22:57:33.803 Info App: Loading NfoMetadata, Version=1.0.83.0, Culture=neutral, PublicKeyToken=null from /config/plugins/NfoMetadata.dll
+2025-07-11 22:57:33.803 Info App: Loading MovieDb, Version=1.8.3.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MovieDb.dll
+2025-07-11 22:57:33.803 Info App: Loading MetaTube, Version=2025.410.110.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MetaTube.dll
+2025-07-11 22:57:33.803 Info App: Loading MusicBrainz, Version=1.0.25.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MusicBrainz.dll
+2025-07-11 22:57:33.803 Info App: Loading OMDb, Version=1.0.22.0, Culture=neutral, PublicKeyToken=null from /config/plugins/OMDb.dll
+2025-07-11 22:57:33.803 Info App: Loading Fanart, Version=1.0.16.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Fanart.dll
+2025-07-11 22:57:33.803 Info App: Loading Emby.Server.CinemaMode, Version=1.0.47.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Server.CinemaMode.dll
+2025-07-11 22:57:33.803 Info App: Loading Tvdb, Version=1.6.2.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Tvdb.dll
+2025-07-11 22:57:33.803 Info App: Loading MBBackup, Version=1.8.0.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MBBackup.dll
+2025-07-11 22:57:33.803 Info App: Loading BlurayMounter, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null from /config/plugins/BlurayMounter.dll
+2025-07-11 22:57:33.803 Info App: Loading StudioImages, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null from /config/plugins/StudioImages.dll
+2025-07-11 22:57:33.803 Info App: Loading AudioDb, Version=1.0.20.0, Culture=neutral, PublicKeyToken=null from /config/plugins/AudioDb.dll
+2025-07-11 22:57:33.803 Info App: Loading Emby.PortMapper, Version=1.2.8.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.PortMapper.dll
+2025-07-11 22:57:33.803 Info App: Loading Emby.Api, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Web, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading MediaBrowser.Model, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading MediaBrowser.Common, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading MediaBrowser.Controller, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Providers, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Photos, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Server.Implementations, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.LiveTV, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.ActivityLog, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Server.MediaEncoding, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.LocalMetadata, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Notifications, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Web.GenericUI, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Codecs.Dxva, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Codecs, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Server.Connect, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading Emby.Server.Sync, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:33.803 Info App: Loading EmbyServer, Version=4.8.11.0, Culture=neutral, PublicKeyToken=null
+2025-07-11 22:57:34.054 Info SqliteUserRepository: Sqlite version: 3.42.0
+2025-07-11 22:57:34.055 Info SqliteUserRepository: Sqlite compiler options: ATOMIC_INTRINSICS=1,COMPILER=gcc-10.3.0,DEFAULT_AUTOVACUUM,DEFAULT_CACHE_SIZE=-2000,DEFAULT_FILE_FORMAT=4,DEFAULT_JOURNAL_SIZE_LIMIT=-1,DEFAULT_MMAP_SIZE=0,DEFAULT_PAGE_SIZE=4096,DEFAULT_PCACHE_INITSZ=20,DEFAULT_RECURSIVE_TRIGGERS,DEFAULT_SECTOR_SIZE=4096,DEFAULT_SYNCHRONOUS=2,DEFAULT_WAL_AUTOCHECKPOINT=1000,DEFAULT_WAL_SYNCHRONOUS=2,DEFAULT_WORKER_THREADS=0,ENABLE_COLUMN_METADATA,ENABLE_DBSTAT_VTAB,ENABLE_FTS3,ENABLE_FTS3_PARENTHESIS,ENABLE_FTS3_TOKENIZER,ENABLE_FTS4,ENABLE_FTS5,ENABLE_GEOPOLY,ENABLE_MATH_FUNCTIONS,ENABLE_PREUPDATE_HOOK,ENABLE_RTREE,ENABLE_SESSION,ENABLE_UNLOCK_NOTIFY,ENABLE_UPDATE_DELETE_LIMIT,LIKE_DOESNT_MATCH_BLOBS,MALLOC_SOFT_LIMIT=1024,MAX_ATTACHED=10,MAX_COLUMN=2000,MAX_COMPOUND_SELECT=500,MAX_DEFAULT_PAGE_SIZE=8192,MAX_EXPR_DEPTH=1000,MAX_FUNCTION_ARG=127,MAX_LENGTH=1000000000,MAX_LIKE_PATTERN_LENGTH=50000,MAX_MMAP_SIZE=0x7fff0000,MAX_PAGE_COUNT=1073741823,MAX_PAGE_SIZE=65536,MAX_SCHEMA_RETRY=25,MAX_SQL_LENGTH=1000000000,MAX_TRIGGER_DEPTH=1000,MAX_VARIABLE_NUMBER=250000,MAX_VDBE_OP=250000000,MAX_WORKER_THREADS=8,MUTEX_PTHREADS,OMIT_LOOKASIDE,SECURE_DELETE,SYSTEM_MALLOC,TEMP_STORE=1,THREADSAFE=1
+2025-07-11 22:57:34.055 Info SqliteUserRepository: Opening sqlite connection to /config/data/users.db
+2025-07-11 22:57:34.069 Info SqliteUserRepository: Default journal_mode for /config/data/users.db is wal
+2025-07-11 22:57:34.071 Info SqliteUserRepository: PRAGMA foreign_keys=1
+2025-07-11 22:57:34.071 Info SqliteUserRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2025-07-11 22:57:34.071 Info SqliteUserRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2025-07-11 22:57:34.128 Info ActivityRepository: Opening sqlite connection to /config/data/activitylog.db
+2025-07-11 22:57:34.129 Info ActivityRepository: Default journal_mode for /config/data/activitylog.db is wal
+2025-07-11 22:57:34.129 Info ActivityRepository: PRAGMA foreign_keys=1
+2025-07-11 22:57:34.129 Info ActivityRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2025-07-11 22:57:34.129 Info ActivityRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2025-07-11 22:57:34.144 Info NetworkManager: Detecting local network addresses
+2025-07-11 22:57:34.144 Info NetworkManager: networkInterface: Ethernet eth0, Speed: 1000000000, Description: eth0
+2025-07-11 22:57:34.144 Info NetworkManager: GatewayAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: UnicastAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: networkInterface: Ethernet eth1, Speed: 1000000000, Description: eth1
+2025-07-11 22:57:34.145 Info NetworkManager: GatewayAddresses: 192.168.1.1
+2025-07-11 22:57:34.145 Info NetworkManager: UnicastAddresses: 192.168.1.2,fe80::62be:b4ff:fe24:20cf%3
+2025-07-11 22:57:34.145 Info NetworkManager: networkInterface: Ethernet eth2, Speed: 1000000000, Description: eth2
+2025-07-11 22:57:34.145 Info NetworkManager: GatewayAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: UnicastAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: networkInterface: Ethernet br-lan, Speed: 1000000000, Description: br-lan
+2025-07-11 22:57:34.145 Info NetworkManager: GatewayAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: UnicastAddresses: 192.168.2.1,fdd3:6a44:b4be::1,fe80::62be:b4ff:fe24:20ce%6
+2025-07-11 22:57:34.145 Info NetworkManager: networkInterface: Ethernet docker0, Speed: 10000000000, Description: docker0
+2025-07-11 22:57:34.145 Info NetworkManager: GatewayAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: UnicastAddresses: 172.17.0.1,fe80::42:ff:fe2f:2aa5%7
+2025-07-11 22:57:34.145 Info NetworkManager: networkInterface: Ethernet veth757d004, Speed: 10000000000, Description: veth757d004
+2025-07-11 22:57:34.145 Info NetworkManager: GatewayAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: UnicastAddresses: fe80::14c7:11ff:fe96:bb17%30
+2025-07-11 22:57:34.145 Info NetworkManager: networkInterface: Loopback lo, Speed: -1, Description: lo
+2025-07-11 22:57:34.145 Info NetworkManager: GatewayAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: UnicastAddresses: 127.0.0.1,::1
+2025-07-11 22:57:34.145 Info NetworkManager: networkInterface: Unknown utun, Speed: -1, Description: utun
+2025-07-11 22:57:34.145 Info NetworkManager: GatewayAddresses: 
+2025-07-11 22:57:34.145 Info NetworkManager: UnicastAddresses: 198.18.0.1,fe80::124d:7167:64eb:68d6%28
+2025-07-11 22:57:34.188 Info NetworkManager: Detected local ip addresses: [{"IPAddress":"192.168.1.2","HasGateWayAddress":true,"PrefixLength":24,"IPv4Mask":"255.255.255.0"},{"IPAddress":"fe80::62be:b4ff:fe24:20cf%3","HasGateWayAddress":true,"PrefixLength":64},{"IPAddress":"192.168.2.1","HasGateWayAddress":false,"PrefixLength":24,"IPv4Mask":"255.255.255.0"},{"IPAddress":"172.17.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"127.0.0.1","HasGateWayAddress":false,"PrefixLength":8,"IPv4Mask":"255.0.0.0"},{"IPAddress":"198.18.0.1","HasGateWayAddress":false,"PrefixLength":30,"IPv4Mask":"255.255.255.252"},{"IPAddress":"fdd3:6a44:b4be::1","HasGateWayAddress":false,"PrefixLength":60},{"IPAddress":"fe80::62be:b4ff:fe24:20ce%6","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:ff:fe2f:2aa5%7","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::14c7:11ff:fe96:bb17%30","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"::1","HasGateWayAddress":false,"PrefixLength":128},{"IPAddress":"fe80::124d:7167:64eb:68d6%28","HasGateWayAddress":false,"PrefixLength":64}]
+2025-07-11 22:57:34.192 Info SqliteDisplayPreferencesRepository: Opening sqlite connection to /config/data/displaypreferences.db
+2025-07-11 22:57:34.195 Info SqliteDisplayPreferencesRepository: Default journal_mode for /config/data/displaypreferences.db is wal
+2025-07-11 22:57:34.195 Info SqliteDisplayPreferencesRepository: PRAGMA foreign_keys=1
+2025-07-11 22:57:34.195 Info SqliteDisplayPreferencesRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2025-07-11 22:57:34.195 Info SqliteDisplayPreferencesRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2025-07-11 22:57:34.201 Info ServerConfigurationManager: Saving system configuration
+2025-07-11 22:57:34.202 Info App: Begin vacumming SqliteItemRepository
+2025-07-11 22:57:34.203 Info SqliteItemRepository: Opening sqlite connection to /config/data/library.db
+2025-07-11 22:57:34.212 Info SqliteItemRepository: Default journal_mode for /config/data/library.db is wal
+2025-07-11 22:57:34.213 Info SqliteItemRepository: PRAGMA cache_size=-131072
+2025-07-11 22:57:34.213 Info SqliteItemRepository: PRAGMA page_size=4096
+2025-07-11 22:57:34.213 Info SqliteItemRepository: PRAGMA foreign_keys=1
+2025-07-11 22:57:34.213 Info SqliteItemRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2025-07-11 22:57:34.213 Info SqliteItemRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2025-07-11 22:57:34.266 Info App: Completed vacumming SqliteItemRepository after 64ms
+2025-07-11 22:57:34.266 Info App: Begin vacumming SqliteUserRepository
+2025-07-11 22:57:34.267 Info App: Completed vacumming SqliteUserRepository after 1ms
+2025-07-11 22:57:34.267 Info App: Begin vacumming AuthenticationRepository
+2025-07-11 22:57:34.267 Info AuthenticationRepository: Opening sqlite connection to /config/data/authentication.db
+2025-07-11 22:57:34.275 Info AuthenticationRepository: Default journal_mode for /config/data/authentication.db is wal
+2025-07-11 22:57:34.276 Info AuthenticationRepository: PRAGMA foreign_keys=1
+2025-07-11 22:57:34.276 Info AuthenticationRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2025-07-11 22:57:34.276 Info AuthenticationRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2025-07-11 22:57:34.277 Info App: Completed vacumming AuthenticationRepository after 9ms
+2025-07-11 22:57:34.277 Info App: Begin vacumming SqliteDisplayPreferencesRepository
+2025-07-11 22:57:34.284 Info App: Completed vacumming SqliteDisplayPreferencesRepository after 7ms
+2025-07-11 22:57:34.284 Info App: Begin vacumming ActivityRepository
+2025-07-11 22:57:34.285 Info App: Completed vacumming ActivityRepository after 1ms
+2025-07-11 22:57:34.289 Info App: Adding HttpListener prefix http://+:8096/
+2025-07-11 22:57:34.379 Info SqliteItemRepository: Init Complete
+2025-07-11 22:57:34.575 Info App: Emby
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.86 (buildbot@buildbot.infra.immortalwrt.org) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 r33048-cc720ea55a71) 13.3.0, GNU ld
+	Framework: .NET 6.0.36
+	OS/Process: x64/x64
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+2025-07-11 22:57:34.575 Info App: Logs path: /config/logs
+2025-07-11 22:57:34.575 Info App: Cache path: /config/cache
+2025-07-11 22:57:34.575 Info App: Internal metadata path: /config/metadata
+2025-07-11 22:57:34.576 Info App: Transcoding temporary files path: /config/transcoding-temp
+2025-07-11 22:57:35.372 Info FfmpegManager: FFMpeg: /bin/ffmpeg
+2025-07-11 22:57:35.372 Info FfmpegManager: FFProbe: /bin/ffprobe
+2025-07-11 22:57:35.372 Info FfmpegManager: FFDetect: /bin/ffdetect
+2025-07-11 22:57:35.377 Info Skia: SkiaSharp version: 2.88.0.0
+2025-07-11 22:57:35.379 Info ImageProcessor: Adding image processor Skia
+2025-07-11 22:57:35.399 Info libvips: NetVips version: 2.3.1.0
+2025-07-11 22:57:35.399 Info ImageProcessor: Adding image processor libvips
+2025-07-11 22:57:35.449 Info TaskManager: Daily trigger for Generate Trailers set to fire at 07/12/2025 01:00:00, which is 122.40917041833333 minutes from now.
+2025-07-11 22:57:35.451 Info TaskManager: Daily trigger for Organize Metadata set to fire at 07/12/2025 03:00:00, which is 242.409140105 minutes from now.
+2025-07-11 22:57:35.452 Info TaskManager: Daily trigger for Update Plugin set to fire at 07/12/2025 05:00:00, which is 362.40912727 minutes from now.
+2025-07-11 22:57:35.453 Info TaskManager: Daily trigger for Emby Server Backup set to fire at 07/12/2025 00:10:00, which is 72.409100735 minutes from now.
+2025-07-11 22:57:35.458 Info TaskManager: Daily trigger for Video preview thumbnail extraction set to fire at 07/12/2025 02:00:00, which is 182.40902656666665 minutes from now.
+2025-07-11 22:57:35.648 Info TaskManager: Daily trigger for Rotate log file set to fire at 07/12/2025 00:00:00, which is 62.405857678333334 minutes from now.
+2025-07-11 22:57:35.656 Info TaskManager: Queueing task HardwareDetectionScheduledTask
+2025-07-11 22:57:35.659 Info TaskManager: Executing Hardware Detection
+2025-07-11 22:57:35.668 Info App: ServerId: 3d6e6430cfd04b72aec9ddc1888006e2
+2025-07-11 22:57:35.681 Info FfmpegManager: ProcessRun 'ffmpeg -hide_banner -version' Execute: /bin/ffmpeg -hide_banner -version
+2025-07-11 22:57:35.698 Info FfmpegManager: ProcessRun 'ffmpeg -hide_banner -version' Process exited with code 0 - Succeeded
+2025-07-11 22:57:35.716 Info FfmpegManager: FfmpegValidator.Validate complete
+2025-07-11 22:57:35.716 Info App: Starting entry point Emby.Dlna.Main.DlnaEntryPoint
+2025-07-11 22:57:35.786 Info App: Entry point completed: Emby.Dlna.Main.DlnaEntryPoint. Duration: 0.0699035 seconds
+2025-07-11 22:57:35.786 Info App: Starting entry point Emby.Server.Implementations.Networking.RemoteAddressEntryPoint
+2025-07-11 22:57:35.787 Info App: Loading data from /config/data/wan.dat
+2025-07-11 22:57:35.789 Info App: Entry point completed: Emby.Server.Implementations.Networking.RemoteAddressEntryPoint. Duration: 0.0023696 seconds
+2025-07-11 22:57:35.789 Info App: Starting entry point Emby.Server.Connect.ConnectEntryPoint
+2025-07-11 22:57:35.790 Info App: Loading data from /config/data/connect.txt
+2025-07-11 22:57:35.793 Info App: Entry point completed: Emby.Server.Connect.ConnectEntryPoint. Duration: 0.0034675 seconds
+2025-07-11 22:57:35.793 Info App: Core startup complete
+2025-07-11 22:57:35.795 Info App: Starting entry point Emby.Webhooks.MigrationEntryPoint
+2025-07-11 22:57:35.798 Info App: Entry point completed: Emby.Webhooks.MigrationEntryPoint. Duration: 0.0026265 seconds
+2025-07-11 22:57:35.798 Info App: Starting entry point NfoMetadata.EntryPoint
+2025-07-11 22:57:35.800 Info App: Entry point completed: NfoMetadata.EntryPoint. Duration: 0.0004805 seconds
+2025-07-11 22:57:35.800 Info App: Starting entry point MovieDb.Security.PluginStartup
+2025-07-11 22:57:35.804 Info App: Entry point completed: MovieDb.Security.PluginStartup. Duration: 0.0036527 seconds
+2025-07-11 22:57:35.804 Info App: Starting entry point Emby.Security.PluginSecurityManager
+2025-07-11 22:57:35.805 Info App: Entry point completed: Emby.Security.PluginSecurityManager. Duration: 4.61E-05 seconds
+2025-07-11 22:57:35.805 Info App: Starting entry point Emby.Server.CinemaMode.IntrosEntryPoint
+2025-07-11 22:57:35.805 Info App: Entry point completed: Emby.Server.CinemaMode.IntrosEntryPoint. Duration: 0.0001339 seconds
+2025-07-11 22:57:35.805 Info App: Starting entry point Tvdb.EntryPoint
+2025-07-11 22:57:35.805 Info App: Entry point completed: Tvdb.EntryPoint. Duration: 3.75E-05 seconds
+2025-07-11 22:57:35.805 Info App: Starting entry point MBBackup.ServerEntryPoint
+2025-07-11 22:57:35.805 Info App: Entry point completed: MBBackup.ServerEntryPoint. Duration: 3.32E-05 seconds
+2025-07-11 22:57:35.805 Info App: Starting entry point Emby.PortMapper.ExternalPortForwarding
+2025-07-11 22:57:35.810 Info App: Entry point completed: Emby.PortMapper.ExternalPortForwarding. Duration: 0.0014325 seconds
+2025-07-11 22:57:35.810 Info SoftwareCodecProvider: h264, libx264, x264, V-E-libx264
+2025-07-11 22:57:35.810 Info SoftwareCodecProvider: hevc, libx265, x265, V-E-libx265
+2025-07-11 22:57:35.810 Info App: Starting entry point Emby.Server.Implementations.Udp.UdpServerEntryPoint
+2025-07-11 22:57:35.810 Info SoftwareCodecProvider: mpeg4, mpeg4, MPEG-4 part 2, V-E-mpeg4
+2025-07-11 22:57:35.811 Info SoftwareCodecProvider: msmpeg4v3, msmpeg4, MPEG-4 part 2 (MS Variant 3), V-E-msmpeg4
+2025-07-11 22:57:35.811 Info SoftwareCodecProvider: vp8, libvpx, libvpx VP8, V-E-libvpx
+2025-07-11 22:57:35.812 Info App: Entry point completed: Emby.Server.Implementations.Udp.UdpServerEntryPoint. Duration: 0.0015072 seconds
+2025-07-11 22:57:35.812 Info App: Starting entry point Emby.Server.Implementations.Playlists.PlaylistUpgradeEntryPoint
+2025-07-11 22:57:35.815 Info App: Entry point completed: Emby.Server.Implementations.Playlists.PlaylistUpgradeEntryPoint. Duration: 0.002217 seconds
+2025-07-11 22:57:35.815 Info App: Starting entry point Emby.Server.Implementations.Library.DeviceAccessEntryPoint
+2025-07-11 22:57:35.815 Info SoftwareCodecProvider: h264, libx264, x264, V-E-libx264
+2025-07-11 22:57:35.815 Info App: Entry point completed: Emby.Server.Implementations.Library.DeviceAccessEntryPoint. Duration: 0.0004709 seconds
+2025-07-11 22:57:35.815 Info App: Starting entry point Emby.Server.Implementations.IO.LibraryMonitorStartup
+2025-07-11 22:57:35.815 Info SoftwareCodecProvider: hevc, libx265, x265, V-E-libx265
+2025-07-11 22:57:35.816 Info SoftwareCodecProvider: mpeg4, mpeg4, MPEG-4 part 2, V-E-mpeg4
+2025-07-11 22:57:35.816 Info SoftwareCodecProvider: msmpeg4v3, msmpeg4, MPEG-4 part 2 (MS Variant 3), V-E-msmpeg4
+2025-07-11 22:57:35.816 Info SoftwareCodecProvider: vp8, libvpx, libvpx VP8, V-E-libvpx
+2025-07-11 22:57:35.836 Info VaapiCodecProvider: ProcessRun 'ffdetect_vaencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 vaencdec -print_format json 
+2025-07-11 22:57:35.837 Info App: Entry point completed: Emby.Server.Implementations.IO.LibraryMonitorStartup. Duration: 0.0217726 seconds
+2025-07-11 22:57:35.837 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.AutomaticRestartEntryPoint
+2025-07-11 22:57:35.838 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.AutomaticRestartEntryPoint. Duration: 0.0005226 seconds
+2025-07-11 22:57:35.838 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.KeepServerAwake
+2025-07-11 22:57:35.838 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.KeepServerAwake. Duration: 0.0001365 seconds
+2025-07-11 22:57:35.838 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.LibraryChangedNotifier
+2025-07-11 22:57:35.839 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.LibraryChangedNotifier. Duration: 0.0010451 seconds
+2025-07-11 22:57:35.839 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.ServerEventNotifier
+2025-07-11 22:57:35.843 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.ServerEventNotifier. Duration: 0.0033752 seconds
+2025-07-11 22:57:35.843 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.StartupWizard
+2025-07-11 22:57:35.843 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.StartupWizard. Duration: 0.0003158 seconds
+2025-07-11 22:57:35.843 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.SystemEvents
+2025-07-11 22:57:35.843 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.SystemEvents. Duration: 0.0003581 seconds
+2025-07-11 22:57:35.843 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.UserDataChangeNotifier
+2025-07-11 22:57:35.844 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.UserDataChangeNotifier. Duration: 0.000838 seconds
+2025-07-11 22:57:35.844 Info App: Starting entry point Emby.Server.Implementations.Channels.ChannelsEntryPoint
+2025-07-11 22:57:35.846 Info App: Entry point completed: Emby.Server.Implementations.Channels.ChannelsEntryPoint. Duration: 0.0019446 seconds
+2025-07-11 22:57:35.847 Info App: Starting entry point Emby.LiveTV.EntryPoint
+2025-07-11 22:57:35.848 Info LiveTV: Loading live tv data from /config/data/livetv/timers
+2025-07-11 22:57:35.849 Info App: Entry point completed: Emby.LiveTV.EntryPoint. Duration: 0.0027339 seconds
+2025-07-11 22:57:35.849 Info App: Starting entry point Emby.LiveTV.RecordingNotifier
+2025-07-11 22:57:35.852 Info App: Entry point completed: Emby.LiveTV.RecordingNotifier. Duration: 0.0024378 seconds
+2025-07-11 22:57:35.852 Info App: Starting entry point Emby.ActivityLog.ActivityLogEntryPoint
+2025-07-11 22:57:35.856 Info App: Entry point completed: Emby.ActivityLog.ActivityLogEntryPoint. Duration: 0.0034105 seconds
+2025-07-11 22:57:35.856 Info App: Starting entry point Emby.Server.MediaEncoding.Api.EncodingManagerEntryPoint
+2025-07-11 22:57:35.857 Info App: Entry point completed: Emby.Server.MediaEncoding.Api.EncodingManagerEntryPoint. Duration: 0.0012334 seconds
+2025-07-11 22:57:35.857 Info App: Starting entry point Emby.Notifications.NotificationManagerEntryPoint
+2025-07-11 22:57:35.861 Info VaapiCodecProvider: ProcessRun 'ffdetect_vaencdec' Process exited with code 0 - Succeeded
+2025-07-11 22:57:35.867 Info Notifications: Registering event nofitier Emby Server User Notifications
+2025-07-11 22:57:35.871 Info App: Entry point completed: Emby.Notifications.NotificationManagerEntryPoint. Duration: 0.0136446 seconds
+2025-07-11 22:57:35.871 Info App: Starting entry point Emby.Server.Sync.SyncNotificationEntryPoint
+2025-07-11 22:57:35.873 Info App: Entry point completed: Emby.Server.Sync.SyncNotificationEntryPoint. Duration: 0.0017755 seconds
+2025-07-11 22:57:35.873 Info App: Starting entry point EmbyServer.Windows.LoopUtilEntryPoint
+2025-07-11 22:57:35.873 Info App: Entry point completed: EmbyServer.Windows.LoopUtilEntryPoint. Duration: 7.51E-05 seconds
+2025-07-11 22:57:35.873 Info App: All entry points have started
+2025-07-11 22:57:35.953 Info QuickSyncCodecProvider: ProcessRun 'ffdetect_qsvencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 qsvencdec -print_format json 
+2025-07-11 22:57:36.041 Info App: Init BeginReceive on 0.0.0.0
+2025-07-11 22:57:36.041 Info App: Init BeginReceive on 0.0.0.0
+2025-07-11 22:57:36.041 Info App: Init BeginReceive on 192.168.1.2
+2025-07-11 22:57:36.042 Info App: Init BeginReceive on 127.0.0.1
+2025-07-11 22:57:36.052 Info QuickSyncCodecProvider: ProcessRun 'ffdetect_qsvencdec' Process exited with code 0 - Succeeded
+2025-07-11 22:57:36.112 Info NvidiaCodecProvider: ProcessRun 'ffdetect_nvencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 nvencdec -print_format json 
+2025-07-11 22:57:36.114 Info NvidiaCodecProvider: ProcessRun 'ffdetect_nvencdec' Process exited with code 1 - Failed
+2025-07-11 22:57:36.322 Info CodecManager: CodecList:
+2025-07-11 22:57:36.323 Info TaskManager: Hardware Detection Completed after 0 minute(s) and 0 seconds
+2025-07-11 22:57:38.644 Info TaskManager: Queueing task SystemUpdateTask
+2025-07-11 22:57:38.644 Info TaskManager: Executing Check for application updates
+2025-07-11 22:57:38.645 Info TaskManager: Queueing task PluginUpdateTask
+2025-07-11 22:57:38.645 Info TaskManager: Executing Check for plugin updates
+2025-07-11 22:57:38.655 Info TaskManager: Queueing task SubtitleOcrDataTask
+2025-07-11 22:57:38.655 Info TaskManager: Executing Download OCR Data
+2025-07-11 22:57:38.662 Info HttpClient: GET https://www.mb3admin.com/admin/service/EmbyPackages.json
+2025-07-11 22:57:38.698 Info TaskManager: Download OCR Data Completed after 0 minute(s) and 0 seconds
+2025-07-11 22:57:38.816 Info App: No application update available.
+2025-07-11 22:57:38.816 Info TaskManager: Check for application updates Completed after 0 minute(s) and 0 seconds
+2025-07-11 22:57:48.502 Info TaskManager: Check for plugin updates Completed after 0 minute(s) and 9 seconds
+2025-07-11 22:58:26.386 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Sessions/Capabilities/Full?X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:58:26.399 Info Server: http/1.1 Response 204 to ‌‍‍192.168.2.3‌. Time: 13ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Sessions/Capabilities/Full?X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:58:27.302 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 22:58:28.212 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2728?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:28.348 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 137ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2728?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:31.149 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2728/Images/Primary?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:31.165 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 17ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2728/Images/Primary?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:31.178 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2728/Images/Backdrop?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:31.185 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 7ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2728/Images/Backdrop?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:39.664 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2724?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:39.675 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 12ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2724?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:43.808 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2724/Images/Primary?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:43.812 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 3ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2724/Images/Primary?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:43.825 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2724/Images/Backdrop?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:43.830 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 5ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2724/Images/Backdrop?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:44.815 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2140/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:58:44.872 Info App: User policy for yinhaoyu. EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+2025-07-11 22:58:44.929 Info Server: http/1.1 Response 200 to ‌‍‍192.168.2.3‌. Time: 114ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2140/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:58:44.976 Info HttpClient: GET https://image.tmdb.org/t/p/original/4GF6hK5Y3OK3a9YxnmeYqLdkaTJ.jpg
+2025-07-11 22:58:44.976 Info HttpClient: GET https://image.tmdb.org/t/p/original/eQFd6dkfGEfrlhXCDriywvNr4kA.jpg
+2025-07-11 22:58:45.696 Error ProviderManager: Error saving to smb://192.168.2.1/HDD/Videos/Girls/JAV_output/相泽南/IPZZ-003/fanart.jpg. Create Handle Failed: Videos\Girls\JAV_output\相泽南\IPZZ-003. NTStatus: FILE_DOES_NOT_EXIST.
+2025-07-11 22:58:51.530 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2157/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:58:51.535 Info App: User policy for yinhaoyu. EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+2025-07-11 22:58:51.537 Info Server: http/1.1 Response 200 to ‌‍‍192.168.2.3‌. Time: 7ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2157/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:58:51.560 Info HttpClient: GET https://image.tmdb.org/t/p/original/9fWP8DrtmfsdHqd54HpubxnaM5m.jpg
+2025-07-11 22:58:53.052 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2720?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:53.053 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 2ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2720?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:55.363 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2081/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:58:55.366 Info App: User policy for yinhaoyu. EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+2025-07-11 22:58:55.367 Info Server: http/1.1 Response 200 to ‌‍‍192.168.2.3‌. Time: 4ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2081/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:58:55.991 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2720/Images/Primary?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:55.994 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 2ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2720/Images/Primary?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:56.003 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2720/Images/Backdrop?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:56.007 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 4ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2720/Images/Backdrop?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:58:57.894 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2739?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:58:57.901 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 7ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2739?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:59:00.586 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2739/Images/Primary?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:59:00.589 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 3ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2739/Images/Primary?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:59:00.598 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2739/Images/Backdrop?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:59:00.603 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 5ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2739/Images/Backdrop?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:59:07.085 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2191/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:59:07.089 Info App: User policy for yinhaoyu. EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+2025-07-11 22:59:07.089 Info Server: http/1.1 Response 200 to ‌‍‍192.168.2.3‌. Time: 5ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2191/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:59:10.344 Info Server: http/1.1 POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2662?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌. Source Ip: ‌‍‍192.168.1.2‌, UserAgent: Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+2025-07-11 22:59:10.351 Info Server: http/1.1 Response 204 to ‌‍‍192.168.1.2‌. Time: 7ms. POST http://‌‍‍192.168.1.2‌:8096/emby/Items/2662?api_key=‌692a4b5eaa374f5f955267f675c2aea4‌
+2025-07-11 22:59:13.942 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2203/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:59:13.944 Info App: User policy for yinhaoyu. EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+2025-07-11 22:59:13.945 Info Server: http/1.1 Response 200 to ‌‍‍192.168.2.3‌. Time: 3ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2203/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=false&AutoOpenLiveStream=false&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:59:24.692 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 22:59:31.572 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2215/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=true&AutoOpenLiveStream=true&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:59:31.579 Info App: User policy for yinhaoyu. EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+2025-07-11 22:59:31.580 Info SessionManager: Adding playSession bac0c463ad6647e09b19cb07c1a7e014 to session 76987df3119f8815f154a3836bf6d1fb
+2025-07-11 22:59:31.582 Info Server: http/1.1 Response 200 to ‌‍‍192.168.2.3‌. Time: 10ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Items/2215/PlaybackInfo?UserId=e495e2a008e747e78271fc8bfcfaab74&StartTimeTicks=0&IsPlayback=true&AutoOpenLiveStream=true&MaxStreamingBitrate=200000000&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:59:31.629 Info Server: http/1.1 GET http://‌‍‍192.168.2.1‌:8096/emby/videos/2215/original.mp4?DeviceId=8e157861-7af6-4f89-abd2-35b2e26358b8&MediaSourceId=bca688013a6caf0556662711470ec3de&PlaySessionId=bac0c463ad6647e09b19cb07c1a7e014&api_key=‌13f5ed2e28f147e59737d074902db4eb‌. Source Ip: ‌‍‍192.168.2.3‌, Accept=*/*, Connection=keep-alive, Host=‌‍‍192.168.2.1:8096‌, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, Accept-Encoding=identity;q=1, *;q=0, Accept-Language=zh-CN,zh;q=0.9,en;q=0.8, Range=bytes=0-, Referer=‌‍‍http://192.168.2.1:8096/web/index.html‌
+2025-07-11 22:59:32.181 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Sessions/Playing?X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:59:32.214 Info SessionManager: Playback start reported by app Emby Web 4.8.11.0 on Chrome macOS playing START-347 在憧憬的东京两人独处无止尽潮吹约会 一宫留衣. Started at 0 ms. PlaySessionId: bac0c463ad6647e09b19cb07c1a7e014
+2025-07-11 22:59:32.217 Info Server: http/1.1 Response 204 to ‌‍‍192.168.2.3‌. Time: 36ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Sessions/Playing?X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:59:32.881 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Sessions/Playing/Progress?X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:59:32.897 Info Server: http/1.1 Response 204 to ‌‍‍192.168.2.3‌. Time: 16ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Sessions/Playing/Progress?X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:59:35.277 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/emby/Sessions/Playing/Stopped?X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json. Source Ip: ‌‍‍192.168.2.3‌, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+2025-07-11 22:59:35.282 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 22:59:35.286 Info Server: http/1.1 Response 206 to ‌‍‍192.168.2.3‌. Time: 3657ms. GET http://‌‍‍192.168.2.1‌:8096/emby/videos/2215/original.mp4?DeviceId=8e157861-7af6-4f89-abd2-35b2e26358b8&MediaSourceId=bca688013a6caf0556662711470ec3de&PlaySessionId=bac0c463ad6647e09b19cb07c1a7e014&api_key=‌13f5ed2e28f147e59737d074902db4eb‌
+2025-07-11 22:59:35.290 Info SessionManager: Playback stopped reported by app Emby Web 4.8.11.0 on Chrome macOS playing START-347 在憧憬的东京两人独处无止尽潮吹约会 一宫留衣. Stopped at 2175 ms. PlaySessionId: bac0c463ad6647e09b19cb07c1a7e014
+2025-07-11 22:59:35.291 Info SessionManager: Removed playSession bac0c463ad6647e09b19cb07c1a7e014 from session 76987df3119f8815f154a3836bf6d1fb
+2025-07-11 22:59:35.291 Info Server: http/1.1 Response 204 to ‌‍‍192.168.2.3‌. Time: 14ms. POST http://‌‍‍192.168.2.1‌:8096/emby/Sessions/Playing/Stopped?X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome macOS&X-Emby-Device-Id=8e157861-7af6-4f89-abd2-35b2e26358b8&X-Emby-Client-Version=4.8.11.0&X-Emby-Token=‌13f5ed2e28f147e59737d074902db4eb‌&X-Emby-Language=zh-cn&reqformat=json
+2025-07-11 22:59:40.702 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:20:18.481 Info App: Udp message sent to [::ffff:192.168.2.3]:65416
+2025-07-11 23:20:30.500 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:20:46.599 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:21:02.656 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:21:18.699 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:21:42.710 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:21:58.770 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:22:14.820 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:22:14.823 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:22:30.855 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:22:46.928 Info HttpClient: GET https://www.mb3admin.com/admin/service/EmbyPackages.json
+2025-07-11 23:23:58.444 Info Server: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/Users/AuthenticateByName. Source Ip: ‌‍‍192.168.2.3‌, Accept=application/json, Connection=keep-alive, Host=‌‍‍192.168.2.1:8096‌, User-Agent=Infuse-Library/8.1.9, Accept-Encoding=gzip, deflate, Accept-Language=zh-CN,zh-Hans;q=0.9, Content-Type=application/json, Content-Length=93, X-Emby-Authorization=MediaBrowser Client="Infuse-Library", DeviceId="686A20C4-4338-5C17-89C0-B661071D28FC", Version="8.1.9", Device="Mac"
+2025-07-11 23:23:58.462 Info UserManager: Authentication request for yinhaoyu has succeeded.
+2025-07-11 23:23:58.464 Info SessionManager: Reissuing access token: ‌4af01ffe4a5c402b9fe66b78d14feac3‌
+2025-07-11 23:23:58.476 Info Server: http/1.1 Response 200 to ‌‍‍192.168.2.3‌. Time: 32ms. POST http://‌‍‍192.168.2.1‌:8096/Users/AuthenticateByName
+2025-07-11 23:23:58.482 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:24:26.542 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:24:42.587 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:24:59.529 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:25:15.580 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:25:33.227 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:25:49.287 Info HttpClient: GET https://www.mb3admin.com/admin/service/EmbyPackages.json
+2025-07-11 23:26:07.070 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)
+2025-07-11 23:28:16.844 Info App: Sqlite: 284 - automatic index on LastWatchedEpisodes(SeriesPresentationUniqueKey)

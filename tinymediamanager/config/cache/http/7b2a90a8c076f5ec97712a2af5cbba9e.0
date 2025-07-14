@@ -1,0 +1,27 @@
+https://release.tinymediamanager.org/v5/build/external-tools.json
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+16
+date: Sat, 12 Jul 2025 06:31:53 GMT
+content-type: application/json
+server: cloudflare
+last-modified: Sun, 15 Jun 2025 12:10:01 GMT
+vary: accept-encoding
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=A53IOXSKfYDFcPf%2BaRdtYeJX2kYrgYjSo76pSzgCAhbqJeQTHcK6QQiENq2647htuQlanzDWIZ0Rs16iz4HJZqYKdEE3sdp5m%2FVDW1BKV%2Fy%2FV0leUWEjRf3po%2FE%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+age: 4162
+cache-control: max-age=14400
+cf-cache-status: HIT
+etag: W/"768-6379b289b7840"
+content-encoding: br
+cf-ray: 95de800e3adf85ef-HKG
+alt-svc: h3=":443"; ma=86400
+OkHttp-Sent-Millis: 1752301913282
+OkHttp-Received-Millis: 1752301913388
+
+TLS_AES_256_GCM_SHA384
+0
+0
+TLSv1.3

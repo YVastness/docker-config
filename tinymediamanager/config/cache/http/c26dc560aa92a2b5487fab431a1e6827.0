@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/movie/605?language=zh-CN&append_to_response=translations&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:27 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=8740
+x-az: us-east-1b
+x-task-id: ae98e7a3d5ea4847b0e21faffd540620
+etag: W/"591c3dec99116695b8449bfc83b4f6a5"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 5z3k3enI8lGPnIbSQnxXJTJv7ECW-q97mlzzmMefTJBBjsCIPT1VAg==
+vary: Origin
+OkHttp-Sent-Millis: 1752303687337
+OkHttp-Received-Millis: 1752303687844
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

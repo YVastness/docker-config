@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/37854/season/22?language=ja&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:11 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=13552
+x-memc: HIT
+x-memc-key: f9e5321dbcfc53c6d399187677752ff2fc26a93af3738fe99ccff8163c7e6a22
+x-memc-age: 13293
+x-memc-expires: 13552
+x-az: us-east-1b
+x-task-id: 494f156cb9f34af7a984303825377784
+etag: W/"0e76e2275e93f9cf42843cb9d74fce17"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: AsUIoCMqtFHoJiKhxn8cccZKLzlK8Mg6KHArUwq6jHT1Yn2ueodvZw==
+vary: Origin
+OkHttp-Sent-Millis: 1752303791200
+OkHttp-Received-Millis: 1752303791525
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

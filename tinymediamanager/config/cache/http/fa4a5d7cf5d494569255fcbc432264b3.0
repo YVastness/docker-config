@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/232230/season/1?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:02:45 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=6993
+x-memc: HIT
+x-memc-key: 02bb818582038f9a636d02d6d66be6c4cdf9ac0355212372345481f2cc91ac78
+x-memc-age: 16734
+x-memc-expires: 6993
+x-az: us-east-1b
+x-task-id: d3f9190ff103494594dfd1ae9378078c
+etag: W/"135c5f3178d9b1a05693a2515dd74743"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 0vIOEI_NLEag2SHprcxiXBt2Ifm6s6lTvAStLwDu8-6MvkoFyuBMyg==
+vary: Origin
+OkHttp-Sent-Millis: 1752303765788
+OkHttp-Received-Millis: 1752303766100
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

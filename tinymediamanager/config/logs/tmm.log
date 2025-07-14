@@ -1,0 +1,73 @@
+2025-07-14 02:47:28,381 INFO  [Thread-17] org.tinymediamanager.TinyMediaManager:192 - received shutdown signal
+2025-07-14 02:48:11,957 INFO  [main] org.tinymediamanager.TinyMediaManager:343 - =======================================================
+2025-07-14 02:48:11,957 INFO  [main] org.tinymediamanager.TinyMediaManager:344 - === tinyMediaManager (c) 2012 - 2025 Manuel Laggner ===
+2025-07-14 02:48:11,957 INFO  [main] org.tinymediamanager.TinyMediaManager:345 - =======================================================
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:346 - tmm.version      : 5.1.7
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:348 - tmm.build        : 2025-06-15 13:10
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:351 - tmm.docker       : true
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:353 - os.name          : Linux
+2025-07-14 02:48:11,959 INFO  [main] org.tinymediamanager.TinyMediaManager:354 - os.version       : 6.6.86
+2025-07-14 02:48:11,960 INFO  [main] org.tinymediamanager.TinyMediaManager:355 - os.arch          : amd64
+2025-07-14 02:48:11,960 INFO  [main] org.tinymediamanager.TinyMediaManager:356 - java.version     : 21.0.6
+2025-07-14 02:48:11,960 INFO  [main] org.tinymediamanager.TinyMediaManager:357 - java.maxMem      : 512 MiB
+2025-07-14 02:48:11,960 INFO  [main] org.tinymediamanager.TinyMediaManager:368 - current encoding : UTF-8 | UTF8 | UTF-8
+2025-07-14 02:48:11,972 INFO  [main] org.tinymediamanager.TinyMediaManager:373 - JVM parameters   : -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data -XX:+DisableAttachMechanism -XX:-EnableDynamicAgentLoading
+2025-07-14 02:48:11,972 INFO  [main] org.tinymediamanager.TinyMediaManager:376 - System language  : en_US
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:377 - GUI language     : zh-Hans
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:378 - tmm.datafolder   : /data/data 
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:379 - tmm.cachefolder  : /data/cache 
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:380 - tmm.backupfolder : /data/backup 
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:381 - tmm.logfolder    : /data/logs 
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:382 - =====================================================
+2025-07-14 02:48:11,973 INFO  [main] org.tinymediamanager.TinyMediaManager:383 - starting tinyMediaManager
+2025-07-14 02:48:13,685 INFO  [main] org.tinymediamanager.TmmOsUtils:184 - Using libmediainfo version 'MediaInfoLib - v25.04'
+2025-07-14 02:48:18,718 INFO  [main] o.tinymediamanager.core.movie.MovieList:433 - Loading 9 movies from database...
+2025-07-14 02:48:18,812 INFO  [main] o.tinymediamanager.core.movie.MovieList:483 - Loading 3 movie sets from database...
+2025-07-14 02:48:18,921 INFO  [main] o.t.core.tvshow.TvShowList:545 - Loading 15 TvShows from database...
+2025-07-14 02:48:19,698 INFO  [main] o.t.core.tvshow.TvShowList:606 - Loading 62 seasons from database...
+2025-07-14 02:48:19,709 INFO  [main] o.t.core.tvshow.TvShowList:645 - Loading 106 episodes from database... (+ 2879 dummy w/o physical file)
+2025-07-14 02:48:19,893 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie.conf'
+2025-07-14 02:48:19,919 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie_artwork.conf'
+2025-07-14 02:48:20,003 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie_trailer.conf'
+2025-07-14 02:48:20,017 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow.conf'
+2025-07-14 02:48:20,030 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow_artwork.conf'
+2025-07-14 02:48:20,033 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow_trailer.conf'
+2025-07-14 02:48:20,037 INFO  [main] o.t.core.movie.MovieUpgradeTasks:52 - Current movie DB version: 5005
+2025-07-14 02:48:20,039 INFO  [main] o.t.core.tvshow.TvShowUpgradeTasks:59 - Current tvshow DB version: 5009
+2025-07-14 02:48:25,388 INFO  [AWT-EventQueue-0] org.tinymediamanager.TinyMediaManager:188 - UI loaded
+2025-07-14 02:54:54,727 INFO  [main] org.tinymediamanager.TinyMediaManager:343 - =======================================================
+2025-07-14 02:54:54,727 INFO  [main] org.tinymediamanager.TinyMediaManager:344 - === tinyMediaManager (c) 2012 - 2025 Manuel Laggner ===
+2025-07-14 02:54:54,727 INFO  [main] org.tinymediamanager.TinyMediaManager:345 - =======================================================
+2025-07-14 02:54:54,729 INFO  [main] org.tinymediamanager.TinyMediaManager:346 - tmm.version      : 5.1.7
+2025-07-14 02:54:54,730 INFO  [main] org.tinymediamanager.TinyMediaManager:348 - tmm.build        : 2025-06-15 13:10
+2025-07-14 02:54:54,730 INFO  [main] org.tinymediamanager.TinyMediaManager:351 - tmm.docker       : true
+2025-07-14 02:54:54,731 INFO  [main] org.tinymediamanager.TinyMediaManager:353 - os.name          : Linux
+2025-07-14 02:54:54,731 INFO  [main] org.tinymediamanager.TinyMediaManager:354 - os.version       : 6.6.86
+2025-07-14 02:54:54,731 INFO  [main] org.tinymediamanager.TinyMediaManager:355 - os.arch          : amd64
+2025-07-14 02:54:54,731 INFO  [main] org.tinymediamanager.TinyMediaManager:356 - java.version     : 21.0.6
+2025-07-14 02:54:54,731 INFO  [main] org.tinymediamanager.TinyMediaManager:357 - java.maxMem      : 512 MiB
+2025-07-14 02:54:54,734 INFO  [main] org.tinymediamanager.TinyMediaManager:368 - current encoding : UTF-8 | UTF8 | UTF-8
+2025-07-14 02:54:54,747 INFO  [main] org.tinymediamanager.TinyMediaManager:373 - JVM parameters   : -Xms64m -Xmx512m -Xss512k -XX:+IgnoreUnrecognizedVMOptions -XX:+UseStringDeduplication -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Djava.net.preferIPv4Stack=true -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djna.nosys=true -Dtmm.consoleloglevel=NONE -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dtmm.contentfolder=/data -XX:+DisableAttachMechanism -XX:-EnableDynamicAgentLoading
+2025-07-14 02:54:54,748 INFO  [main] org.tinymediamanager.TinyMediaManager:376 - System language  : en_US
+2025-07-14 02:54:54,748 INFO  [main] org.tinymediamanager.TinyMediaManager:377 - GUI language     : zh-Hans
+2025-07-14 02:54:54,749 INFO  [main] org.tinymediamanager.TinyMediaManager:378 - tmm.datafolder   : /data/data 
+2025-07-14 02:54:54,749 INFO  [main] org.tinymediamanager.TinyMediaManager:379 - tmm.cachefolder  : /data/cache 
+2025-07-14 02:54:54,749 INFO  [main] org.tinymediamanager.TinyMediaManager:380 - tmm.backupfolder : /data/backup 
+2025-07-14 02:54:54,749 INFO  [main] org.tinymediamanager.TinyMediaManager:381 - tmm.logfolder    : /data/logs 
+2025-07-14 02:54:54,750 INFO  [main] org.tinymediamanager.TinyMediaManager:382 - =====================================================
+2025-07-14 02:54:54,750 INFO  [main] org.tinymediamanager.TinyMediaManager:383 - starting tinyMediaManager
+2025-07-14 02:54:56,319 INFO  [main] org.tinymediamanager.TmmOsUtils:184 - Using libmediainfo version 'MediaInfoLib - v25.04'
+2025-07-14 02:55:01,531 INFO  [main] o.tinymediamanager.core.movie.MovieList:433 - Loading 9 movies from database...
+2025-07-14 02:55:01,626 INFO  [main] o.tinymediamanager.core.movie.MovieList:483 - Loading 3 movie sets from database...
+2025-07-14 02:55:01,736 INFO  [main] o.t.core.tvshow.TvShowList:545 - Loading 15 TvShows from database...
+2025-07-14 02:55:02,464 INFO  [main] o.t.core.tvshow.TvShowList:606 - Loading 62 seasons from database...
+2025-07-14 02:55:02,473 INFO  [main] o.t.core.tvshow.TvShowList:645 - Loading 106 episodes from database... (+ 2879 dummy w/o physical file)
+2025-07-14 02:55:02,642 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie.conf'
+2025-07-14 02:55:02,667 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie_artwork.conf'
+2025-07-14 02:55:02,720 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_movie_trailer.conf'
+2025-07-14 02:55:02,732 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow.conf'
+2025-07-14 02:55:02,743 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow_artwork.conf'
+2025-07-14 02:55:02,749 INFO  [main] o.t.scraper.config.MediaProviderConfig:86 - load settings '/data/data/scraper_tmdb_tvshow_trailer.conf'
+2025-07-14 02:55:02,753 INFO  [main] o.t.core.movie.MovieUpgradeTasks:52 - Current movie DB version: 5005
+2025-07-14 02:55:02,754 INFO  [main] o.t.core.tvshow.TvShowUpgradeTasks:59 - Current tvshow DB version: 5009
+2025-07-14 02:55:08,011 INFO  [AWT-EventQueue-0] org.tinymediamanager.TinyMediaManager:188 - UI loaded

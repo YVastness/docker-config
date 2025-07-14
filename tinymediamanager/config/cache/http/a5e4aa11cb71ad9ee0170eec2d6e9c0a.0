@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/37854/season/6?language=ja&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:00 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=22979
+x-memc: HIT
+x-memc-key: c400909b56c8d19476e54c0d80350b86e9eca61cdb80b7636560dd80ca6cf089
+x-memc-age: 3185
+x-memc-expires: 22979
+x-az: us-east-1b
+x-task-id: ae98e7a3d5ea4847b0e21faffd540620
+etag: W/"99f27a0e2c77530adea43f1f8fdace28"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: cEwB2dGntMDOD6Sh-ItnT624VZOwRsPcy9gez-mA-U0C_D06QU1YeA==
+vary: Origin
+OkHttp-Sent-Millis: 1752303780024
+OkHttp-Received-Millis: 1752303780339
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/101172/season/1?language=zh&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:13 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=14504
+x-memc: HIT
+x-memc-key: 1e8c0c75caf706d18d7ade5a89c1d55c6f325c4f0cf32627558c6a33be55ddbf
+x-memc-age: 12594
+x-memc-expires: 14504
+x-az: us-east-1a
+x-task-id: 09ec38820a2a4bd6a5ff96114573f0ba
+etag: W/"60c253cf6823ecab9a850d7c152091ae"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: LcIEWEM7lzdwi9uPHJJ0Tzr7TfufO9UJeadVYIk6tzogtJ_Sxx3sKQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752303793520
+OkHttp-Received-Millis: 1752303793836
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

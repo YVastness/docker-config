@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/229192/season/3/translations?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 11:49:33 GMT
+etag: W/"6be68037f394b5a0cade07edf750cd84"
+server: openresty
+cache-control: public, max-age=24922
+x-memc: HIT
+x-memc-key: 56a036b2e5dbe907b02f9669a4ba9971cca38c7e3809cf9608ea1500f4821b34
+x-memc-age: 750
+x-memc-expires: 24922
+x-az: us-east-1a
+x-task-id: d2b340547157405f90257e5e88b33a4d
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 9b3fc559d946648abd0005d8a170b26c.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: pSok6fFEGoJPZrxrHr8QAu1QqFQec0QvdctC_Z6-ShPLcsz2B_TB-w==
+vary: Origin
+OkHttp-Sent-Millis: 1752320973104
+OkHttp-Received-Millis: 1752320973389
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

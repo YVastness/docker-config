@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/229192/season/2/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+content-encoding: gzip
+date: Sat, 12 Jul 2025 11:49:40 GMT
+etag: W/"0177d97aa2b2bd86a6cac643ebfe51c8"
+server: openresty
+cache-control: public, max-age=19171
+x-memc: HIT
+x-memc-key: 13fb7d5aa2031b4670004cb23a54b1f422cf1bbf799bd40bfe864c49829f472d
+x-memc-age: 8734
+x-memc-expires: 19171
+x-az: us-east-1a
+x-task-id: 471f28648e7840068978596e0ff1009b
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 9b3fc559d946648abd0005d8a170b26c.cloudfront.net (CloudFront)
+x-amz-cf-pop: SFO53-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: VZJ0Z1088Q4fCurZJPZJdXcjeWswKcHKh-PxoRfTtJbpIz4uwSAgaw==
+vary: Origin
+OkHttp-Sent-Millis: 1752320979841
+OkHttp-Received-Millis: 1752320980136
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

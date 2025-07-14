@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/37854/season/13?language=ja&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:03:04 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=7976
+x-memc: HIT
+x-memc-key: 213bc60b0acef1601b2d451ebd22e08dfab6c402da93d0657b25c782c8f4fc30
+x-memc-age: 13672
+x-memc-expires: 7976
+x-az: us-east-1a
+x-task-id: b8f65fc675cf46a8a6cd336b6d7b4577
+etag: W/"83e9c761d2245ab0b6d2dc61a8457647"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: drdt2wrKkbP4rDVqBc73EcBmKl_hvuibPnjhmBLRtdNkNS8QW6wvZw==
+vary: Origin
+OkHttp-Sent-Millis: 1752303784602
+OkHttp-Received-Millis: 1752303784915
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

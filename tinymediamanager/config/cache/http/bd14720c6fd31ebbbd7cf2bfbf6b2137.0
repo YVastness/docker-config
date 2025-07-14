@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/tv/232230/season/1/episode/3?language=zh&append_to_response=external_ids%2Ccredits%2Cimages&include_image_language=null&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 17:23:17 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=15644
+x-az: us-east-1c
+x-task-id: a54dc0b0c9ae410493110e348ce951c8
+etag: W/"75b95f9781b55f6d5416e9d7627cd45e"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 b13f158bdf9805ca47e07c0c35870c12.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: wtaEagHMMBUeaZXPPQE5cwsu-_iRw9MBfUmzfsLJnOZ6YVPF790u2g==
+vary: Origin
+OkHttp-Sent-Millis: 1752340997277
+OkHttp-Received-Millis: 1752340998301
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/285779/season/3/images?api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:26:55 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=20157
+x-memc: HIT
+x-memc-key: 33d395257ff686fbfabf5094b0b7d2daa8f80d6fbe97d745852bc863adb25b37
+x-memc-age: 3318
+x-memc-expires: 20157
+x-az: us-east-1b
+x-task-id: f9c53df32445444d91202c48f5cf8823
+etag: W/"c099b866a819fda052710ca0054541ae"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 b36bf2c460ac693ce304817aed073112.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: Vvr5DjC4iyx45IzRAq7dt50JEy58_key0pqGusXmhbJ8v-gk3QwedQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752305215695
+OkHttp-Received-Millis: 1752305215964
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

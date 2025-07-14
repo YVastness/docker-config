@@ -1,0 +1,28 @@
+https://api.tmdb.org/3/movie/57158?language=zh-CN&append_to_response=credits%2Ckeywords%2Crelease_dates%2Ctranslations%2Cexternal_ids&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+17
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:01:30 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=21878
+x-az: us-east-1b
+x-task-id: f9c53df32445444d91202c48f5cf8823
+etag: W/"44bdc93d48d89929842124fa56168819"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 dcc3860be799b53566333f33c09b4790.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: kQcRIjvJdO78hyooBVwJ7hjKk4JS48RXdOT_T9FKKAGyQaiQye96qQ==
+vary: Origin
+OkHttp-Sent-Millis: 1752303690575
+OkHttp-Received-Millis: 1752303690913
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3

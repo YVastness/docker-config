@@ -1,0 +1,32 @@
+https://api.tmdb.org/3/tv/episode_group/684de5c5d1d0dbe543b0de56?language=zh-CN&api_key=f2777657c799907a2dddfa360a99f466
+GET
+1
+Accept-Encoding: br,gzip
+HTTP/1.1 200 
+21
+content-type: application/json;charset=utf-8
+date: Sat, 12 Jul 2025 07:02:52 GMT
+content-encoding: gzip
+server: openresty
+cache-control: public, max-age=26080
+x-memc: HIT
+x-memc-key: afa840fcce857bad99f60cbff1e56006600e32c13510056dbb7d59d4d9c9ca0d
+x-memc-age: 1267
+x-memc-expires: 26080
+x-az: us-east-1b
+x-task-id: d3f9190ff103494594dfd1ae9378078c
+etag: W/"5764884b493c5e77a81454e86553ddbe"
+vary: accept-encoding
+x-cache: Miss from cloudfront
+via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
+x-amz-cf-pop: HIO52-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: WehXUCXCvRg1umxJ3EG4Ug2a4JKnBoLNi_9IK9t07Y56rd-_hWDL0A==
+vary: Origin
+OkHttp-Sent-Millis: 1752303772656
+OkHttp-Received-Millis: 1752303773014
+
+TLS_AES_128_GCM_SHA256
+0
+0
+TLSv1.3
