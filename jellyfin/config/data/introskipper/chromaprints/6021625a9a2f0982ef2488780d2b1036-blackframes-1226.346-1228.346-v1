@@ -1,0 +1,41 @@
+Input #0, matroska,webm, from '/media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E130 - 第130集.mkv':
+  Metadata:
+    title           : 斗罗大陆Ⅱ绝世唐门 S01E130
+    encoder         : libebml v1.4.4 + libmatroska v1.7.9
+    MOVIE/ENCODER   : Lavf61.1.100
+  Duration: 00:21:26.35, start: 0.000000, bitrate: 6611 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 1k tbn (default) (dub)
+      Metadata:
+        BPS             : 6484595
+        DURATION        : 00:21:26.120000000
+        NUMBER_OF_FRAMES: 38584
+        NUMBER_OF_BYTES : 1042496037
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125345
+        DURATION        : 00:21:26.186000000
+        NUMBER_OF_FRAMES: 60290
+        NUMBER_OF_BYTES : 20152269
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 斗罗大陆Ⅱ绝世唐门 S01E130
+    MOVIE/ENCODER   : Lavf61.1.100
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 30 fps, 30 tbn (default) (dub)
+      Metadata:
+        BPS             : 6484595
+        DURATION        : 00:21:26.120000000
+        NUMBER_OF_FRAMES: 38584
+        NUMBER_OF_BYTES : 1042496037
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    6 fps=1.3 q=-0.0 size=N/A time=00:00:00.20 bitrate=N/A speed=0.0443x    frame=   30 fps=6.0 q=-0.0 size=N/A time=00:00:01.00 bitrate=N/A speed= 0.2x    frame=   50 fps=9.1 q=-0.0 size=N/A time=00:00:01.66 bitrate=N/A speed=0.302x    [out#0/null @ 0x55fecb84c580] video:26KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   60 fps= 10 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.344x    

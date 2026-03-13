@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://www35.mejortorrent.eu/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "XSRF-TOKEN=eyJpdiI6Ijk5Nk1XKzB5SmM4YlN3WnM2ZnJJOGc9PSIsInZhbHVlIjoiN1BFelVVUTdzU0xYcUVjcmFHem0xTzRtMm9YREFMeEFGT29rbExWUnBDemhWbU1jeFBJVWhkei85R01VOCtacXFHdjVpcWNmeExBSUlDTGh3ZjM3L2RWMlhZa2Z3UThiemsyQ2xzbisxaEF4SnRPMlV0RStmOWJHclNYRjhxUUQiLCJtYWMiOiI5MTYxZDZjNGQ0MDVhOTI2YWEzZWFjNDA1ODdlMjRhNjhkNTNmM2Q4ZTcwZTE4MWU5NjRjYzhhNzkzOWFjMDljIiwidGFnIjoiIn0%3D; torrent_session=eyJpdiI6Ijd1bkRrbnZWTEQ2V2xsQ0FFbUNuM0E9PSIsInZhbHVlIjoiN1F2Z1BGSUx0d0VTdGxoU3UxeU4wMndSSkRUbmpPa3EvejdTbEVSMTIzMGMvNHJ4RnRwT3V2U09NZms5VU9xdHNicXh6ZXNDWU9uQ0M5RXRXWERvazZ2QUQxYjljY3FJdmhMTTh6djRkRkdPT0FoWExsYkRIdkxSRHZtTkFrNjMiLCJtYWMiOiIxNzVlZDQ2NTIyY2ViNzdjMTU5OGFkZDY1YWIzYTFmMTRiOTcwZTk2MTYzYTAyMmFkZTExNGRjNDNhM2MzMzk3IiwidGFnIjoiIn0%3D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "matchwordsintitle",
+    "type": "inputbool",
+    "name": "Match words in title",
+    "value": true
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

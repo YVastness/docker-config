@@ -1,0 +1,43 @@
+Input #0, matroska,webm, from '/media/Animes/沧元图 (2023)/Season 1/沧元图 - S01E31 - 第31集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-12-06T02:37:18.000000Z
+  Duration: 00:23:21.44, start: 0.000000, bitrate: 22975 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1776 [SAR 1:1 DAR 80:37], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 22717410
+        DURATION        : 00:23:21.400000000
+        NUMBER_OF_FRAMES: 35035
+        NUMBER_OF_BYTES : 3979522401
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-12-06 02:37:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:23:21.440000000
+        NUMBER_OF_FRAMES: 60355
+        NUMBER_OF_BYTES : 44846092
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-12-06 02:37:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:23:21.440000000
+        NUMBER_OF_FRAMES: 60355
+        NUMBER_OF_BYTES : 44846092
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-12-06 02:37:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f90d8002440] silence_start: -0.000793651
+[silencedetect @ 0x7f90d8002440] silence_end: 5.307256 | silence_duration: 5.30805
+size=N/A time=N/A bitrate=N/A speed=N/A    [out#0/null @ 0x55b009f809c0] video:0KiB audio:1206KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=12.9x    

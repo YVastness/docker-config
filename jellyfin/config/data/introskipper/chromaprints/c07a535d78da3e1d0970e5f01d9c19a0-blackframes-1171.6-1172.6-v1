@@ -1,0 +1,27 @@
+Input #0, matroska,webm, from '/media/Animes/完美世界 (2021)/Season 1/完美世界 - S01E239 - 第239集.mkv':
+  Metadata:
+    DESCRIPTION     : hehehe
+    ENCODER         : Lavf61.7.100
+  Duration: 00:20:17.60, start: 0.000000, bitrate: 4891 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1636 [SAR 1:1 DAR 960:409], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        COMMENT         : hehehe
+        DURATION        : 00:20:17.562000000
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 标准音效
+        DURATION        : 00:20:17.600000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    DESCRIPTION     : hehehe
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1636 [SAR 1:1 DAR 960:409], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        COMMENT         : hehehe
+        DURATION        : 00:20:17.562000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x55b972649e80] video:11KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   25 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=1.06x    

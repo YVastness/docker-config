@@ -1,0 +1,74 @@
+Input #0, matroska,webm, from '/media/Animes/诡秘之主 (2025)/Season 1/诡秘之主 - S01E12 - 第12集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-09-06T10:49:33.000000Z
+  Duration: 00:28:29.22, start: 0.000000, bitrate: 8097 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x816 [SAR 799:800 DAR 47:20], SAR 959:960 DAR 959:408, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 7966995
+        DURATION        : 00:28:29.160000000
+        NUMBER_OF_FRAMES: 42729
+        NUMBER_OF_BYTES : 1702108682
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-06 10:49:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 128000
+        DURATION        : 00:28:29.221000000
+        NUMBER_OF_FRAMES: 73610
+        NUMBER_OF_BYTES : 27347563
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-06 10:49:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : CHS
+        BPS             : 48
+        DURATION        : 00:25:29.160000000
+        NUMBER_OF_FRAMES: 445
+        NUMBER_OF_BYTES : 9179
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-06 10:49:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : CHT
+        BPS             : 48
+        DURATION        : 00:25:29.160000000
+        NUMBER_OF_FRAMES: 445
+        NUMBER_OF_BYTES : 9179
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-06 10:49:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x816 [SAR 959:960 DAR 959:408], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 7966995
+        DURATION        : 00:28:29.160000000
+        NUMBER_OF_FRAMES: 42729
+        NUMBER_OF_BYTES : 1702108682
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-06 10:49:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:38 pblack:71 pts:1529 t:1.529000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:39 pblack:66 pts:1569 t:1.569000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:40 pblack:74 pts:1609 t:1.609000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:41 pblack:76 pts:1649 t:1.649000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:42 pblack:94 pts:1689 t:1.689000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:43 pblack:83 pts:1729 t:1.729000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:44 pblack:56 pts:1769 t:1.769000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:45 pblack:62 pts:1809 t:1.809000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:46 pblack:76 pts:1849 t:1.849000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:47 pblack:99 pts:1889 t:1.889000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:48 pblack:100 pts:1929 t:1.929000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:49 pblack:100 pts:1969 t:1.969000 type:P last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f0a40002340] frame:50 pblack:88 pts:2009 t:2.009000 type:I last_keyframe:38
+[out#0/null @ 0x55d643af3580] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=  12x    

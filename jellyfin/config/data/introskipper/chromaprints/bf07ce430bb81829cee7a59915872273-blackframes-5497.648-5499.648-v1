@@ -1,0 +1,60 @@
+Input #0, matroska,webm, from '/media/Animes/斗罗大陆剧场版：剑道尘心 (2025)/斗罗大陆剧场版：剑道尘心 (2025).mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-14T07:03:29.000000Z
+    MOVIE/COMMENT   : 【https://link3.cc/panclub】
+    MOVIE/ENCODER   : Lavf60.3.100
+  Duration: 01:32:07.65, start: 0.000000, bitrate: 4103 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1610 [SAR 1:1 DAR 384:161], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        title           : 【https://link3.cc/panclub】
+        BPS             : 3719470
+        DURATION        : 01:32:07.584000000
+        NUMBER_OF_FRAMES: 132662
+        NUMBER_OF_BYTES : 2569960902
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-14 07:03:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s
+      Metadata:
+        BPS             : 256000
+        DURATION        : 01:32:07.648000000
+        NUMBER_OF_FRAMES: 172739
+        NUMBER_OF_BYTES : 176884736
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-14 07:03:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        BPS             : 125345
+        DURATION        : 01:32:07.637000000
+        NUMBER_OF_FRAMES: 259108
+        NUMBER_OF_BYTES : 86608282
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-14 07:03:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Video: png, rgba(pc, gbr/bt709/iec61966-2-1), 200x205, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : cover.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/COMMENT   : 【https://link3.cc/panclub】
+    MOVIE/ENCODER   : Lavf60.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1610 [SAR 1:1 DAR 384:161], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        title           : 【https://link3.cc/panclub】
+        BPS             : 3719470
+        DURATION        : 01:32:07.584000000
+        NUMBER_OF_FRAMES: 132662
+        NUMBER_OF_BYTES : 2569960902
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-14 07:03:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   29 fps=0.0 q=-0.0 size=N/A time=00:00:01.20 bitrate=N/A speed=2.42x    [out#0/null @ 0x56118b1dc400] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.78x    

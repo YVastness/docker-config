@@ -1,0 +1,59 @@
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E24 - 第24集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-09T06:17:34.000000Z
+  Duration: 00:45:23.89, start: 0.000000, bitrate: 27486 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 27225852
+        DURATION        : 00:45:23.850000000
+        NUMBER_OF_FRAMES: 163431
+        NUMBER_OF_BYTES : 9269892455
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-09 06:17:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:45:23.886000000
+        NUMBER_OF_FRAMES: 117308
+        NUMBER_OF_BYTES : 87164367
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-09 06:17:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : quark4k.com
+        BPS             : 25
+        DURATION        : 00:00:10.000000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 32
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-09 06:17:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f739c001f80] config in time_base: 1/1000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7f739c001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f739c001f80] n:   0 pts:   3198 pts_time:3.198   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:054F0885 plane_checksum:[7AFDB867 3053D2C1 269D7D3F] mean:[64 512 510] stdev:[2.5 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f739c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 27225852
+        DURATION        : 00:45:23.850000000
+        NUMBER_OF_FRAMES: 163431
+        NUMBER_OF_BYTES : 9269892455
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-09 06:17:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f739c001f80] n:   1 pts:   7198 pts_time:7.198   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:D0819790 plane_checksum:[8C5F18B4 7DB597DC 8C25E6F1] mean:[100 521 495] stdev:[30.4 8.6 6.5]
+[Parsed_showinfo_0 @ 0x7f739c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f739c001f80] n:   2 pts:  17198 pts_time:17.198  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:FE76BCC3 plane_checksum:[D5CC7114 F9FAFD8C BAC04E14] mean:[157 537 494] stdev:[68.2 18.8 16.5]
+[Parsed_showinfo_0 @ 0x7f739c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x557b2eabb840] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.21 bitrate=N/A speed=10.4x    

@@ -1,0 +1,41 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/一拳超人 (2015)/Season 3/一拳超人 - S03E12 - 第12集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.16.100
+  Duration: 00:23:56.08, start: 0.000000, bitrate: 18197 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 17934 kb/s, 23.98 fps, 23.98 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f7478001f80] config in time_base: 1/90000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f7478001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f7478001f80] n:   0 pts:  66473 pts_time:0.738589 duration:   3753 duration_time:0.0417  fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:74467740 plane_checksum:[14A0F9A0 63F5FB41 48348241] mean:[216 499 626] stdev:[178.4 31.8 91.1]
+[Parsed_showinfo_0 @ 0x7f7478001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f7478001f80] n:   1 pts: 160317 pts_time:1.7813  duration:   3753 duration_time:0.0417  fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:3EED2C7D plane_checksum:[BE77A1E7 DE165915 80BA3172] mean:[442 483 557] stdev:[228.3 48.0 63.9]
+[Parsed_showinfo_0 @ 0x7f7478001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:01.83 bitrate=N/A speed=3.67x    [Parsed_showinfo_0 @ 0x7f7478001f80] n:   2 pts: 520677 pts_time:5.7853  duration:   3753 duration_time:0.0417  fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:65C73812 plane_checksum:[66D690EE 32CBBE5D BF63E8A9] mean:[186 519 500] stdev:[198.1 17.0 16.3]
+[Parsed_showinfo_0 @ 0x7f7478001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f7478001f80] n:   3 pts:1076232 pts_time:11.958133 duration:   3753 duration_time:0.0417  fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:ED83BABA plane_checksum:[EEA0B617 74CFE466 3300202E] mean:[197 521 497] stdev:[122.0 14.7 16.6]
+[Parsed_showinfo_0 @ 0x7f7478001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55a0e1740c80] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.83 bitrate=N/A speed=8.53x    

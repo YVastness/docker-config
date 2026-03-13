@@ -1,0 +1,26 @@
+[matroska,webm @ 0x561ba2c02000] File ended prematurely
+    Last message repeated 2 times
+Input #0, matroska,webm, from '/media/Animes/诡秘之主 (2025)/Season 1/诡秘之主 - S01E03 - 第3集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-05T03:38:32.000000Z
+  Duration: 00:33:35.96, start: 0.000000, bitrate: 1143 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x816 [SAR 799:800 DAR 47:20], SAR 959:960 DAR 959:408, 25 fps, 25 tbr, 1k tbn (default)
+  Stream #0:1(jpn): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : CHS
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x561ba2c02000] File ended prematurely
+[vost#0:0/wrapped_avframe @ 0x561ba2c3bf40] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 1920x816 [SAR 959:960 DAR 959:408], q=2-31, 200 kb/s, 25 fps, 1k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x561ba2c57e80] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x561ba2c57e80] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

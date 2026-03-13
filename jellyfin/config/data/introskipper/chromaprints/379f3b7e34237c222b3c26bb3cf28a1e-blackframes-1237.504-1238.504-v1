@@ -1,0 +1,41 @@
+Input #0, matroska,webm, from '/media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E129 - 第129集.mkv':
+  Metadata:
+    title           : 斗罗大陆Ⅱ绝世唐门 S01E129
+    encoder         : libebml v1.4.4 + libmatroska v1.7.9
+    MOVIE/ENCODER   : Lavf61.1.100
+  Duration: 00:21:53.50, start: 0.000000, bitrate: 5862 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 1k tbn (default) (dub)
+      Metadata:
+        BPS             : 5735635
+        DURATION        : 00:21:53.287000000
+        NUMBER_OF_FRAMES: 39399
+        NUMBER_OF_BYTES : 941566884
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125347
+        DURATION        : 00:21:53.344000000
+        NUMBER_OF_FRAMES: 61563
+        NUMBER_OF_BYTES : 20578044
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 斗罗大陆Ⅱ绝世唐门 S01E129
+    MOVIE/ENCODER   : Lavf61.1.100
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 30 fps, 30 tbn (default) (dub)
+      Metadata:
+        BPS             : 5735635
+        DURATION        : 00:21:53.287000000
+        NUMBER_OF_FRAMES: 39399
+        NUMBER_OF_BYTES : 941566884
+        _STATISTICS_WRITING_APP: mkvmerge v78.0 ('Running') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   19 fps=9.5 q=-0.0 size=N/A time=00:00:00.66 bitrate=N/A speed=0.333x    [out#0/null @ 0x557013854180] video:12KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   29 fps= 13 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.46x    

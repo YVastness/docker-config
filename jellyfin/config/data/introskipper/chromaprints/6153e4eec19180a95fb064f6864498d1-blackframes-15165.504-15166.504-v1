@@ -1,0 +1,456 @@
+[matroska,webm @ 0x55808c898000] Invalid Block Addition value 0x0 for unknown Block Addition Mapping type 68766345, name ""
+[matroska,webm @ 0x55808c898000] Stream #6: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x55808c898000] Could not find codec parameters for stream 5 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Movies/指环王3：王者无敌 (2003)/指环王3：王者无敌 (2003) 2160p TrueHD Atmos.mkv':
+  Metadata:
+    title           : The.Lord.of.the.Rings.The.Return.of.the.King.2003.EXTENDED.PROPER.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1.TrueHD.7.1.Atmos-老K
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2024-04-04T08:26:15.000000Z
+  Duration: 04:23:17.76, start: 0.000000, bitrate: 74720 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 384.300583
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 384.300583, end 561.227333
+      Metadata:
+        title           : Chapter 02
+    Chapter #0:2: start 561.227333, end 681.430750
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 681.430750, end 1103.268833
+      Metadata:
+        title           : Chapter 04
+    Chapter #0:4: start 1103.268833, end 1384.966917
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:5: start 1384.966917, end 1623.288333
+      Metadata:
+        title           : Chapter 06
+    Chapter #0:6: start 1623.288333, end 1740.655583
+      Metadata:
+        title           : Chapter 07
+    Chapter #0:7: start 1740.655583, end 2226.265708
+      Metadata:
+        title           : Chapter 08
+    Chapter #0:8: start 2226.265708, end 2402.400000
+      Metadata:
+        title           : Chapter 09
+    Chapter #0:9: start 2402.400000, end 2522.353167
+      Metadata:
+        title           : Chapter 10
+    Chapter #0:10: start 2522.353167, end 2872.160958
+      Metadata:
+        title           : Chapter 11
+    Chapter #0:11: start 2872.160958, end 3018.265250
+      Metadata:
+        title           : Chapter 12
+    Chapter #0:12: start 3018.265250, end 3138.468667
+      Metadata:
+        title           : Chapter 13
+    Chapter #0:13: start 3138.468667, end 3335.290292
+      Metadata:
+        title           : Chapter 14
+    Chapter #0:14: start 3335.290292, end 3576.364458
+      Metadata:
+        title           : Chapter 15
+    Chapter #0:15: start 3576.364458, end 3623.661708
+      Metadata:
+        title           : Chapter 16
+    Chapter #0:16: start 3623.661708, end 3650.355042
+      Metadata:
+        title           : Chapter 17
+    Chapter #0:17: start 3650.355042, end 3870.074542
+      Metadata:
+        title           : Chapter 18
+    Chapter #0:18: start 3870.074542, end 4035.823458
+      Metadata:
+        title           : Chapter 19
+    Chapter #0:19: start 4035.823458, end 4234.939042
+      Metadata:
+        title           : Chapter 20
+    Chapter #0:20: start 4234.939042, end 4494.573417
+      Metadata:
+        title           : Chapter 21
+    Chapter #0:21: start 4494.573417, end 4641.928958
+      Metadata:
+        title           : Chapter 22
+    Chapter #0:22: start 4641.928958, end 4761.590167
+      Metadata:
+        title           : Chapter 23
+    Chapter #0:23: start 4761.590167, end 4800.879417
+      Metadata:
+        title           : Chapter 24
+    Chapter #0:24: start 4800.879417, end 4886.756875
+      Metadata:
+        title           : Chapter 25
+    Chapter #0:25: start 4886.756875, end 5028.898875
+      Metadata:
+        title           : Chapter 26
+    Chapter #0:26: start 5028.898875, end 5347.467125
+      Metadata:
+        title           : Chapter 27
+    Chapter #0:27: start 5347.467125, end 5637.256625
+      Metadata:
+        title           : Chapter 28
+    Chapter #0:28: start 5637.256625, end 5887.840292
+      Metadata:
+        title           : Chapter 29
+    Chapter #0:29: start 5887.840292, end 6169.288125
+      Metadata:
+        title           : Chapter 30
+    Chapter #0:30: start 6169.288125, end 6334.202875
+      Metadata:
+        title           : Chapter 31
+    Chapter #0:31: start 6334.202875, end 6417.244167
+      Metadata:
+        title           : Chapter 32
+    Chapter #0:32: start 6417.244167, end 6564.057500
+      Metadata:
+        title           : Chapter 33
+    Chapter #0:33: start 6564.057500, end 6669.746417
+      Metadata:
+        title           : Chapter 34
+    Chapter #0:34: start 6669.746417, end 7119.403958
+      Metadata:
+        title           : Chapter 35
+    Chapter #0:35: start 7119.403958, end 7660.235917
+      Metadata:
+        title           : Chapter 36
+    Chapter #0:36: start 7660.256000, end 7723.736083
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:37: start 7723.736083, end 8271.366500
+      Metadata:
+        title           : Chapter 02
+    Chapter #0:38: start 8271.366500, end 8381.476500
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:39: start 8381.476500, end 8417.887875
+      Metadata:
+        title           : Chapter 04
+    Chapter #0:40: start 8417.887875, end 8511.314542
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:41: start 8511.314542, end 8578.339833
+      Metadata:
+        title           : Chapter 06
+    Chapter #0:42: start 8578.339833, end 8940.201333
+      Metadata:
+        title           : Chapter 07
+    Chapter #0:43: start 8940.201333, end 9005.558292
+      Metadata:
+        title           : Chapter 08
+    Chapter #0:44: start 9005.558292, end 9150.578167
+      Metadata:
+        title           : Chapter 09
+    Chapter #0:45: start 9150.578167, end 9404.623625
+      Metadata:
+        title           : Chapter 10
+    Chapter #0:46: start 9404.623625, end 9532.084292
+      Metadata:
+        title           : Chapter 11
+    Chapter #0:47: start 9532.084292, end 9827.254167
+      Metadata:
+        title           : Chapter 12
+    Chapter #0:48: start 9827.254167, end 9917.677833
+      Metadata:
+        title           : Chapter 13
+    Chapter #0:49: start 9917.677833, end 10023.825542
+      Metadata:
+        title           : Chapter 14
+    Chapter #0:50: start 10023.825542, end 10076.419750
+      Metadata:
+        title           : Chapter 15
+    Chapter #0:51: start 10076.419750, end 10120.672292
+      Metadata:
+        title           : Chapter 16
+    Chapter #0:52: start 10120.672292, end 10276.369500
+      Metadata:
+        title           : Chapter 17
+    Chapter #0:53: start 10276.369500, end 10398.950292
+      Metadata:
+        title           : Chapter 18
+    Chapter #0:54: start 10398.950292, end 10466.017292
+      Metadata:
+        title           : Chapter 19
+    Chapter #0:55: start 10466.017292, end 10601.986458
+      Metadata:
+        title           : Chapter 20
+    Chapter #0:56: start 10601.986458, end 10654.080167
+      Metadata:
+        title           : Chapter 21
+    Chapter #0:57: start 10654.080167, end 11069.620292
+      Metadata:
+        title           : Chapter 22
+    Chapter #0:58: start 11069.620292, end 11172.347917
+      Metadata:
+        title           : Chapter 23
+    Chapter #0:59: start 11172.347917, end 11261.144958
+      Metadata:
+        title           : Chapter 24
+    Chapter #0:60: start 11261.144958, end 11311.361792
+      Metadata:
+        title           : Chapter 25
+    Chapter #0:61: start 11311.361792, end 11533.041583
+      Metadata:
+        title           : Chapter 26
+    Chapter #0:62: start 11533.041583, end 11784.667958
+      Metadata:
+        title           : Chapter 27
+    Chapter #0:63: start 11784.667958, end 11980.405167
+      Metadata:
+        title           : Chapter 28
+    Chapter #0:64: start 11980.405167, end 12194.327208
+      Metadata:
+        title           : Chapter 29
+    Chapter #0:65: start 12194.327208, end 12327.543625
+      Metadata:
+        title           : Chapter 30
+    Chapter #0:66: start 12327.543625, end 12389.897583
+      Metadata:
+        title           : Chapter 31
+    Chapter #0:67: start 12389.897583, end 12506.347250
+      Metadata:
+        title           : Chapter 32
+    Chapter #0:68: start 12506.347250, end 12540.172708
+      Metadata:
+        title           : Chapter 33
+    Chapter #0:69: start 12540.172708, end 12878.927792
+      Metadata:
+        title           : Chapter 34
+    Chapter #0:70: start 12878.927792, end 13012.311042
+      Metadata:
+        title           : Chapter 35
+    Chapter #0:71: start 13012.311042, end 13221.686875
+      Metadata:
+        title           : Chapter 36
+    Chapter #0:72: start 13221.686875, end 13364.746458
+      Metadata:
+        title           : Chapter 37
+    Chapter #0:73: start 13364.746458, end 13657.413833
+      Metadata:
+        title           : Chapter 38
+    Chapter #0:74: start 13657.413833, end 13939.362167
+      Metadata:
+        title           : Chapter 39
+    Chapter #0:75: start 13939.362167, end 14498.337250
+      Metadata:
+        title           : Chapter 40
+    Chapter #0:76: start 14498.337250, end 15165.503750
+      Metadata:
+        title           : Chapter 41
+    Chapter #0:77: start 15165.503750, end 15797.718667
+      Metadata:
+        title           : Chapter 42
+  Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 65604675
+        DURATION        : 04:23:17.700000000
+        NUMBER_OF_FRAMES: 378766
+        NUMBER_OF_BYTES : 129550372968
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-04 08:26:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+  Stream #0:1(eng): Audio: truehd (Dolby TrueHD + Dolby Atmos), 48000 Hz, 7.1, s32 (24 bit) (default)
+      Metadata:
+        title           : TureHD Atmos 7.1
+        BPS             : 2970504
+        DURATION        : 04:23:17.701000000
+        NUMBER_OF_FRAMES: 18957240
+        NUMBER_OF_BYTES : 5865892132
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-04 08:26:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 7.1, s32p (24 bit)
+      Metadata:
+        title           : DTS-HD MA 7.1
+        BPS             : 3693105
+        DURATION        : 04:23:17.761000000
+        NUMBER_OF_FRAMES: 1481040
+        NUMBER_OF_BYTES : 7292849388
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-04 08:26:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 6.1, s16p
+      Metadata:
+        title           : 国语 DTS-HD MA
+        BPS             : 2363342
+        DURATION        : 04:23:17.721000000
+        NUMBER_OF_FRAMES: 1480958
+        NUMBER_OF_BYTES : 4666927712
+        SOURCE_ID       : 001102
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-04 08:26:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+  Stream #0:4(chi): Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : 简英
+        BPS             : 148
+        DURATION        : 04:06:11.800000000
+        NUMBER_OF_FRAMES: 1960
+        NUMBER_OF_BYTES : 275096
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-04 08:26:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(chi): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        title           : 国语 简体
+        BPS             : 27376
+        DURATION        : 04:22:52.068000000
+        NUMBER_OF_FRAMES: 5132
+        NUMBER_OF_BYTES : 53972544
+        SOURCE_ID       : 0012a2
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-04 08:26:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+  Stream #0:6: Video: mjpeg (Progressive), yuvj420p(pc, bt470bg/unknown/unknown), 254x254 [SAR 1:1 DAR 1:1], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : 老K  QQ 195383233.jpg
+        mimetype        : image/jpeg
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[hevc @ 0x55808ce2e600] First slice in a frame missing.
+    Last message repeated 6 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x55808c918540] First slice in a frame missing.
+    Last message repeated 6 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Multiple Dolby Vision RPUs found in one AU. Skipping previous.
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 16 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 16 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : The.Lord.of.the.Rings.The.Return.of.the.King.2003.EXTENDED.PROPER.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.7.1.TrueHD.7.1.Atmos-老K
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 1.000000
+      Metadata:
+        title           : Chapter 42
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 65604675
+        DURATION        : 04:23:17.700000000
+        NUMBER_OF_FRAMES: 378766
+        NUMBER_OF_BYTES : 129550372968
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-04 08:26:15
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+frame=    3 fps=2.0 q=-0.0 size=N/A time=00:00:00.16 bitrate=N/A speed=0.11x    [hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 8 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+frame=   14 fps=6.9 q=-0.0 size=N/A time=00:00:00.62 bitrate=N/A speed=0.31x    [hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 16 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+frame=   23 fps=9.1 q=-0.0 size=N/A time=00:00:01.00 bitrate=N/A speed=0.397x    [hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808ce2e600] Skipping NAL unit 63
+    Last message repeated 9 times
+[out#0/null @ 0x55808cbcc900] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=8.6 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.372x    
+[hevc @ 0x55808c918540] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c955940] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808c966c80] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55808cb9eb80] Skipping NAL unit 63
+    Last message repeated 9 times

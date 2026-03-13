@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ServerUrl>http://192.168.2.1:8097</ServerUrl>
+  <DiscordOptions />
+  <GenericOptions />
+  <GenericFormOptions />
+  <GotifyOptions />
+  <PushbulletOptions />
+  <PushoverOptions />
+  <SlackOptions />
+  <SmtpOptions />
+  <MqttOptions />
+</PluginConfiguration>

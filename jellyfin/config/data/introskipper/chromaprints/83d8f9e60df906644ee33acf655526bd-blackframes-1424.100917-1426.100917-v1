@@ -1,0 +1,52 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E10 - 第10集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+    comment         : Fuck You
+  Duration: 00:24:02.47, start: 0.000000, bitrate: 1346 kb/s
+  Stream #0:0[0x1](zho): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1596 [SAR 1:1 DAR 320:133], 1214 kb/s, 24 fps, 24 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](zho): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    comment         : Fuck You
+    encoder         : Lavf61.1.100
+  Stream #0:0(zho): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1596 [SAR 1:1 DAR 320:133], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:23 pblack:99 pts:88446 t:0.982733 type:I last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:24 pblack:99 pts:92197 t:1.024411 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:25 pblack:98 pts:95946 t:1.066067 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:26 pblack:89 pts:99696 t:1.107733 type:B last_keyframe:23
+frame=   26 fps= 13 q=-0.0 size=N/A time=00:00:01.12 bitrate=N/A speed=0.562x    [Parsed_blackframe_0 @ 0x7f89d8002340] frame:27 pblack:82 pts:103446 t:1.149400 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:28 pblack:93 pts:107197 t:1.191078 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:29 pblack:81 pts:110946 t:1.232733 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:30 pblack:79 pts:114696 t:1.274400 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:31 pblack:77 pts:118447 t:1.316078 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:32 pblack:87 pts:122196 t:1.357733 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:33 pblack:87 pts:125947 t:1.399411 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:34 pblack:87 pts:129696 t:1.441067 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:35 pblack:86 pts:133446 t:1.482733 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:36 pblack:86 pts:137196 t:1.524400 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:37 pblack:78 pts:140947 t:1.566078 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:38 pblack:78 pts:144696 t:1.607733 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:39 pblack:60 pts:148446 t:1.649400 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:45 pblack:66 pts:170947 t:1.899411 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f89d8002340] frame:46 pblack:66 pts:174696 t:1.941067 type:B last_keyframe:23
+[out#0/null @ 0x562aa1534480] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 21 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.889x    

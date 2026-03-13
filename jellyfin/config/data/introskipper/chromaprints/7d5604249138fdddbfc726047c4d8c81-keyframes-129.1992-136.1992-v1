@@ -1,0 +1,36 @@
+Input #0, matroska,webm, from '/media/Animes/剑风传奇 (1997)/Season 1/剑风传奇 - S01E09 - 第9集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.4.100
+  Duration: 00:23:39.44, start: -0.021000, bitrate: 15119 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, progressive), 2880x2160 [SAR 1:1 DAR 4:3], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        ENCODER         : Lavc60.6.101 hevc_nvenc
+        DURATION        : 00:23:39.335000000
+  Stream #0:1(jpn): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 562512
+        NUMBER_OF_FRAMES: 16634
+        NUMBER_OF_BYTES : 99805275
+        _STATISTICS_WRITING_APP: mkvmerge v69.0.0 ('Day And Age') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-12 08:31:39
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        ENCODER         : Lavc60.6.101 aac
+        DURATION        : 00:23:39.441000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f9c18001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f9c18001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f9c18001f80] n:   0 pts:   6374 pts_time:6.374   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:2880x2160 i:P iskey:1 type:I checksum:FA61C267 plane_checksum:[3483EFBE 62C0A672 FF612C28] mean:[635 296 506] stdev:[131.1 52.9 54.4]
+[Parsed_showinfo_0 @ 0x7f9c18001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, progressive), 2880x2160 [SAR 1:1 DAR 4:3], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn
+      Metadata:
+        DURATION        : 00:23:39.335000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:06.42 bitrate=N/A speed=12.8x    [Parsed_showinfo_0 @ 0x7f9c18001f80] n:   1 pts:  16801 pts_time:16.801  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:2880x2160 i:P iskey:1 type:I checksum:DFC37C5C plane_checksum:[83A7E737 FDD8EB65 139EA9A2] mean:[467 378 538] stdev:[218.0 90.7 39.8]
+[Parsed_showinfo_0 @ 0x7f9c18001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55c33cad5440] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.42 bitrate=N/A speed=11.1x    

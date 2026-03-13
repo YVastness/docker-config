@@ -1,0 +1,110 @@
+Input #0, matroska,webm, from '/media/Animes/龙族 (2022)/Season 2/龙族 - S02E17 - 第17集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-10-24T02:44:33.000000Z
+    MOVIE/ENCODER   : Lavf62.0.102
+  Duration: 00:24:13.22, start: 0.000000, bitrate: 2541 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1610 [SAR 1:1 DAR 384:161], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2095913
+        DURATION        : 00:24:13.042000000
+        NUMBER_OF_FRAMES: 34873
+        NUMBER_OF_BYTES : 380681380
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-24 02:44:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125357
+        DURATION        : 00:24:13.098000000
+        NUMBER_OF_FRAMES: 68114
+        NUMBER_OF_BYTES : 22769680
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-24 02:44:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 253369
+        DURATION        : 00:24:13.098000000
+        NUMBER_OF_FRAMES: 68114
+        NUMBER_OF_BYTES : 46021250
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-24 02:44:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        BPS             : 64000
+        DURATION        : 00:24:13.216000000
+        NUMBER_OF_FRAMES: 45413
+        NUMBER_OF_BYTES : 11625728
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-24 02:44:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:0 pblack:100 pts:34 t:0.034000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf62.0.102
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1610 [SAR 1:1 DAR 384:161], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 2095913
+        DURATION        : 00:24:13.042000000
+        NUMBER_OF_FRAMES: 34873
+        NUMBER_OF_BYTES : 380681380
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-24 02:44:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:1 pblack:100 pts:76 t:0.076000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:2 pblack:100 pts:118 t:0.118000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:3 pblack:100 pts:159 t:0.159000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:4 pblack:100 pts:201 t:0.201000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:5 pblack:100 pts:243 t:0.243000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:6 pblack:100 pts:284 t:0.284000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:7 pblack:100 pts:326 t:0.326000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:8 pblack:100 pts:368 t:0.368000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:9 pblack:100 pts:409 t:0.409000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:10 pblack:100 pts:451 t:0.451000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:11 pblack:100 pts:493 t:0.493000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:12 pblack:100 pts:534 t:0.534000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:13 pblack:100 pts:576 t:0.576000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:14 pblack:100 pts:618 t:0.618000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:15 pblack:100 pts:659 t:0.659000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:16 pblack:100 pts:701 t:0.701000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:17 pblack:100 pts:743 t:0.743000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:18 pblack:100 pts:784 t:0.784000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:19 pblack:100 pts:826 t:0.826000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:20 pblack:100 pts:868 t:0.868000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:21 pblack:100 pts:909 t:0.909000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:22 pblack:100 pts:951 t:0.951000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:23 pblack:100 pts:993 t:0.993000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:24 pblack:100 pts:1034 t:1.034000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:25 pblack:100 pts:1076 t:1.076000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:26 pblack:100 pts:1118 t:1.118000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:27 pblack:100 pts:1159 t:1.159000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:28 pblack:100 pts:1201 t:1.201000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:29 pblack:100 pts:1243 t:1.243000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:30 pblack:100 pts:1284 t:1.284000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:31 pblack:100 pts:1326 t:1.326000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:32 pblack:100 pts:1368 t:1.368000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:33 pblack:100 pts:1409 t:1.409000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:34 pblack:100 pts:1451 t:1.451000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:35 pblack:100 pts:1493 t:1.493000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:36 pblack:100 pts:1534 t:1.534000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:37 pblack:100 pts:1576 t:1.576000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:38 pblack:100 pts:1618 t:1.618000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:39 pblack:100 pts:1659 t:1.659000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:40 pblack:100 pts:1701 t:1.701000 type:B last_keyframe:0
+frame=   41 fps= 27 q=-0.0 size=N/A time=00:00:01.75 bitrate=N/A speed=1.16x    [Parsed_blackframe_0 @ 0x7f7fe8002340] frame:41 pblack:100 pts:1743 t:1.743000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:42 pblack:100 pts:1784 t:1.784000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:43 pblack:100 pts:1826 t:1.826000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:44 pblack:100 pts:1868 t:1.868000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:45 pblack:100 pts:1909 t:1.909000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:46 pblack:100 pts:1951 t:1.951000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:47 pblack:100 pts:1993 t:1.993000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7fe8002340] frame:48 pblack:100 pts:2034 t:2.034000 type:B last_keyframe:0
+[out#0/null @ 0x55ae0f61d280] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 29 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.25x    

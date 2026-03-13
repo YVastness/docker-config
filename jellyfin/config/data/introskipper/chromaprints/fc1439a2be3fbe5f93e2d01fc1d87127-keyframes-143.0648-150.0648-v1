@@ -1,0 +1,78 @@
+Input #0, matroska,webm, from '/media/Animes/紫川 (2021)/Season 2/紫川 - S02E01 - 第1集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-30T04:12:06.000000Z
+    MOVIE/ENCODER   : Lavf62.0.102
+  Duration: 00:20:33.47, start: 0.000000, bitrate: 4990 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1600 [SAR 1:1 DAR 12:5], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4353422
+        DURATION        : 00:20:33.320000000
+        NUMBER_OF_FRAMES: 30833
+        NUMBER_OF_BYTES : 671145324
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125349
+        DURATION        : 00:20:33.365000000
+        NUMBER_OF_FRAMES: 57814
+        NUMBER_OF_BYTES : 19325176
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 253368
+        DURATION        : 00:20:33.365000000
+        NUMBER_OF_FRAMES: 57814
+        NUMBER_OF_BYTES : 39061905
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:20:33.472000000
+        NUMBER_OF_FRAMES: 38546
+        NUMBER_OF_BYTES : 39471104
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f1f00001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f1f00001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f1f00001f80] n:   0 pts:   1457 pts_time:1.457   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1600 i:P iskey:1 type:I checksum:49AE14F0 plane_checksum:[262EA83A B1D50C11 87286096] mean:[18 128 128] stdev:[4.1 0.4 0.4]
+[Parsed_showinfo_0 @ 0x7f1f00001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f1f00001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e352063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f1f00001f80] 
+[Parsed_showinfo_0 @ 0x7f1f00001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf62.0.102
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1600 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 4353422
+        DURATION        : 00:20:33.320000000
+        NUMBER_OF_FRAMES: 30833
+        NUMBER_OF_BYTES : 671145324
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f1f00001f80] n:   1 pts:   7417 pts_time:7.417   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1600 i:P iskey:1 type:I checksum:6B38BD43 plane_checksum:[A6FE0D93 90070A26 B8EDA58A] mean:[143 135 125] stdev:[44.6 9.9 11.3]
+[Parsed_showinfo_0 @ 0x7f1f00001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f1f00001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e352063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f1f00001f80] 
+[Parsed_showinfo_0 @ 0x7f1f00001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f1f00001f80] n:   2 pts:  12417 pts_time:12.417  duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1600 i:P iskey:1 type:I checksum:F318BAB7 plane_checksum:[E665581F D5FB4621 3BFE1C77] mean:[86 124 142] stdev:[46.2 12.7 8.4]
+[Parsed_showinfo_0 @ 0x7f1f00001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f1f00001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e352063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f1f00001f80] 
+[Parsed_showinfo_0 @ 0x7f1f00001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x5616438dd200] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.48 bitrate=N/A speed=3.33x    

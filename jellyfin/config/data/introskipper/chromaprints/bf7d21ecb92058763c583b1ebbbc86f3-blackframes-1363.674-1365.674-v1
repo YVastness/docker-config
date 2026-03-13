@@ -1,0 +1,41 @@
+Input #0, matroska,webm, from '/media/Animes/龙族 (2022)/Season 2/龙族 - S02E19 - 第19集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-07T01:51:27.000000Z
+  Duration: 00:24:13.67, start: 0.000000, bitrate: 1791 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1610 [SAR 1:1 DAR 384:161], 23.99 fps, 23.99 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1663830
+        DURATION        : 00:24:13.625000000
+        NUMBER_OF_FRAMES: 34887
+        NUMBER_OF_BYTES : 302323291
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-07 01:51:27
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125353
+        DURATION        : 00:24:13.674000000
+        NUMBER_OF_FRAMES: 68141
+        NUMBER_OF_BYTES : 22777860
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-07 01:51:27
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1610 [SAR 1:1 DAR 384:161], q=2-31, 200 kb/s, 23.99 fps, 23.99 tbn (default)
+      Metadata:
+        BPS             : 1663830
+        DURATION        : 00:24:13.625000000
+        NUMBER_OF_FRAMES: 34887
+        NUMBER_OF_BYTES : 302323291
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-07 01:51:27
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   26 fps=0.0 q=-0.0 size=N/A time=00:00:01.12 bitrate=N/A speed=2.25x    [out#0/null @ 0x5639ff3995c0] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.85x    

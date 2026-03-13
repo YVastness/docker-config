@@ -1,0 +1,43 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/长安的荔枝 (2025)/Season 1/长安的荔枝 - S01E25 - 李善德献转运法遭鱼常侍拿捏.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.9.107
+  Duration: 00:46:55.23, start: 0.000000, bitrate: 15120 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(pc), 3840x1608 [SAR 1:1 DAR 160:67], 14472 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](chi): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, stereo, fltp, 256 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 pcm_s16le
+      Side data:
+        audio service type: main
+[silencedetect @ 0x7f67e8002440] silence_start: 6.845438
+[silencedetect @ 0x7f67e8002440] silence_end: 7.046396 | silence_duration: 0.200958
+[out#0/null @ 0x562cdea65780] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=36.6x    

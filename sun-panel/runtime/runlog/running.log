@@ -1,0 +1,223 @@
+2025-07-15T12:30:08.819Z	INFO	lang/lang.go:20	输出语言文件: lang/zh-cn.ini
+2025-07-15T12:30:09.073Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-07-15T12:30:09.073Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-07-15T12:30:09.074Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-07-15T12:30:09.074Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-07-15T12:30:39.104Z	ERROR	biz/proAuth.go:200	register:POST:Request error: Post "https://auth.sun-panel.top/api/register": dial tcp 198.18.2.116:443: i/o timeout
+2025-08-04T07:44:46.389Z	INFO	lang/lang.go:20	输出语言文件: lang/zh-cn.ini
+2025-08-04T07:44:46.572Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-08-04T07:44:46.572Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-08-04T07:44:46.574Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-08-04T07:44:46.574Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-08-04T07:58:26.021Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-08-04T07:58:26.026Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-08-04T07:58:26.029Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-08-04T07:58:26.029Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-08-08T05:04:36.901Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-08-08T05:04:36.903Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-08-08T05:04:36.909Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-08-08T05:04:36.909Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-08-28T16:35:53.937Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-08-28T16:35:53.964Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-08-28T16:35:53.966Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-08-28T16:35:53.966Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-09-09T13:44:19.810Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-09-09T13:44:19.825Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-09-09T13:44:19.826Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-09-09T13:44:19.828Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-09-10T02:54:50.683Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-09-10T02:54:50.686Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-09-10T02:54:50.691Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-09-10T02:54:50.691Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-09-24T05:20:28.652Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-09-24T05:20:28.661Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-09-24T05:20:28.665Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-09-24T05:20:28.665Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-09-27T02:55:29.453Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-09-27T02:55:29.459Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-09-27T02:55:29.468Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-09-27T02:55:29.469Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-09-28T11:01:51.309Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-09-28T11:01:51.312Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-09-28T11:01:51.313Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-09-28T11:01:51.314Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-09-28T11:06:38.321Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-09-28T11:06:38.328Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-09-28T11:06:38.331Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-09-28T11:06:38.333Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-09-28T12:14:19.952Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-09-28T12:14:19.966Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-09-28T12:14:19.967Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-09-28T12:14:19.968Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-10-09T03:21:05.489Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-10-09T03:21:05.503Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-10-09T03:21:05.510Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-10-09T03:21:05.510Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-10-10T06:39:14.629Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-10-10T06:39:14.632Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-10-10T06:39:14.639Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-10-10T06:39:14.640Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-10-12T08:05:47.351Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-10-12T08:05:47.355Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-10-12T08:05:47.392Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-10-12T08:05:47.394Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-02T17:10:56.075Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-02T17:10:56.083Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-02T17:10:56.099Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-02T17:10:56.099Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-02T17:19:38.419Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-02T17:19:38.421Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-02T17:19:38.422Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-02T17:19:38.422Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-03T04:24:46.494Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-03T04:24:46.502Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-03T04:24:46.532Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-03T04:24:46.532Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-06T02:19:58.150Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-06T02:19:58.166Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-06T02:19:58.167Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-06T02:19:58.167Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-06T08:09:10.281Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-06T08:09:10.287Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-06T08:09:10.289Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-06T08:09:10.289Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-06T09:12:53.420Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-06T09:12:53.420Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-06T09:12:53.421Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-06T09:12:53.421Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-06T09:26:46.923Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-06T09:26:46.924Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-06T09:26:46.925Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-06T09:26:46.925Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-08T09:00:06.367Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-08T09:00:06.420Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-08T09:00:06.425Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-08T09:00:06.425Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-08T19:31:17.874Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-08T19:31:17.886Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-08T19:31:17.899Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-08T19:31:17.900Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-09T14:06:27.918Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-09T14:06:27.931Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-09T14:06:27.937Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-09T14:06:27.937Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-10T05:59:56.366Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-10T05:59:56.373Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-10T05:59:56.378Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-10T05:59:56.379Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-10T13:28:51.313Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-10T13:28:51.329Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-10T13:28:51.331Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-10T13:28:51.331Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-11T10:17:25.530Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-11T10:17:25.551Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-11T10:17:25.558Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-11T10:17:25.558Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-11T12:33:02.233Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-11T12:33:02.241Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-11T12:33:02.255Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-11T12:33:02.255Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-12T13:09:55.078Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-12T13:09:55.080Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-12T13:09:55.082Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-12T13:09:55.082Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-13T16:01:44.726Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-13T16:01:44.769Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-13T16:01:44.771Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-13T16:01:44.772Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-14T12:04:07.540Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-14T12:04:07.542Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-14T12:04:07.551Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-14T12:04:07.551Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-14T12:06:13.290Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-14T12:06:13.307Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-14T12:06:13.317Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-14T12:06:13.318Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-15T15:35:23.469Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-15T15:35:23.488Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-15T15:35:23.493Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-15T15:35:23.493Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-15T16:55:11.514Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-15T16:55:11.515Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-15T16:55:11.516Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-15T16:55:11.516Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-11-29T12:05:10.193Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-11-29T12:05:10.225Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-11-29T12:05:10.231Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-11-29T12:05:10.233Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-09T03:03:38.271Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-09T03:03:38.305Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-09T03:03:38.308Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-09T03:03:38.308Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-09T03:14:45.799Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-09T03:14:45.831Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-09T03:14:45.835Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-09T03:14:45.835Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-09T08:22:36.222Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-09T08:22:36.274Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-09T08:22:36.275Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-09T08:22:36.275Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-13T08:14:36.295Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-13T08:14:36.300Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-13T08:14:36.301Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-13T08:14:36.301Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-14T05:15:39.304Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-14T05:15:39.319Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-14T05:15:39.363Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-14T05:15:39.363Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-14T15:47:08.469Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-14T15:47:08.502Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-14T15:47:08.507Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-14T15:47:08.508Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-16T09:47:21.096Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-16T09:47:21.117Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-16T09:47:21.119Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-16T09:47:21.119Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-17T10:02:13.082Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-17T10:02:13.132Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-17T10:02:13.184Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-17T10:02:13.184Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-17T13:28:31.282Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-17T13:28:31.294Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-17T13:28:31.298Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-17T13:28:31.298Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-17T16:35:11.016Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-17T16:35:11.062Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-17T16:35:11.078Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-17T16:35:11.078Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-17T17:09:24.878Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-17T17:09:24.914Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-17T17:09:24.916Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-17T17:09:24.916Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-17T22:44:58.825Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-17T22:44:58.847Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-17T22:44:58.850Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-17T22:44:58.850Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-29T14:06:55.156Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-29T14:06:55.170Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-29T14:06:55.186Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-29T14:06:55.186Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-30T02:02:48.141Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-30T02:02:48.189Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-30T02:02:48.192Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-30T02:02:48.192Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2025-12-30T05:27:36.477Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2025-12-30T05:27:36.498Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2025-12-30T05:27:36.499Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2025-12-30T05:27:36.499Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2026-01-05T07:23:40.722Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2026-01-05T07:23:40.727Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2026-01-05T07:23:40.737Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2026-01-05T07:23:40.737Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2026-01-09T11:09:03.225Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2026-01-09T11:09:03.301Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2026-01-09T11:09:03.310Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2026-01-09T11:09:03.310Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2026-03-13T07:00:25.763Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2026-03-13T07:00:25.809Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2026-03-13T07:00:25.818Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2026-03-13T07:00:25.818Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002
+2026-03-13T07:21:04.913Z	ERROR	biz/proAuth.go:94	host_address: Unable to parse : encoding/hex: invalid byte: U+0068 'h'
+2026-03-13T07:21:04.921Z	INFO	biz/proAuth.go:101	Use PRO Auth Host: default
+2026-03-13T07:21:04.967Z	INFO	router/A_ENTER.go:42	Sun-Panel is Started.
+2026-03-13T07:21:04.967Z	INFO	router/A_ENTER.go:44	HTTP: 0.0.0.0:3002

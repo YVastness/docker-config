@@ -1,0 +1,248 @@
+Fatal Python error: Segmentation fault
+
+Thread 0x00007fe49a7ffb30 (most recent call first):
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 90 in _worker
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007fe49bcc1b30 (most recent call first):
+  <no Python frame>
+
+Thread 0x00007fe49bde0b30 (most recent call first):
+  File "/usr/local/lib/python3.13/site-packages/midealocal/device.py", line 262 in authenticate
+  File "/usr/local/lib/python3.13/site-packages/midealocal/device.py", line 218 in connect
+  File "/usr/local/lib/python3.13/site-packages/midealocal/device.py", line 664 in _connect_loop
+  File "/usr/local/lib/python3.13/site-packages/midealocal/device.py", line 707 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007fe49bfffb30 (most recent call first):
+  File "/usr/local/lib/python3.13/site-packages/pycares/__init__.py", line 363 in _run_safe_shutdown_loop
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Current thread 0x00007fe49dec0b30 (most recent call first):
+  <no Python frame>
+
+Thread 0x00007fe49e0dfb30 (most recent call first):
+  File "/usr/local/lib/python3.13/socket.py", line 977 in getaddrinfo
+  File "/usr/local/lib/python3.13/socket.py", line 840 in create_connection
+  File "/usr/local/lib/python3.13/site-packages/paho/mqtt/client.py", line 4640 in _create_socket_connection
+  File "/usr/local/lib/python3.13/site-packages/paho/mqtt/client.py", line 4609 in _create_socket
+  File "/usr/local/lib/python3.13/site-packages/paho/mqtt/client.py", line 1598 in reconnect
+  File "/usr/local/lib/python3.13/site-packages/paho/mqtt/client.py", line 1435 in connect
+  File "/config/custom_components/xiaomi_home/miot/miot_mips.py", line 757 in __mips_connect
+  File "/usr/local/lib/python3.13/asyncio/events.py", line 89 in _run
+  File "/usr/local/lib/python3.13/asyncio/base_events.py", line 2034 in _run_once
+  File "/usr/local/lib/python3.13/asyncio/base_events.py", line 677 in run_forever
+  File "/config/custom_components/xiaomi_home/miot/miot_mips.py", line 634 in __mips_loop_thread
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007fe4b7d7fb38 (most recent call first):
+  File "/usr/src/homeassistant/homeassistant/components/recorder/core.py", line 853 in _run_event_loop
+  File "/usr/src/homeassistant/homeassistant/components/recorder/core.py", line 812 in _run
+  File "/usr/src/homeassistant/homeassistant/components/recorder/core.py", line 690 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007fe4bb3ffb38 (most recent call first):
+  File "<frozen importlib._bootstrap_external>", line 166 in _path_stat
+  File "<frozen importlib._bootstrap_external>", line 1651 in find_spec
+  File "/usr/local/lib/python3.13/site-packages/pkg_resources/__init__.py", line 2475 in _handle_ns
+  File "/usr/local/lib/python3.13/site-packages/pkg_resources/__init__.py", line 2585 in fixup_namespace_packages
+  File "/usr/local/lib/python3.13/site-packages/pkg_resources/__init__.py", line 3143 in activate
+  File "/usr/local/lib/python3.13/site-packages/pkg_resources/__init__.py", line 3685 in <genexpr>
+  File "/usr/local/lib/python3.13/site-packages/pkg_resources/__init__.py", line 3685 in _initialize_master_working_set
+  File "/usr/local/lib/python3.13/site-packages/pkg_resources/__init__.py", line 3644 in _call_aside
+  File "/usr/local/lib/python3.13/site-packages/pkg_resources/__init__.py", line 3660 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "/usr/local/lib/python3.13/site-packages/google/__init__.py", line 2 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1310 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1310 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "/usr/local/lib/python3.13/site-packages/pyatv/support/__init__.py", line 11 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1310 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "/usr/local/lib/python3.13/site-packages/pyatv/settings.py", line 7 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "/usr/local/lib/python3.13/site-packages/pyatv/interface.py", line 42 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1415 in _handle_fromlist
+  File "/usr/local/lib/python3.13/site-packages/pyatv/__init__.py", line 14 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "/usr/src/homeassistant/homeassistant/components/apple_tv/__init__.py", line 10 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1387 in _gcd_import
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1310 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1387 in _gcd_import
+  File "/usr/local/lib/python3.13/importlib/__init__.py", line 88 in import_module
+  File "/usr/src/homeassistant/homeassistant/util/loop.py", line 201 in protected_loop_func
+  File "/usr/src/homeassistant/homeassistant/loader.py", line 1282 in _import_platform
+  File "/usr/src/homeassistant/homeassistant/loader.py", line 1250 in _load_platform
+  File "/usr/src/homeassistant/homeassistant/loader.py", line 1076 in _load_platforms
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 59 in run
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 93 in _worker
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007fe4bbdffb38 (most recent call first):
+  File "<frozen importlib._bootstrap_external>", line 1632 in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1533 in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 197 in find_spec
+  File "<frozen importlib._bootstrap>", line 1282 in _find_spec
+  File Fatal Python error: Segmentation fault
+
+Thread 0x00007f3e56740b30 (most recent call first):
+  File "/usr/src/homeassistant/homeassistant/util/loop.py", line 201 in protected_loop_func
+  File "/usr/local/lib/python3.13/site-packages/pycares/__init__.py", line 359 in _run_safe_shutdown_loop
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Current thread 0x00007f3e5677fb30 (most recent call first):
+  <no Python frame>
+
+Thread 0x00007f3e5872fb30 (most recent call first):
+  File "/usr/local/lib/python3.13/socket.py", line 977 in getaddrinfo
+  File "/usr/local/lib/python3.13/socket.py", line 840 in create_connection
+  File "/usr/local/lib/python3.13/site-packages/paho/mqtt/client.py", line 4640 in _create_socket_connection
+  File "/usr/local/lib/python3.13/site-packages/paho/mqtt/client.py", line 4609 in _create_socket
+  File "/usr/local/lib/python3.13/site-packages/paho/mqtt/client.py", line 1598 in reconnect
+  File "/usr/local/lib/python3.13/site-packages/paho/mqtt/client.py", line 1435 in connect
+  File "/config/custom_components/xiaomi_home/miot/miot_mips.py", line 758 in __mips_connect
+  File "/usr/local/lib/python3.13/asyncio/events.py", line 89 in _run
+  File "/usr/local/lib/python3.13/asyncio/base_events.py", line 2034 in _run_once
+  File "/usr/local/lib/python3.13/asyncio/base_events.py", line 677 in run_forever
+  File "/config/custom_components/xiaomi_home/miot/miot_mips.py", line 634 in __mips_loop_thread
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007f3e75a77b38 (most recent call first):
+  <no Python frame>
+
+Thread 0x00007f3e71effb38 (most recent call first):
+  File "/usr/local/lib/python3.13/threading.py", line 359 in wait
+  File "/usr/local/lib/python3.13/concurrent/futures/_base.py", line 451 in result
+  File "/usr/src/homeassistant/homeassistant/components/recorder/core.py", line 678 in _wait_startup_or_shutdown
+  File "/usr/src/homeassistant/homeassistant/components/recorder/core.py", line 778 in _run
+  File "/usr/src/homeassistant/homeassistant/components/recorder/core.py", line 690 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007f3e753fbb38 (most recent call first):
+  File "<frozen importlib._bootstrap_external>", line 1218 in get_data
+  File "<frozen importlib._bootstrap_external>", line 1118 in get_code
+  File "<frozen importlib._bootstrap_external>", line 1022 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "/usr/src/homeassistant/homeassistant/components/energy/websocket_api.py", line 26 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1415 in _handle_fromlist
+  File "/usr/src/homeassistant/homeassistant/components/energy/__init__.py", line 11 in <module>
+  File "<frozen importlib._bootstrap>", line 488 in _call_with_frames_removed
+  File "<frozen importlib._bootstrap_external>", line 1026 in exec_module
+  File "<frozen importlib._bootstrap>", line 935 in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1331 in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1360 in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1387 in _gcd_import
+  File "/usr/local/lib/python3.13/importlib/__init__.py", line 88 in import_module
+  File "/usr/src/homeassistant/homeassistant/util/loop.py", line 201 in protected_loop_func
+  File "/usr/src/homeassistant/homeassistant/loader.py", line 1053 in _get_component
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 59 in run
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 93 in _worker
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007f3e754ffb38 (most recent call first):
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 90 in _worker
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007f3e75bffb38 (most recent call first):
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 90 in _worker
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007f3e7714bb38 (most recent call first):
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 90 in _worker
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007f3e77904b38 (most recent call first):
+  File "/usr/local/lib/python3.13/logging/handlers.py", line 1539 in dequeue
+  File "/usr/local/lib/python3.13/logging/handlers.py", line 1590 in _monitor
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007f3e77a2cb38 (most recent call first):
+  File "/usr/local/lib/python3.13/concurrent/futures/thread.py", line 90 in _worker
+  File "/usr/local/lib/python3.13/threading.py", line 992 in run
+  File "/usr/local/lib/python3.13/threading.py", line 1041 in _bootstrap_inner
+  File "/usr/local/lib/python3.13/threading.py", line 1012 in _bootstrap
+
+Thread 0x00007f3e825c2b28 (most recent call first):
+  File "/usr/local/lib/python3.13/selectors.py", line 452 in select
+  File "/usr/local/lib/python3.13/asyncio/base_events.py", line 1996 in _run_once
+  File "/usr/local/lib/python3.13/asyncio/base_events.py", line 677 in run_forever
+  File "/usr/local/lib/python3.13/asyncio/base_events.py", line 706 in run_until_complete
+  File "/usr/src/homeassistant/homeassistant/runner.py", line 154 in run
+  File "/usr/src/homeassistant/homeassistant/__main__.py", line 213 in main
+  File "/usr/src/homeassistant/homeassistant/__main__.py", line 227 in <module>
+  File "<frozen runpy>", line 88 in _run_code
+  File "<frozen runpy>", line 198 in _run_module_as_main
+
+Extension modules: _cffi_backend, ciso8601, yaml._yaml, propcache._helpers_c, ulid_transform._ulid_impl, multidict._multidict, yarl._quoting_c, markupsafe._speedups, _brotli, aiohttp._http_writer, aiohttp._http_parser, aiohttp._websocket.mask, aiohttp._websocket.reader_c, frozenlist._frozenlist, annotatedyaml.reference, annotatedyaml.constructors, _awscrt, charset_normalizer.md, simplejson._speedups, requests.packages.charset_normalizer.md, requests.packages.chardet.md, dbus_fast.signature, dbus_fast._private.marshaller, dbus_fast.message, dbus_fast.service, dbus_fast._private.address, dbus_fast.unpack, dbus_fast.message_bus, dbus_fast._private.unmarshaller, dbus_fast.aio.message_reader, habluetooth.models, habluetooth.advertisement_tracker, bluetooth_data_tools.gap, bluetooth_data_tools._time_impl, bluetooth_data_tools._utils_impl, bluetooth_data_tools.utils, habluetooth.manager, habluetooth.base_scanner, habluetooth.scanner, zeroconf._utils.time, zeroconf._dns, zeroconf._protocol.outgoing, zeroconf._protocol.incoming, zeroconf._cache, zeroconf._record_update, zeroconf._history, zeroconf._updates, zeroconf._services, zeroconf._utils.ipaddress, zeroconf._services.info, zeroconf._services.registry, zeroconf._handlers.answers, zeroconf._handlers.multicast_outgoing_queue, zeroconf._handlers.query_handler, zeroconf._handlers.record_manager, zeroconf._listener, zeroconf._services.browser, sqlalchemy.cyextension.collections, sqlalchemy.cyextension.immutabledict, sqlalchemy.cyextension.processors, sqlalchemy.cyextension.resultproxy, sqlalchemy.cyextension.util, greenlet._greenlet, fnv_hash_fast._fnv_impl, PIL._imaging, isal.igzip_lib, isal.isal_zlib, cached_ipaddress.ipaddress, audioop._audioop, numpy._core._multiarray_umath, numpy.linalg._umath_linalg, av._core, av.logging, av.bytesource, av.buffer, av.audio.format, av.enum, av.error, av.utils, av.option, av.descriptor, av.container.pyio, av.dictionary, av.format, av.stream, av.container.streams, av.sidedata.motionvectors, av.sidedata.sidedata, av.opaque, av.packet, av.container.input, av.container.output, av.container.core, av.codec.context, av.video.format, av.video.reformatter, av.plane, av.video.plane, av.video.frame, av.video.stream, av.codec.codec, av.frame, av.audio.layout, av.audio.plane, av.audio.frame, av.audio.stream, av.filter.pad, av.filter.link, av.filter.context, av.filter.graph, av.filter.filter, av.audio.resampler, av.audio.codeccontext, av.audio.fifo, av.bitstream, av.video.codeccontext, psycopg2._psycopg, psutil._psutil_linux, psutil._psutil_posix (total: 119)

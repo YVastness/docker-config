@@ -1,0 +1,16 @@
+services:
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    network_mode: host
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=Asia/SHANGHAI
+      - WEBUI_PORT=10089
+      - TORRENTING_PORT=10090
+    volumes:
+      - /docker/qbittorrent/config:/config
+      - /mnt/sda2:/downloads #optional
+    restart: unless-stopped
+

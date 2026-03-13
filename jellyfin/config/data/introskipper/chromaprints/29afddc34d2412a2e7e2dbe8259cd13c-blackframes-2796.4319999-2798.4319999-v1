@@ -1,0 +1,51 @@
+[png @ 0x558ab9c70000] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x558ab9c6a000] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/TV Shows/长安的荔枝 (2025)/Season 1/长安的荔枝 - S01E35 - 第35集.mp4':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-21T01:54:53.000000Z
+  Duration: 00:47:06.43, start: 0.000000, bitrate: 4318 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1606 [SAR 1:1 DAR 1920:803], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 3925411
+        DURATION        : 00:47:06.250000000
+        NUMBER_OF_FRAMES: 169575
+        NUMBER_OF_BYTES : 1386774329
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-21 01:54:53
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        title           : DDP5.1
+        BPS             : 384000
+        DURATION        : 00:47:06.432000000
+        NUMBER_OF_FRAMES: 88326
+        NUMBER_OF_BYTES : 135668736
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-21 01:54:53
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1606 [SAR 1:1 DAR 1920:803], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 3925411
+        DURATION        : 00:47:06.250000000
+        NUMBER_OF_FRAMES: 169575
+        NUMBER_OF_BYTES : 1386774329
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-21 01:54:53
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.7 q=-0.0 size=N/A time=00:00:00.01 bitrate=N/A speed=0.0111x    frame=   47 fps= 23 q=-0.0 size=N/A time=00:00:00.78 bitrate=N/A speed=0.391x    frame=   86 fps= 34 q=-0.0 size=N/A time=00:00:01.43 bitrate=N/A speed=0.573x    [out#0/null @ 0x558ab9cb2940] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 41 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.69x    

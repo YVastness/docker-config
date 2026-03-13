@@ -1,0 +1,71 @@
+Input #0, matroska,webm, from '/media/Animes/诛仙 (2022)/Season 2/诛仙 - S02E01 - 第1集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-17T18:38:17.000000Z
+    COMMENT         : 【https://link3.cc/panclub】
+    MOVIE/COMMENT   : 【https://link3.cc/panclub】
+    MOVIE/ENCODER   : Lavf58.76.100
+  Duration: 00:25:34.24, start: 0.000000, bitrate: 7686 kb/s
+  Stream #0:0(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:25:34.240000000
+        NUMBER_OF_FRAMES: 47945
+        NUMBER_OF_BYTES : 49095680
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 18:38:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        BPS             : 253371
+        DURATION        : 00:25:34.144000000
+        NUMBER_OF_FRAMES: 71913
+        NUMBER_OF_BYTES : 48588502
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 18:38:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: hevc (Main), yuv420p(tv, bt709), 1920x804 [SAR 1:1 DAR 160:67], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        title           : 【https://link3.cc/panclub】
+        BPS             : 7081143
+        DURATION        : 00:25:34.084000000
+        NUMBER_OF_FRAMES: 36818
+        NUMBER_OF_BYTES : 1357883629
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 18:38:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 93384
+        DURATION        : 00:25:34.144000000
+        NUMBER_OF_FRAMES: 71913
+        NUMBER_OF_BYTES : 17908240
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 18:38:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Video: png, rgba(pc, gbr/bt709/iec61966-2-1), 200x205, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : cover.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:2 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/COMMENT   : 【https://link3.cc/panclub】
+    MOVIE/ENCODER   : Lavf58.76.100
+    COMMENT         : 【https://link3.cc/panclub】
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x804 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        title           : 【https://link3.cc/panclub】
+        BPS             : 7081143
+        DURATION        : 00:25:34.084000000
+        NUMBER_OF_FRAMES: 36818
+        NUMBER_OF_BYTES : 1357883629
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-17 18:38:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   22 fps= 15 q=-0.0 size=N/A time=00:00:00.91 bitrate=N/A speed=0.61x    [out#0/null @ 0x55ed474f22c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps= 15 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.633x    

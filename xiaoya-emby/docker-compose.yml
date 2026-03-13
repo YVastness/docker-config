@@ -1,0 +1,13 @@
+version: '3'
+services:
+  xiaoya:
+    image: monlor/xiaoya:latest
+    container_name: xiaoya
+    restart: unless-stopped
+    ports:
+      - "5678:80"
+      - "2345:2345"
+      - "2346:2346"
+    volumes:
+      - /mnt/sda2/Videos:/opt/media
+      - /docker/xiaoya-emby/config:/etc/xiaoya

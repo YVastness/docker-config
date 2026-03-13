@@ -1,0 +1,53 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x561a312de080] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/云深不知梦 (2025)/Season 1/云深不知梦 - S01E05 - 第5集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.16.100
+    comment         : 【https://link3.cc/panclub】
+  Duration: 00:22:04.49, start: 0.000000, bitrate: 29957 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1640 [SAR 1:1 DAR 96:41], 29687 kb/s, 60 fps, 60 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : 【https://link3.cc/panclub】
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2]: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: png, rgba(pc, gbr/bt709/iec61966-2-1), 200x205, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f0b18001f80] config in time_base: 1/90000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7f0b18001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f0b18001f80] n:   0 pts: 103410 pts_time:1.149   duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1640 i:P iskey:1 type:I checksum:89C919C5 plane_checksum:[4E5E20A6 941A226C 3B37D6A4] mean:[152 514 511] stdev:[22.1 5.4 1.0]
+[Parsed_showinfo_0 @ 0x7f0b18001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1310 0.0460) wp(0.3127, 0.3290) min_luminance=0.050000, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f0b18001f80]   side data - Content light level metadata: MaxCLL=0, MaxFALL=0
+[Parsed_showinfo_0 @ 0x7f0b18001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    comment         : 【https://link3.cc/panclub】
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1640 [SAR 1:1 DAR 96:41], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        handler_name    : 【https://link3.cc/panclub】
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f0b18001f80] n:   1 pts: 412410 pts_time:4.582333 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1640 i:P iskey:1 type:I checksum:08DFF5AC plane_checksum:[FD517F3F 5259CF81 D6D4A6DD] mean:[446 520 511] stdev:[61.6 16.3 3.5]
+[Parsed_showinfo_0 @ 0x7f0b18001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1310 0.0460) wp(0.3127, 0.3290) min_luminance=0.050000, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f0b18001f80]   side data - Content light level metadata: MaxCLL=0, MaxFALL=0
+[Parsed_showinfo_0 @ 0x7f0b18001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:04.60 bitrate=N/A speed= 9.2x    [Parsed_showinfo_0 @ 0x7f0b18001f80] n:   2 pts: 638910 pts_time:7.099   duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1640 i:P iskey:1 type:I checksum:2BC26912 plane_checksum:[3605E62A DCA7FBB3 C72D8717] mean:[357 531 500] stdev:[116.2 11.8 5.7]
+[Parsed_showinfo_0 @ 0x7f0b18001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1310 0.0460) wp(0.3127, 0.3290) min_luminance=0.050000, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f0b18001f80]   side data - Content light level metadata: MaxCLL=0, MaxFALL=0
+[Parsed_showinfo_0 @ 0x7f0b18001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7f0b18001f80] n:   3 pts: 766410 pts_time:8.515667 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1640 i:P iskey:1 type:I checksum:82108779 plane_checksum:[F373C686 B1F2DC26 9025E4AF] mean:[643 510 512] stdev:[32.6 0.9 0.4]
+[Parsed_showinfo_0 @ 0x7f0b18001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1310 0.0460) wp(0.3127, 0.3290) min_luminance=0.050000, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f0b18001f80]   side data - Content light level metadata: MaxCLL=0, MaxFALL=0
+[Parsed_showinfo_0 @ 0x7f0b18001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[out#0/null @ 0x561a31313ac0] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:04.60 bitrate=N/A speed=7.78x    

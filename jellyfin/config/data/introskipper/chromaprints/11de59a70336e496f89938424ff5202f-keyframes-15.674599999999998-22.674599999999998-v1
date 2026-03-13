@@ -1,0 +1,37 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/沧元图 (2023)/Season 1/沧元图 - S01E38 - 第38集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:21:15.29, start: 0.000000, bitrate: 21189 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1776 [SAR 1:1 DAR 80:37], 20926 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7ff000001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7ff000001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7ff000001f80] n:   0 pts: 389286 pts_time:4.3254  duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:18A612FD plane_checksum:[E7AC8141 2DAC9F93 748FF20B] mean:[71 516 512] stdev:[71.8 0.1 0.1]
+[Parsed_showinfo_0 @ 0x7ff000001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1776 [SAR 1:1 DAR 80:37], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.5 q=-0.0 size=N/A time=00:00:04.36 bitrate=N/A speed=2.18x    frame=    1 fps=0.4 q=-0.0 size=N/A time=00:00:04.36 bitrate=N/A speed=1.74x    [Parsed_showinfo_0 @ 0x7ff000001f80] n:   1 pts:1289286 pts_time:14.3254 duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:64AD71E8 plane_checksum:[1E442FFD FDFA0A72 62683779] mean:[371 541 571] stdev:[239.9 22.3 57.0]
+[Parsed_showinfo_0 @ 0x7ff000001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x5651e00a8ac0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.3 q=-0.0 Lsize=N/A time=00:00:04.36 bitrate=N/A speed=1.44x    

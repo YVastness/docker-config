@@ -1,0 +1,92 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Girls/JAV_output/桃乃木香奈/IDBD-977/IDBD-977.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.16.100
+  Duration: 11:45:48.90, start: 0.000000, bitrate: 6003 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 5737 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:0 pblack:99 pts:1467 t:0.016300 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 29.97 fps, 29.97 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:1 pblack:99 pts:4470 t:0.049667 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:2 pblack:99 pts:7473 t:0.083033 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:3 pblack:99 pts:10476 t:0.116400 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:4 pblack:99 pts:13479 t:0.149767 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:5 pblack:99 pts:16482 t:0.183133 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:6 pblack:99 pts:19485 t:0.216500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:7 pblack:99 pts:22488 t:0.249867 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:8 pblack:99 pts:25491 t:0.283233 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:9 pblack:99 pts:28494 t:0.316600 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:10 pblack:99 pts:31497 t:0.349967 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:11 pblack:99 pts:34500 t:0.383333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:12 pblack:99 pts:37503 t:0.416700 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:13 pblack:99 pts:40506 t:0.450067 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:14 pblack:99 pts:43509 t:0.483433 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:15 pblack:99 pts:46512 t:0.516800 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:16 pblack:99 pts:49515 t:0.550167 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:17 pblack:99 pts:52518 t:0.583533 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:18 pblack:99 pts:55521 t:0.616900 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:19 pblack:99 pts:58524 t:0.650267 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:20 pblack:99 pts:61527 t:0.683633 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:21 pblack:99 pts:64530 t:0.717000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:22 pblack:99 pts:67533 t:0.750367 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:23 pblack:99 pts:70536 t:0.783733 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:24 pblack:99 pts:73539 t:0.817100 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:25 pblack:99 pts:76542 t:0.850467 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:26 pblack:99 pts:79545 t:0.883833 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:27 pblack:99 pts:82548 t:0.917200 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:28 pblack:99 pts:85551 t:0.950567 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:29 pblack:99 pts:88554 t:0.983933 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:30 pblack:99 pts:91557 t:1.017300 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:31 pblack:99 pts:94560 t:1.050667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:32 pblack:99 pts:97563 t:1.084033 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:33 pblack:99 pts:100566 t:1.117400 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:34 pblack:99 pts:103569 t:1.150767 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:35 pblack:99 pts:106572 t:1.184133 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:36 pblack:99 pts:109575 t:1.217500 type:I last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:37 pblack:99 pts:112578 t:1.250867 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:38 pblack:99 pts:115581 t:1.284233 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:39 pblack:99 pts:118584 t:1.317600 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:40 pblack:99 pts:121587 t:1.350967 type:P last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:41 pblack:99 pts:124590 t:1.384333 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:42 pblack:99 pts:127593 t:1.417700 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:43 pblack:99 pts:130596 t:1.451067 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:44 pblack:99 pts:133599 t:1.484433 type:P last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:45 pblack:99 pts:136602 t:1.517800 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:46 pblack:99 pts:139605 t:1.551167 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:47 pblack:99 pts:142608 t:1.584533 type:P last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:48 pblack:99 pts:145611 t:1.617900 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:49 pblack:99 pts:148614 t:1.651267 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:50 pblack:99 pts:151617 t:1.684633 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:51 pblack:99 pts:154620 t:1.718000 type:P last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:52 pblack:99 pts:157623 t:1.751367 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:53 pblack:99 pts:160626 t:1.784733 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:54 pblack:98 pts:163629 t:1.818100 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:55 pblack:98 pts:166632 t:1.851467 type:P last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:56 pblack:98 pts:169635 t:1.884833 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:57 pblack:98 pts:172638 t:1.918200 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:58 pblack:98 pts:175641 t:1.951567 type:B last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:59 pblack:98 pts:178644 t:1.984933 type:P last_keyframe:36
+[Parsed_blackframe_0 @ 0x7f6358002340] frame:60 pblack:98 pts:181647 t:2.018300 type:B last_keyframe:36
+[out#0/null @ 0x55efe17810c0] video:26KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   60 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=9.89x    

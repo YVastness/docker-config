@@ -1,6 +1,7 @@
-#Mon Jul 14 02:47:28 UTC 2025
-mainWindow.bounds=0,0,1920,824
-mainWindowMaximized=true
+#Fri Jan 09 11:10:11 UTC 2026
+WhatsNewDialog.bounds=125,68,800,600
+mainWindow.bounds=0,8,1050,720
+mainWindowMaximized=false
 movie.mediainformation.table.mediaFilesTable.hiddenColumns=title
 movie.moviecast.actorTable.hiddenColumns=
 movie.moviecast.producerTable.hiddenColumns=
@@ -19,12 +20,6 @@ movieset.moviemediainformation.table.mediaFilesTable.hiddenColumns=title
 movieset.movietrailer.table.hiddenColumns=
 movieset.movietrailer.table.sortState=
 moviesets.movieset.mediaFilesTable.hiddenColumns=title
-tvShowChooser.bounds=499,105,914,611
-tvShowChooser.splitPane.dividerLocation=297
-tvShowChooserEpisodeList.bounds=495,117,914,583
-tvShowEditor.bounds=438,0,1035,851
-tvShowUpdateMetadata.bounds=516,213,880,394
-tvshowchooser.searchResults.hiddenColumns=
 tvshows.episode.actorTable.hiddenColumns=
 tvshows.episode.mediaFilesTable.hiddenColumns=title
 tvshows.seaon.episodeTable.hiddenColumns=

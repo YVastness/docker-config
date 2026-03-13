@@ -1,0 +1,75 @@
+Input #0, matroska,webm, from '/media/TV Shows/长安的荔枝 (2025)/Season 1/长安的荔枝 - S01E27 - 第27集.mp4':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-19T12:04:30.000000Z
+    MOVIE/ENCODER   : Lavf60.21.101
+  Duration: 00:46:58.66, start: 0.000000, bitrate: 4560 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1606 [SAR 1:1 DAR 1920:803], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 3786761
+        DURATION        : 00:46:58.450000000
+        NUMBER_OF_FRAMES: 169107
+        NUMBER_OF_BYTES : 1334099902
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-19 12:04:30
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        title           : DDP5.1
+        BPS             : 384000
+        DURATION        : 00:46:58.656000000
+        NUMBER_OF_FRAMES: 88083
+        NUMBER_OF_BYTES : 135295488
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-19 12:04:30
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 256000
+        DURATION        : 00:46:58.624000000
+        NUMBER_OF_FRAMES: 88082
+        NUMBER_OF_BYTES : 90195968
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-19 12:04:30
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125346
+        DURATION        : 00:46:58.496000000
+        NUMBER_OF_FRAMES: 132117
+        NUMBER_OF_BYTES : 44160945
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-19 12:04:30
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 5120x2880 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : cover.jpg
+        mimetype        : image/jpeg
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？
+    MOVIE/ENCODER   : Lavf60.21.101
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        title           : DDP5.1
+        BPS             : 384000
+        DURATION        : 00:46:58.656000000
+        NUMBER_OF_FRAMES: 88083
+        NUMBER_OF_BYTES : 135295488
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-19 12:04:30
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7fda20002440] silence_start: 0.659458
+[silencedetect @ 0x7fda20002440] silence_end: 1.216312 | silence_duration: 0.556854
+[silencedetect @ 0x7fda20002440] silence_start: 5.39325
+[silencedetect @ 0x7fda20002440] silence_end: 6.220542 | silence_duration: 0.827292
+[out#0/null @ 0x555afa361b00] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 292x    

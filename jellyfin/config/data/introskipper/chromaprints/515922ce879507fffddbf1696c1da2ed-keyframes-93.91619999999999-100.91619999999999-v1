@@ -1,0 +1,53 @@
+Input #0, matroska,webm, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1144 - 第1144集.mkv':
+  Metadata:
+    DATE            : 2025-09-22T00:02:11.6192071+08:00
+    MAJOR_BRAND     : mp42
+    MINOR_VERSION   : 512
+    COMPATIBLE_BRANDS: mp42dby1iso2mp41
+    ENCODER         : Lavf60.16.100
+  Duration: 00:23:35.86, start: 0.000000, bitrate: 3788 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv), 3840x2160, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : VideoHandler
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:23:35.833000000
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        VENDOR_ID       : [0][0][0][0]
+        HANDLER_NAME    : SoundHandler
+        DURATION        : 00:23:35.840000000
+  Stream #0:2(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        VENDOR_ID       : [0][0][0][0]
+        HANDLER_NAME    : SoundHandler
+        DURATION        : 00:23:35.860000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fb36c001f80] config in time_base: 1/1000, frame_rate: 2997/125
+[Parsed_showinfo_0 @ 0x7fb36c001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fb36c001f80] n:   0 pts:   1429 pts_time:1.429   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:5CDDC33C plane_checksum:[55E47E93 CCD4D1E8 95A872B2] mean:[65 144 113] stdev:[51.2 9.5 14.1]
+[Parsed_showinfo_0 @ 0x7fb36c001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    DATE            : 2025-09-22T00:02:11.6192071+08:00
+    MAJOR_BRAND     : mp42
+    MINOR_VERSION   : 512
+    COMPATIBLE_BRANDS: mp42dby1iso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160, q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        HANDLER_NAME    : VideoHandler
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:23:35.833000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fb36c001f80] n:   1 pts:   4599 pts_time:4.599   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:0617FDD4 plane_checksum:[997EEEFC B78712BF 617BFC0A] mean:[31 139 122] stdev:[13.0 6.4 5.6]
+[Parsed_showinfo_0 @ 0x7fb36c001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fb36c001f80] n:   2 pts:   6726 pts_time:6.726   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:193A69A4 plane_checksum:[C176F52A 74C8F2D9 7B218183] mean:[104 128 128] stdev:[47.8 6.5 5.6]
+[Parsed_showinfo_0 @ 0x7fb36c001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fb36c001f80] n:   3 pts:   9938 pts_time:9.938   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:5A2BD384 plane_checksum:[FEE59382 0D37ADCC B43B9227] mean:[75 130 127] stdev:[54.6 1.7 2.7]
+[Parsed_showinfo_0 @ 0x7fb36c001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x5603a03f4440] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.75 bitrate=N/A speed=13.8x    

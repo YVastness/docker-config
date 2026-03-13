@@ -1,0 +1,43 @@
+Input #0, matroska,webm, from '/media/Animes/完美世界 (2021)/Season 1/完美世界 - S01E223 - 第223集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-10T11:51:18.000000Z
+    MOVIE/ENCODER   : Lavf59.34.101
+  Duration: 00:20:46.66, start: 0.000000, bitrate: 5879 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1636 [SAR 1:1 DAR 960:409], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5751741
+        DURATION        : 00:20:46.600000000
+        NUMBER_OF_FRAMES: 31165
+        NUMBER_OF_BYTES : 896265077
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-10 11:51:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125342
+        DURATION        : 00:20:46.656000000
+        NUMBER_OF_FRAMES: 58437
+        NUMBER_OF_BYTES : 19532364
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-10 11:51:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf59.34.101
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1636 [SAR 1:1 DAR 960:409], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 5751741
+        DURATION        : 00:20:46.600000000
+        NUMBER_OF_FRAMES: 31165
+        NUMBER_OF_BYTES : 896265077
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-10 11:51:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=1.0 q=-0.0 size=N/A time=00:00:00.08 bitrate=N/A speed=0.0795x    frame=   12 fps=7.9 q=-0.0 size=N/A time=00:00:00.52 bitrate=N/A speed=0.344x    frame=   29 fps= 14 q=-0.0 size=N/A time=00:00:01.20 bitrate=N/A speed=0.596x    frame=   43 fps= 17 q=-0.0 size=N/A time=00:00:01.76 bitrate=N/A speed= 0.7x    [out#0/null @ 0x55edb5bffd80] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 18 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.715x    

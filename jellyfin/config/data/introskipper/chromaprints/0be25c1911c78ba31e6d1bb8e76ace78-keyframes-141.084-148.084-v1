@@ -1,0 +1,45 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/隐秘的角落 (2020)/Season 1/隐秘的角落 - S01E07 - 第7集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:45:53.86, start: 0.000000, bitrate: 5019 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2088 [SAR 1:1 DAR 160:87], 4887 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 124 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fcff4001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7fcff4001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fcff4001f80] n:   0 pts: 204840 pts_time:2.276   duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2088 i:P iskey:1 type:I checksum:B903BA6C plane_checksum:[01A95F79 D641FF90 C1735B54] mean:[84 508 510] stdev:[20.4 0.1 1.1]
+[Parsed_showinfo_0 @ 0x7fcff4001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000000, max_luminance=0.000000
+[Parsed_showinfo_0 @ 0x7fcff4001f80]   side data - Content light level metadata: MaxCLL=0, MaxFALL=0
+[Parsed_showinfo_0 @ 0x7fcff4001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x2088 [SAR 1:1 DAR 160:87], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fcff4001f80] n:   1 pts: 665640 pts_time:7.396   duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2088 i:P iskey:1 type:I checksum:8DBDE593 plane_checksum:[FCFF72A1 CC1C3550 A0D43DA2] mean:[380 521 490] stdev:[93.9 19.9 18.3]
+[Parsed_showinfo_0 @ 0x7fcff4001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000000, max_luminance=0.000000
+[Parsed_showinfo_0 @ 0x7fcff4001f80]   side data - Content light level metadata: MaxCLL=0, MaxFALL=0
+[Parsed_showinfo_0 @ 0x7fcff4001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7fcff4001f80] n:   2 pts:1126440 pts_time:12.516  duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2088 i:P iskey:1 type:I checksum:61040A10 plane_checksum:[3194ACEF 38EC02F3 7EE85A1F] mean:[390 512 500] stdev:[99.9 15.6 15.9]
+[Parsed_showinfo_0 @ 0x7fcff4001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000000, max_luminance=0.000000
+[Parsed_showinfo_0 @ 0x7fcff4001f80]   side data - Content light level metadata: MaxCLL=0, MaxFALL=0
+[Parsed_showinfo_0 @ 0x7fcff4001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[out#0/null @ 0x560147a5df40] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.32 bitrate=N/A speed=6.71x    

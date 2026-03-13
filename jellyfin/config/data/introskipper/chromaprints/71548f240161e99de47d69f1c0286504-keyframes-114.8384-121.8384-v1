@@ -1,0 +1,49 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神国之上 (2025)/Season 1/神国之上 - S01E07 - 第7集.mkv':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: mp42dby1iso2mp41
+    date            : 2025-07-12T09:49:07.7378429+08:00
+    encoder         : Lavf62.0.102
+  Duration: 00:23:16.61, start: 0.000000, bitrate: 11925 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x1608, 11631 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](und): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f6650001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f6650001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f6650001f80] n:   0 pts: 187344 pts_time:2.0816  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:0/1 s:3840x1608 i:P iskey:1 type:I checksum:797EB4C1 plane_checksum:[DB4C5360 274CB0A9 274CB0A9] mean:[18 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f6650001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: mp42dby1iso2mp41
+    date            : 2025-07-12T09:49:07.7378429+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x1608, q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f6650001f80] n:   1 pts: 604944 pts_time:6.7216  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:0/1 s:3840x1608 i:P iskey:1 type:I checksum:6BECDF81 plane_checksum:[67767955 03A2FB4B 35CF6AD2] mean:[19 128 128] stdev:[1.5 0.5 0.5]
+[Parsed_showinfo_0 @ 0x7f6650001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:06.76 bitrate=N/A speed=13.5x    [Parsed_showinfo_0 @ 0x7f6650001f80] n:   2 pts: 637344 pts_time:7.0816  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:0/1 s:3840x1608 i:P iskey:1 type:I checksum:9A92CEE4 plane_checksum:[0B9E3121 8E7AF302 2CC9AAB2] mean:[29 130 126] stdev:[16.5 3.3 2.2]
+[Parsed_showinfo_0 @ 0x7f6650001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f6650001f80] n:   3 pts: 802944 pts_time:8.9216  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:0/1 s:3840x1608 i:P iskey:1 type:I checksum:06EA13D2 plane_checksum:[502BF873 10C5460A E183D537] mean:[35 145 129] stdev:[28.1 19.2 6.8]
+[Parsed_showinfo_0 @ 0x7f6650001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55ab792bf740] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.76 bitrate=N/A speed=11.1x    

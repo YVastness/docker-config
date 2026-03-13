@@ -1,0 +1,75 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E172 - 第172集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-08-13T18:42:23.9263254+08:00
+    encoder         : Lavf60.21.101
+  Duration: 00:21:02.49, start: 0.000000, bitrate: 6953 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 6822 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-08-13T18:42:23.9263254+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:8 pblack:73 pts:29400 t:0.326667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:9 pblack:73 pts:32999 t:0.366656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:10 pblack:74 pts:36600 t:0.406667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:11 pblack:73 pts:40200 t:0.446667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:12 pblack:68 pts:43800 t:0.486667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:13 pblack:70 pts:47400 t:0.526667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:14 pblack:66 pts:51000 t:0.566667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:15 pblack:63 pts:54600 t:0.606667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:16 pblack:62 pts:58200 t:0.646667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:17 pblack:63 pts:61800 t:0.686667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:18 pblack:63 pts:65400 t:0.726667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:19 pblack:69 pts:69000 t:0.766667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:20 pblack:71 pts:72599 t:0.806656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:21 pblack:75 pts:76200 t:0.846667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:22 pblack:75 pts:79800 t:0.886667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:23 pblack:76 pts:83400 t:0.926667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:24 pblack:78 pts:87000 t:0.966667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:25 pblack:78 pts:90600 t:1.006667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:26 pblack:78 pts:94200 t:1.046667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:27 pblack:75 pts:97800 t:1.086667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:28 pblack:71 pts:101400 t:1.126667 type:B last_keyframe:0
+frame=   29 fps= 19 q=-0.0 size=N/A time=00:00:01.16 bitrate=N/A speed=0.772x    [Parsed_blackframe_0 @ 0x7f1fbc002340] frame:29 pblack:70 pts:104999 t:1.166656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:30 pblack:69 pts:108600 t:1.206667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:31 pblack:68 pts:112200 t:1.246667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:32 pblack:67 pts:115800 t:1.286667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:33 pblack:67 pts:119399 t:1.326656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:34 pblack:69 pts:123000 t:1.366667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:35 pblack:69 pts:126600 t:1.406667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:36 pblack:70 pts:130200 t:1.446667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:37 pblack:70 pts:133800 t:1.486667 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:38 pblack:83 pts:137400 t:1.526667 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:39 pblack:82 pts:141000 t:1.566667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:40 pblack:76 pts:144600 t:1.606667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:41 pblack:73 pts:148200 t:1.646667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:42 pblack:74 pts:151800 t:1.686667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:43 pblack:75 pts:155400 t:1.726667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:44 pblack:67 pts:159000 t:1.766667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:47 pblack:59 pts:169800 t:1.886667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:48 pblack:56 pts:173400 t:1.926667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:49 pblack:68 pts:177000 t:1.966667 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:50 pblack:66 pts:180599 t:2.006656 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7f1fbc002340] frame:51 pblack:65 pts:184200 t:2.046667 type:B last_keyframe:38
+[out#0/null @ 0x56086c34c9c0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 27 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed= 1.1x    

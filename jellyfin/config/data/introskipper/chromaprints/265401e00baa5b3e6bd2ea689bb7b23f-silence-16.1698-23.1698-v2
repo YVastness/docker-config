@@ -1,0 +1,43 @@
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E132 - 第132集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-11-06T12:04:38.000000Z
+  Duration: 00:22:45.48, start: 0.000000, bitrate: 5608 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5481415
+        DURATION        : 00:22:45.440000000
+        NUMBER_OF_FRAMES: 34136
+        NUMBER_OF_BYTES : 935568077
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-06 12:04:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125344
+        DURATION        : 00:22:45.482000000
+        NUMBER_OF_FRAMES: 64007
+        NUMBER_OF_BYTES : 21394528
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-06 12:04:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        BPS             : 125344
+        DURATION        : 00:22:45.482000000
+        NUMBER_OF_FRAMES: 64007
+        NUMBER_OF_BYTES : 21394528
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-06 12:04:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7fa7dc002440] silence_start: -0.000333333
+[silencedetect @ 0x7fa7dc002440] silence_end: 7.040667 | silence_duration: 7.041
+[out#0/null @ 0x55ed2eb5a800] video:0KiB audio:1312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=43.6x    

@@ -1,0 +1,41 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/长安二十四计 (2025)/Season 1/长安二十四计 - S01E07 - 第7集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf62.6.101
+    comment         : Anti-Piracy
+  Duration: 00:42:47.78, start: 0.000000, bitrate: 25213 kb/s
+  Stream #0:0[0x1](chi): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 24941 kb/s, 60 fps, 60 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7ff734001f80] config in time_base: 1/90000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7ff734001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7ff734001f80] n:   0 pts: 290812 pts_time:3.231244 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:50CB5825 plane_checksum:[BDE7CE57 C8D769DA 46D51FE5] mean:[465 529 505] stdev:[149.9 21.5 26.4]
+[Parsed_showinfo_0 @ 0x7ff734001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    comment         : Anti-Piracy
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:03.25 bitrate=N/A speed= 6.5x    [Parsed_showinfo_0 @ 0x7ff734001f80] n:   1 pts: 773812 pts_time:8.597911 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:E4CC6161 plane_checksum:[FF5F23DF 82701EC1 82701EC1] mean:[63 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7ff734001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ff734001f80] n:   2 pts: 845812 pts_time:9.397911 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:192439E0 plane_checksum:[8E9BFC4F 82701EC1 82701EC1] mean:[938 512 512] stdev:[31.4 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7ff734001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x556e3b512d80] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.25 bitrate=N/A speed=6.25x    

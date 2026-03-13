@@ -1,0 +1,50 @@
+Input #0, matroska,webm, from '/media/Girls/JAV_output/伊藤舞雪/CAWD-243/CAWD-243-C.mkv':
+  Metadata:
+    encoder         : libebml v1.4.4 + libmatroska v1.7.1
+    creation_time   : 2023-02-11T00:10:50.000000Z
+  Duration: 02:25:18.30, start: 0.000000, bitrate: 6183 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5988727
+        DURATION        : 02:25:18.299000000
+        NUMBER_OF_FRAMES: 261285
+        NUMBER_OF_BYTES : 6526439922
+        _STATISTICS_WRITING_APP: mkvmerge v71.0.0 ('Altitude') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-02-11 00:10:50
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 192002
+        DURATION        : 02:25:18.229000000
+        NUMBER_OF_FRAMES: 408667
+        NUMBER_OF_BYTES : 209240569
+        _STATISTICS_WRITING_APP: mkvmerge v71.0.0 ('Altitude') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-02-11 00:10:50
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(tha): Subtitle: ass (ssa) (default)
+      Metadata:
+        BPS             : 96
+        DURATION        : 02:25:03.520000000
+        NUMBER_OF_FRAMES: 1244
+        NUMBER_OF_BYTES : 105312
+        _STATISTICS_WRITING_APP: mkvmerge v71.0.0 ('Altitude') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-02-11 00:10:50
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 29.97 fps, 29.97 tbn (default)
+      Metadata:
+        BPS             : 5988727
+        DURATION        : 02:25:18.299000000
+        NUMBER_OF_FRAMES: 261285
+        NUMBER_OF_BYTES : 6526439922
+        _STATISTICS_WRITING_APP: mkvmerge v71.0.0 ('Altitude') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-02-11 00:10:50
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   40 fps= 16 q=-0.0 size=N/A time=00:00:01.36 bitrate=N/A speed=0.543x    [out#0/null @ 0x55843188bbc0] video:25KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   59 fps= 22 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.732x    

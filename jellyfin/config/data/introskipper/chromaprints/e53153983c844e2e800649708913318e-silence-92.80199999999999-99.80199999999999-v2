@@ -1,0 +1,41 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/长安的荔枝 (2025)/Season 1/长安的荔枝 - S01E27 - 孤注一掷！李善德冒死拦右相.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.9.107
+  Duration: 00:46:58.66, start: 0.000000, bitrate: 14691 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(pc), 3840x1608 [SAR 1:1 DAR 160:67], 14043 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](chi): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, stereo, fltp, 256 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 pcm_s16le
+      Side data:
+        audio service type: main
+size=N/A time=00:00:01.40 bitrate=N/A speed=2.81x    size=N/A time=00:00:01.53 bitrate=N/A speed=1.53x    size=N/A time=00:00:01.72 bitrate=N/A speed=1.15x    size=N/A time=00:00:01.85 bitrate=N/A speed=0.927x    size=N/A time=00:00:02.11 bitrate=N/A speed=0.844x    size=N/A time=00:00:02.30 bitrate=N/A speed=0.767x    size=N/A time=00:00:02.43 bitrate=N/A speed=0.694x    size=N/A time=00:00:02.78 bitrate=N/A speed=0.695x    size=N/A time=00:00:03.10 bitrate=N/A speed=0.689x    size=N/A time=00:00:03.23 bitrate=N/A speed=0.646x    size=N/A time=00:00:03.32 bitrate=N/A speed=0.605x    size=N/A time=00:00:03.61 bitrate=N/A speed=0.602x    size=N/A time=00:00:03.87 bitrate=N/A speed=0.595x    size=N/A time=00:00:04.22 bitrate=N/A speed=0.603x    size=N/A time=00:00:04.38 bitrate=N/A speed=0.584x    size=N/A time=00:00:04.60 bitrate=N/A speed=0.576x    [out#0/null @ 0x559c7e066c00] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=0.853x    

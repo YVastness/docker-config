@@ -1,0 +1,42 @@
+Input #0, matroska,webm, from '/media/Animes/光阴之外 (2025)/Season 1/光阴之外 - S01E03 - 第3集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:20:28.36, start: 0.000000, bitrate: 31042 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(pc), 3840x1640, SAR 1:1 DAR 96:41, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 30783533
+        DURATION        : 00:20:28.360000000
+        NUMBER_OF_FRAMES: 30709
+        NUMBER_OF_BYTES : 4726657697
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 5, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 0
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : Mandarin
+        BPS             : 255999
+        DURATION        : 00:20:28.359000000
+        NUMBER_OF_FRAMES: 52901
+        NUMBER_OF_BYTES : 39307483
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(pc, progressive), 3840x1640 [SAR 1:1 DAR 96:41], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 30783533
+        DURATION        : 00:20:28.360000000
+        NUMBER_OF_FRAMES: 30709
+        NUMBER_OF_BYTES : 4726657697
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 5, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 0
+frame=    4 fps=0.0 q=-0.0 size=N/A time=00:00:00.16 bitrate=N/A speed=0.32x    [out#0/null @ 0x563477691d40] video:11KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   25 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=1.03x    

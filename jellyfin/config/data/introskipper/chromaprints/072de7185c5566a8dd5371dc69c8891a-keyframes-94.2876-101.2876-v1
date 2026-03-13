@@ -1,0 +1,43 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1132 - 第1132集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:23:35.93, start: 0.000000, bitrate: 10879 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160, 10681 kb/s, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f60b0001f80] config in time_base: 1/16000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f60b0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f60b0001f80] n:   0 pts:  29606 pts_time:1.850375 duration:    667 duration_time:0.0416875 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:AD2ED8FC plane_checksum:[4D0E00D3 0E559B07 F4F03D22] mean:[143 103 113] stdev:[58.6 25.0 18.9]
+[Parsed_showinfo_0 @ 0x7f60b0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f60b0001f80] n:   1 pts:  60294 pts_time:3.768375 duration:    667 duration_time:0.0416875 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:DC38C1F2 plane_checksum:[5AD6DF32 307F2AA8 C17EB809] mean:[146 111 123] stdev:[60.0 24.8 21.0]
+[Parsed_showinfo_0 @ 0x7f60b0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f60b0001f80] n:   2 pts: 101670 pts_time:6.354375 duration:    667 duration_time:0.0416875 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:8813D2D5 plane_checksum:[095A7FAA 917070B7 64A0E265] mean:[98 138 123] stdev:[55.8 5.0 3.1]
+[Parsed_showinfo_0 @ 0x7f60b0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f60b0001f80] n:   3 pts: 132374 pts_time:8.273375 duration:    667 duration_time:0.0416875 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:E2983008 plane_checksum:[70292512 6667A636 B0C664B1] mean:[58 141 124] stdev:[31.3 3.8 1.8]
+[Parsed_showinfo_0 @ 0x7f60b0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f60b0001f80] n:   4 pts: 175078 pts_time:10.942375 duration:    667 duration_time:0.0416875 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:1D61F99B plane_checksum:[A3B02437 3546230F DDB3B255] mean:[61 142 123] stdev:[23.0 4.0 1.9]
+[Parsed_showinfo_0 @ 0x7f60b0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55eab03b4740] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.38 bitrate=N/A speed=6.87x    

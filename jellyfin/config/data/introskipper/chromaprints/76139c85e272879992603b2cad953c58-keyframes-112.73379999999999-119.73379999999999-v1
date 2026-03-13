@@ -1,0 +1,39 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/百炼成神 (2022)/Season 1/百炼成神 - S01E24 - 第24集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2023-11-22T08:17:40.8967817+08:00
+    encoder         : Lavf60.3.100
+  Duration: 00:16:05.21, start: 0.000000, bitrate: 20014 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 19752 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f9ef0001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f9ef0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f9ef0001f80] n:   0 pts: 326358 pts_time:3.6262  duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:54CA2D01 plane_checksum:[18D433AA 486C7E87 E26A7AC1] mean:[82 507 517] stdev:[37.5 7.1 2.6]
+[Parsed_showinfo_0 @ 0x7f9ef0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2023-11-22T08:17:40.8967817+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.5 q=-0.0 size=N/A time=00:00:03.68 bitrate=N/A speed=1.84x    frame=    1 fps=0.4 q=-0.0 size=N/A time=00:00:03.68 bitrate=N/A speed=1.47x    frame=    1 fps=0.3 q=-0.0 size=N/A time=00:00:03.68 bitrate=N/A speed=1.23x    [Parsed_showinfo_0 @ 0x7f9ef0001f80] n:   1 pts: 988758 pts_time:10.9862 duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:CF6E485F plane_checksum:[4E21EF29 811E8D75 7133CBA3] mean:[359 498 459] stdev:[103.8 35.5 66.4]
+[Parsed_showinfo_0 @ 0x7f9ef0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55c02800b8c0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.3 q=-0.0 Lsize=N/A time=00:00:03.68 bitrate=N/A speed=1.07x    

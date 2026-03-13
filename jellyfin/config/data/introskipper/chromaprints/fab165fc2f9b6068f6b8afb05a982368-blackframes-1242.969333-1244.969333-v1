@@ -1,0 +1,94 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b7bd88c000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/玄界之门 (2025)/Season 1/玄界之门 - S01E01 - 第1集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2025-11-26T02:00:00.000000Z
+    title           : 1 石猴觉醒
+    album           : 玄界之门
+    encoder         : Lavf60.16.100
+    comment         : https://www.bilibili.com/video/BV1krUDBTE6D/
+    description     : 在武者为尊的世界，石牧的命运似乎注定要与众不同。作为世家养子，他被迫踏上寻找真相和自我救赎的武者之路。从丰城四馆较技到宗门之争，利益牵扯，强敌环伺，每一次挑战都让石牧更坚
+  Duration: 00:21:04.47, start: 0.000000, bitrate: 10681 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 10476 kb/s, 24 fps, 24 tbr, 16k tbn (default)
+      Metadata:
+        creation_time   : 2025-11-26T02:00:00.000000Z
+        handler_name    : Bento4 Video Handler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 185 kb/s (default)
+      Metadata:
+        creation_time   : 2025-11-26T02:00:00.000000Z
+        handler_name    : Bento4 Sound Handler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 1134x1512, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:0 pblack:57 pts:491 t:0.030687 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    description     : 在武者为尊的世界，石牧的命运似乎注定要与众不同。作为世家养子，他被迫踏上寻找真相和自我救赎的武者之路。从丰城四馆较技到宗门之争，利益牵扯，强敌环伺，每一次挑战都让石牧更坚
+    title           : 1 石猴觉醒
+    album           : 玄界之门
+    comment         : https://www.bilibili.com/video/BV1krUDBTE6D/
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        creation_time   : 2025-11-26T02:00:00.000000Z
+        handler_name    : Bento4 Video Handler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:1 pblack:57 pts:1163 t:0.072688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:2 pblack:57 pts:1819 t:0.113687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:3 pblack:57 pts:2491 t:0.155688 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:4 pblack:57 pts:3163 t:0.197688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:5 pblack:57 pts:3819 t:0.238687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:6 pblack:57 pts:4491 t:0.280687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:7 pblack:57 pts:5163 t:0.322688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:8 pblack:57 pts:5819 t:0.363687 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:9 pblack:57 pts:6491 t:0.405688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:10 pblack:57 pts:7163 t:0.447688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:11 pblack:57 pts:7819 t:0.488687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:12 pblack:57 pts:8491 t:0.530687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:13 pblack:57 pts:9163 t:0.572688 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:14 pblack:57 pts:9819 t:0.613688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:15 pblack:58 pts:10491 t:0.655687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:16 pblack:58 pts:11163 t:0.697688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:17 pblack:57 pts:11819 t:0.738688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:18 pblack:58 pts:12491 t:0.780687 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:19 pblack:58 pts:13163 t:0.822688 type:B last_keyframe:0
+frame=   20 fps=0.0 q=-0.0 size=N/A time=00:00:00.87 bitrate=N/A speed=1.75x    [Parsed_blackframe_0 @ 0x7f0a2c002340] frame:20 pblack:58 pts:13819 t:0.863688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:21 pblack:58 pts:14491 t:0.905687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:22 pblack:58 pts:15163 t:0.947688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:23 pblack:58 pts:15819 t:0.988688 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:24 pblack:58 pts:16491 t:1.030687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:25 pblack:58 pts:17163 t:1.072688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:26 pblack:58 pts:17819 t:1.113687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:27 pblack:58 pts:18491 t:1.155687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:28 pblack:58 pts:19163 t:1.197688 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:29 pblack:58 pts:19819 t:1.238687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:30 pblack:58 pts:20491 t:1.280687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:31 pblack:58 pts:21163 t:1.322688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:32 pblack:58 pts:21819 t:1.363687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:33 pblack:58 pts:22491 t:1.405687 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:34 pblack:58 pts:23163 t:1.447688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:35 pblack:58 pts:23819 t:1.488687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:36 pblack:58 pts:24491 t:1.530687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:37 pblack:58 pts:25163 t:1.572688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:38 pblack:58 pts:25819 t:1.613687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:39 pblack:58 pts:26491 t:1.655687 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:40 pblack:58 pts:27163 t:1.697688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:41 pblack:58 pts:27819 t:1.738687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:42 pblack:58 pts:28491 t:1.780687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:43 pblack:58 pts:29163 t:1.822688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:44 pblack:58 pts:29819 t:1.863687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:45 pblack:58 pts:30491 t:1.905687 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:46 pblack:58 pts:31163 t:1.947688 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:47 pblack:58 pts:31819 t:1.988687 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0a2c002340] frame:48 pblack:58 pts:32491 t:2.030687 type:B last_keyframe:0
+[out#0/null @ 0x55b7bd890640] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.62x    

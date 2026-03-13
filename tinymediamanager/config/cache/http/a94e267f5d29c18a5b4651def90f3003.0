@@ -5,22 +5,22 @@ Accept-Encoding: br,gzip
 HTTP/1.1 200 
 17
 content-type: application/json;charset=utf-8
-date: Sat, 12 Jul 2025 07:03:23 GMT
+date: Tue, 15 Jul 2025 09:01:27 GMT
 content-encoding: gzip
 server: openresty
-cache-control: public, max-age=13939
-x-az: us-east-1a
-x-task-id: 09ec38820a2a4bd6a5ff96114573f0ba
-etag: W/"71e7f2f22cdba2729479a6ef121092d0"
+cache-control: public, max-age=13850
+x-az: us-east-1c
+x-task-id: 5023ab3b9c144ee0baa20e04eba6a948
+etag: W/"2475cc03c70195b193943d9b5ee1ac79"
 vary: accept-encoding
 x-cache: Miss from cloudfront
-via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
-x-amz-cf-pop: HIO52-P3
+via: 1.1 02d90bf99fd6253b329a53c82f19e224.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
 alt-svc: h3=":443"; ma=86400
-x-amz-cf-id: hmDCGWqHAc9WOWHPdqNcKK9M5u-hM-XKICc5Xs7gQ-vReo70gMYXOw==
+x-amz-cf-id: 0PDbvf1haQEuErxgKtaIBT3dvwowR2LLlxUhreABrHZq6cQ5sohFmw==
 vary: Origin
-OkHttp-Sent-Millis: 1752303803814
-OkHttp-Received-Millis: 1752303804125
+OkHttp-Sent-Millis: 1752570087488
+OkHttp-Received-Millis: 1752570087759
 
 TLS_AES_128_GCM_SHA256
 0

@@ -1,0 +1,53 @@
+Input #0, matroska,webm, from '/media/TV Shows/唐朝诡事录 (2022)/Season 1/唐朝诡事录 - S01E04 - 第4集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:43:56.88, start: 0.000000, bitrate: 10539 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:43:56.800000000
+  Stream #0:1: Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP 5.1
+        DURATION        : 00:43:56.864000000
+  Stream #0:2: Audio: aac (LC), 44100 Hz, stereo, fltp
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:43:56.881000000
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : 简体中文
+        DURATION        : 00:00:10.010000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f97b0001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f97b0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f97b0001f80] n:   0 pts:   2760 pts_time:2.76    duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:016B7585 plane_checksum:[6827DFDA 7D2FBB45 BFCADA48] mean:[200 487 522] stdev:[97.1 17.0 11.8]
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - Content light level metadata: MaxCLL=418, MaxFALL=24
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0298, average_maxrgb[0]: 0.3465, variance_maxrgb[0]:0.5788, maximum_maxrgb[0]: 0.6359, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f97b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        DURATION        : 00:43:56.800000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f97b0001f80] n:   1 pts:   5160 pts_time:5.16    duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:FCAFCD08 plane_checksum:[A55BDDBA 2EEA5861 803D96DE] mean:[210 485 524] stdev:[95.6 17.0 11.5]
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - Content light level metadata: MaxCLL=418, MaxFALL=24
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0315, average_maxrgb[0]: 0.3516, variance_maxrgb[0]:0.5763, maximum_maxrgb[0]: 0.6398, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f97b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:05.20 bitrate=N/A speed=10.4x    [Parsed_showinfo_0 @ 0x7f97b0001f80] n:   2 pts:   6080 pts_time:6.08    duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:785D3364 plane_checksum:[6C4AF7EF C0849EDA 86B49C7D] mean:[428 472 525] stdev:[140.1 43.2 25.4]
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - Content light level metadata: MaxCLL=506, MaxFALL=93
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0904, average_maxrgb[0]: 0.5814, variance_maxrgb[0]:0.6740, maximum_maxrgb[0]: 0.6984, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f97b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7f97b0001f80] n:   3 pts:  11080 pts_time:11.08   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:33BB47F7 plane_checksum:[6E96CAFB E48C426F 92E93A7E] mean:[560 485 530] stdev:[103.9 42.2 29.7]
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - Content light level metadata: MaxCLL=534, MaxFALL=219
+[Parsed_showinfo_0 @ 0x7f97b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0869, average_maxrgb[0]: 0.6415, variance_maxrgb[0]:0.6630, maximum_maxrgb[0]: 0.7004, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f97b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[out#0/null @ 0x5556f4b22080] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.12 bitrate=N/A speed=7.35x    

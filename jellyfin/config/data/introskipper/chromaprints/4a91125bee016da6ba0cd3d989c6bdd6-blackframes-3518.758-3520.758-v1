@@ -1,0 +1,73 @@
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1020130 (0xf90e2) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 96291301 (0x5bd49e5) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 189547032 (0xb4c4218) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 283017069 (0x10de7f6d) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 376511160 (0x16711ab8) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 563975512 (0x219d9558) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 656942885 (0x27282725) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 750598294 (0x2cbd3896) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1033196575 (0x3d95541f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1126632832 (0x43270d80) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1220177074 (0x48ba6cb2) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1407255999 (0x53e105bf) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1595157362 (0x5f142b72) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1688589436 (0x64a5d47c) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1876005822 (0x6fd193be) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 1970277921 (0x75700e21) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2064120930 (0x7b07fc62) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2250014559 (0x861c7f5f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2437300573 (0x9146415d) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2625648253 (0x9c80367d) invalid as first byte of an EBML number
+[matroska,webm @ 0x5650ae570000] File ended prematurely
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2064120930 (0x7b07fc62) invalid as first byte of an EBML number
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E02 - 第2集.mkv':
+  Metadata:
+    title           : 第02集
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-28T04:48:11.000000Z
+  Duration: 00:59:08.76, start: 0.000000, bitrate: 6552 kb/s
+  Stream #0:0(chi): Video: h264 (High), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: aac (HE-AAC), 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2064120930 (0x7b07fc62) invalid as first byte of an EBML number
+[h264 @ 0x5650ae5b38c0] error while decoding MB 27 18, bytestream -9
+[h264 @ 0x5650ae5b38c0] concealing 6022 DC, 6022 AC, 6022 MV errors in P frame
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2250014559 (0x861c7f5f) invalid as first byte of an EBML number
+[h264 @ 0x5650ae584040] co located POCs unavailable
+[h264 @ 0x5650ae597a40] co located POCs unavailable
+[h264 @ 0x5650ae597a40] error while decoding MB 106 56, bytestream -8
+[h264 @ 0x5650ae597a40] concealing 1383 DC, 1383 AC, 1383 MV errors in B frame
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2437300573 (0x9146415d) invalid as first byte of an EBML number
+[h264 @ 0x5650ae5ca740] co located POCs unavailable
+[h264 @ 0x5650ae64ef00] mmco: unref short failure
+[vist#0:0/h264 @ 0x5650ae5adc00] [dec:h264 @ 0x5650ae576440] corrupt decoded frame
+[h264 @ 0x5650ae584040] co located POCs unavailable
+[h264 @ 0x5650ae597a40] co located POCs unavailable
+[vist#0:0/h264 @ 0x5650ae5adc00] [dec:h264 @ 0x5650ae576440] corrupt decoded frame
+[h264 @ 0x5650ae5ca740] error while decoding MB 20 31, bytestream -8
+[h264 @ 0x5650ae5ca740] concealing 4469 DC, 4469 AC, 4469 MV errors in P frame
+[h264 @ 0x5650ae64ef00] co located POCs unavailable
+[h264 @ 0x5650ae5b38c0] co located POCs unavailable
+[h264 @ 0x5650ae584040] co located POCs unavailable
+[h264 @ 0x5650ae597a40] co located POCs unavailable
+[matroska,webm @ 0x5650ae570000] 0x00 at pos 2625648253 (0x9c80367d) invalid as first byte of an EBML number
+[vist#0:0/h264 @ 0x5650ae5adc00] [dec:h264 @ 0x5650ae576440] corrupt decoded frame
+[h264 @ 0x5650ae5b38c0] mmco: unref short failure
+[h264 @ 0x5650ae584040] error while decoding MB 15 43, bytestream -5
+[h264 @ 0x5650ae584040] concealing 3034 DC, 3034 AC, 3034 MV errors in B frame
+[vist#0:0/h264 @ 0x5650ae5adc00] [dec:h264 @ 0x5650ae576440] corrupt decoded frame
+[matroska,webm @ 0x5650ae570000] File ended prematurely
+[vost#0:0/wrapped_avframe @ 0x5650ae5a6f40] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 第02集
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 1k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x5650ae5a84c0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x5650ae5a84c0] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

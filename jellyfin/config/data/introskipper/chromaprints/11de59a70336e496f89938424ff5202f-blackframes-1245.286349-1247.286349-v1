@@ -1,0 +1,44 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/沧元图 (2023)/Season 1/沧元图 - S01E38 - 第38集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:21:15.29, start: 0.000000, bitrate: 21189 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1776 [SAR 1:1 DAR 80:37], 20926 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1776 [SAR 1:1 DAR 80:37], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    3 fps=0.4 q=-0.0 size=N/A time=00:00:00.16 bitrate=N/A speed=0.0213x    frame=   23 fps=2.9 q=-0.0 size=N/A time=00:00:00.96 bitrate=N/A speed=0.12x    [Parsed_blackframe_0 @ 0x7f7724002340] frame:38 pblack:53 pts:139829 t:1.553656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:39 pblack:59 pts:143429 t:1.593656 type:B last_keyframe:0
+frame=   40 fps=4.7 q=-0.0 size=N/A time=00:00:01.64 bitrate=N/A speed=0.193x    [Parsed_blackframe_0 @ 0x7f7724002340] frame:40 pblack:59 pts:147029 t:1.633656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:41 pblack:58 pts:150629 t:1.673656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:42 pblack:59 pts:154229 t:1.713656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:43 pblack:59 pts:157829 t:1.753656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:44 pblack:59 pts:161429 t:1.793656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:45 pblack:59 pts:165029 t:1.833656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:46 pblack:59 pts:168629 t:1.873656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:47 pblack:59 pts:172229 t:1.913656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:48 pblack:59 pts:175829 t:1.953656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:49 pblack:58 pts:179429 t:1.993656 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7724002340] frame:50 pblack:58 pts:183029 t:2.033656 type:B last_keyframe:0
+[out#0/null @ 0x55f6e3cbcfc0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps=5.6 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.228x    

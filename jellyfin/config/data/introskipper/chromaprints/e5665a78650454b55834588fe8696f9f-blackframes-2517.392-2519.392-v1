@@ -1,0 +1,82 @@
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E07 - 第7集.mkv':
+  Metadata:
+    creation_time   : 2025-11-24T10:08:55.000000Z
+    ENCODER         : Lavf60.16.100
+  Duration: 00:42:27.39, start: 0.000000, bitrate: 15402 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1920 [SAR 1:1 DAR 2:1], 59.94 fps, 59.94 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 14578893
+        DURATION        : 00:42:27.184000000
+        NUMBER_OF_FRAMES: 152831
+        NUMBER_OF_BYTES : 4641890380
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 10:08:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 128 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 128000
+        DURATION        : 00:42:27.392000000
+        NUMBER_OF_FRAMES: 79606
+        NUMBER_OF_BYTES : 40758272
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 10:08:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : AAC5.1
+        BPS             : 250726
+        DURATION        : 00:42:27.328000000
+        NUMBER_OF_FRAMES: 119406
+        NUMBER_OF_BYTES : 79835171
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 10:08:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : AAC2.0
+        BPS             : 314723
+        DURATION        : 00:42:27.328000000
+        NUMBER_OF_FRAMES: 119406
+        NUMBER_OF_BYTES : 100212839
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 10:08:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        BPS             : 125349
+        DURATION        : 00:42:27.241000000
+        NUMBER_OF_FRAMES: 119402
+        NUMBER_OF_BYTES : 39911919
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 10:08:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5: Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : quark4k.com
+        BPS             : 20
+        DURATION        : 00:00:10.000000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 25
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 10:08:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        BPS             : 14578893
+        DURATION        : 00:42:27.184000000
+        NUMBER_OF_FRAMES: 152831
+        NUMBER_OF_BYTES : 4641890380
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 10:08:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   23 fps= 15 q=-0.0 size=N/A time=00:00:00.38 bitrate=N/A speed=0.256x    frame=   52 fps= 26 q=-0.0 size=N/A time=00:00:00.86 bitrate=N/A speed=0.433x    frame=   84 fps= 34 q=-0.0 size=N/A time=00:00:01.40 bitrate=N/A speed=0.559x    frame=  115 fps= 38 q=-0.0 size=N/A time=00:00:01.91 bitrate=N/A speed=0.638x    [out#0/null @ 0x560aec6b65c0] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 39 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.648x    

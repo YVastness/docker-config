@@ -1,0 +1,33 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E98 - 第98集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-07-20T18:45:21.4237273+08:00
+    encoder         : Lavf58.32.104
+  Duration: 00:23:59.94, start: 0.000000, bitrate: 5459 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 5327 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-07-20T18:45:21.4237273+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:00.08 bitrate=N/A speed=0.16x    frame=   25 fps= 25 q=-0.0 size=N/A time=00:00:01.00 bitrate=N/A speed=0.999x    frame=   49 fps= 33 q=-0.0 size=N/A time=00:00:01.96 bitrate=N/A speed=1.31x    [out#0/null @ 0x55bc90c5f900] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 31 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.23x    

@@ -1,0 +1,39 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E177 - 第177集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-09-17T18:41:21.6270825+08:00
+    encoder         : Lavf58.32.104
+  Duration: 00:21:46.86, start: 0.000000, bitrate: 6125 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 5994 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-09-17T18:41:21.6270825+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f4014002340] frame:5 pblack:57 pts:18300 t:0.203333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4014002340] frame:6 pblack:59 pts:21900 t:0.243333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4014002340] frame:7 pblack:56 pts:25500 t:0.283333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4014002340] frame:8 pblack:56 pts:29100 t:0.323333 type:B last_keyframe:0
+frame=    9 fps=8.9 q=-0.0 size=N/A time=00:00:00.36 bitrate=N/A speed=0.357x    [Parsed_blackframe_0 @ 0x7f4014002340] frame:9 pblack:55 pts:32700 t:0.363333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4014002340] frame:10 pblack:51 pts:36300 t:0.403333 type:B last_keyframe:0
+frame=   48 fps= 32 q=-0.0 size=N/A time=00:00:01.92 bitrate=N/A speed=1.27x    [out#0/null @ 0x55f1ee790840] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 32 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.29x    

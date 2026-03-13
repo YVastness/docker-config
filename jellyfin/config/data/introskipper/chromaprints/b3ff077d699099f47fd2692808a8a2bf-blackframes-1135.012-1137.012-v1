@@ -1,0 +1,63 @@
+Input #0, matroska,webm, from '/media/Animes/鬼吹灯之南海归墟 (2025)/Season 1/鬼吹灯之南海归墟 - S01E02 - 第2集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-23T12:07:38.000000Z
+    COMMENT         : 【发布页:https://link3.cc/panclub】
+  Duration: 00:19:16.51, start: 0.000000, bitrate: 1991 kb/s
+  Stream #0:0: Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:19:16.512000000
+        NUMBER_OF_FRAMES: 36141
+        NUMBER_OF_BYTES : 37008384
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-23 12:07:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        BPS             : 253356
+        DURATION        : 00:19:16.416000000
+        NUMBER_OF_FRAMES: 54207
+        NUMBER_OF_BYTES : 36623136
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-23 12:07:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        BPS             : 90404
+        DURATION        : 00:19:16.437000000
+        NUMBER_OF_FRAMES: 54208
+        NUMBER_OF_BYTES : 13068389
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-23 12:07:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Video: hevc (Main), yuv420p(tv, bt709/bt709/unknown), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        title           : 【发布页:https://link3.cc/panclub】
+        BPS             : 1388894
+        DURATION        : 00:19:16.360000000
+        NUMBER_OF_FRAMES: 28909
+        NUMBER_OF_BYTES : 200757763
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-23 12:07:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:3 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    COMMENT         : 【发布页:https://link3.cc/panclub】
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709/bt709/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        title           : 【发布页:https://link3.cc/panclub】
+        BPS             : 1388894
+        DURATION        : 00:19:16.360000000
+        NUMBER_OF_FRAMES: 28909
+        NUMBER_OF_BYTES : 200757763
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-23 12:07:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   26 fps=0.0 q=-0.0 size=N/A time=00:00:01.08 bitrate=N/A speed=2.16x    [out#0/null @ 0x563300df0a40] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed= 3.4x    

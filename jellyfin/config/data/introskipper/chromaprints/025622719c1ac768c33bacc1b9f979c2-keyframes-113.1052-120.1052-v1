@@ -1,0 +1,49 @@
+Input #0, matroska,webm, from '/media/Animes/百炼成神 (2022)/Season 1/百炼成神 - S01E88 - 第88集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-08-02T04:43:59.000000Z
+  Duration: 00:20:22.55, start: 0.000000, bitrate: 24010 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 23752379
+        DURATION        : 00:20:22.520000000
+        NUMBER_OF_FRAMES: 30563
+        NUMBER_OF_BYTES : 3629719894
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-08-02 04:43:59
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 255999
+        DURATION        : 00:20:22.554000000
+        NUMBER_OF_FRAMES: 52651
+        NUMBER_OF_BYTES : 39121723
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-08-02 04:43:59
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fe2d8001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7fe2d8001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fe2d8001f80] n:   0 pts:   2135 pts_time:2.135   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:5FA8E60D plane_checksum:[AAED4EAB C0084BB1 C0084BB1] mean:[103 512 512] stdev:[102.1 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7fe2d8001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 23752379
+        DURATION        : 00:20:22.520000000
+        NUMBER_OF_FRAMES: 30563
+        NUMBER_OF_BYTES : 3629719894
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-08-02 04:43:59
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fe2d8001f80] n:   1 pts:   7015 pts_time:7.015   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:A22FD5C7 plane_checksum:[2209A0A6 6EC52D93 B8B2078E] mean:[262 500 542] stdev:[132.9 11.0 21.4]
+[Parsed_showinfo_0 @ 0x7fe2d8001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fe2d8001f80] n:   2 pts:   8375 pts_time:8.375   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:2C13B476 plane_checksum:[1EF5E565 9B13C52E E19309D4] mean:[436 462 569] stdev:[166.9 32.5 32.4]
+[Parsed_showinfo_0 @ 0x7fe2d8001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x556a26211ec0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.16 bitrate=N/A speed=6.02x    

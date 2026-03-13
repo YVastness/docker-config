@@ -1,0 +1,63 @@
+Input #0, matroska,webm, from '/media/Animes/诛仙 (2022)/Season 3/诛仙 - S03E03 - 第3集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-12T01:52:55.000000Z
+    MOVIE/ENCODER   : Lavf62.0.102
+  Duration: 00:20:15.58, start: 0.000000, bitrate: 4225 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 3587498
+        DURATION        : 00:20:15.440000000
+        NUMBER_OF_FRAMES: 30386
+        NUMBER_OF_BYTES : 545048581
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-12 01:52:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125344
+        DURATION        : 00:20:15.488000000
+        NUMBER_OF_FRAMES: 56976
+        NUMBER_OF_BYTES : 19044325
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-12 01:52:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 253365
+        DURATION        : 00:20:15.488000000
+        NUMBER_OF_FRAMES: 56976
+        NUMBER_OF_BYTES : 38495380
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-12 01:52:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:20:15.584000000
+        NUMBER_OF_FRAMES: 37987
+        NUMBER_OF_BYTES : 38898688
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-12 01:52:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:2 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf62.0.102
+    encoder         : Lavf61.1.100
+  Stream #0:0: Audio: pcm_s16le, 48000 Hz, 5.1, s16, 4608 kb/s (default)
+      Metadata:
+        BPS             : 253365
+        DURATION        : 00:20:15.488000000
+        NUMBER_OF_FRAMES: 56976
+        NUMBER_OF_BYTES : 38495380
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-12 01:52:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7fafc4002440] silence_start: 2.980542
+[silencedetect @ 0x7fafc4002440] silence_end: 7.035667 | silence_duration: 4.055125
+[out#0/null @ 0x5595cd057300] video:0KiB audio:3937KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=14.6x    

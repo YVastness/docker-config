@@ -1,0 +1,60 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Girls/JAV_output/榊原萌/SONE-909/SONE-909-C.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.16.100
+  Duration: 02:22:29.44, start: 0.000000, bitrate: 7267 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 6997 kb/s, 59.94 fps, 59.94 tbr, 60k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 255 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:92 pblack:99 pts:92889 t:1.548150 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:93 pblack:99 pts:93890 t:1.564833 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:94 pblack:99 pts:94891 t:1.581517 type:P last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:95 pblack:99 pts:95892 t:1.598200 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:96 pblack:99 pts:96893 t:1.614883 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:97 pblack:99 pts:97894 t:1.631567 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:98 pblack:99 pts:98895 t:1.648250 type:P last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:99 pblack:99 pts:99896 t:1.664933 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:100 pblack:99 pts:100897 t:1.681617 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:101 pblack:99 pts:101898 t:1.698300 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:102 pblack:99 pts:102899 t:1.714983 type:P last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:103 pblack:99 pts:103900 t:1.731667 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:104 pblack:99 pts:104901 t:1.748350 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:105 pblack:99 pts:105902 t:1.765033 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:106 pblack:99 pts:106903 t:1.781717 type:P last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:107 pblack:99 pts:107904 t:1.798400 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:108 pblack:99 pts:108905 t:1.815083 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:109 pblack:99 pts:109906 t:1.831767 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:110 pblack:99 pts:110907 t:1.848450 type:P last_keyframe:33
+frame=  111 fps=0.0 q=-0.0 size=N/A time=00:00:01.86 bitrate=N/A speed=3.74x    [Parsed_blackframe_0 @ 0x7efe10002340] frame:111 pblack:99 pts:111908 t:1.865133 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:112 pblack:99 pts:112909 t:1.881817 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:113 pblack:99 pts:113910 t:1.898500 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:114 pblack:99 pts:114911 t:1.915183 type:P last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:115 pblack:99 pts:115912 t:1.931867 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:116 pblack:99 pts:116913 t:1.948550 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:117 pblack:99 pts:117914 t:1.965233 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:118 pblack:99 pts:118915 t:1.981917 type:P last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:119 pblack:99 pts:119916 t:1.998600 type:B last_keyframe:33
+[Parsed_blackframe_0 @ 0x7efe10002340] frame:120 pblack:99 pts:120917 t:2.015283 type:B last_keyframe:33
+[out#0/null @ 0x56315734f380] video:51KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  119 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.88x    

@@ -1,0 +1,244 @@
+[matroska,webm @ 0x55ed712b0000] Invalid Block Addition value 0x0 for unknown Block Addition Mapping type 68766345, name ""
+[matroska,webm @ 0x55ed712b0000] Stream #7: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x55ed712b0000] Could not find codec parameters for stream 6 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Movies/黑客帝国4：矩阵重启 (2021)/黑客帝国4：矩阵重启 (2021) 2160p TrueHD Atmos.mkv':
+  Metadata:
+    title           : The.Matrix.Resurrections.2021.2160p.BluRay.REMUX.HEVC.DV.HDR.DTS-HD.MA.7.1.TrueHD.7.1.Atmos-老K
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2024-04-10T02:01:37.000000Z
+  Duration: 02:27:57.56, start: 0.000000, bitrate: 73250 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 245.787208
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 245.787208, end 824.782292
+      Metadata:
+        title           : Chapter 02
+    Chapter #0:2: start 824.782292, end 1359.358000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 1359.358000, end 1847.637458
+      Metadata:
+        title           : Chapter 04
+    Chapter #0:4: start 1847.637458, end 2340.629958
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:5: start 2340.629958, end 2862.150958
+      Metadata:
+        title           : Chapter 06
+    Chapter #0:6: start 2862.150958, end 3260.799208
+      Metadata:
+        title           : Chapter 07
+    Chapter #0:7: start 3260.799208, end 3781.194083
+      Metadata:
+        title           : Chapter 08
+    Chapter #0:8: start 3781.194083, end 4311.557250
+      Metadata:
+        title           : Chapter 09
+    Chapter #0:9: start 4311.557250, end 4840.293792
+      Metadata:
+        title           : Chapter 10
+    Chapter #0:10: start 4840.293792, end 5430.091333
+      Metadata:
+        title           : Chapter 11
+    Chapter #0:11: start 5430.091333, end 5978.681042
+      Metadata:
+        title           : Chapter 12
+    Chapter #0:12: start 5978.681042, end 6539.866667
+      Metadata:
+        title           : Chapter 13
+    Chapter #0:13: start 6539.866667, end 6797.624167
+      Metadata:
+        title           : Chapter 14
+    Chapter #0:14: start 6797.624167, end 7377.286583
+      Metadata:
+        title           : Chapter 15
+    Chapter #0:15: start 7377.286583, end 7953.070125
+      Metadata:
+        title           : Chapter 16
+    Chapter #0:16: start 7953.070125, end 8200.901042
+      Metadata:
+        title           : Chapter 17
+    Chapter #0:17: start 8200.901042, end 8877.536000
+      Metadata:
+        title           : Chapter 18
+  Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 60878172
+        DURATION        : 02:27:57.536000000
+        NUMBER_OF_FRAMES: 212848
+        NUMBER_OF_BYTES : 67556021008
+        SOURCE_ID       : 001011
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-10 02:01:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+  Stream #0:1(eng): Audio: truehd (Dolby TrueHD + Dolby Atmos), 48000 Hz, 7.1, s32 (24 bit) (default)
+      Metadata:
+        title           : TrueHD 7.1 Atmos
+        BPS             : 3139914
+        DURATION        : 02:27:57.536000000
+        NUMBER_OF_FRAMES: 10653043
+        NUMBER_OF_BYTES : 3484338222
+        SOURCE_ID       : 001100
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-10 02:01:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+  Stream #0:2(eng): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 7.1, s32p (24 bit)
+      Metadata:
+        title           : DTS-HD MA 7.1
+        BPS             : 4589464
+        DURATION        : 02:27:57.558000000
+        NUMBER_OF_FRAMES: 832271
+        NUMBER_OF_BYTES : 5092904204
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-10 02:01:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Audio: truehd, 48000 Hz, 7.1, s32 (24 bit)
+      Metadata:
+        title           : 国语 TrueHD 7.1
+        BPS             : 1930351
+        DURATION        : 02:27:57.536000000
+        NUMBER_OF_FRAMES: 10653043
+        NUMBER_OF_BYTES : 2142095344
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-10 02:01:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(chi): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 7.1, s16p
+      Metadata:
+        title           : 国语 DTS-HD MA 7.1
+        BPS             : 2554879
+        DURATION        : 02:27:57.067000000
+        NUMBER_OF_FRAMES: 832225
+        NUMBER_OF_BYTES : 2834979488
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-10 02:01:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(chi): Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : 简英
+        BPS             : 213
+        DURATION        : 02:26:50.650000000
+        NUMBER_OF_FRAMES: 1593
+        NUMBER_OF_BYTES : 234591
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-10 02:01:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(chi): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        title           : 国语 简体
+        BPS             : 34790
+        DURATION        : 02:27:34.638000000
+        NUMBER_OF_FRAMES: 4851
+        NUMBER_OF_BYTES : 38507235
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-10 02:01:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7: Video: mjpeg (Progressive), yuvj420p(pc, bt470bg/unknown/unknown), 254x254 [SAR 1:1 DAR 1:1], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : 老K  QQ 195383233.jpg
+        mimetype        : image/jpeg
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[hevc @ 0x55ed716bd9c0] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55ed7140c100] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7160a580] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed716ad940] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed71304a40] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed716bd9c0] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7140c100] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7160a580] Skipping NAL unit 63
+    Last message repeated 1 times
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : The.Matrix.Resurrections.2021.2160p.BluRay.REMUX.HEVC.DV.HDR.DTS-HD.MA.7.1.TrueHD.7.1.Atmos-老K
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 1.000000
+      Metadata:
+        title           : Chapter 17
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 60878172
+        DURATION        : 02:27:57.536000000
+        NUMBER_OF_FRAMES: 212848
+        NUMBER_OF_BYTES : 67556021008
+        SOURCE_ID       : 001011
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-04-10 02:01:37
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+        encoder         : Lavc61.3.100 wrapped_avframe
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+[hevc @ 0x55ed716ad940] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed71304a40] Skipping NAL unit 63
+    Last message repeated 1 times
+frame=    3 fps=3.0 q=-0.0 size=N/A time=00:00:00.16 bitrate=N/A speed=0.166x    [hevc @ 0x55ed716bd9c0] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7140c100] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed71304a40] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7160a580] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed716ad940] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7140c100] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed716bd9c0] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7160a580] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed716ad940] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed71304a40] Skipping NAL unit 63
+    Last message repeated 1 times
+frame=   12 fps=8.0 q=-0.0 size=N/A time=00:00:00.54 bitrate=N/A speed=0.36x    [hevc @ 0x55ed716bd9c0] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7160a580] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7140c100] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed716ad940] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed71304a40] Skipping NAL unit 63
+    Last message repeated 9 times
+[hevc @ 0x55ed716bd9c0] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7140c100] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7160a580] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed71304a40] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed716bd9c0] Skipping NAL unit 63
+    Last message repeated 1 times
+frame=   21 fps= 10 q=-0.0 size=N/A time=00:00:00.91 bitrate=N/A speed=0.457x    [hevc @ 0x55ed716ad940] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7140c100] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7160a580] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed716ad940] Skipping NAL unit 63
+    Last message repeated 1 times
+[out#0/null @ 0x55ed713d1100] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps= 11 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.464x    
+[hevc @ 0x55ed716bd9c0] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed71304a40] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7140c100] Skipping NAL unit 63
+    Last message repeated 1 times
+[hevc @ 0x55ed7160a580] Skipping NAL unit 63
+    Last message repeated 1 times

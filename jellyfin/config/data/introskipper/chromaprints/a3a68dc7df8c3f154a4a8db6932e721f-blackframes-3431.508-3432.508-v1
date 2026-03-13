@@ -1,0 +1,56 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/纸牌屋 (2013)/Season 3/纸牌屋 - S03E01 - 第 27 章.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : ShanaEncoder
+  Duration: 00:58:27.51, start: 0.000000, bitrate: 15333 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 13156 kb/s, 23.98 fps, 23.98 tbr, 24k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: dts (dca) (DTS-HD MA) (mp4a / 0x6134706D), 48000 Hz, 5.1(side), s16p (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:0 pblack:96 pts:82 t:0.003417 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:1 pblack:96 pts:1083 t:0.045125 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:2 pblack:96 pts:2084 t:0.086833 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:3 pblack:96 pts:3085 t:0.128542 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:4 pblack:96 pts:4086 t:0.170250 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:5 pblack:96 pts:5087 t:0.211958 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:6 pblack:96 pts:6088 t:0.253667 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:7 pblack:96 pts:7089 t:0.295375 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:8 pblack:96 pts:8090 t:0.337083 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:9 pblack:96 pts:9091 t:0.378792 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:10 pblack:96 pts:10092 t:0.420500 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:11 pblack:96 pts:11093 t:0.462208 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:12 pblack:96 pts:12094 t:0.503917 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:13 pblack:96 pts:13095 t:0.545625 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:14 pblack:96 pts:14096 t:0.587333 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:15 pblack:96 pts:15097 t:0.629042 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:16 pblack:96 pts:16098 t:0.670750 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:17 pblack:96 pts:17099 t:0.712458 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:18 pblack:96 pts:18100 t:0.754167 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:19 pblack:96 pts:19101 t:0.795875 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:20 pblack:96 pts:20102 t:0.837583 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:21 pblack:96 pts:21103 t:0.879292 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:22 pblack:96 pts:22104 t:0.921000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:23 pblack:96 pts:23105 t:0.962708 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fe6d8002340] frame:24 pblack:96 pts:24106 t:1.004417 type:P last_keyframe:0
+[out#0/null @ 0x5639c0b592c0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=2.19x    

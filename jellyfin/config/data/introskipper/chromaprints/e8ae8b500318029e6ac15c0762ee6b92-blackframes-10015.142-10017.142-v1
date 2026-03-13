@@ -1,0 +1,43 @@
+Input #0, matroska,webm, from '/media/Girls/JAV_output/渡部ほの/SONE-969/SONE-969.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-10-15T05:12:04.000000Z
+    MOVIE/ENCODER   : Lavf59.16.100
+  Duration: 02:47:25.14, start: 0.000000, bitrate: 23322 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 59.94 fps, 59.94 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 23062156
+        DURATION        : 02:47:25.035000000
+        NUMBER_OF_FRAMES: 602100
+        NUMBER_OF_BYTES : 28957521434
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 05:12:04
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 255999
+        DURATION        : 02:47:25.142000000
+        NUMBER_OF_FRAMES: 470866
+        NUMBER_OF_BYTES : 321444523
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 05:12:04
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf59.16.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        BPS             : 23062156
+        DURATION        : 02:47:25.035000000
+        NUMBER_OF_FRAMES: 602100
+        NUMBER_OF_BYTES : 28957521434
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-15 05:12:04
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   19 fps=9.4 q=-0.0 size=N/A time=00:00:00.33 bitrate=N/A speed=0.166x    frame=   39 fps= 16 q=-0.0 size=N/A time=00:00:00.66 bitrate=N/A speed=0.266x    frame=   60 fps= 20 q=-0.0 size=N/A time=00:00:01.01 bitrate=N/A speed=0.338x    frame=   87 fps= 25 q=-0.0 size=N/A time=00:00:01.46 bitrate=N/A speed=0.418x    [out#0/null @ 0x55835d81e5c0] video:51KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  119 fps= 29 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.495x    

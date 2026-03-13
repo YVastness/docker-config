@@ -1,0 +1,85 @@
+[png @ 0x5565e80edbc0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x5565e80d9000] Could not find codec parameters for stream 5 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E11 - 第11集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-26T09:58:20.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:43:38.30, start: 0.000000, bitrate: 15399 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1920 [SAR 1:1 DAR 2:1], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 14565352
+        DURATION        : 00:43:38.084000000
+        NUMBER_OF_FRAMES: 157085
+        NUMBER_OF_BYTES : 4766664632
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 09:58:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 128 kb/s (default)
+      Metadata:
+        title           : DDP2.0 [GyWEB]
+        BPS             : 128000
+        DURATION        : 00:43:38.304000000
+        NUMBER_OF_FRAMES: 81822
+        NUMBER_OF_BYTES : 41892864
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 09:58:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        title           : AAC5.1 [GyWEB]
+        BPS             : 253360
+        DURATION        : 00:43:38.218000000
+        NUMBER_OF_FRAMES: 122729
+        NUMBER_OF_BYTES : 82919046
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 09:58:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0 [GyWEB]
+        BPS             : 317356
+        DURATION        : 00:43:38.218000000
+        NUMBER_OF_FRAMES: 122729
+        NUMBER_OF_BYTES : 103863470
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 09:58:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0 [GyWEB]
+        BPS             : 125354
+        DURATION        : 00:43:38.133000000
+        NUMBER_OF_FRAMES: 122725
+        NUMBER_OF_BYTES : 41024500
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 09:58:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 14565352
+        DURATION        : 00:43:38.084000000
+        NUMBER_OF_FRAMES: 157085
+        NUMBER_OF_BYTES : 4766664632
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 09:58:20
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   13 fps=3.7 q=-0.0 size=N/A time=00:00:00.23 bitrate=N/A speed=0.0665x    frame=   46 fps= 11 q=-0.0 size=N/A time=00:00:00.78 bitrate=N/A speed=0.196x    frame=   79 fps= 18 q=-0.0 size=N/A time=00:00:01.33 bitrate=N/A speed=0.296x    frame=  111 fps= 22 q=-0.0 size=N/A time=00:00:01.86 bitrate=N/A speed=0.373x    [out#0/null @ 0x5565e8117640] video:51KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  119 fps= 23 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.388x    

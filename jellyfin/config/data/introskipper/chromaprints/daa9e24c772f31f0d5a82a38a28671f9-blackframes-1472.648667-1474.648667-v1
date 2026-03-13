@@ -1,0 +1,57 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/遮天 (2023)/Season 1/遮天 - S01E131 - 第131集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-10-14T18:44:46.6483662+08:00
+    encoder         : Lavf62.0.102
+  Duration: 00:24:49.90, start: 0.000000, bitrate: 6487 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 6355 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:0 pblack:61 pts:3000 t:0.033333 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-10-14T18:44:46.6483662+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:1 pblack:62 pts:6600 t:0.073333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:2 pblack:62 pts:10200 t:0.113333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:3 pblack:61 pts:13800 t:0.153333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:4 pblack:60 pts:17400 t:0.193333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:5 pblack:59 pts:21000 t:0.233333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:6 pblack:63 pts:24600 t:0.273333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:7 pblack:70 pts:28200 t:0.313333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:8 pblack:72 pts:31799 t:0.353322 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:9 pblack:73 pts:35400 t:0.393333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:10 pblack:75 pts:38999 t:0.433322 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:11 pblack:76 pts:42600 t:0.473333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:12 pblack:75 pts:46200 t:0.513333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:13 pblack:74 pts:49800 t:0.553333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:14 pblack:77 pts:53400 t:0.593333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:15 pblack:75 pts:57000 t:0.633333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:16 pblack:88 pts:60600 t:0.673333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:17 pblack:85 pts:64200 t:0.713333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:18 pblack:82 pts:67800 t:0.753333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:19 pblack:74 pts:71400 t:0.793333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:20 pblack:65 pts:74999 t:0.833322 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:21 pblack:59 pts:78600 t:0.873333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:22 pblack:56 pts:82200 t:0.913333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2da8002340] frame:23 pblack:50 pts:85799 t:0.953322 type:B last_keyframe:0
+frame=   25 fps= 12 q=-0.0 size=N/A time=00:00:01.04 bitrate=N/A speed=0.518x    [out#0/null @ 0x560a7df15100] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 21 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.857x    

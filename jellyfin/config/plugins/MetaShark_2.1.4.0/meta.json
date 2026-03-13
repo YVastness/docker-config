@@ -1,0 +1,16 @@
+{
+  "category": "Metadata",
+  "changelog": "\u4FEE\u6B63\u522E\u524A\u865A\u62DF\u5267\u96C6\u5BFC\u81F4\u7684\u5F02\u5E38",
+  "description": "",
+  "guid": "9a19103f-16f7-4668-be54-9a1e7a4f7556",
+  "name": "MetaShark",
+  "overview": "jellyfin\u7535\u5F71\u5143\u6570\u636E\u63D2\u4EF6",
+  "owner": "cxfksword",
+  "targetAbi": "10.9.0.0",
+  "timestamp": "2025-03-30T05:59:55.0000000Z",
+  "version": "2.1.4.0",
+  "status": "Superceded",
+  "autoUpdate": true,
+  "imagePath": "/config/plugins/MetaShark_2.1.4.0/logo.png",
+  "assemblies": []
+}

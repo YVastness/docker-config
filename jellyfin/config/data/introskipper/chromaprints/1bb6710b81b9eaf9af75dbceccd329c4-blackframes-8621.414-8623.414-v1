@@ -1,0 +1,43 @@
+Input #0, matroska,webm, from '/media/Girls/JAV_output/小凑よつ叶/START-257/START-257.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-02-16T10:18:00.000000Z
+    MOVIE/ENCODER   : Lavf59.16.100
+  Duration: 02:24:11.41, start: 0.000000, bitrate: 11263 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 11004776
+        DURATION        : 02:24:11.309000000
+        NUMBER_OF_FRAMES: 259280
+        NUMBER_OF_BYTES : 11900715205
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-16 10:18:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 255999
+        DURATION        : 02:24:11.414000000
+        NUMBER_OF_FRAMES: 405535
+        NUMBER_OF_BYTES : 276845227
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-16 10:18:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf59.16.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 29.97 fps, 29.97 tbn (default)
+      Metadata:
+        BPS             : 11004776
+        DURATION        : 02:24:11.309000000
+        NUMBER_OF_FRAMES: 259280
+        NUMBER_OF_BYTES : 11900715205
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-16 10:18:00
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   10 fps=0.0 q=-0.0 size=N/A time=00:00:00.36 bitrate=N/A speed=0.734x    frame=   56 fps= 56 q=-0.0 size=N/A time=00:00:01.90 bitrate=N/A speed= 1.9x    [out#0/null @ 0x561734826700] video:25KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   59 fps= 56 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.89x    

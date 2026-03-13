@@ -1,0 +1,31 @@
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E03 - 第3集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:45:18.14, start: 0.000000, bitrate: 15061 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1920 [SAR 1:1 DAR 2:1], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:45:17.967000000
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        title           : DDP 2.0
+        DURATION        : 00:45:18.144000000
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : AAC 5.1
+        DURATION        : 00:45:18.058000000
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:45:18.016000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        DURATION        : 00:45:17.967000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   32 fps= 21 q=-0.0 size=N/A time=00:00:00.53 bitrate=N/A speed=0.356x    frame=   64 fps= 32 q=-0.0 size=N/A time=00:00:01.06 bitrate=N/A speed=0.533x    frame=   96 fps= 38 q=-0.0 size=N/A time=00:00:01.60 bitrate=N/A speed=0.64x    [out#0/null @ 0x5602349fd280] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 42 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.696x    

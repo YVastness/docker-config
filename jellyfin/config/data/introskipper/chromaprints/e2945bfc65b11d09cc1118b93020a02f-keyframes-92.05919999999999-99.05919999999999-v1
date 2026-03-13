@@ -1,0 +1,42 @@
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E14 - 第14集.mkv':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:44:27.21, start: 0.000000, bitrate: 26786 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 26524812
+        NUMBER_OF_FRAMES: 160030
+        NUMBER_OF_BYTES : 8843263053
+        DURATION        : 00:44:27.166000000
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 标准音效
+        BPS             : 256000
+        NUMBER_OF_FRAMES: 114867
+        NUMBER_OF_BYTES : 85350610
+        DURATION        : 00:44:27.206000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fb48c001f80] config in time_base: 1/1000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7fb48c001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fb48c001f80] n:   0 pts:   3924 pts_time:3.924   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:F28F9FAC plane_checksum:[5A28FA0C 3053D2C1 3053D2C1] mean:[63 512 512] stdev:[1.1 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7fb48c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 26524812
+        NUMBER_OF_FRAMES: 160030
+        NUMBER_OF_BYTES : 8843263053
+        DURATION        : 00:44:27.166000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fb48c001f80] n:   1 pts:   6924 pts_time:6.924   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:115E9437 plane_checksum:[CE54EE97 3053D2C1 3053D2C1] mean:[64 512 512] stdev:[0.4 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7fb48c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fb48c001f80] n:   2 pts:   9891 pts_time:9.891   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:46378D00 plane_checksum:[28ABF482 06DA46F3 4AF5517C] mean:[517 504 524] stdev:[235.2 42.8 36.7]
+[Parsed_showinfo_0 @ 0x7fb48c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fb48c001f80] n:   3 pts:  11408 pts_time:11.408  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:9C710811 plane_checksum:[69B12BC2 BF7C675E F11274E2] mean:[513 485 546] stdev:[168.8 63.5 46.4]
+[Parsed_showinfo_0 @ 0x7fb48c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x556d8cce4e00] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.93 bitrate=N/A speed=18.4x    

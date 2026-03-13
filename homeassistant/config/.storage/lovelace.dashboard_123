@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace.dashboard_123",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Home",
+          "sections": [
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading_style": "title",
+                  "heading": "信息",
+                  "icon": "mdi:account-group",
+                  "grid_options": {
+                    "columns": "full",
+                    "rows": 1
+                  }
+                },
+                {
+                  "clock_style": "digital",
+                  "clock_size": "medium",
+                  "show_seconds": true,
+                  "no_background": false,
+                  "type": "clock",
+                  "grid_options": {
+                    "columns": "full"
+                  }
+                },
+                {
+                  "graph": "line",
+                  "type": "sensor",
+                  "entity": "sensor.iphone_battery_level",
+                  "detail": 1,
+                  "name": "iPhone 电量"
+                },
+                {
+                  "graph": "line",
+                  "type": "sensor",
+                  "entity": "sensor.lumi_cn_lumi_158d008b807db5_v1_atmospheric_pressure_p_2_3",
+                  "detail": 2,
+                  "name": "室内大气压强"
+                },
+                {
+                  "type": "vertical-stack",
+                  "cards": []
+                },
+                {
+                  "graph": "line",
+                  "type": "sensor",
+                  "entity": "sensor.lumi_cn_lumi_158d008b807db5_v1_temperature_p_2_1",
+                  "detail": 2,
+                  "name": "室内温度"
+                },
+                {
+                  "graph": "line",
+                  "type": "sensor",
+                  "entity": "sensor.lumi_cn_lumi_158d008b807db5_v1_relative_humidity_p_2_2",
+                  "detail": 2,
+                  "name": "室内湿度"
+                }
+              ],
+              "column_span": 1
+            },
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "卧室",
+                  "heading_style": "title",
+                  "icon": "mdi:bed-king"
+                },
+                {
+                  "type": "light",
+                  "entity": "light.yeelink_cn_685622330_lamp22_s_2"
+                },
+                {
+                  "type": "tile",
+                  "entity": "switch.lumi_cn_761947090_acn048_on_p_5_1",
+                  "features_position": "bottom",
+                  "vertical": false
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "浴室",
+                  "heading_style": "title"
+                },
+                {
+                  "type": "tile",
+                  "entity": "light.lxzn_cn_859682990_ben_s_2_light",
+                  "features_position": "bottom",
+                  "vertical": false,
+                  "show_entity_picture": false,
+                  "hide_state": false
+                },
+                {
+                  "type": "tile",
+                  "entity": "switch.lxzn_cn_859682990_ben_ventilation_p_3_8",
+                  "features_position": "bottom",
+                  "vertical": false
+                }
+              ]
+            }
+          ],
+          "header": {
+            "card": {
+              "type": "markdown",
+              "text_only": true,
+              "content": "# 你好 {{ user }} "
+            },
+            "layout": "center",
+            "badges_position": "bottom",
+            "badges_wrap": "wrap"
+          },
+          "badges": []
+        }
+      ]
+    }
+  }
+}

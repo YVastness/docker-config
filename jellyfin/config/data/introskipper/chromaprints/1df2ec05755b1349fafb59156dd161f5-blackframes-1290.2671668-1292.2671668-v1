@@ -1,0 +1,42 @@
+Input #0, matroska,webm, from '/media/Animes/斗破苍穹 (2017)/Season 5/斗破苍穹 - S05E134 - 第134集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-02-15T11:22:57.000000Z
+  Duration: 00:21:51.40, start: 0.000000, bitrate: 6686 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6559018
+        DURATION        : 00:21:51.360000000
+        NUMBER_OF_FRAMES: 32784
+        NUMBER_OF_BYTES : 1075154376
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-15 11:22:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125340
+        DURATION        : 00:21:51.402000000
+        NUMBER_OF_FRAMES: 61472
+        NUMBER_OF_BYTES : 20546474
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-15 11:22:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 6559018
+        DURATION        : 00:21:51.360000000
+        NUMBER_OF_FRAMES: 32784
+        NUMBER_OF_BYTES : 1075154376
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-15 11:22:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   31 fps= 15 q=-0.0 size=N/A time=00:00:01.24 bitrate=N/A speed=0.62x    [out#0/null @ 0x556b1f3ea880] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 22 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.883x    

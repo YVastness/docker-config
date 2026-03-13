@@ -1,0 +1,58 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/纸牌屋 (2013)/Season 6/纸牌屋 - S06E01 - 第 66 章.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : ShanaEncoder
+  Duration: 00:52:07.14, start: 0.000000, bitrate: 13646 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x1920 [SAR 1:1 DAR 2:1], 13257 kb/s, 23.98 fps, 23.98 tbr, 24k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:0 pblack:96 pts:171 t:0.007125 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:1 pblack:96 pts:1172 t:0.048833 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:2 pblack:96 pts:2173 t:0.090542 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:3 pblack:96 pts:3174 t:0.132250 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:4 pblack:96 pts:4175 t:0.173958 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:5 pblack:96 pts:5176 t:0.215667 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:6 pblack:96 pts:6177 t:0.257375 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:7 pblack:96 pts:7178 t:0.299083 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:8 pblack:96 pts:8179 t:0.340792 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:9 pblack:96 pts:9180 t:0.382500 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:10 pblack:96 pts:10181 t:0.424208 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:11 pblack:96 pts:11182 t:0.465917 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:12 pblack:96 pts:12183 t:0.507625 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:13 pblack:96 pts:13184 t:0.549333 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:14 pblack:96 pts:14185 t:0.591042 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:15 pblack:96 pts:15186 t:0.632750 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:16 pblack:96 pts:16187 t:0.674458 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:17 pblack:96 pts:17188 t:0.716167 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:18 pblack:96 pts:18189 t:0.757875 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:19 pblack:96 pts:19190 t:0.799583 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:20 pblack:96 pts:20191 t:0.841292 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:21 pblack:96 pts:21192 t:0.883000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:22 pblack:96 pts:22193 t:0.924708 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:23 pblack:96 pts:23194 t:0.966417 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4174002340] frame:24 pblack:96 pts:24195 t:1.008125 type:P last_keyframe:0
+[out#0/null @ 0x55777581d340] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=6.9 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.287x    

@@ -1,0 +1,36 @@
+Input #0, matroska,webm, from '/media/Animes/剑风传奇 (1997)/Season 1/剑风传奇 - S01E16 - 第16集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.4.100
+  Duration: 00:23:39.48, start: -0.021000, bitrate: 15029 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, progressive), 2880x2160 [SAR 1:1 DAR 4:3], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        ENCODER         : Lavc60.6.101 hevc_nvenc
+        DURATION        : 00:23:39.377000000
+  Stream #0:1(jpn): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 624785
+        NUMBER_OF_FRAMES: 16635
+        NUMBER_OF_BYTES : 110857174
+        _STATISTICS_WRITING_APP: mkvmerge v69.0.0 ('Day And Age') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-12 10:23:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        ENCODER         : Lavc60.6.101 aac
+        DURATION        : 00:23:39.481000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fa490001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7fa490001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fa490001f80] n:   0 pts:   6318 pts_time:6.318   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:2880x2160 i:P iskey:1 type:I checksum:A7008912 plane_checksum:[ADBCCDFF DA3765D5 A288552F] mean:[81 512 513] stdev:[81.4 6.8 26.4]
+[Parsed_showinfo_0 @ 0x7fa490001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, progressive), 2880x2160 [SAR 1:1 DAR 4:3], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn
+      Metadata:
+        DURATION        : 00:23:39.377000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fa490001f80] n:   1 pts:  16745 pts_time:16.745  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:2880x2160 i:P iskey:1 type:I checksum:89F68F69 plane_checksum:[2FA109D9 9F500B45 BF9B7A4B] mean:[154 483 526] stdev:[141.6 45.2 26.9]
+[Parsed_showinfo_0 @ 0x7fa490001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55d331801440] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.33 bitrate=N/A speed=18.4x    

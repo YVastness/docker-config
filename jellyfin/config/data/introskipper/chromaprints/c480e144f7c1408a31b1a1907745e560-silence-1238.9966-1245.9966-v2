@@ -1,0 +1,47 @@
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E153 - 第153集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-04-02T12:11:57.000000Z
+  Duration: 00:21:33.89, start: 0.000000, bitrate: 5869 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5742232
+        DURATION        : 00:21:33.840000000
+        NUMBER_OF_FRAMES: 32346
+        NUMBER_OF_BYTES : 928691290
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-02 12:11:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125347
+        DURATION        : 00:21:33.888000000
+        NUMBER_OF_FRAMES: 60651
+        NUMBER_OF_BYTES : 20273261
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-02 12:11:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        BPS             : 125347
+        DURATION        : 00:21:33.888000000
+        NUMBER_OF_FRAMES: 60651
+        NUMBER_OF_BYTES : 20273261
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-04-02 12:11:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7fe6f0002440] silence_start: 0.000666667
+[silencedetect @ 0x7fe6f0002440] silence_end: 4.284792 | silence_duration: 4.284125
+[silencedetect @ 0x7fe6f0002440] silence_start: 5.280562
+[silencedetect @ 0x7fe6f0002440] silence_end: 5.440937 | silence_duration: 0.160375
+[silencedetect @ 0x7fe6f0002440] silence_start: 5.54025
+[silencedetect @ 0x7fe6f0002440] silence_end: 6.088104 | silence_duration: 0.547854
+[out#0/null @ 0x55f330c99fc0] video:0KiB audio:1312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 877x    

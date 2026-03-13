@@ -1,0 +1,47 @@
+Input #0, matroska,webm, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E03 - 第3集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-10-13T10:16:48.000000Z
+  Duration: 00:23:39.49, start: 0.000000, bitrate: 7461 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : AAC2.0
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f50b4001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f50b4001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f50b4001f80] n:   0 pts:   1654 pts_time:1.654   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:FB3EBF1D plane_checksum:[407426FB CBF95CF6 953B3B2C] mean:[90 112 157] stdev:[44.9 7.2 13.1]
+[Parsed_showinfo_0 @ 0x7f50b4001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=db41f3f7-dd6f-4c92-9764-48a6cec96e3d
+[Parsed_showinfo_0 @ 0x7f50b4001f80] User Data=54656e63656e74205632363520312e352e362c2070316b3138346731366c68363466347261312e20436f707972696768742028632920323032312054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e372e302072636d2d61646170742076732d3935
+[Parsed_showinfo_0 @ 0x7f50b4001f80] 
+[Parsed_showinfo_0 @ 0x7f50b4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f50b4001f80] n:   1 pts:   5134 pts_time:5.134   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:D8BDDCE3 plane_checksum:[C40CF104 E51F1DA4 6B28CE2C] mean:[113 112 156] stdev:[51.1 9.5 14.9]
+[Parsed_showinfo_0 @ 0x7f50b4001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=db41f3f7-dd6f-4c92-9764-48a6cec96e3d
+[Parsed_showinfo_0 @ 0x7f50b4001f80] User Data=54656e63656e74205632363520312e352e362c2070316b3138346731366c68363466347261312e20436f707972696768742028632920323032312054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e372e302072636d2d61646170742076732d3935
+[Parsed_showinfo_0 @ 0x7f50b4001f80] 
+[Parsed_showinfo_0 @ 0x7f50b4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[matroska,webm @ 0x55a5eeac1080] 0x00 at pos 18357592 (0x1181d58) invalid as first byte of an EBML number
+[matroska,webm @ 0x55a5eeac1080] 0x00 at pos 48801773 (0x2e8a7ed) invalid as first byte of an EBML number
+[Parsed_showinfo_0 @ 0x7f50b4001f80] n:   2 pts:   7734 pts_time:7.734   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:B8A3A5E9 plane_checksum:[E5F1E461 B8261F7C D9C4A1FD] mean:[155 124 155] stdev:[27.4 3.0 7.2]
+[Parsed_showinfo_0 @ 0x7f50b4001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=db41f3f7-dd6f-4c92-9764-48a6cec96e3d
+[Parsed_showinfo_0 @ 0x7f50b4001f80] User Data=54656e63656e74205632363520312e352e362c2070316b3138346731366c68363466347261312e20436f707972696768742028632920323032312054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e372e302072636d2d61646170742076732d3935
+[Parsed_showinfo_0 @ 0x7f50b4001f80] 
+[Parsed_showinfo_0 @ 0x7f50b4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f50b4001f80] n:   3 pts:  47254 pts_time:47.254  duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:D4958F7B plane_checksum:[2B769B03 D75BC6C8 41CA2DA1] mean:[179 130 129] stdev:[10.0 2.4 3.5]
+[Parsed_showinfo_0 @ 0x7f50b4001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=db41f3f7-dd6f-4c92-9764-48a6cec96e3d
+[Parsed_showinfo_0 @ 0x7f50b4001f80] User Data=54656e63656e74205632363520312e352e362c2070316b3138346731366c68363466347261312e20436f707972696768742028632920323032312054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e372e302072636d2d61646170742076732d3935
+[Parsed_showinfo_0 @ 0x7f50b4001f80] 
+[Parsed_showinfo_0 @ 0x7f50b4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55a5eeb1cc80] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.16 bitrate=N/A speed= 9.6x    

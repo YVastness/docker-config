@@ -1,0 +1,103 @@
+[png @ 0x564ecb1e7480] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x564ecb1e1000] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/斗破苍穹 (2017)/Season 5/斗破苍穹 - S05E166 - 第166集.mp4':
+  Metadata:
+    title           : f你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-09-27T10:48:22.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:21:10.29, start: 0.000000, bitrate: 4283 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4147233
+        DURATION        : 00:21:10.240000000
+        NUMBER_OF_FRAMES: 31756
+        NUMBER_OF_BYTES : 658497694
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-27 10:48:22
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125352
+        DURATION        : 00:21:10.293000000
+        NUMBER_OF_FRAMES: 59545
+        NUMBER_OF_BYTES : 19904268
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-27 10:48:22
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:0 pblack:51 pts:29 t:0.029000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : f你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 4147233
+        DURATION        : 00:21:10.240000000
+        NUMBER_OF_FRAMES: 31756
+        NUMBER_OF_BYTES : 658497694
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-27 10:48:22
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:1 pblack:51 pts:69 t:0.069000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:2 pblack:51 pts:109 t:0.109000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:3 pblack:51 pts:149 t:0.149000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:4 pblack:51 pts:189 t:0.189000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:5 pblack:51 pts:229 t:0.229000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:6 pblack:51 pts:269 t:0.269000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:7 pblack:51 pts:309 t:0.309000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:8 pblack:51 pts:349 t:0.349000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:9 pblack:51 pts:389 t:0.389000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:10 pblack:51 pts:429 t:0.429000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:11 pblack:51 pts:469 t:0.469000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:12 pblack:51 pts:509 t:0.509000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:13 pblack:51 pts:549 t:0.549000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:14 pblack:51 pts:589 t:0.589000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:15 pblack:51 pts:629 t:0.629000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:16 pblack:51 pts:669 t:0.669000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:17 pblack:51 pts:709 t:0.709000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:18 pblack:51 pts:749 t:0.749000 type:I last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:19 pblack:51 pts:789 t:0.789000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:20 pblack:51 pts:829 t:0.829000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:21 pblack:51 pts:869 t:0.869000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:22 pblack:52 pts:909 t:0.909000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:23 pblack:52 pts:949 t:0.949000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:24 pblack:52 pts:989 t:0.989000 type:B last_keyframe:18
+frame=   25 fps= 25 q=-0.0 size=N/A time=00:00:01.04 bitrate=N/A speed=1.04x    [Parsed_blackframe_0 @ 0x7f7d04002340] frame:25 pblack:52 pts:1029 t:1.029000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:26 pblack:52 pts:1069 t:1.069000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:27 pblack:52 pts:1109 t:1.109000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:28 pblack:52 pts:1149 t:1.149000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:29 pblack:53 pts:1189 t:1.189000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:30 pblack:54 pts:1229 t:1.229000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:31 pblack:56 pts:1269 t:1.269000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:32 pblack:58 pts:1309 t:1.309000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:33 pblack:61 pts:1349 t:1.349000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:34 pblack:68 pts:1389 t:1.389000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:35 pblack:76 pts:1429 t:1.429000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:36 pblack:85 pts:1469 t:1.469000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:37 pblack:91 pts:1509 t:1.509000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:38 pblack:98 pts:1549 t:1.549000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:39 pblack:100 pts:1589 t:1.589000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:40 pblack:100 pts:1629 t:1.629000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:41 pblack:100 pts:1669 t:1.669000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:42 pblack:100 pts:1709 t:1.709000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:43 pblack:100 pts:1749 t:1.749000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:44 pblack:100 pts:1789 t:1.789000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:45 pblack:100 pts:1829 t:1.829000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:46 pblack:100 pts:1869 t:1.869000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:47 pblack:100 pts:1909 t:1.909000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:48 pblack:100 pts:1949 t:1.949000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:49 pblack:100 pts:1989 t:1.989000 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f7d04002340] frame:50 pblack:100 pts:2029 t:2.029000 type:B last_keyframe:18
+[out#0/null @ 0x564ecb371800] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 43 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.75x    

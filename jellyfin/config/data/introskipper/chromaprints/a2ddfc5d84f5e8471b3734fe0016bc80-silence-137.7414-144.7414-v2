@@ -1,0 +1,43 @@
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E141 - 第141集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-01-08T13:00:10.000000Z
+  Duration: 00:20:53.46, start: 0.000000, bitrate: 5994 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5867068
+        DURATION        : 00:20:53.400000000
+        NUMBER_OF_FRAMES: 31335
+        NUMBER_OF_BYTES : 919222970
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-08 13:00:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125348
+        DURATION        : 00:20:53.461000000
+        NUMBER_OF_FRAMES: 58756
+        NUMBER_OF_BYTES : 19639862
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-08 13:00:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125348
+        DURATION        : 00:20:53.461000000
+        NUMBER_OF_FRAMES: 58756
+        NUMBER_OF_BYTES : 19639862
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-08 13:00:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+size=N/A time=00:00:06.32 bitrate=N/A speed=12.6x    [out#0/null @ 0x556ec4c4fe00] video:0KiB audio:1312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=11.5x    

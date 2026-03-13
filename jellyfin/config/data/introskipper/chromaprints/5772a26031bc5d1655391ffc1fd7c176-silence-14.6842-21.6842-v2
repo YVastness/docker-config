@@ -1,0 +1,27 @@
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E15 - 第15集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:43:19.38, start: 0.000000, bitrate: 16114 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1920 [SAR 1:1 DAR 2:1], 59.94 fps, 59.94 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: flac, 48000 Hz, stereo, s32 (24 bit) (default)
+      Metadata:
+        title           : 国语·FLAC无损HiFi声
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : 国语·立体环绕声
+  Stream #0:3(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : 国语·立体音效
+Stream mapping:
+  Stream #0:1 -> #0:0 (flac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : 国语·FLAC无损HiFi声
+        encoder         : Lavc61.3.100 pcm_s16le
+[matroska,webm @ 0x555a53dff0c0] 0x00 at pos 31288087 (0x1dd6b17) invalid as first byte of an EBML number
+size=N/A time=00:00:06.02 bitrate=N/A speed=12.1x    size=N/A time=00:00:06.02 bitrate=N/A speed=6.03x    size=N/A time=00:00:06.02 bitrate=N/A speed=4.02x    size=N/A time=00:00:06.02 bitrate=N/A speed=3.01x    size=N/A time=00:00:06.02 bitrate=N/A speed=2.41x    [out#0/null @ 0x555a53e86d40] video:0KiB audio:1147KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:06.11 bitrate=N/A speed=2.41x    

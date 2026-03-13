@@ -1,0 +1,49 @@
+Input #0, matroska,webm, from '/media/TV Shows/唐朝诡事录 (2022)/Season 4/唐朝诡事录 - S04E16 - 第16集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:16:23.23, start: 0.000000, bitrate: 4342 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1608 [SAR 1:1 DAR 160:67], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        title           : TG频道@yunpantv
+        BPS             : 4082900
+        DURATION        : 00:16:23.150000000
+        NUMBER_OF_FRAMES: 58989
+        NUMBER_OF_BYTES : 501763006
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : 环绕声
+        BPS             : 256000
+        DURATION        : 00:16:23.232000000
+        NUMBER_OF_FRAMES: 30726
+        NUMBER_OF_BYTES : 31463424
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : 简体中文
+        BPS             : 118
+        DURATION        : 00:13:59.120000000
+        NUMBER_OF_FRAMES: 281
+        NUMBER_OF_BYTES : 12429
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        title           : TG频道@yunpantv
+        BPS             : 4082900
+        DURATION        : 00:16:23.150000000
+        NUMBER_OF_FRAMES: 58989
+        NUMBER_OF_BYTES : 501763006
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    frame=   40 fps= 20 q=-0.0 size=N/A time=00:00:00.66 bitrate=N/A speed=0.332x    frame=   80 fps= 32 q=-0.0 size=N/A time=00:00:01.33 bitrate=N/A speed=0.531x    frame=  120 fps= 40 q=-0.0 size=N/A time=00:00:02.00 bitrate=N/A speed=0.664x    [out#0/null @ 0x561b042328c0] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 40 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.661x    

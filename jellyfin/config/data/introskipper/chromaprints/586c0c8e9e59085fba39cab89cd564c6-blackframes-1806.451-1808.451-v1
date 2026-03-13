@@ -1,0 +1,38 @@
+Input #0, matroska,webm, from '/media/Animes/剑来 (2024)/Season 2/剑来 - S02E02 - 第2集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:30:23.70, start: 0.000000, bitrate: 4244 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4117411
+        DURATION        : 00:30:23.640000000
+        NUMBER_OF_FRAMES: 45591
+        NUMBER_OF_BYTES : 938584633
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        BPS             : 125347
+        DURATION        : 00:30:23.701000000
+        NUMBER_OF_FRAMES: 85486
+        NUMBER_OF_BYTES : 28574655
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 4117411
+        DURATION        : 00:30:23.640000000
+        NUMBER_OF_FRAMES: 45591
+        NUMBER_OF_BYTES : 938584633
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   20 fps= 20 q=-0.0 size=N/A time=00:00:00.84 bitrate=N/A speed=0.838x    [out#0/null @ 0x55c096f65580] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 34 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.39x    

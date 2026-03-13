@@ -1,0 +1,12 @@
+version: "3"
+services:
+  cloudsaver:
+    image: jiangrui1994/cloudsaver:latest
+    container_name: cloud-saver
+    # network_mode: "host"
+    ports:
+      - "8008:8008"
+    volumes:
+      - /docker/cloud-saver/data:/app/data
+      - /docker/cloud-saver/config:/app/config
+    restart: unless-stopped

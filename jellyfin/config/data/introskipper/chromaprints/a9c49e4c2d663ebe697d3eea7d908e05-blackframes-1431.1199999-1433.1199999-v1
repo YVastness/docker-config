@@ -1,0 +1,61 @@
+Input #0, matroska,webm, from '/media/Animes/龙族 (2022)/Season 2/龙族 - S02E10 - 第10集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-09-05T02:42:21.000000Z
+    MOVIE/ENCODER   : Lavf62.4.100
+  Duration: 00:24:21.12, start: 0.000000, bitrate: 2001 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1610 [SAR 1:1 DAR 384:161], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1556023
+        DURATION        : 00:24:20.959000000
+        NUMBER_OF_FRAMES: 35063
+        NUMBER_OF_BYTES : 284160781
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-05 02:42:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125354
+        DURATION        : 00:24:21.013000000
+        NUMBER_OF_FRAMES: 68485
+        NUMBER_OF_BYTES : 22893016
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-05 02:42:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 253363
+        DURATION        : 00:24:21.013000000
+        NUMBER_OF_FRAMES: 68485
+        NUMBER_OF_BYTES : 46270841
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-05 02:42:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        BPS             : 64000
+        DURATION        : 00:24:21.120000000
+        NUMBER_OF_FRAMES: 45660
+        NUMBER_OF_BYTES : 11688960
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-05 02:42:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf62.4.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1610 [SAR 1:1 DAR 384:161], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 1556023
+        DURATION        : 00:24:20.959000000
+        NUMBER_OF_FRAMES: 35063
+        NUMBER_OF_BYTES : 284160781
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-05 02:42:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   40 fps=0.0 q=-0.0 size=N/A time=00:00:01.66 bitrate=N/A speed=3.33x    [out#0/null @ 0x5609a2f50f40] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.49x    

@@ -1,0 +1,52 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E177 - 第177集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-09-17T18:41:21.6270825+08:00
+    encoder         : Lavf58.32.104
+  Duration: 00:21:46.86, start: 0.000000, bitrate: 6125 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 5994 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-09-17T18:41:21.6270825+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   11 fps=0.0 q=-0.0 size=N/A time=00:00:00.48 bitrate=N/A speed=0.954x    [Parsed_blackframe_0 @ 0x7f8b0c002340] frame:24 pblack:50 pts:89400 t:0.993333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:31 pblack:50 pts:114600 t:1.273333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:32 pblack:51 pts:118200 t:1.313333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:33 pblack:52 pts:121800 t:1.353333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:34 pblack:53 pts:125400 t:1.393333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:35 pblack:53 pts:129000 t:1.433333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:36 pblack:53 pts:132600 t:1.473333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:37 pblack:52 pts:136199 t:1.513322 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:38 pblack:53 pts:139800 t:1.553333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:39 pblack:54 pts:143400 t:1.593333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:40 pblack:52 pts:147000 t:1.633333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:41 pblack:50 pts:150599 t:1.673322 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:43 pblack:50 pts:157800 t:1.753333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:44 pblack:52 pts:161400 t:1.793333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:45 pblack:53 pts:165000 t:1.833333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:46 pblack:52 pts:168600 t:1.873333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:47 pblack:52 pts:172199 t:1.913322 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:48 pblack:51 pts:175800 t:1.953333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f8b0c002340] frame:49 pblack:51 pts:179400 t:1.993333 type:B last_keyframe:0
+[out#0/null @ 0x55e1cbc7a840] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.07x    

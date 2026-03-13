@@ -1,0 +1,39 @@
+Input #0, matroska,webm, from '/media/Animes/剑风传奇 (1997)/Season 1/剑风传奇 - S01E24 - 第24集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.4.100
+  Duration: 00:23:39.44, start: -0.021000, bitrate: 15173 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, progressive), 2880x2160 [SAR 1:1 DAR 4:3], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        ENCODER         : Lavc60.6.101 hevc_nvenc
+        DURATION        : 00:23:39.335000000
+  Stream #0:1(jpn): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 608334
+        NUMBER_OF_FRAMES: 16634
+        NUMBER_OF_BYTES : 107935207
+        _STATISTICS_WRITING_APP: mkvmerge v69.0.0 ('Day And Age') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2023-10-12 12:30:36
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        ENCODER         : Lavc60.6.101 aac
+        DURATION        : 00:23:39.441000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, progressive), 2880x2160 [SAR 1:1 DAR 4:3], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn
+      Metadata:
+        DURATION        : 00:23:39.335000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    6 fps=3.0 q=-0.0 size=N/A time=00:00:00.29 bitrate=N/A speed=0.146x    [Parsed_blackframe_0 @ 0x7fee84002340] frame:40 pblack:65 pts:1691 t:1.691000 type:B last_keyframe:0
+frame=   41 fps= 16 q=-0.0 size=N/A time=00:00:01.75 bitrate=N/A speed=0.699x    [Parsed_blackframe_0 @ 0x7fee84002340] frame:41 pblack:66 pts:1733 t:1.733000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fee84002340] frame:42 pblack:66 pts:1774 t:1.774000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fee84002340] frame:43 pblack:65 pts:1816 t:1.816000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fee84002340] frame:44 pblack:65 pts:1858 t:1.858000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fee84002340] frame:45 pblack:65 pts:1899 t:1.899000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fee84002340] frame:46 pblack:65 pts:1941 t:1.941000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fee84002340] frame:47 pblack:65 pts:1983 t:1.983000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fee84002340] frame:48 pblack:65 pts:2024 t:2.024000 type:B last_keyframe:0
+[out#0/null @ 0x555e10e1ac80] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 18 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.764x    

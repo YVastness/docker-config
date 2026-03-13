@@ -1,0 +1,227 @@
+[INFO]: 2026-03-13 15:00:24 - LiteMode is true
+[INFO]: 2026-03-13 15:00:24 - ChineseSubFinder Version: v0.55.3 Lite
+[INFO]: 2026-03-13 15:00:25 - Reload Log Settings, level = Info
+[INFO]: 2026-03-13 15:00:25 - Speed Dev Mode is Off
+[INFO]: 2026-03-13 15:00:25 - Download.SupplierCheck() Start ...
+[INFO]: 2026-03-13 15:00:25 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2026-03-13 15:00:25 - PreDownloadProcess.Init() Start...
+[INFO]: 2026-03-13 15:00:25 - ClearRodTmpRootFolder Done
+[INFO]: 2026-03-13 15:00:25 - PreDownloadProcess.Init() End
+[INFO]: 2026-03-13 15:00:25 - PreDownloadProcess.Check() Start...
+[INFO]: 2026-03-13 15:00:25 - UseHttpProxy = false
+[INFO]: 2026-03-13 15:00:27 - UrlConnectednessTest Target Site https://baidu.com Speed: 2075 ms, Status: true
+[INFO]: 2026-03-13 15:00:27 - Check Sub Supplier Start...
+[INFO]: 2026-03-13 15:00:28 - xunlei Check Alive = true, Speed = 227 ms
+[ERROR]: 2026-03-13 15:00:28 - a4k CheckAlive.Get Get "https://www.a4k.net": dial tcp: lookup www.a4k.net on 8.8.8.8:53: no such host
+[WARNING]: 2026-03-13 15:00:28 - a4k Check Alive = false
+[ERROR]: 2026-03-13 15:00:28 - assrt NewHttpClient: Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": read tcp 172.17.0.2:42436->43.133.211.58:443: read: connection reset by peer
+[ERROR]: 2026-03-13 15:00:28 - assrt CheckAlive Error Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": read tcp 172.17.0.2:42436->43.133.211.58:443: read: connection reset by peer
+[WARNING]: 2026-03-13 15:00:28 - assrt Check Alive = false
+[INFO]: 2026-03-13 15:00:29 - shooter Check Alive = true, Speed = 1356 ms
+[INFO]: 2026-03-13 15:00:29 - Alive Supplier: xunlei
+[INFO]: 2026-03-13 15:00:29 - Alive Supplier: shooter
+[INFO]: 2026-03-13 15:00:29 - Check Sub Supplier End
+[INFO]: 2026-03-13 15:00:29 - MovieFolder Index 0 -- /media/Movies
+[ERROR]: 2026-03-13 15:00:29 - MovieFolder not found Index 1 -- /media/Girls/JAV_output
+[ERROR]: 2026-03-13 15:00:29 - SeriesPaths not found Index 0 -- /media/TV Shows
+[ERROR]: 2026-03-13 15:00:29 - SeriesPaths not found Index 1 -- /media/Animes
+[INFO]: 2026-03-13 15:00:29 - PreDownloadProcess.Check() End
+[INFO]: 2026-03-13 15:00:29 - PreDownloadProcess.Wait() Done.
+[INFO]: 2026-03-13 15:00:29 - Download.SupplierCheck() End
+[INFO]: 2026-03-13 15:00:29 - Tmdb Api is Alive 450
+[INFO]: 2026-03-13 15:00:29 - Try Start Http Server At Port 19035
+[INFO]: 2026-03-13 15:00:29 - Setup is Done
+[INFO]: 2026-03-13 15:00:29 - PreJob Will Start...
+[INFO]: 2026-03-13 15:00:29 - PreJob.HotFix() Start...
+[INFO]: 2026-03-13 15:00:29 - If you have a lot of videos, it may take a lot of time, just wait...
+[INFO]: 2026-03-13 15:00:29 - PreJob.HotFix() End
+[INFO]: 2026-03-13 15:00:29 - PreJob.ChangeSubNameFormat() Start...
+[INFO]: 2026-03-13 15:00:29 - If you have a lot of videos, it may take a lot of time, just wait...
+[INFO]: 2026-03-13 15:00:29 - DesSubFormatter == LateTimeSubFormatter then skip process
+[INFO]: 2026-03-13 15:00:29 - PreJob.ChangeSubNameFormat() End
+[INFO]: 2026-03-13 15:00:29 - PreJob.Wait() Done.
+[INFO]: 2026-03-13 15:00:29 - Setup is Done
+[INFO]: 2026-03-13 15:00:29 - RunAtStartup: false, so will not Run At Startup
+[INFO]: 2026-03-13 15:00:29 - CronHelper Start...
+[INFO]: 2026-03-13 15:00:29 - Next Sub Scan Will Process At: 2026-03-13 21:00:29
+[INFO]: 2026-03-13 15:00:59 - /media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E03 - 第3集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:01:01 - /media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E135 - 第135集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:01:14 - /media/Animes/光阴之外 (2025)/Season 1/光阴之外 - S01E02 - 第2集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:01:29 - /media/Animes/斗破苍穹 (2017)/Season 5/斗破苍穹 - S05E178 - 第178集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:01:44 - /media/Animes/光阴之外 (2025)/Season 1/光阴之外 - S01E01 - 第1集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:01:59 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E08 - 第8集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:02:14 - /media/Animes/一拳超人 (2015)/Season 3/一拳超人 - S03E12 - 第12集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:02:29 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E12 - 第12集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:02:44 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E12 - 第12集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:02:59 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E05 - 第5集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:03:14 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E04 - 第4集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:03:29 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E10 - 第10集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:03:44 - /media/Animes/遮天 (2023)/Season 1/遮天 - S01E140 - 第140集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:03:59 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E02 - 第2集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:04:14 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E07 - 第7集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:04:29 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E03 - 第3集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:04:44 - /media/Animes/天相 (2025)/Season 1/天相 - S01E14 - 第14集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:04:59 - /media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E190 - 第190集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:05:14 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E10 - 第10集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:05:29 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E06 - 第6集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:05:44 - /media/Animes/遮天 (2023)/Season 1/遮天 - S01E141 - 第141集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:05:59 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E11 - 第11集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:06:14 - /media/Animes/一拳超人 (2015)/Season 3/一拳超人 - S03E11 - 第11集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:06:29 - /media/Animes/斗破苍穹 (2017)/Season 5/斗破苍穹 - S05E179 - 第179集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:06:44 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E09 - 第9集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:06:59 - /media/Animes/光阴之外 (2025)/Season 1/光阴之外 - S01E03 - 第3集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:07:14 - /media/Animes/剑来 (2024)/Season 2/剑来 - S02E02 - 第2集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:07:29 - /media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E132 - 第132集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:07:44 - /media/Animes/吞噬星空 (2020)/Season 1/吞噬星空 - S01E203 - 第203集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:07:59 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E05 - 第5集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:08:14 - /media/Animes/剑来 (2024)/Season 2/剑来 - S02E01 - 第1集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:08:29 - /media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E118 - 第118集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:08:44 - /media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E133 - 第133集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:08:59 - /media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E120 - 第120集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:09:14 - /media/Animes/天相 (2025)/Season 1/天相 - S01E13 - 第13集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:09:29 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E03 - 第3集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:09:44 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E04 - 第4集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:09:59 - /media/Animes/吞噬星空 (2020)/Season 1/吞噬星空 - S01E205 - 第205集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:10:14 - /media/Animes/剑来 (2024)/Season 2/剑来 - S02E03 - 第3集.mkv is missing, Delete This Job
+[INFO]: 2026-03-13 15:10:29 - /media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E01 - 第1集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:10:44 - /media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E01 - 第1集.mp4 is missing, Delete This Job
+[INFO]: 2026-03-13 15:21:14 - LiteMode is true
+[INFO]: 2026-03-13 15:21:14 - ChineseSubFinder Version: v0.55.3 Lite
+[INFO]: 2026-03-13 15:21:14 - Reload Log Settings, level = Info
+[INFO]: 2026-03-13 15:21:14 - Speed Dev Mode is Off
+[INFO]: 2026-03-13 15:21:15 - Download.SupplierCheck() Start ...
+[INFO]: 2026-03-13 15:21:15 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2026-03-13 15:21:15 - PreDownloadProcess.Init() Start...
+[INFO]: 2026-03-13 15:21:15 - ClearRodTmpRootFolder Done
+[INFO]: 2026-03-13 15:21:15 - PreDownloadProcess.Init() End
+[INFO]: 2026-03-13 15:21:15 - PreDownloadProcess.Check() Start...
+[INFO]: 2026-03-13 15:21:15 - UseHttpProxy = false
+[INFO]: 2026-03-13 15:21:18 - UrlConnectednessTest Target Site https://baidu.com Speed: 3100 ms, Status: true
+[INFO]: 2026-03-13 15:21:18 - Check Sub Supplier Start...
+[INFO]: 2026-03-13 15:21:18 - xunlei Check Alive = true, Speed = 136 ms
+[ERROR]: 2026-03-13 15:21:18 - a4k CheckAlive.Get Get "https://www.a4k.net": EOF
+[WARNING]: 2026-03-13 15:21:18 - a4k Check Alive = false
+[INFO]: 2026-03-13 15:21:19 - shooter Check Alive = true, Speed = 774 ms
+[ERROR]: 2026-03-13 15:21:19 - assrt NewHttpClient: Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[ERROR]: 2026-03-13 15:21:19 - assrt CheckAlive Error Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[WARNING]: 2026-03-13 15:21:19 - assrt Check Alive = false
+[INFO]: 2026-03-13 15:21:19 - Alive Supplier: xunlei
+[INFO]: 2026-03-13 15:21:19 - Alive Supplier: shooter
+[INFO]: 2026-03-13 15:21:19 - Check Sub Supplier End
+[INFO]: 2026-03-13 15:21:19 - MovieFolder Index 0 -- /media/Movies
+[INFO]: 2026-03-13 15:21:19 - MovieFolder Index 1 -- /media/Girls/JAV_output
+[INFO]: 2026-03-13 15:21:19 - SeriesPaths Index 0 -- /media/TV Shows
+[INFO]: 2026-03-13 15:21:19 - SeriesPaths Index 1 -- /media/Animes
+[INFO]: 2026-03-13 15:21:19 - PreDownloadProcess.Check() End
+[INFO]: 2026-03-13 15:21:19 - PreDownloadProcess.Wait() Done.
+[INFO]: 2026-03-13 15:21:19 - Download.SupplierCheck() End
+[INFO]: 2026-03-13 15:21:24 - Tmdb Api is Alive 450
+[INFO]: 2026-03-13 15:21:24 - Try Start Http Server At Port 19035
+[INFO]: 2026-03-13 15:21:24 - Setup is Done
+[INFO]: 2026-03-13 15:21:24 - PreJob Will Start...
+[INFO]: 2026-03-13 15:21:24 - PreJob.HotFix() Start...
+[INFO]: 2026-03-13 15:21:24 - If you have a lot of videos, it may take a lot of time, just wait...
+[INFO]: 2026-03-13 15:21:24 - PreJob.HotFix() End
+[INFO]: 2026-03-13 15:21:24 - PreJob.ChangeSubNameFormat() Start...
+[INFO]: 2026-03-13 15:21:24 - If you have a lot of videos, it may take a lot of time, just wait...
+[INFO]: 2026-03-13 15:21:24 - DesSubFormatter == LateTimeSubFormatter then skip process
+[INFO]: 2026-03-13 15:21:24 - PreJob.ChangeSubNameFormat() End
+[INFO]: 2026-03-13 15:21:24 - PreJob.Wait() Done.
+[INFO]: 2026-03-13 15:21:24 - Setup is Done
+[INFO]: 2026-03-13 15:21:24 - RunAtStartup: false, so will not Run At Startup
+[INFO]: 2026-03-13 15:21:24 - CronHelper Start...
+[INFO]: 2026-03-13 15:21:24 - Next Sub Scan Will Process At: 2026-03-13 21:21:24
+[INFO]: 2026-03-13 15:42:09 - ------------------------------------------
+[INFO]: 2026-03-13 15:42:09 - OneTimeSubtitleScanStart#eea91aabe2f20ad2a4f807d1c78fc152f64ef7a920251d8956d731a683802acc
+[INFO]: 2026-03-13 15:42:10 - Queue 1 DlSub Start /media/Animes/一人之下 (2016)
+[INFO]: 2026-03-13 15:42:10 - Queue 1 IMDB ID: tt12882132 NeedDownloadSubs: 1
+[INFO]: 2026-03-13 15:42:10 - Queue 1 NeedDownloadEps - S6E12
+[INFO]: 2026-03-13 15:42:10 - ------------------------------------------
+[INFO]: 2026-03-13 15:42:10 - Queue 1 xunlei Start...
+[INFO]: 2026-03-13 15:42:11 - xunlei Not Find Sub can be download 第 12 集 6 12
+[INFO]: 2026-03-13 15:42:11 - Queue 1 xunlei End
+[INFO]: 2026-03-13 15:42:11 - ------------------------------------------
+[INFO]: 2026-03-13 15:42:11 - ------------------------------------------
+[INFO]: 2026-03-13 15:42:11 - Queue 1 shooter Start...
+[INFO]: 2026-03-13 15:42:12 - shooter Not Find Sub can be download 第 12 集 6 12
+[INFO]: 2026-03-13 15:42:12 - Queue 1 shooter End
+[INFO]: 2026-03-13 15:42:12 - ------------------------------------------
+[INFO]: 2026-03-13 15:42:12 - Queue 1 DlSub End /media/Animes/一人之下 (2016)
+[INFO]: 2026-03-13 15:42:12 - ------------------------------------------
+[WARNING]: 2026-03-13 15:42:12 - DownloadSubtitleInAllSiteByOneSeries.subInfos == 0, No Sub Downloaded.
+[INFO]: 2026-03-13 15:42:12 - No Sub Found 一人之下 - S06E12 - 第12集.mp4 6 12
+[INFO]: 2026-03-13 15:42:12 - OneTimeSubtitleScanEnd
+[INFO]: 2026-03-13 15:42:12 - ------------------------------------------
+[INFO]: 2026-03-13 16:00:24 - ------------------------------------------
+[INFO]: 2026-03-13 16:00:24 - OneTimeSubtitleScanStart#eccb92b7cc6da0f8ad2d80e9d92ae415c8a5c3c687071ca6e0ed021cabc7b727
+[INFO]: 2026-03-13 16:00:24 - Queue 1 DlSub Start /media/Animes/完美世界 (2021)
+[INFO]: 2026-03-13 16:00:24 - Queue 1 IMDB ID: tt14986786 NeedDownloadSubs: 1
+[INFO]: 2026-03-13 16:00:24 - Queue 1 NeedDownloadEps - S1E259
+[INFO]: 2026-03-13 16:00:24 - ------------------------------------------
+[INFO]: 2026-03-13 16:00:24 - Queue 1 xunlei Start...
+[INFO]: 2026-03-13 16:00:24 - xunlei Not Find Sub can be download 特别篇：九天十地劫 1 259
+[INFO]: 2026-03-13 16:00:24 - Queue 1 xunlei End
+[INFO]: 2026-03-13 16:00:24 - ------------------------------------------
+[INFO]: 2026-03-13 16:00:24 - ------------------------------------------
+[INFO]: 2026-03-13 16:00:24 - Queue 1 shooter Start...
+[INFO]: 2026-03-13 16:00:25 - shooter Not Find Sub can be download 特别篇：九天十地劫 1 259
+[INFO]: 2026-03-13 16:00:25 - Queue 1 shooter End
+[INFO]: 2026-03-13 16:00:25 - ------------------------------------------
+[INFO]: 2026-03-13 16:00:25 - Queue 1 DlSub End /media/Animes/完美世界 (2021)
+[INFO]: 2026-03-13 16:00:25 - ------------------------------------------
+[WARNING]: 2026-03-13 16:00:25 - DownloadSubtitleInAllSiteByOneSeries.subInfos == 0, No Sub Downloaded.
+[INFO]: 2026-03-13 16:00:25 - No Sub Found 完美世界 - S01E259 - 第259集.mkv 1 259
+[INFO]: 2026-03-13 16:00:25 - OneTimeSubtitleScanEnd
+[INFO]: 2026-03-13 16:00:25 - ------------------------------------------
+[INFO]: 2026-03-13 16:21:24 - Download.SupplierCheck() Start ...
+[INFO]: 2026-03-13 16:21:24 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2026-03-13 16:21:24 - PreDownloadProcess.Init() Start...
+[INFO]: 2026-03-13 16:21:24 - ClearRodTmpRootFolder Done
+[INFO]: 2026-03-13 16:21:24 - PreDownloadProcess.Init() End
+[INFO]: 2026-03-13 16:21:24 - PreDownloadProcess.Check() Start...
+[INFO]: 2026-03-13 16:21:24 - UseHttpProxy = false
+[INFO]: 2026-03-13 16:21:24 - UrlConnectednessTest Target Site https://baidu.com Speed: 355 ms, Status: true
+[INFO]: 2026-03-13 16:21:24 - Check Sub Supplier Start...
+[INFO]: 2026-03-13 16:21:24 - xunlei Check Alive = true, Speed = 143 ms
+[ERROR]: 2026-03-13 16:21:25 - assrt NewHttpClient: Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[ERROR]: 2026-03-13 16:21:25 - assrt CheckAlive Error Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[WARNING]: 2026-03-13 16:21:25 - assrt Check Alive = false
+[ERROR]: 2026-03-13 16:21:25 - a4k CheckAlive.Get Get "https://www.a4k.net": EOF
+[WARNING]: 2026-03-13 16:21:25 - a4k Check Alive = false
+[INFO]: 2026-03-13 16:21:25 - shooter Check Alive = true, Speed = 1360 ms
+[INFO]: 2026-03-13 16:21:25 - Alive Supplier: xunlei
+[INFO]: 2026-03-13 16:21:25 - Alive Supplier: shooter
+[INFO]: 2026-03-13 16:21:25 - Check Sub Supplier End
+[INFO]: 2026-03-13 16:21:25 - MovieFolder Index 0 -- /media/Movies
+[INFO]: 2026-03-13 16:21:25 - MovieFolder Index 1 -- /media/Girls/JAV_output
+[INFO]: 2026-03-13 16:21:25 - SeriesPaths Index 0 -- /media/TV Shows
+[INFO]: 2026-03-13 16:21:25 - SeriesPaths Index 1 -- /media/Animes
+[INFO]: 2026-03-13 16:21:25 - PreDownloadProcess.Check() End
+[INFO]: 2026-03-13 16:21:25 - PreDownloadProcess.Wait() Done.
+[INFO]: 2026-03-13 16:21:25 - Download.SupplierCheck() End
+[INFO]: 2026-03-13 17:21:24 - Download.SupplierCheck() Start ...
+[INFO]: 2026-03-13 17:21:24 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2026-03-13 17:21:24 - PreDownloadProcess.Init() Start...
+[INFO]: 2026-03-13 17:21:24 - ClearRodTmpRootFolder Done
+[INFO]: 2026-03-13 17:21:24 - PreDownloadProcess.Init() End
+[INFO]: 2026-03-13 17:21:24 - PreDownloadProcess.Check() Start...
+[INFO]: 2026-03-13 17:21:24 - UseHttpProxy = false
+[INFO]: 2026-03-13 17:21:24 - UrlConnectednessTest Target Site https://baidu.com Speed: 337 ms, Status: true
+[INFO]: 2026-03-13 17:21:24 - Check Sub Supplier Start...
+[INFO]: 2026-03-13 17:21:24 - xunlei Check Alive = true, Speed = 222 ms
+[ERROR]: 2026-03-13 17:21:25 - a4k CheckAlive.Get Get "https://www.a4k.net": EOF
+[WARNING]: 2026-03-13 17:21:25 - a4k Check Alive = false
+[ERROR]: 2026-03-13 17:21:26 - assrt NewHttpClient: Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[ERROR]: 2026-03-13 17:21:26 - assrt CheckAlive Error Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[WARNING]: 2026-03-13 17:21:26 - assrt Check Alive = false
+[INFO]: 2026-03-13 17:21:26 - shooter Check Alive = true, Speed = 1959 ms
+[INFO]: 2026-03-13 17:21:26 - Alive Supplier: xunlei
+[INFO]: 2026-03-13 17:21:26 - Alive Supplier: shooter
+[INFO]: 2026-03-13 17:21:26 - Check Sub Supplier End
+[INFO]: 2026-03-13 17:21:26 - MovieFolder Index 0 -- /media/Movies
+[INFO]: 2026-03-13 17:21:26 - MovieFolder Index 1 -- /media/Girls/JAV_output
+[INFO]: 2026-03-13 17:21:26 - SeriesPaths Index 0 -- /media/TV Shows
+[INFO]: 2026-03-13 17:21:26 - SeriesPaths Index 1 -- /media/Animes
+[INFO]: 2026-03-13 17:21:26 - PreDownloadProcess.Check() End
+[INFO]: 2026-03-13 17:21:26 - PreDownloadProcess.Wait() Done.
+[INFO]: 2026-03-13 17:21:26 - Download.SupplierCheck() End

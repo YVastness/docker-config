@@ -1,0 +1,38 @@
+Input #0, matroska,webm, from '/media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E11 - 第11集.mkv':
+  Metadata:
+    encoder         : Lavf
+  Duration: 00:23:25.82, start: 0.000000, bitrate: 1823 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1596 [SAR 1:1 DAR 320:133], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:23:25.708000000
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        DURATION        : 00:23:25.824000000
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        title           : AAC5.1
+        DURATION        : 00:23:25.717000000
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        DURATION        : 00:23:25.717000000
+Stream mapping:
+  Stream #0:2 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Audio: pcm_s16le, 48000 Hz, 5.1, s16, 4608 kb/s (default)
+      Metadata:
+        title           : AAC5.1
+        DURATION        : 00:23:25.717000000
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f3750002440] silence_start: 2.426125
+[silencedetect @ 0x7f3750002440] silence_end: 3.782229 | silence_duration: 1.356104
+[silencedetect @ 0x7f3750002440] silence_start: 5.11825
+[silencedetect @ 0x7f3750002440] silence_end: 5.450188 | silence_duration: 0.331937
+[silencedetect @ 0x7f3750002440] silence_start: 6.424958
+[silencedetect @ 0x7f3750002440] silence_end: 7.034708 | silence_duration: 0.60975
+[out#0/null @ 0x557820b51f80] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 184x    

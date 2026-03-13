@@ -1,0 +1,69 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Girls/JAV_output/武藤彩香/DASS-115/DASS-115-C.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.27.100
+  Duration: 01:59:27.19, start: 0.000000, bitrate: 6202 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5998 kb/s, 29.93 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080, q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 1 >= 1
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 6 >= 6
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 11 >= 11
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 16 >= 16
+frame=   22 fps= 22 q=-0.0 size=N/A time=00:00:00.76 bitrate=N/A speed=0.759x    [null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 21 >= 21
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 26 >= 26
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:33 pblack:73 pts:101377 t:1.126411 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:34 pblack:95 pts:104380 t:1.159778 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:35 pblack:99 pts:107383 t:1.193144 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:36 pblack:99 pts:110386 t:1.226511 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:37 pblack:99 pts:113389 t:1.259878 type:B last_keyframe:0
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 31 >= 31
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:38 pblack:99 pts:116392 t:1.293244 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:39 pblack:99 pts:119395 t:1.326611 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:40 pblack:99 pts:122398 t:1.359978 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:41 pblack:99 pts:125401 t:1.393344 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:42 pblack:99 pts:128404 t:1.426711 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:43 pblack:99 pts:131407 t:1.460078 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:44 pblack:99 pts:134410 t:1.493444 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:45 pblack:99 pts:137413 t:1.526811 type:B last_keyframe:0
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 37 >= 37
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:46 pblack:99 pts:140416 t:1.560178 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:47 pblack:99 pts:143419 t:1.593544 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:48 pblack:99 pts:146422 t:1.626911 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:49 pblack:99 pts:149425 t:1.660278 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:50 pblack:99 pts:152428 t:1.693644 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:51 pblack:99 pts:155431 t:1.727011 type:B last_keyframe:0
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 42 >= 42
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:52 pblack:99 pts:158434 t:1.760378 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:53 pblack:99 pts:161437 t:1.793744 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:54 pblack:99 pts:164440 t:1.827111 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:55 pblack:99 pts:167443 t:1.860478 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:56 pblack:99 pts:170446 t:1.893844 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:57 pblack:99 pts:173449 t:1.927211 type:B last_keyframe:0
+[null @ 0x563fef590d40] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 47 >= 47
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:58 pblack:99 pts:176452 t:1.960578 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:59 pblack:99 pts:179455 t:1.993944 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f21b4002340] frame:60 pblack:99 pts:182458 t:2.027311 type:B last_keyframe:0
+[out#0/null @ 0x563fef5c46c0] video:25KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   59 fps= 47 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.58x    

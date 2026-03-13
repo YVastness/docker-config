@@ -1,0 +1,73 @@
+Input #0, matroska,webm, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1140 - 第1140集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-18T07:08:36.000000Z
+  Duration: 00:23:35.88, start: 0.000000, bitrate: 10267 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 10075634
+        DURATION        : 00:23:35.833000000
+        NUMBER_OF_FRAMES: 33946
+        NUMBER_OF_BYTES : 1783176922
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-18 07:08:36
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 190052
+        DURATION        : 00:23:35.883000000
+        NUMBER_OF_FRAMES: 60977
+        NUMBER_OF_BYTES : 33636467
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-18 07:08:36
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f55b0001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f55b0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f55b0001f80] n:   0 pts:    304 pts_time:0.304   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:01F6975D plane_checksum:[BA7ED370 63A8204A FE84A394] mean:[316 493 524] stdev:[70.8 13.6 8.7]
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Content light level metadata: MaxCLL=695, MaxFALL=457
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.1067, average_maxrgb[0]: 0.3643, variance_maxrgb[0]:0.3941, maximum_maxrgb[0]: 0.4083, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 1, targeted_system_display_maximum_luminance[0][0]: 0.7717, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.4478, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.9482, base_param_m_b[0][0]: 0.5015, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 4, base_param_Delta[0][0]: 0.0787, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.8314, 3Spline_TH_enable[0][0][0]: 0.1521, 3Spline_TH_Delta1[0][0][0]: 0.2991, 3Spline_TH_Delta2[0][0][0]: 0.2991, 3Spline_enable_Strength[0][0][0]: 0.4980, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f55b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 10075634
+        DURATION        : 00:23:35.833000000
+        NUMBER_OF_FRAMES: 33946
+        NUMBER_OF_BYTES : 1783176922
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-18 07:08:36
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f55b0001f80] n:   1 pts:    555 pts_time:0.555   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:2807721C plane_checksum:[013ADAAB C0084BB1 C0084BB1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Content light level metadata: MaxCLL=695, MaxFALL=457
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0308, average_maxrgb[0]: 0.0349, variance_maxrgb[0]:0.2977, maximum_maxrgb[0]: 0.0352, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 1, targeted_system_display_maximum_luminance[0][0]: 0.7717, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.4799, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.9404, base_param_m_b[0][0]: 0.8328, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 4, base_param_Delta[0][0]: 0.0787, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.8471, 3Spline_TH_enable[0][0][0]: 0.0349, 3Spline_TH_Delta1[0][0][0]: 0.4291, 3Spline_TH_Delta2[0][0][0]: 0.4291, 3Spline_enable_Strength[0][0][0]: 0.5922, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f55b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7f55b0001f80] n:   2 pts:   4433 pts_time:4.433   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:974C1801 plane_checksum:[44502B2D C6F6D073 8D791C52] mean:[174 545 503] stdev:[66.2 20.4 7.1]
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Content light level metadata: MaxCLL=695, MaxFALL=457
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0247, average_maxrgb[0]: 0.2996, variance_maxrgb[0]:0.3846, maximum_maxrgb[0]: 0.4835, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 1, targeted_system_display_maximum_luminance[0][0]: 0.7717, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.4799, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.9453, base_param_m_b[0][0]: 0.3382, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 4, base_param_Delta[0][0]: 0.0787, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.8471, 3Spline_TH_enable[0][0][0]: 0.0349, 3Spline_TH_Delta1[0][0][0]: 0.4291, 3Spline_TH_Delta2[0][0][0]: 0.4291, 3Spline_enable_Strength[0][0][0]: 0.5412, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f55b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7f55b0001f80] n:   3 pts:   5977 pts_time:5.977   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:2807721C plane_checksum:[013ADAAB C0084BB1 C0084BB1] mean:[64 512 512] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Content light level metadata: MaxCLL=695, MaxFALL=457
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0317, average_maxrgb[0]: 0.0349, variance_maxrgb[0]:0.2977, maximum_maxrgb[0]: 0.0361, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 1, targeted_system_display_maximum_luminance[0][0]: 0.7717, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.4799, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.9404, base_param_m_b[0][0]: 0.8319, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 4, base_param_Delta[0][0]: 0.0787, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.8471, 3Spline_TH_enable[0][0][0]: 0.0349, 3Spline_TH_Delta1[0][0][0]: 0.4291, 3Spline_TH_Delta2[0][0][0]: 0.4291, 3Spline_enable_Strength[0][0][0]: 0.5961, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f55b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7f55b0001f80] n:   4 pts:   6561 pts_time:6.561   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:9BE589CD plane_checksum:[0A3A47EA 8E0581A9 8FFBC02B] mean:[484 530 509] stdev:[95.6 13.8 8.1]
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Content light level metadata: MaxCLL=695, MaxFALL=457
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0537, average_maxrgb[0]: 0.5834, variance_maxrgb[0]:0.6444, maximum_maxrgb[0]: 0.7189, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 1, targeted_system_display_maximum_luminance[0][0]: 0.7717, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.3796, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.9355, base_param_m_b[0][0]: 0.0196, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 4, base_param_Delta[0][0]: 0.0787, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.7686, 3Spline_TH_enable[0][0][0]: 0.2498, 3Spline_TH_Delta1[0][0][0]: 0.2991, 3Spline_TH_Delta2[0][0][0]: 0.2991, 3Spline_enable_Strength[0][0][0]: 0.3647, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f55b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+frame=    5 fps=0.0 q=-0.0 size=N/A time=00:00:06.58 bitrate=N/A speed=13.2x    [Parsed_showinfo_0 @ 0x7f55b0001f80] n:   5 pts:  11524 pts_time:11.524  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:B224BB8C plane_checksum:[C7D231CF 7DF27E95 2AA30B28] mean:[482 529 510] stdev:[123.0 14.0 7.9]
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - Content light level metadata: MaxCLL=695, MaxFALL=457
+[Parsed_showinfo_0 @ 0x7f55b0001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0220, average_maxrgb[0]: 0.5966, variance_maxrgb[0]:0.7009, maximum_maxrgb[0]: 0.7238, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 1, targeted_system_display_maximum_luminance[0][0]: 0.7717, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.3842, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.9365, base_param_m_b[0][0]: 0.0000, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 4, base_param_Delta[0][0]: 0.0787, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.9882, 3Spline_TH_enable[0][0][0]: 0.0379, 3Spline_TH_Delta1[0][0][0]: 0.5357, 3Spline_TH_Delta2[0][0][0]: 0.5357, 3Spline_enable_Strength[0][0][0]: 0.5216, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f55b0001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[out#0/null @ 0x55c0b9d333c0] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    5 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.58 bitrate=N/A speed=9.65x    

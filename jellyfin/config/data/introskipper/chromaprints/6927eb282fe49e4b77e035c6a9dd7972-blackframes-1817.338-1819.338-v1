@@ -1,0 +1,61 @@
+[png @ 0x561b26c9e4c0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x561b26c98000] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E189 - 第189集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-10T10:47:51.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:30:47.34, start: 0.000000, bitrate: 6919 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 6785612
+        DURATION        : 00:30:47.280000000
+        NUMBER_OF_FRAMES: 46182
+        NUMBER_OF_BYTES : 1566865887
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-10 10:47:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 125346
+        DURATION        : 00:30:47.338000000
+        NUMBER_OF_FRAMES: 86594
+        NUMBER_OF_BYTES : 28944708
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-10 10:47:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 6785612
+        DURATION        : 00:30:47.280000000
+        NUMBER_OF_FRAMES: 46182
+        NUMBER_OF_BYTES : 1566865887
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-10 10:47:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   15 fps= 10 q=-0.0 size=N/A time=00:00:00.64 bitrate=N/A speed=0.425x    [Parsed_blackframe_0 @ 0x7f381c002340] frame:21 pblack:67 pts:864 t:0.864000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f381c002340] frame:22 pblack:64 pts:904 t:0.904000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f381c002340] frame:23 pblack:63 pts:944 t:0.944000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f381c002340] frame:24 pblack:62 pts:984 t:0.984000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f381c002340] frame:25 pblack:62 pts:1024 t:1.024000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f381c002340] frame:27 pblack:65 pts:1104 t:1.104000 type:B last_keyframe:26
+frame=   41 fps= 20 q=-0.0 size=N/A time=00:00:01.68 bitrate=N/A speed=0.837x    [out#0/null @ 0x561b26cd08c0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 23 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.937x    

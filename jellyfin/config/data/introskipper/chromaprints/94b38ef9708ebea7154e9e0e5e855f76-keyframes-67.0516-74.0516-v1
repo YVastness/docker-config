@@ -1,0 +1,73 @@
+Input #0, matroska,webm, from '/media/Animes/诡秘之主 (2025)/Season 1/诡秘之主 - S01E06 - 第6集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-26T03:24:57.000000Z
+  Duration: 00:36:46.87, start: 0.000000, bitrate: 8096 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x816 [SAR 799:800 DAR 47:20], SAR 959:960 DAR 959:408, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 7965702
+        DURATION        : 00:36:46.800000000
+        NUMBER_OF_FRAMES: 55170
+        NUMBER_OF_BYTES : 2197339100
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-26 03:24:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 127999
+        DURATION        : 00:36:46.871000000
+        NUMBER_OF_FRAMES: 95042
+        NUMBER_OF_BYTES : 35309935
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-26 03:24:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : CHS
+        BPS             : 32
+        DURATION        : 00:34:11.400000000
+        NUMBER_OF_FRAMES: 425
+        NUMBER_OF_BYTES : 8286
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-26 03:24:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : CHT
+        BPS             : 32
+        DURATION        : 00:34:11.400000000
+        NUMBER_OF_FRAMES: 425
+        NUMBER_OF_BYTES : 8286
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-26 03:24:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7ff664001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7ff664001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7ff664001f80] n:   0 pts:    948 pts_time:0.948   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:959/960 s:1920x816 i:P iskey:1 type:I checksum:E01D2130 plane_checksum:[87CCEA1C CD5D2CC7 D50D0A3E] mean:[62 122 135] stdev:[30.2 3.3 4.0]
+[Parsed_showinfo_0 @ 0x7ff664001f80] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 1920x816 [SAR 959:960 DAR 959:408], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 7965702
+        DURATION        : 00:36:46.800000000
+        NUMBER_OF_FRAMES: 55170
+        NUMBER_OF_BYTES : 2197339100
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-26 03:24:57
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7ff664001f80] n:   1 pts:   2948 pts_time:2.948   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:959/960 s:1920x816 i:P iskey:1 type:I checksum:762B4F2F plane_checksum:[5B6B1684 CC1BA183 38199719] mean:[62 122 135] stdev:[31.7 3.7 4.3]
+[Parsed_showinfo_0 @ 0x7ff664001f80] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ff664001f80] n:   2 pts:   4948 pts_time:4.948   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:959/960 s:1920x816 i:P iskey:1 type:I checksum:61BE1574 plane_checksum:[0C8C9662 EB6A3A11 B79C44F2] mean:[16 128 128] stdev:[0.0 0.1 0.1]
+[Parsed_showinfo_0 @ 0x7ff664001f80] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ff664001f80] n:   3 pts:   6948 pts_time:6.948   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:959/960 s:1920x816 i:P iskey:1 type:I checksum:8A31A5F7 plane_checksum:[CFC42ABD 691D7AE8 9FC40052] mean:[25 128 125] stdev:[4.7 1.0 1.1]
+[Parsed_showinfo_0 @ 0x7ff664001f80] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7ff664001f80] n:   4 pts:   8948 pts_time:8.948   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:959/960 s:1920x816 i:P iskey:1 type:I checksum:083B63C1 plane_checksum:[6FA6EEA0 9821B07D 7256C486] mean:[38 129 122] stdev:[12.2 2.0 2.4]
+[Parsed_showinfo_0 @ 0x7ff664001f80] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x556172d5a280] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:07.00 bitrate=N/A speed=37.6x    

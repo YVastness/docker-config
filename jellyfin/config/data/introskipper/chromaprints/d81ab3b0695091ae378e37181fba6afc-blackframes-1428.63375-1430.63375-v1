@@ -1,0 +1,83 @@
+Input #0, matroska,webm, from '/media/Animes/龙族 (2022)/Season 2/龙族 - S02E05 - 第5集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-01T02:12:32.000000Z
+    MOVIE/ENCODER   : Lavf62.0.102
+  Duration: 00:24:11.87, start: 0.000000, bitrate: 2637 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1610 [SAR 1:1 DAR 384:161], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1999270
+        DURATION        : 00:24:11.709000000
+        NUMBER_OF_FRAMES: 34841
+        NUMBER_OF_BYTES : 362794845
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-01 02:12:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125355
+        DURATION        : 00:24:11.754000000
+        NUMBER_OF_FRAMES: 68051
+        NUMBER_OF_BYTES : 22748190
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-01 02:12:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 253361
+        DURATION        : 00:24:11.754000000
+        NUMBER_OF_FRAMES: 68051
+        NUMBER_OF_BYTES : 45977304
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-01 02:12:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:24:11.872000000
+        NUMBER_OF_FRAMES: 45371
+        NUMBER_OF_BYTES : 46459904
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-01 02:12:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf62.0.102
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1610 [SAR 1:1 DAR 384:161], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 1999270
+        DURATION        : 00:24:11.709000000
+        NUMBER_OF_FRAMES: 34841
+        NUMBER_OF_BYTES : 362794845
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-01 02:12:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:27 pblack:62 pts:1158 t:1.158000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:28 pblack:82 pts:1200 t:1.200000 type:B last_keyframe:0
+frame=   29 fps= 29 q=-0.0 size=N/A time=00:00:01.25 bitrate=N/A speed=1.25x    [Parsed_blackframe_0 @ 0x7f74e0002340] frame:29 pblack:98 pts:1241 t:1.241000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:30 pblack:98 pts:1283 t:1.283000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:31 pblack:98 pts:1325 t:1.325000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:32 pblack:98 pts:1366 t:1.366000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:33 pblack:98 pts:1408 t:1.408000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:34 pblack:98 pts:1450 t:1.450000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:35 pblack:98 pts:1491 t:1.491000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:36 pblack:98 pts:1533 t:1.533000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:37 pblack:98 pts:1575 t:1.575000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:38 pblack:98 pts:1616 t:1.616000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:39 pblack:98 pts:1658 t:1.658000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:40 pblack:98 pts:1700 t:1.700000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:41 pblack:98 pts:1741 t:1.741000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:42 pblack:98 pts:1783 t:1.783000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:43 pblack:98 pts:1825 t:1.825000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:44 pblack:98 pts:1866 t:1.866000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:45 pblack:98 pts:1908 t:1.908000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:46 pblack:98 pts:1950 t:1.950000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:47 pblack:98 pts:1991 t:1.991000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f74e0002340] frame:48 pblack:98 pts:2033 t:2.033000 type:B last_keyframe:0
+[out#0/null @ 0x562a6529cf40] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 38 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.61x    

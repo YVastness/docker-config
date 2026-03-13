@@ -1,0 +1,42 @@
+Input #0, matroska,webm, from '/media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E94 - 第94集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-03-28T12:07:23.000000Z
+  Duration: 00:21:31.41, start: 0.000000, bitrate: 6325 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6197443
+        DURATION        : 00:21:31.366000000
+        NUMBER_OF_FRAMES: 38741
+        NUMBER_OF_BYTES : 1000395913
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-03-28 12:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125338
+        DURATION        : 00:21:31.413000000
+        NUMBER_OF_FRAMES: 60535
+        NUMBER_OF_BYTES : 20232975
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-03-28 12:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        BPS             : 6197443
+        DURATION        : 00:21:31.366000000
+        NUMBER_OF_FRAMES: 38741
+        NUMBER_OF_BYTES : 1000395913
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-03-28 12:07:23
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   10 fps=6.7 q=-0.0 size=N/A time=00:00:00.36 bitrate=N/A speed=0.244x    frame=   59 fps= 29 q=-0.0 size=N/A time=00:00:02.00 bitrate=N/A speed=   1x    [Parsed_blackframe_0 @ 0x7fb688002340] frame:60 pblack:52 pts:2028 t:2.028000 type:B last_keyframe:57
+[out#0/null @ 0x55ca8eab91c0] video:25KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   59 fps= 29 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.991x    

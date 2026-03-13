@@ -1,0 +1,48 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E142 - 第142集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.16.100
+  Duration: 00:20:27.78, start: 0.000000, bitrate: 10745 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 10614 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f5398001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f5398001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f5398001f80] n:   0 pts: 230886 pts_time:2.5654  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:8DDB857F plane_checksum:[F6518129 E2708052 ABB683F5] mean:[92 114 112] stdev:[45.7 12.1 18.3]
+[Parsed_showinfo_0 @ 0x7f5398001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f5398001f80] User Data=54656e63656e742d563236352d312e362e392e322d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31352e342063722d6931322e306132342e302072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f5398001f80] 
+[Parsed_showinfo_0 @ 0x7f5398001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:02.60 bitrate=N/A speed= 5.2x    [Parsed_showinfo_0 @ 0x7f5398001f80] n:   1 pts: 695285 pts_time:7.725389 duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:E9C5F54F plane_checksum:[54C1D8F0 C48B4103 45EDDB4D] mean:[75 156 116] stdev:[56.0 15.4 6.8]
+[Parsed_showinfo_0 @ 0x7f5398001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f5398001f80] User Data=54656e63656e742d563236352d312e362e392e322d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31352e342063722d6931322e306132342e302072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f5398001f80] 
+[Parsed_showinfo_0 @ 0x7f5398001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f5398001f80] n:   2 pts:1235285 pts_time:13.725389 duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:5013549F plane_checksum:[64F5E256 FF1953B0 60781E8A] mean:[46 119 158] stdev:[36.7 8.9 20.9]
+[Parsed_showinfo_0 @ 0x7f5398001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f5398001f80] User Data=54656e63656e742d563236352d312e362e392e322d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31352e342063722d6931322e306132342e302072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f5398001f80] 
+[Parsed_showinfo_0 @ 0x7f5398001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55bfaf3783c0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.60 bitrate=N/A speed=3.46x    

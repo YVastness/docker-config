@@ -1,0 +1,43 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Girls/JAV_output/三木環奈/MIDA-204/MIDA-204-破解-C.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.9.107
+  Duration: 02:20:48.85, start: 0.000000, bitrate: 7671 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 7404 kb/s, 29.97 fps, 29.97 tbr, 11988 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.33.102 h264_nvenc
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 255 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 29.97 fps, 29.97 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:50 pblack:56 pts:20040 t:1.671672 type:P last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:51 pblack:70 pts:20440 t:1.705038 type:B last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:52 pblack:90 pts:20840 t:1.738405 type:P last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:53 pblack:97 pts:21240 t:1.771772 type:B last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:54 pblack:99 pts:21640 t:1.805138 type:P last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:55 pblack:99 pts:22040 t:1.838505 type:B last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:56 pblack:99 pts:22440 t:1.871872 type:P last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:57 pblack:99 pts:22840 t:1.905239 type:B last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:58 pblack:99 pts:23240 t:1.938605 type:P last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:59 pblack:99 pts:23640 t:1.971972 type:B last_keyframe:15
+[Parsed_blackframe_0 @ 0x7f17bc002340] frame:60 pblack:99 pts:24040 t:2.005339 type:P last_keyframe:15
+[out#0/null @ 0x5571f9a17b00] video:26KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   60 fps= 30 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.01x    

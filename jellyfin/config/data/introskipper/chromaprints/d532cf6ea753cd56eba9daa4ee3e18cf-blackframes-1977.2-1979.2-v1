@@ -1,0 +1,61 @@
+Input #0, matroska,webm, from '/media/Animes/诡秘之主 (2025)/Season 1/诡秘之主 - S01E05 - 第5集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-19T03:13:55.000000Z
+  Duration: 00:33:23.74, start: 0.000000, bitrate: 8104 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x816 [SAR 799:800 DAR 47:20], SAR 959:960 DAR 959:408, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 7974376
+        DURATION        : 00:33:23.680000000
+        NUMBER_OF_FRAMES: 50092
+        NUMBER_OF_BYTES : 1997262314
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-19 03:13:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 128000
+        DURATION        : 00:33:23.742000000
+        NUMBER_OF_FRAMES: 86294
+        NUMBER_OF_BYTES : 32059945
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-19 03:13:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : CHS
+        BPS             : 39
+        DURATION        : 00:29:58.920000000
+        NUMBER_OF_FRAMES: 433
+        NUMBER_OF_BYTES : 8936
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-19 03:13:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : CHT
+        BPS             : 39
+        DURATION        : 00:29:58.920000000
+        NUMBER_OF_FRAMES: 433
+        NUMBER_OF_BYTES : 8936
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-19 03:13:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 1920x816 [SAR 959:960 DAR 959:408], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 7974376
+        DURATION        : 00:33:23.680000000
+        NUMBER_OF_FRAMES: 50092
+        NUMBER_OF_BYTES : 1997262314
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-19 03:13:55
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   13 fps=0.0 q=-0.0 size=N/A time=00:00:00.52 bitrate=N/A speed=1.04x    [out#0/null @ 0x5644219198c0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.68x    

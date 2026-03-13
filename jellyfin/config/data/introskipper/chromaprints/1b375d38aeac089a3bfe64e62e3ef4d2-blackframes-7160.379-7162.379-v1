@@ -1,0 +1,18 @@
+Input #0, matroska,webm, from '/media/Girls/JAV_output/凪ひかる/SONE-012/SONE-012.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-01-12T15:19:47.000000Z
+  Duration: 01:59:50.38, start: 0.000000, bitrate: 23339 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 59.94 fps, 59.94 tbr, 1k tbn (default)
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   13 fps= 13 q=-0.0 size=N/A time=00:00:00.21 bitrate=N/A speed=0.216x    frame=   47 fps= 31 q=-0.0 size=N/A time=00:00:00.78 bitrate=N/A speed=0.52x    frame=   79 fps= 39 q=-0.0 size=N/A time=00:00:01.31 bitrate=N/A speed=0.656x    frame=  106 fps= 42 q=-0.0 size=N/A time=00:00:01.76 bitrate=N/A speed=0.705x    [out#0/null @ 0x55f7a7402840] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 45 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.744x    

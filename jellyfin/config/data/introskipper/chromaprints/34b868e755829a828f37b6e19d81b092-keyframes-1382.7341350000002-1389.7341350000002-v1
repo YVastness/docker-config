@@ -1,0 +1,47 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1154 - 第1154集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    date            : 2025-12-22T08:59:32.5089726+08:00
+    encoder         : Lavf60.16.100
+  Duration: 00:23:35.84, start: 0.000000, bitrate: 2034 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 1837 kb/s, 23.98 fps, 23.98 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7ff19c001f80] config in time_base: 1/90000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7ff19c001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7ff19c001f80] n:   0 pts: 163538 pts_time:1.817089 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:1920x1080 i:P iskey:1 type:I checksum:F610B49D plane_checksum:[8BB0BD71 1E619EDA E5E95843] mean:[142 134 120] stdev:[58.9 15.8 25.6]
+[Parsed_showinfo_0 @ 0x7ff19c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    date            : 2025-12-22T08:59:32.5089726+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080, q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7ff19c001f80] n:   1 pts: 249874 pts_time:2.776378 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:1920x1080 i:P iskey:1 type:I checksum:91E586F0 plane_checksum:[F1071B95 19B9FBA6 FAB46FA6] mean:[156 117 135] stdev:[51.9 20.9 20.8]
+[Parsed_showinfo_0 @ 0x7ff19c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ff19c001f80] n:   2 pts: 422547 pts_time:4.694967 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:1920x1080 i:P iskey:1 type:I checksum:05A9C643 plane_checksum:[1D754540 28746AB4 BF1B164F] mean:[115 113 142] stdev:[39.2 12.6 13.0]
+[Parsed_showinfo_0 @ 0x7ff19c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ff19c001f80] n:   3 pts: 538913 pts_time:5.987922 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:1920x1080 i:P iskey:1 type:I checksum:E385129F plane_checksum:[F5397DC7 50B4A318 4D48F1A2] mean:[157 129 123] stdev:[53.0 12.5 16.3]
+[Parsed_showinfo_0 @ 0x7ff19c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ff19c001f80] n:   4 pts: 640264 pts_time:7.114044 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:1920x1080 i:P iskey:1 type:I checksum:01143F12 plane_checksum:[F65B172D BBBFD92C 2E094EAA] mean:[149 138 123] stdev:[10.9 0.8 0.6]
+[Parsed_showinfo_0 @ 0x7ff19c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ff19c001f80] n:   5 pts: 782907 pts_time:8.698967 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:1920x1080 i:P iskey:1 type:I checksum:32534E97 plane_checksum:[CB082C16 867FC875 895D59FD] mean:[90 137 118] stdev:[68.0 7.4 8.4]
+[Parsed_showinfo_0 @ 0x7ff19c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55ff48c33d40] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.04 bitrate=N/A speed=46.5x    

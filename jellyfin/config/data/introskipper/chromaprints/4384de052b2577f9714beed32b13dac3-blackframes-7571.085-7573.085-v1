@@ -1,0 +1,55 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Girls/JAV_output/桃乃木香奈/IPZZ-574/IPZZ-574-破解-C.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : ShanaEncoder
+  Duration: 02:06:32.59, start: 0.000000, bitrate: 7507 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 7236 kb/s, 59.94 fps, 59.94 tbr, 60k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 255 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:64 pblack:67 pts:64776 t:1.079600 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:65 pblack:69 pts:65777 t:1.096283 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:66 pblack:70 pts:66778 t:1.112967 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:67 pblack:72 pts:67779 t:1.129650 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:68 pblack:77 pts:68780 t:1.146333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:69 pblack:80 pts:69781 t:1.163017 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:70 pblack:81 pts:70782 t:1.179700 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:71 pblack:80 pts:71783 t:1.196383 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:72 pblack:79 pts:72784 t:1.213067 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:73 pblack:81 pts:73785 t:1.229750 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:74 pblack:81 pts:74786 t:1.246433 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:75 pblack:80 pts:75787 t:1.263117 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:76 pblack:77 pts:76788 t:1.279800 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:77 pblack:75 pts:77789 t:1.296483 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:78 pblack:74 pts:78790 t:1.313167 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:79 pblack:72 pts:79791 t:1.329850 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:80 pblack:69 pts:80792 t:1.346533 type:B last_keyframe:0
+frame=   81 fps=0.0 q=-0.0 size=N/A time=00:00:01.36 bitrate=N/A speed=2.73x    [Parsed_blackframe_0 @ 0x7efef4002340] frame:81 pblack:66 pts:81793 t:1.363217 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:82 pblack:64 pts:82794 t:1.379900 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:83 pblack:59 pts:83795 t:1.396583 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:84 pblack:57 pts:84796 t:1.413267 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:85 pblack:54 pts:85797 t:1.429950 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:86 pblack:51 pts:86798 t:1.446633 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7efef4002340] frame:120 pblack:51 pts:120832 t:2.013867 type:B last_keyframe:0
+[out#0/null @ 0x55d7e1a7dec0] video:51KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  119 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.14x    

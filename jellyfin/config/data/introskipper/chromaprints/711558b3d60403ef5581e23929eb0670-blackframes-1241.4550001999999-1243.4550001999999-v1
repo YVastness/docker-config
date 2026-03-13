@@ -1,0 +1,25 @@
+[matroska,webm @ 0x555dfa7f6000] 0x00 at pos 351955352 (0x14fa6998) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x555dfa7f6000] File ended prematurely
+    Last message repeated 1 times
+Input #0, matroska,webm, from '/media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E91 - 第91集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-03-07T11:45:35.000000Z
+  Duration: 00:21:14.35, start: 0.000000, bitrate: 5490 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 1k tbn (default)
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x555dfa7f6000] File ended prematurely
+[vost#0:0/wrapped_avframe @ 0x555dfa842000] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 30 fps, 1k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x555dfa829c40] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x555dfa829c40] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

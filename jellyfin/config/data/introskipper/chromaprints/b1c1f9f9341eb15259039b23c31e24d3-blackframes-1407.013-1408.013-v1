@@ -1,0 +1,47 @@
+Input #0, matroska,webm, from '/media/Animes/龙族 (2022)/Season 2/龙族 - S02E20 - 第20集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-14T01:51:49.000000Z
+  Duration: 00:24:13.01, start: 0.000000, bitrate: 1760 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1610 [SAR 1:1 DAR 384:161], 23.99 fps, 23.99 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1632959
+        DURATION        : 00:24:12.959000000
+        NUMBER_OF_FRAMES: 34871
+        NUMBER_OF_BYTES : 296577921
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-14 01:51:49
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125362
+        DURATION        : 00:24:13.013000000
+        NUMBER_OF_FRAMES: 68110
+        NUMBER_OF_BYTES : 22769153
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-14 01:51:49
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1610 [SAR 1:1 DAR 384:161], q=2-31, 200 kb/s, 23.99 fps, 23.99 tbn (default)
+      Metadata:
+        BPS             : 1632959
+        DURATION        : 00:24:12.959000000
+        NUMBER_OF_FRAMES: 34871
+        NUMBER_OF_BYTES : 296577921
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-14 01:51:49
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f3dbc002340] frame:19 pblack:67 pts:821 t:0.821000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f3dbc002340] frame:20 pblack:97 pts:862 t:0.862000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f3dbc002340] frame:21 pblack:97 pts:904 t:0.904000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f3dbc002340] frame:22 pblack:97 pts:946 t:0.946000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f3dbc002340] frame:23 pblack:97 pts:987 t:0.987000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f3dbc002340] frame:24 pblack:97 pts:1029 t:1.029000 type:B last_keyframe:0
+[out#0/null @ 0x5599ffcff100] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=2.29x    

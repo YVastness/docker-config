@@ -1,0 +1,43 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/云深不知梦 (2025)/Season 1/云深不知梦 - S01E22 - 第22集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf62.6.101
+    comment         : Anti-Piracy
+  Duration: 00:20:20.37, start: 0.000000, bitrate: 21970 kb/s
+  Stream #0:0[0x1](chi): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1640 [SAR 1:1 DAR 96:41], 21707 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fdf18001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7fdf18001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fdf18001f80] n:   0 pts: 420088 pts_time:4.667644 duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1640 i:P iskey:1 type:I checksum:77B17E04 plane_checksum:[7D86A60A 6EFC4A91 BE098D5A] mean:[207 531 490] stdev:[90.7 11.1 14.1]
+[Parsed_showinfo_0 @ 0x7fdf18001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    comment         : Anti-Piracy
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1640 [SAR 1:1 DAR 96:41], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fdf18001f80] n:   1 pts: 542488 pts_time:6.027644 duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1640 i:P iskey:1 type:I checksum:41DEB100 plane_checksum:[2C2F7EFC 318BCBC6 0862662F] mean:[183 556 497] stdev:[100.8 28.5 20.6]
+[Parsed_showinfo_0 @ 0x7fdf18001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:06.08 bitrate=N/A speed=12.2x    [Parsed_showinfo_0 @ 0x7fdf18001f80] n:   2 pts: 902488 pts_time:10.027644 duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1640 i:P iskey:1 type:I checksum:EF27B782 plane_checksum:[6B8D74C8 4DDB814F F380C15C] mean:[177 553 498] stdev:[94.3 27.8 20.2]
+[Parsed_showinfo_0 @ 0x7fdf18001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fdf18001f80] n:   3 pts:1096888 pts_time:12.187644 duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1640 i:P iskey:1 type:I checksum:2765FA4B plane_checksum:[2AEEAE42 408AA51A 09A7A6E0] mean:[492 580 466] stdev:[190.1 30.8 27.3]
+[Parsed_showinfo_0 @ 0x7fdf18001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x5608f9b78500] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.08 bitrate=N/A speed=7.96x    

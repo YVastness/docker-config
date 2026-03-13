@@ -1,0 +1,61 @@
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E132 - 第132集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-11-06T12:04:38.000000Z
+  Duration: 00:22:45.48, start: 0.000000, bitrate: 5608 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5481415
+        DURATION        : 00:22:45.440000000
+        NUMBER_OF_FRAMES: 34136
+        NUMBER_OF_BYTES : 935568077
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-06 12:04:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125344
+        DURATION        : 00:22:45.482000000
+        NUMBER_OF_FRAMES: 64007
+        NUMBER_OF_BYTES : 21394528
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-06 12:04:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 5481415
+        DURATION        : 00:22:45.440000000
+        NUMBER_OF_FRAMES: 34136
+        NUMBER_OF_BYTES : 935568077
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-06 12:04:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   19 fps= 19 q=-0.0 size=N/A time=00:00:00.80 bitrate=N/A speed= 0.8x    [Parsed_blackframe_0 @ 0x7f1560002340] frame:31 pblack:97 pts:1265 t:1.265000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:32 pblack:97 pts:1305 t:1.305000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:33 pblack:97 pts:1345 t:1.345000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:34 pblack:97 pts:1385 t:1.385000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:35 pblack:97 pts:1425 t:1.425000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:36 pblack:97 pts:1465 t:1.465000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:37 pblack:97 pts:1505 t:1.505000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:38 pblack:97 pts:1545 t:1.545000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:39 pblack:97 pts:1585 t:1.585000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:40 pblack:97 pts:1625 t:1.625000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:41 pblack:97 pts:1665 t:1.665000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:42 pblack:97 pts:1705 t:1.705000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:43 pblack:97 pts:1745 t:1.745000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:44 pblack:97 pts:1785 t:1.785000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:45 pblack:97 pts:1825 t:1.825000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:46 pblack:97 pts:1865 t:1.865000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:47 pblack:97 pts:1905 t:1.905000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:48 pblack:97 pts:1945 t:1.945000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:49 pblack:97 pts:1985 t:1.985000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f1560002340] frame:50 pblack:97 pts:2025 t:2.025000 type:B last_keyframe:0
+[out#0/null @ 0x55bac4e2f280] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 36 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.49x    

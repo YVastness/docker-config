@@ -1,0 +1,53 @@
+Input #0, matroska,webm, from '/media/TV Shows/唐朝诡事录 (2022)/Season 3/唐朝诡事录 - S03E23 - 第23集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:45:33.87, start: 0.000000, bitrate: 11317 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:45:33.800000000
+  Stream #0:1: Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP 5.1
+        DURATION        : 00:45:33.856000000
+  Stream #0:2: Audio: aac (LC), 44100 Hz, stereo, fltp
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:45:33.871000000
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : 简体中文
+        DURATION        : 00:00:10.010000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] n:   0 pts:   3523 pts_time:3.523   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:28DFA19F plane_checksum:[34A50529 96DBCCF4 5988CF73] mean:[185 486 523] stdev:[99.3 17.5 12.0]
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - Content light level metadata: MaxCLL=372, MaxFALL=22
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0305, average_maxrgb[0]: 0.3394, variance_maxrgb[0]:0.5890, maximum_maxrgb[0]: 0.6339, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        DURATION        : 00:45:33.800000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] n:   1 pts:   5283 pts_time:5.283   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:CFC4624F plane_checksum:[4F91D5B1 36FA56E3 DE4035AC] mean:[191 484 524] stdev:[98.6 17.5 11.8]
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - Content light level metadata: MaxCLL=372, MaxFALL=22
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0300, average_maxrgb[0]: 0.3429, variance_maxrgb[0]:0.5861, maximum_maxrgb[0]: 0.6359, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] n:   2 pts:   6203 pts_time:6.203   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:942C6A16 plane_checksum:[4FF3CC05 6BCDFF3D CE599EB6] mean:[458 442 531] stdev:[171.0 55.3 14.6]
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - Content light level metadata: MaxCLL=517, MaxFALL=133
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0891, average_maxrgb[0]: 0.6181, variance_maxrgb[0]:0.6886, maximum_maxrgb[0]: 0.6965, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+frame=    3 fps=0.0 q=-0.0 size=N/A time=00:00:06.24 bitrate=N/A speed=12.5x    [Parsed_showinfo_0 @ 0x7f7a3c001f80] n:   3 pts:  11203 pts_time:11.203  duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:F183FBE7 plane_checksum:[A37E4ECA 5943185A A06194C3] mean:[440 475 546] stdev:[130.0 31.2 39.2]
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - Content light level metadata: MaxCLL=534, MaxFALL=117
+[Parsed_showinfo_0 @ 0x7f7a3c001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0930, average_maxrgb[0]: 0.5455, variance_maxrgb[0]:0.6603, maximum_maxrgb[0]: 0.7004, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7f7a3c001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[out#0/null @ 0x55d40c89b780] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.24 bitrate=N/A speed= 9.1x    

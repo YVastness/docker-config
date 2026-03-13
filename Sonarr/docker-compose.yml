@@ -1,0 +1,14 @@
+services:
+  sonarr:
+    image: linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=0
+      - PGID=0
+      - TZ=Asia/ShangHai
+    volumes:
+      - /docker/Sonarr/config:/config
+      - /mnt/sda2/Videos:/tv #optional
+    ports:
+      - 8989:8989
+    restart: unless-stopped

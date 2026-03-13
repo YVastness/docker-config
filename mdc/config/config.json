@@ -2,16 +2,17 @@
   "common": {
     "target_folder": "/media/JAV_output",
     "target_folder_metadata": null,
+    "delete_metadata_folder_when_failed": false,
     "target_overwrite_video": true,
     "target_overwrite_pic": true,
     "link_mode": 2,
     "delete_empty_parent_after_move": true,
-    "delete_by_size": false,
+    "delete_by_size": true,
     "protect_ext_whitelist": false,
-    "delete_by_ext": false,
+    "delete_by_ext": true,
     "extra_ext_whitelist": [],
     "delete_by_name": false,
-    "file_size_filter": 104857600,
+    "file_size_filter": 524288000,
     "file_ext_filter": [
       "mp4",
       "avi",
@@ -30,7 +31,8 @@
       "m2ts"
     ],
     "file_name_blacklist": [
-      "out"
+      "out",
+      "游戏大全"
     ],
     "file_sanitize_list": [
       "2048论坛@fun2048.com",
@@ -69,6 +71,7 @@
     "enabled": true,
     "style": "Default",
     "resolution_style": "Default",
+    "custom_folder": null,
     "start": 0,
     "mode": "Stack",
     "scale": 9.0,
@@ -96,12 +99,14 @@
   },
   "naming": {
     "folder": "{actor}/{number}",
+    "max_folder_length": 0,
     "file": "{number}",
     "title": "{number} {title}",
     "suffix": "{mosaic}{subtitle}",
     "image_with_prefix": false,
     "suffixs": {
       "has_subtitle": "-C",
+      "add_chs_to_subtitle": true,
       "is_censored": "",
       "is_uncensored": "",
       "is_uncensored_leak": "-流出",
@@ -109,6 +114,7 @@
       "resolution_type": 0,
       "resolution_naming": "-{resolution_text}",
       "resolution_detect_method": "Real",
+      "resolution_detect_fallback": true,
       "resolution_hd": false,
       "resolution_fhd": false,
       "resolution_uhd": true,
@@ -135,19 +141,30 @@
     "thumb": true,
     "fanart": true,
     "extra_fanarts": false,
+    "extra_fanarts_behind_scenes": false,
+    "trailer": false,
+    "thumb_download_strategy": "Priority",
+    "hd_poster_amazon": true,
+    "hd_poster_amazon_strict": true,
+    "hd_poster_tenhow": true,
     "crop_type_censored": "Right",
     "crop_type_uncensored": "None",
     "crop_type_fc2": "Face",
+    "crop_type_amateur": "Face",
     "crop_type_cn": "None",
+    "crop_aspect": "Full",
+    "crop_poster": false,
+    "crop_when_poster_low_res": true,
     "subtitles_folder": "/media/34000字幕/sub"
   },
   "metadata": {
-    "flaresolverr": "",
+    "flaresolverr": "http://192.168.2.1:8191/v1",
     "strict_mode": false,
     "image_strict_mode": false,
     "use_title_from_sehuatang": true,
     "use_actor_mapping": true,
     "use_tag_mapping": true,
+    "outline_trim_multiple_br": true,
     "auto_translate_title": true,
     "auto_translate_outline": true,
     "translate_engine": "OpenAI",
@@ -156,250 +173,416 @@
   },
   "provider": {
     "configs": {
-      "jav321": {
+      "Madou": {
         "enabled": true,
-        "base_url": "https://www.jav321.com",
+        "base_url": "https://madou.club",
         "cookies": "",
         "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "arzon": {
-        "enabled": true,
-        "base_url": "https://www.arzon.jp",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Fc2": {
-        "enabled": true,
-        "base_url": "https://adult.contents.fc2.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
       },
       "airav_io": {
         "enabled": true,
         "base_url": "https://airav.io",
         "cookies": "",
         "user_agent": "",
-        "cooldown_seconds": 0
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "avsox": {
+        "enabled": true,
+        "base_url": "https://avsox.click",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "avmoo": {
+        "enabled": true,
+        "base_url": "https://avmoo.website",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
       },
       "Javdb": {
         "enabled": true,
         "base_url": "https://javdb.com",
         "cookies": "",
         "user_agent": "",
-        "cooldown_seconds": 10
-      },
-      "Madou": {
-        "enabled": true,
-        "base_url": "https://madou.club",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "freejavbt": {
-        "enabled": true,
-        "base_url": "https://freejavbt.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Madouqu": {
-        "enabled": true,
-        "base_url": "https://madouqu.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "xiao_huang_shu": {
-        "enabled": true,
-        "base_url": "https://xchina.co",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Javlibrary": {
-        "enabled": true,
-        "base_url": "https://www.javlibrary.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Javbus": {
-        "enabled": true,
-        "base_url": "https://www.javbus.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "dmm": {
-        "enabled": true,
-        "base_url": "https://www.dmm.co.jp",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "avbase": {
-        "enabled": true,
-        "base_url": "https://www.avbase.net",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "Airav": {
-        "enabled": true,
-        "base_url": "https://www.airav.wiki",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "fc2ppvdb": {
-        "enabled": true,
-        "base_url": "https://fc2ppvdb.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "hbox_jp": {
-        "enabled": true,
-        "base_url": "https://hbox.jp",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
-      },
-      "fc2_hub": {
-        "enabled": true,
-        "base_url": "https://fc2hub.com",
-        "cookies": "",
-        "user_agent": "",
-        "cooldown_seconds": 0
+        "cooldown_seconds": 10,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
       },
       "Mgstage": {
         "enabled": true,
         "base_url": "https://www.mgstage.com",
         "cookies": "",
         "user_agent": "",
-        "cooldown_seconds": 0
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
       },
-      "Carib": {
+      "fc2_hub": {
         "enabled": true,
-        "base_url": "https://www.caribbeancom.com",
+        "base_url": "https://fc2hub.com",
         "cookies": "",
         "user_agent": "",
-        "cooldown_seconds": 0
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "dmm": {
+        "enabled": true,
+        "base_url": "https://www.dmm.co.jp",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
       },
       "Mmtv": {
         "enabled": true,
         "base_url": "https://7mmtv.sx",
         "cookies": "",
         "user_agent": "",
-        "cooldown_seconds": 0
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "fc2ppvdb": {
+        "enabled": true,
+        "base_url": "https://fc2ppvdb.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "Javbus": {
+        "enabled": true,
+        "base_url": "https://www.javbus.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "Airav": {
+        "enabled": true,
+        "base_url": "https://www.airav.wiki",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "Fc2": {
+        "enabled": true,
+        "base_url": "https://adult.contents.fc2.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "Madouqu": {
+        "enabled": true,
+        "base_url": "https://madouqu.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "jav321": {
+        "enabled": true,
+        "base_url": "https://www.jav321.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "xiao_huang_shu": {
+        "enabled": true,
+        "base_url": "https://xchina.co",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "hbox_jp": {
+        "enabled": true,
+        "base_url": "https://hbox.jp",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "Javlibrary": {
+        "enabled": true,
+        "base_url": "https://www.javlibrary.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "avbase": {
+        "enabled": true,
+        "base_url": "https://www.avbase.net",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "freejavbt": {
+        "enabled": true,
+        "base_url": "https://freejavbt.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "Carib": {
+        "enabled": true,
+        "base_url": "https://www.caribbeancom.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "miss_av": {
+        "enabled": true,
+        "base_url": "https://missav123.com",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
+      },
+      "ThePornDB": {
+        "enabled": true,
+        "base_url": "https://theporndb.net",
+        "cookies": "",
+        "user_agent": "",
+        "cooldown_seconds": 0,
+        "proxy": "",
+        "api_key": "",
+        "disable_hash_match": true
       }
     },
     "priorities": {
       "jav_censored": [
-        "Javbus",
-        "hbox_jp",
         "dmm",
-        "avbase",
-        "Javdb",
+        "Mgstage",
         "Javlibrary",
-        "freejavbt",
+        "avbase",
+        "hbox_jp",
+        "Javdb",
+        "Javbus",
         "jav321",
+        "avmoo",
         "Mmtv",
         "airav_io",
-        "Airav"
+        "freejavbt",
+        "miss_av"
       ],
       "jav_uncensored": [
-        "Javbus",
-        "freejavbt",
+        "Carib",
         "avbase",
+        "Javbus",
+        "Javdb",
+        "avsox",
         "jav321",
         "Mmtv",
-        "Javdb",
         "airav_io",
-        "Airav"
+        "freejavbt",
+        "miss_av"
       ],
       "jav_amateur": [
         "Mgstage",
-        "jav321",
-        "freejavbt",
-        "Mmtv",
+        "Carib",
+        "Javlibrary",
+        "avsox",
+        "avmoo",
         "Javbus",
-        "Javdb"
+        "Javdb",
+        "jav321",
+        "Mmtv",
+        "airav_io",
+        "freejavbt",
+        "miss_av"
       ],
       "jav_fc2": [
         "Fc2",
         "fc2ppvdb",
         "fc2_hub",
-        "freejavbt",
-        "Mmtv",
         "Javdb",
+        "avsox",
+        "Mmtv",
         "airav_io",
-        "Airav"
+        "freejavbt",
+        "miss_av"
       ],
       "cn": [
         "Madouqu",
         "Madou",
-        "xiao_huang_shu"
+        "xiao_huang_shu",
+        "Mmtv"
+      ],
+      "ea": [
+        "ThePornDB"
       ],
       "by_fields": {
-        "Poster": [
-          "hbox_jp"
-        ],
-        "Tags": [
-          "Javbus",
-          "avbase",
-          "freejavbt"
-        ],
-        "Title": [
+        "Outline": [
           "airav_io"
         ],
         "Cover": [
-          "Javbus"
+          "dmm",
+          "Mgstage"
         ],
-        "Outline": [
-          "airav_io",
-          "Airav"
+        "OriginalTitle": [
+          "dmm",
+          "Mgstage"
         ],
         "ExtraFanart": [
           "Javbus",
           "avbase",
           "freejavbt"
         ],
+        "Tags": [
+          "Javbus",
+          "avbase",
+          "freejavbt"
+        ],
         "UserRating": [
+          "Javdb",
           "dmm",
           "jav321"
+        ],
+        "Title": [
+          "airav_io"
+        ],
+        "Poster": [
+          "dmm",
+          "Mgstage",
+          "hbox_jp"
         ]
-      }
+      },
+      "ignore_fields": {}
     },
-    "priorities_user_modified": false,
+    "priorities_user_modified": true,
     "series_type_keywords": {
+      "jav_censored": [],
       "jav_uncensored": [],
       "jav_amateur": [],
-      "cn": []
+      "cn": [],
+      "ea": []
+    },
+    "series_type_keywords_in_path": {
+      "jav_censored": [],
+      "jav_uncensored": [],
+      "jav_amateur": [],
+      "cn": [],
+      "ea": []
     }
   },
   "nfo": {
     "enabled": true,
+    "enable_sorttitle": true,
+    "enable_originaltitle": true,
     "add_part_to_title": true,
+    "enable_outline": true,
+    "enable_originalplot": true,
+    "enable_plot": true,
     "add_translated_by": false,
+    "enable_release": true,
+    "enable_releasedate": true,
+    "enable_premiered": true,
     "tagline_format": "发行日期: {release}",
+    "enable_country": true,
+    "enable_mpaa": true,
+    "enable_customrating": true,
+    "enable_year": true,
+    "enable_runtime": true,
+    "enable_votes": true,
+    "enable_score": true,
+    "enable_criticrating": true,
+    "enable_actor": true,
+    "enable_director": true,
+    "enable_series": true,
+    "enable_tag": true,
+    "additional_tags": {
+      "serial_name": true,
+      "actors": true,
+      "resolution": true,
+      "mosaic": true,
+      "has_subtitle": true,
+      "subtitle_format": "中文字幕",
+      "series": true,
+      "series_format": "系列: {series}",
+      "studio": true,
+      "studio_format": "片商: {studio}",
+      "publisher": true,
+      "publisher_format": "发行: {publisher}"
+    },
+    "enable_genre": true,
+    "enable_studio": true,
+    "enable_maker": true,
+    "enable_publisher": true,
+    "enable_label": true,
+    "enable_poster": true,
+    "enable_cover": true,
+    "enable_trailer": true,
+    "enable_website": true,
     "set_by_actress": false,
     "set_by_series": true,
     "set_by_serial_name": false
   },
   "proxy": {
     "proxy": "",
-    "timeout": 30
+    "timeout": 30,
+    "timeout_trailer": 300
   },
   "actress": {
     "enabled": false,
     "scrape_info": false,
     "scrape_pics": true,
     "emby_config": {
-      "server_address": "http://192.168.1.2:8096",
+      "server_address": "http://192.168.2.1:8096",
       "api_key": "692a4b5eaa374f5f955267f675c2aea4",
       "user_id": "e495e2a008e747e78271fc8bfcfaab74",
       "scheduled_refresh": true,
@@ -409,7 +592,8 @@
     "overwrite_mode": 2
   },
   "system": {
-    "scrape_thread_count": 5,
+    "scrape_thread_count": 20,
+    "scrape_timeout": 600,
     "openai_key": "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",
     "openai_base": "",
     "openai_model": ""

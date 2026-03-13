@@ -1,0 +1,42 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/百炼成神 (2022)/Season 1/百炼成神 - S01E91 - 第91集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.16.100
+  Duration: 00:20:36.44, start: 0.000000, bitrate: 10072 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 9809 kb/s, 25 fps, 25 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 255 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](chi): Subtitle: mov_text (tx3g / 0x67337874) (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fc950001f80] config in time_base: 1/16000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7fc950001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fc950001f80] n:   0 pts:   9318 pts_time:0.582375 duration:    640 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:C692B1DA plane_checksum:[A4F06328 647A8035 5BB4CE6E] mean:[123 512 512] stdev:[143.3 0.2 0.1]
+[Parsed_showinfo_0 @ 0x7fc950001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fc950001f80] n:   1 pts: 116838 pts_time:7.302375 duration:    640 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:A2FA882B plane_checksum:[A3898AD9 70581488 3402E8BB] mean:[173 525 488] stdev:[67.7 7.1 20.1]
+[Parsed_showinfo_0 @ 0x7fc950001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fc950001f80] n:   2 pts: 138598 pts_time:8.662375 duration:    640 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:1D3636FF plane_checksum:[F4DA1817 B4427255 E579AC84] mean:[278 553 548] stdev:[209.9 49.7 50.3]
+[Parsed_showinfo_0 @ 0x7fc950001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x557849ddbd80] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.64 bitrate=N/A speed=1.24x    

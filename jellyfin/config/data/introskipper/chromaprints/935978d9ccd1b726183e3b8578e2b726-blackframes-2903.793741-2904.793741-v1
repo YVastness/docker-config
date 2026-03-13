@@ -1,0 +1,57 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/隐秘的角落 (2020)/Season 1/隐秘的角落 - S01E05 - 第5集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf58.29.100
+  Duration: 00:50:09.79, start: 0.000000, bitrate: 5024 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2088 [SAR 1:1 DAR 160:87], 4893 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 124 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:0 pblack:95 pts:563 t:0.006256 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x2088 [SAR 1:1 DAR 160:87], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:1 pblack:95 pts:4163 t:0.046256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:2 pblack:95 pts:7763 t:0.086256 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:3 pblack:95 pts:11363 t:0.126256 type:B last_keyframe:0
+frame=    4 fps=0.0 q=-0.0 size=N/A time=00:00:00.16 bitrate=N/A speed=0.32x    [Parsed_blackframe_0 @ 0x7f60e4002340] frame:4 pblack:95 pts:14963 t:0.166256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:5 pblack:95 pts:18563 t:0.206256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:6 pblack:95 pts:22163 t:0.246256 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:7 pblack:95 pts:25763 t:0.286256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:8 pblack:95 pts:29363 t:0.326256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:9 pblack:95 pts:32963 t:0.366256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:10 pblack:95 pts:36563 t:0.406256 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:11 pblack:95 pts:40163 t:0.446256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:12 pblack:95 pts:43763 t:0.486256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:13 pblack:95 pts:47363 t:0.526256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:14 pblack:95 pts:50963 t:0.566256 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:15 pblack:95 pts:54563 t:0.606256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:16 pblack:95 pts:58163 t:0.646256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:17 pblack:95 pts:61763 t:0.686256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:18 pblack:95 pts:65363 t:0.726256 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:19 pblack:95 pts:68963 t:0.766256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:20 pblack:95 pts:72563 t:0.806256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:21 pblack:95 pts:76163 t:0.846256 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:22 pblack:95 pts:79763 t:0.886256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:23 pblack:95 pts:83363 t:0.926256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:24 pblack:95 pts:86963 t:0.966256 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f60e4002340] frame:25 pblack:95 pts:90563 t:1.006256 type:P last_keyframe:0
+[out#0/null @ 0x55f89c4fabc0] video:11KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   25 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=1.19x    

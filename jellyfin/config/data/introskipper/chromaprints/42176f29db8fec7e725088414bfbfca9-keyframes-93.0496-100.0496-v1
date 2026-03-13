@@ -1,0 +1,100 @@
+Input #0, matroska,webm, from '/media/TV Shows/长安的荔枝 (2025)/Season 1/长安的荔枝 - S01E25 - 第25集.mp4':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-18T12:13:28.000000Z
+    MOVIE/ENCODER   : Lavf60.21.101
+  Duration: 00:46:55.23, start: 0.000000, bitrate: 4514 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1606 [SAR 1:1 DAR 1920:803], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 3740733
+        DURATION        : 00:46:55.050000000
+        NUMBER_OF_FRAMES: 168903
+        NUMBER_OF_BYTES : 1316294078
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        title           : DDP5.1
+        BPS             : 384000
+        DURATION        : 00:46:55.232000000
+        NUMBER_OF_FRAMES: 87976
+        NUMBER_OF_BYTES : 135131136
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 256000
+        DURATION        : 00:46:55.232000000
+        NUMBER_OF_FRAMES: 87976
+        NUMBER_OF_BYTES : 90087424
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125349
+        DURATION        : 00:46:55.104000000
+        NUMBER_OF_FRAMES: 131958
+        NUMBER_OF_BYTES : 44109009
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 5120x2880 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : cover.jpg
+        mimetype        : image/jpeg
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7efd04001f80] config in time_base: 1/1000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7efd04001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7efd04001f80] n:   0 pts:   2100 pts_time:2.1     duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1606 i:P iskey:1 type:I checksum:702C2FDA plane_checksum:[3DE85E65 695F54B3 4A1E7CB3] mean:[436 491 544] stdev:[109.9 12.8 20.1]
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7efd04001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e342063722d6932342e306132342e302072636d2d61646170742076732d39352e3020686472742d5051566976696420737562206163742d534652342e332e302c48445276342e38
+[Parsed_showinfo_0 @ 0x7efd04001f80] 
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1310 0.0460) wp(0.3127, 0.3290) min_luminance=0.000500, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0415, average_maxrgb[0]: 0.4674, variance_maxrgb[0]:0.2879, maximum_maxrgb[0]: 0.6115, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 2, targeted_system_display_maximum_luminance[0][0]: 0.7516, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.4787, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.8690, base_param_m_b[0][0]: 0.0000, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 6, base_param_Delta[0][0]: 0.0945, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.8627, 3Spline_TH_enable[0][0][0]: 0.0642, 3Spline_TH_Delta1[0][0][0]: 0.4721, 3Spline_TH_Delta2[0][0][0]: 0.4721, 3Spline_enable_Strength[0][0][0]: 0.5843, 3Spline_TH_mode[0][0]:  1, 3Spline_TH_enable[0][0][1]: 0.3590, 3Spline_TH_Delta1[0][0][1]: 0.7830, 3Spline_TH_Delta2[0][0][1]: 0.7830, 3Spline_enable_Strength[0][0][1]: 0.5961, targeted_system_display_maximum_luminance[0][1]: 0.5079, base_enable_flag[0][1]: 1, base_param_m_p[0][1]: 0.4298, base_param_m_m[0][1]: 2.4000, base_param_m_a[0][1]: 0.7243, base_param_m_b[0][1]: 0.0000, base_param_m_n[0][1]: 1.0000, base_param_k1[0][1]:  1, base_param_k2[0][1]:  1, base_param_k3[0][1]:  1, base_param_Delta_enable_mode[0][1]: 6, base_param_Delta[0][1]: 0.0472, 3Spline_enable_flag[0][1]: 1, 3Spline_TH_mode[0][1]:  0, 3Spline_TH_enable_MB[0][1][0]: 0.3137, 3Spline_TH_enable[0][1][0]: 0.0642, 3Spline_TH_Delta1[0][1][0]: 0.4702, 3Spline_TH_Delta2[0][1][0]: 0.4702, 3Spline_enable_Strength[0][1][0]: 0.4627, 3Spline_TH_mode[0][1]:  2, 3Spline_TH_enable_MB[0][1][1]: 0.0000, 3Spline_TH_enable[0][1][1]: 0.3917, 3Spline_TH_Delta1[0][1][1]: 0.3998, 3Spline_TH_Delta2[0][1][1]: 0.3998, 3Spline_enable_Strength[0][1][1]: 0.5333, color_saturation_mapping_flag[0]: 1, color_saturation_num[0]: 2, color_saturation_gain[0][0]: 0.2969, color_saturation_gain[0][1]: 0.1875
+[Parsed_showinfo_0 @ 0x7efd04001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？
+    MOVIE/ENCODER   : Lavf60.21.101
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1606 [SAR 1:1 DAR 1920:803], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 3740733
+        DURATION        : 00:46:55.050000000
+        NUMBER_OF_FRAMES: 168903
+        NUMBER_OF_BYTES : 1316294078
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7efd04001f80] n:   1 pts:   5033 pts_time:5.033   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1606 i:P iskey:1 type:I checksum:D253FD0F plane_checksum:[7B3F3C6A B79589B0 0F4536F5] mean:[436 484 550] stdev:[94.0 17.8 26.6]
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7efd04001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e342063722d6932342e306132342e302072636d2d61646170742076732d39352e3020686472742d5051566976696420737562206163742d534652342e332e302c48445276342e38
+[Parsed_showinfo_0 @ 0x7efd04001f80] 
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1310 0.0460) wp(0.3127, 0.3290) min_luminance=0.000500, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0515, average_maxrgb[0]: 0.4852, variance_maxrgb[0]:0.3641, maximum_maxrgb[0]: 0.6676, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 2, targeted_system_display_maximum_luminance[0][0]: 0.7516, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.4777, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.8700, base_param_m_b[0][0]: 0.0000, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 6, base_param_Delta[0][0]: 0.0945, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.8471, 3Spline_TH_enable[0][0][0]: 0.0642, 3Spline_TH_Delta1[0][0][0]: 0.3705, 3Spline_TH_Delta2[0][0][0]: 0.3705, 3Spline_enable_Strength[0][0][0]: 0.5882, 3Spline_TH_mode[0][0]:  1, 3Spline_TH_enable[0][0][1]: 0.4134, 3Spline_TH_Delta1[0][0][1]: 0.6745, 3Spline_TH_Delta2[0][0][1]: 0.6745, 3Spline_enable_Strength[0][0][1]: 0.5961, targeted_system_display_maximum_luminance[0][1]: 0.5079, base_enable_flag[0][1]: 1, base_param_m_p[0][1]: 0.4289, base_param_m_m[0][1]: 2.4000, base_param_m_a[0][1]: 0.6637, base_param_m_b[0][1]: 0.0000, base_param_m_n[0][1]: 1.0000, base_param_k1[0][1]:  1, base_param_k2[0][1]:  1, base_param_k3[0][1]:  1, base_param_Delta_enable_mode[0][1]: 6, base_param_Delta[0][1]: 0.0472, 3Spline_enable_flag[0][1]: 1, 3Spline_TH_mode[0][1]:  0, 3Spline_TH_enable_MB[0][1][0]: 0.2824, 3Spline_TH_enable[0][1][0]: 0.0642, 3Spline_TH_Delta1[0][1][0]: 0.3216, 3Spline_TH_Delta2[0][1][0]: 0.3216, 3Spline_enable_Strength[0][1][0]: 0.4471, 3Spline_TH_mode[0][1]:  2, 3Spline_TH_enable_MB[0][1][1]: 0.0000, 3Spline_TH_enable[0][1][1]: 0.4134, 3Spline_TH_Delta1[0][1][1]: 0.4976, 3Spline_TH_Delta2[0][1][1]: 0.4976, 3Spline_enable_Strength[0][1][1]: 0.5412, color_saturation_mapping_flag[0]: 1, color_saturation_num[0]: 2, color_saturation_gain[0][0]: 0.2969, color_saturation_gain[0][1]: 0.1875
+[Parsed_showinfo_0 @ 0x7efd04001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7efd04001f80] n:   2 pts:   6950 pts_time:6.95    duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1606 i:P iskey:1 type:I checksum:B3650C4A plane_checksum:[79C1F316 A949F035 A38128E1] mean:[120 512 512] stdev:[1.0 1.3 0.1]
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7efd04001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e342063722d6932342e306132342e302072636d2d61646170742076732d39352e3020686472742d5051566976696420737562206163742d534652342e332e302c48445276342e38
+[Parsed_showinfo_0 @ 0x7efd04001f80] 
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1310 0.0460) wp(0.3127, 0.3290) min_luminance=0.000500, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0493, average_maxrgb[0]: 0.4755, variance_maxrgb[0]:0.3294, maximum_maxrgb[0]: 0.6405, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 2, targeted_system_display_maximum_luminance[0][0]: 0.7516, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.4790, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.8690, base_param_m_b[0][0]: 0.0000, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 6, base_param_Delta[0][0]: 0.1024, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.9725, 3Spline_TH_enable[0][0][0]: 0.0654, 3Spline_TH_Delta1[0][0][0]: 0.3685, 3Spline_TH_Delta2[0][0][0]: 0.3685, 3Spline_enable_Strength[0][0][0]: 0.5255, 3Spline_TH_mode[0][0]:  1, 3Spline_TH_enable[0][0][1]: 0.4093, 3Spline_TH_Delta1[0][0][1]: 0.6823, 3Spline_TH_Delta2[0][0][1]: 0.6823, 3Spline_enable_Strength[0][0][1]: 0.5961, targeted_system_display_maximum_luminance[0][1]: 0.5079, base_enable_flag[0][1]: 1, base_param_m_p[0][1]: 0.4302, base_param_m_m[0][1]: 2.4000, base_param_m_a[0][1]: 0.6716, base_param_m_b[0][1]: 0.0000, base_param_m_n[0][1]: 1.0000, base_param_k1[0][1]:  1, base_param_k2[0][1]:  1, base_param_k3[0][1]:  1, base_param_Delta_enable_mode[0][1]: 6, base_param_Delta[0][1]: 0.0472, 3Spline_enable_flag[0][1]: 1, 3Spline_TH_mode[0][1]:  0, 3Spline_TH_enable_MB[0][1][0]: 0.2980, 3Spline_TH_enable[0][1][0]: 0.0654, 3Spline_TH_Delta1[0][1][0]: 0.3089, 3Spline_TH_Delta2[0][1][0]: 0.3089, 3Spline_enable_Strength[0][1][0]: 0.4471, 3Spline_TH_mode[0][1]:  2, 3Spline_TH_enable_MB[0][1][1]: 0.0000, 3Spline_TH_enable[0][1][1]: 0.4061, 3Spline_TH_Delta1[0][1][1]: 0.4888, 3Spline_TH_Delta2[0][1][1]: 0.4888, 3Spline_enable_Strength[0][1][1]: 0.5412, color_saturation_mapping_flag[0]: 1, color_saturation_num[0]: 2, color_saturation_gain[0][0]: 0.2969, color_saturation_gain[0][1]: 0.1875
+[Parsed_showinfo_0 @ 0x7efd04001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7efd04001f80] n:   3 pts:  10017 pts_time:10.017  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1606 i:P iskey:1 type:I checksum:F90BCD02 plane_checksum:[FE86596C 14D5E02D 4FCA935A] mean:[480 468 534] stdev:[90.8 31.8 29.3]
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7efd04001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e342063722d6932342e306132342e302072636d2d61646170742076732d39352e3020686472742d5051566976696420737562206163742d534652342e332e302c48445276342e38
+[Parsed_showinfo_0 @ 0x7efd04001f80] 
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1310 0.0460) wp(0.3127, 0.3290) min_luminance=0.000500, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7efd04001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0657, average_maxrgb[0]: 0.5182, variance_maxrgb[0]:0.2823, maximum_maxrgb[0]: 0.6598, tone_mapping_mode_flag[0]: 1, tone_mapping_param_num[0]: 2, targeted_system_display_maximum_luminance[0][0]: 0.7516, base_enable_flag[0][0]: 1, base_param_m_p[0][0]: 0.4593, base_param_m_m[0][0]: 2.4000, base_param_m_a[0][0]: 0.8768, base_param_m_b[0][0]: 0.0000, base_param_m_n[0][0]: 1.0000, base_param_k1[0][0]:  1, base_param_k2[0][0]:  1, base_param_k3[0][0]:  1, base_param_Delta_enable_mode[0][0]: 6, base_param_Delta[0][0]: 0.0945, 3Spline_enable_flag[0][0]: 1, 3Spline_TH_mode[0][0]:  0, 3Spline_TH_enable_MB[0][0][0]: 0.7686, 3Spline_TH_enable[0][0][0]: 0.1998, 3Spline_TH_Delta1[0][0][0]: 0.3001, 3Spline_TH_Delta2[0][0][0]: 0.3001, 3Spline_enable_Strength[0][0][0]: 0.4510, 3Spline_TH_mode[0][0]:  1, 3Spline_TH_enable[0][0][1]: 0.4625, 3Spline_TH_Delta1[0][0][1]: 0.5758, 3Spline_TH_Delta2[0][0][1]: 0.5758, 3Spline_enable_Strength[0][0][1]: 0.5961, targeted_system_display_maximum_luminance[0][1]: 0.5079, base_enable_flag[0][1]: 1, base_param_m_p[0][1]: 0.4104, base_param_m_m[0][1]: 2.4000, base_param_m_a[0][1]: 0.6901, base_param_m_b[0][1]: 0.0000, base_param_m_n[0][1]: 1.0000, base_param_k1[0][1]:  1, base_param_k2[0][1]:  1, base_param_k3[0][1]:  1, base_param_Delta_enable_mode[0][1]: 6, base_param_Delta[0][1]: 0.0472, 3Spline_enable_flag[0][1]: 1, 3Spline_TH_mode[0][1]:  0, 3Spline_TH_enable_MB[0][1][0]: 0.6588, 3Spline_TH_enable[0][1][0]: 0.1998, 3Spline_TH_Delta1[0][1][0]: 0.1994, 3Spline_TH_Delta2[0][1][0]: 0.1994, 3Spline_enable_Strength[0][1][0]: 0.5020, 3Spline_TH_mode[0][1]:  2, 3Spline_TH_enable_MB[0][1][1]: 0.0000, 3Spline_TH_enable[0][1][1]: 0.4562, 3Spline_TH_Delta1[0][1][1]: 0.3636, 3Spline_TH_Delta2[0][1][1]: 0.3636, 3Spline_enable_Strength[0][1][1]: 0.5294, color_saturation_mapping_flag[0]: 1, color_saturation_num[0]: 2, color_saturation_gain[0][0]: 0.2969, color_saturation_gain[0][1]: 0.1875
+[Parsed_showinfo_0 @ 0x7efd04001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[out#0/null @ 0x55fe79e1f400] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.96 bitrate=N/A speed=  14x    

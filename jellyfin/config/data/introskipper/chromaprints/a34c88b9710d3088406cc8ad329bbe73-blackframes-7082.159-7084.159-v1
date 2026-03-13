@@ -1,0 +1,43 @@
+Input #0, matroska,webm, from '/media/Girls/JAV_output/佐々木さき,春原未来/MIMK-187/MIMK-187.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-01-22T15:38:33.000000Z
+    MOVIE/ENCODER   : Lavf59.16.100
+  Duration: 01:58:23.66, start: 0.000000, bitrate: 23303 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 59.94 fps, 59.94 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 23042499
+        DURATION        : 01:58:23.563000000
+        NUMBER_OF_FRAMES: 425788
+        NUMBER_OF_BYTES : 20460480619
+        _STATISTICS_WRITING_APP: mkvmerge v89.0 ('And the Melody Still Lingers On (Night in Tunisia)') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-22 15:38:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 255999
+        DURATION        : 01:58:23.659000000
+        NUMBER_OF_FRAMES: 332984
+        NUMBER_OF_BYTES : 227317078
+        _STATISTICS_WRITING_APP: mkvmerge v89.0 ('And the Melody Still Lingers On (Night in Tunisia)') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-22 15:38:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf59.16.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        BPS             : 23042499
+        DURATION        : 01:58:23.563000000
+        NUMBER_OF_FRAMES: 425788
+        NUMBER_OF_BYTES : 20460480619
+        _STATISTICS_WRITING_APP: mkvmerge v89.0 ('And the Melody Still Lingers On (Night in Tunisia)') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-22 15:38:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   15 fps=7.5 q=-0.0 size=N/A time=00:00:00.26 bitrate=N/A speed=0.133x    frame=   34 fps= 13 q=-0.0 size=N/A time=00:00:00.58 bitrate=N/A speed=0.232x    frame=   53 fps= 18 q=-0.0 size=N/A time=00:00:00.90 bitrate=N/A speed=0.298x    frame=   69 fps= 20 q=-0.0 size=N/A time=00:00:01.16 bitrate=N/A speed=0.332x    frame=   86 fps= 21 q=-0.0 size=N/A time=00:00:01.45 bitrate=N/A speed=0.361x    frame=  109 fps= 24 q=-0.0 size=N/A time=00:00:01.83 bitrate=N/A speed=0.406x    [out#0/null @ 0x56130cdda900] video:51KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  119 fps= 24 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.411x    

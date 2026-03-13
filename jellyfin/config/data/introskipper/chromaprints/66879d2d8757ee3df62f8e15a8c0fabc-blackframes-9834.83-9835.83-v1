@@ -1,0 +1,146 @@
+Input #0, matroska,webm, from '/media/Movies/星际穿越 (2014)/星际穿越 (2014).mkv':
+  Metadata:
+    title           : Interstellar.2014.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-老K
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2024-03-29T07:04:12.000000Z
+  Duration: 02:49:04.22, start: 0.000000, bitrate: 58630 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 575.491578
+      Metadata:
+        title           : 第 01 章
+    Chapter #0:1: start 575.491578, end 1032.322956
+      Metadata:
+        title           : 第 02 章
+    Chapter #0:2: start 1032.322956, end 1500.749244
+      Metadata:
+        title           : 第 03 章
+    Chapter #0:3: start 1500.749244, end 2145.393244
+      Metadata:
+        title           : 第 04 章
+    Chapter #0:4: start 2145.393244, end 2536.867667
+      Metadata:
+        title           : 第 05 章
+    Chapter #0:5: start 2536.867667, end 3019.891867
+      Metadata:
+        title           : 第 06 章
+    Chapter #0:6: start 3019.891867, end 3288.076444
+      Metadata:
+        title           : 第 07 章
+    Chapter #0:7: start 3288.076444, end 3539.702822
+      Metadata:
+        title           : 第 08 章
+    Chapter #0:8: start 3539.702822, end 3975.012689
+      Metadata:
+        title           : 第 09 章
+    Chapter #0:9: start 3975.012689, end 4648.185200
+      Metadata:
+        title           : 第 10 章
+    Chapter #0:10: start 4648.185200, end 5132.001867
+      Metadata:
+        title           : 第 11 章
+    Chapter #0:11: start 5132.001867, end 5671.999667
+      Metadata:
+        title           : 第 12 章
+    Chapter #0:12: start 5671.999667, end 6374.701667
+      Metadata:
+        title           : 第 13 章
+    Chapter #0:13: start 6374.701667, end 6934.552622
+      Metadata:
+        title           : 第 14 章
+    Chapter #0:14: start 6934.552622, end 7334.368689
+      Metadata:
+        title           : 第 15 章
+    Chapter #0:15: start 7334.368689, end 7976.843867
+      Metadata:
+        title           : 第 16 章
+    Chapter #0:16: start 7976.843867, end 8453.820356
+      Metadata:
+        title           : 第 17 章
+    Chapter #0:17: start 8453.820356, end 9312.094444
+      Metadata:
+        title           : 第 18 章
+    Chapter #0:18: start 9312.094444, end 9839.830000
+      Metadata:
+        title           : 第 19 章
+    Chapter #0:19: start 9839.830000, end 10144.218000
+      Metadata:
+        title           : 第 20 章
+  Stream #0:0(eng): Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 51669691
+        DURATION        : 02:49:04.218000000
+        NUMBER_OF_FRAMES: 243218
+        NUMBER_OF_BYTES : 65518576673
+        SOURCE_ID       : 001011
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-29 07:04:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+  Stream #0:1(eng): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 5.1(side), s32p (24 bit) (default)
+      Metadata:
+        title           : DTS-HD MA 5.1
+        BPS             : 3686198
+        DURATION        : 02:49:04.214000000
+        NUMBER_OF_FRAMES: 951020
+        NUMBER_OF_BYTES : 4674198820
+        SOURCE_ID       : 001100
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-29 07:04:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+  Stream #0:2(chi): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 5.1(side), s16p
+      Metadata:
+        title           : 国语 DTS-HD MA 5.1
+        BPS             : 1843508
+        DURATION        : 02:49:03.968000000
+        NUMBER_OF_FRAMES: 950997
+        NUMBER_OF_BYTES : 2337560780
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-29 07:04:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Audio: truehd, 48000 Hz, 5.1(side), s32 (24 bit)
+      Metadata:
+        title           : 国语 TureHD 5.1
+        BPS             : 1361942
+        DURATION        : 02:49:03.937000000
+        NUMBER_OF_FRAMES: 12172724
+        NUMBER_OF_BYTES : 1726932624
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-29 07:04:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(chi): Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : 简英特效 国语通用
+        BPS             : 269
+        DURATION        : 02:48:43.000000000
+        NUMBER_OF_FRAMES: 2412
+        NUMBER_OF_BYTES : 340489
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-29 07:04:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5: Video: mjpeg (Progressive), yuvj420p(pc, bt470bg/unknown/unknown), 254x254 [SAR 1:1 DAR 1:1], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : 老K  QQ 195383233.jpg
+        mimetype        : image/jpeg
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Interstellar.2014.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-老K
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 1.000000
+      Metadata:
+        title           : 第 19 章
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 51669691
+        DURATION        : 02:49:04.218000000
+        NUMBER_OF_FRAMES: 243218
+        NUMBER_OF_BYTES : 65518576673
+        SOURCE_ID       : 001011
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-29 07:04:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    5 fps=3.3 q=-0.0 size=N/A time=00:00:00.25 bitrate=N/A speed=0.167x    frame=   14 fps=7.0 q=-0.0 size=N/A time=00:00:00.62 bitrate=N/A speed=0.313x    frame=   23 fps=9.2 q=-0.0 size=N/A time=00:00:01.00 bitrate=N/A speed= 0.4x    [out#0/null @ 0x55bfcdff5f80] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=8.7 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.378x    

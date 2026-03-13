@@ -1,0 +1,87 @@
+Input #0, matroska,webm, from '/media/Animes/间谍过家家 (2022)/Season 3/间谍过家家 - S03E11 - 第11集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-14T02:56:56.000000Z
+  Duration: 00:23:42.08, start: 0.000000, bitrate: 7456 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 1409.450000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 1409.450000, end 1422.080000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 7324651
+        DURATION        : 00:23:42.004000000
+        NUMBER_OF_FRAMES: 34094
+        NUMBER_OF_BYTES : 1301960468
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-14 02:56:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(jpn): Audio: aac (HE-AAC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : Japanese (日语)
+        BPS             : 128000
+        DURATION        : 00:23:42.079000000
+        NUMBER_OF_FRAMES: 33330
+        NUMBER_OF_BYTES : 22753279
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-14 02:56:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : Simplified Chinese (简体中文)
+        BPS             : 67
+        DURATION        : 00:23:37.959000000
+        NUMBER_OF_FRAMES: 362
+        NUMBER_OF_BYTES : 12014
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-14 02:56:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Traditional Chinese (繁體中文)
+        BPS             : 68
+        DURATION        : 00:23:37.917000000
+        NUMBER_OF_FRAMES: 361
+        NUMBER_OF_BYTES : 12228
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-14 02:56:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Attachment: ttf
+      Metadata:
+        filename        : 思源黑体 Medium[0]_subset_0.ttf
+        mimetype        : application/x-truetype-font
+        title           : Imported font from TextTrack_2045029700_dec.assfonts.ass
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f52e0001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f52e0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f52e0001f80] n:   0 pts:   8965 pts_time:8.965   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:77977469 plane_checksum:[8A94FFBA 695E6449 95331057] mean:[690 492 525] stdev:[161.5 49.0 41.3]
+[Parsed_showinfo_0 @ 0x7f52e0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : Part 01
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 7324651
+        DURATION        : 00:23:42.004000000
+        NUMBER_OF_FRAMES: 34094
+        NUMBER_OF_BYTES : 1301960468
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-14 02:56:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f52e0001f80] n:   1 pts:  19392 pts_time:19.392  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:49A514DD plane_checksum:[1F3FEB08 6D4A0F5A A7711A6C] mean:[552 501 521] stdev:[258.4 15.2 18.6]
+[Parsed_showinfo_0 @ 0x7f52e0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x561fd2def880] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x561fd2def880] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

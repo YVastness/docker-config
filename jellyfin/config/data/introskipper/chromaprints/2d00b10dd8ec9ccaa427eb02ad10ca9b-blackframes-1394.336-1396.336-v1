@@ -1,0 +1,81 @@
+Input #0, matroska,webm, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1139 - 第1139集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-10T15:48:22.000000Z
+    COMMENT         : 4K精品资源合集：https://link3.cc/4kzy
+    TITLE           : 4K精品资源合集：https://link3.cc/4kzy
+  Duration: 00:23:35.84, start: 0.000000, bitrate: 8115 kb/s
+  Stream #0:0(jpn): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        title           : Japanese
+        BPS             : 7984836
+        DURATION        : 00:23:35.791000000
+        NUMBER_OF_BYTES : 1413107415
+        NUMBER_OF_FRAMES: 33945
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v83.0 ('Circle Of Friends') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-10 15:48:22
+  Stream #0:1(jpn): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : Japanese
+        BPS             : 128000
+        DURATION        : 00:23:35.836000000
+        NUMBER_OF_BYTES : 22653388
+        NUMBER_OF_FRAMES: 60975
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v83.0 ('Circle Of Friends') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-10 15:48:22
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : Chinese Simplified
+        BPS             : 34
+        DURATION        : 00:23:00.650000000
+        NUMBER_OF_BYTES : 6011
+        NUMBER_OF_FRAMES: 234
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v83.0 ('Circle Of Friends') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-10 15:48:22
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese Traditional
+        BPS             : 34
+        DURATION        : 00:23:00.650000000
+        NUMBER_OF_BYTES : 6014
+        NUMBER_OF_FRAMES: 234
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v83.0 ('Circle Of Friends') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-10 15:48:22
+  Stream #0:4(eng): Subtitle: ass (ssa)
+      Metadata:
+        BPS             : 98
+        DURATION        : 00:23:00.670000000
+        NUMBER_OF_BYTES : 16915
+        NUMBER_OF_FRAMES: 259
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v83.0 ('Circle Of Friends') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-10 15:48:22
+  Stream #0:5: Video: png, rgba(pc, gbr/bt709/iec61966-2-1), 514x615, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : cover.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    COMMENT         : 4K精品资源合集：https://link3.cc/4kzy
+    TITLE           : 4K精品资源合集：https://link3.cc/4kzy
+    encoder         : Lavf61.1.100
+  Stream #0:0(jpn): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        title           : Japanese
+        BPS             : 7984836
+        DURATION        : 00:23:35.791000000
+        NUMBER_OF_BYTES : 1413107415
+        NUMBER_OF_FRAMES: 33945
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v83.0 ('Circle Of Friends') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-10 15:48:22
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x5629d9b06980] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=7.96x    

@@ -1,0 +1,55 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E27 - 第27集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf62.6.101
+    comment         : Anti-Piracy
+  Duration: 00:41:06.54, start: 0.000000, bitrate: 14692 kb/s
+  Stream #0:0[0x1](chi): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1920 [SAR 1:1 DAR 2:1], 14548 kb/s, 60 fps, 60 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fec28001f80] config in time_base: 1/90000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7fec28001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fec28001f80] n:   0 pts:   4510 pts_time:0.0501111 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:743DA6F7 plane_checksum:[DA3AA188 8197D063 576A34FD] mean:[680 487 509] stdev:[109.8 10.3 28.6]
+[Parsed_showinfo_0 @ 0x7fec28001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7fec28001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b34343067386c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e332072636d2d4e6f6e6520737562206163742d534652342e362e30
+[Parsed_showinfo_0 @ 0x7fec28001f80] 
+[Parsed_showinfo_0 @ 0x7fec28001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    comment         : Anti-Piracy
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fec28001f80] n:   1 pts: 544510 pts_time:6.050111 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:B318A503 plane_checksum:[12B4A804 30219A37 846B62B9] mean:[686 487 509] stdev:[110.8 10.3 29.0]
+[Parsed_showinfo_0 @ 0x7fec28001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7fec28001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b34343067386c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e332072636d2d4e6f6e6520737562206163742d534652342e362e30
+[Parsed_showinfo_0 @ 0x7fec28001f80] 
+[Parsed_showinfo_0 @ 0x7fec28001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:06.06 bitrate=N/A speed=12.1x    [Parsed_showinfo_0 @ 0x7fec28001f80] n:   2 pts: 573012 pts_time:6.3668  duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:14D2D025 plane_checksum:[759F093C 0BC57638 F6DE50B1] mean:[687 486 513] stdev:[105.3 9.7 30.2]
+[Parsed_showinfo_0 @ 0x7fec28001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7fec28001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b34343067386c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e332072636d2d4e6f6e6520737562206163742d534652342e362e30
+[Parsed_showinfo_0 @ 0x7fec28001f80] 
+[Parsed_showinfo_0 @ 0x7fec28001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fec28001f80] n:   3 pts:1048510 pts_time:11.650111 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:395FA06B plane_checksum:[190BCD5A 33921EBA 2F2DB448] mean:[218 511 497] stdev:[104.3 19.1 32.4]
+[Parsed_showinfo_0 @ 0x7fec28001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7fec28001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b34343067386c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e332072636d2d4e6f6e6520737562206163742d534652342e362e30
+[Parsed_showinfo_0 @ 0x7fec28001f80] 
+[Parsed_showinfo_0 @ 0x7fec28001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x562e623a7400] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.38 bitrate=N/A speed=9.48x    

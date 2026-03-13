@@ -1,0 +1,59 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/斗破苍穹 (2018)/Season 5/斗破苍穹 - S05E165 - 第165集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-09-20T18:40:54.3171474+08:00
+    encoder         : Lavf58.32.104
+  Duration: 00:22:41.22, start: 0.000000, bitrate: 4369 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 4238 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:0 pblack:50 pts:2342 t:0.026022 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-09-20T18:40:54.3171474+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:1 pblack:50 pts:5942 t:0.066022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:2 pblack:50 pts:9542 t:0.106022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:3 pblack:50 pts:13142 t:0.146022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:4 pblack:50 pts:16742 t:0.186022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:5 pblack:50 pts:20342 t:0.226022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:6 pblack:50 pts:23942 t:0.266022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:7 pblack:50 pts:27542 t:0.306022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:8 pblack:50 pts:31142 t:0.346022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:9 pblack:50 pts:34741 t:0.386011 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:10 pblack:50 pts:38342 t:0.426022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:11 pblack:50 pts:41942 t:0.466022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:12 pblack:50 pts:45542 t:0.506022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:13 pblack:50 pts:49142 t:0.546022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:14 pblack:50 pts:52742 t:0.586022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:15 pblack:50 pts:56342 t:0.626022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:16 pblack:50 pts:59942 t:0.666022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:17 pblack:50 pts:63542 t:0.706022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:18 pblack:50 pts:67142 t:0.746022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:19 pblack:50 pts:70741 t:0.786011 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:20 pblack:50 pts:74342 t:0.826022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:21 pblack:50 pts:77941 t:0.866011 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:22 pblack:50 pts:81542 t:0.906022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:23 pblack:50 pts:85142 t:0.946022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:24 pblack:50 pts:88742 t:0.986022 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec94002340] frame:25 pblack:50 pts:92342 t:1.026022 type:B last_keyframe:0
+[out#0/null @ 0x556b632da800] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=1.34x    

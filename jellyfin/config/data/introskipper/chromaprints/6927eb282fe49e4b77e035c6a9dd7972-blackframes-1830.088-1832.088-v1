@@ -1,0 +1,84 @@
+[png @ 0x55cd17df34c0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x55cd17ded000] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E189 - 第189集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-10T10:47:51.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:30:47.34, start: 0.000000, bitrate: 6919 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 6785612
+        DURATION        : 00:30:47.280000000
+        NUMBER_OF_FRAMES: 46182
+        NUMBER_OF_BYTES : 1566865887
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-10 10:47:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 125346
+        DURATION        : 00:30:47.338000000
+        NUMBER_OF_FRAMES: 86594
+        NUMBER_OF_BYTES : 28944708
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-10 10:47:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:0 pblack:61 pts:34 t:0.034000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 6785612
+        DURATION        : 00:30:47.280000000
+        NUMBER_OF_FRAMES: 46182
+        NUMBER_OF_BYTES : 1566865887
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-10 10:47:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:23 pblack:98 pts:954 t:0.954000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:24 pblack:98 pts:994 t:0.994000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:25 pblack:98 pts:1034 t:1.034000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:26 pblack:98 pts:1074 t:1.074000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:27 pblack:97 pts:1114 t:1.114000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:28 pblack:96 pts:1154 t:1.154000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:29 pblack:94 pts:1194 t:1.194000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:30 pblack:93 pts:1234 t:1.234000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:31 pblack:91 pts:1274 t:1.274000 type:B last_keyframe:0
+frame=   31 fps=0.0 q=-0.0 size=N/A time=00:00:01.28 bitrate=N/A speed=2.55x    [Parsed_blackframe_0 @ 0x7f0968002340] frame:32 pblack:90 pts:1314 t:1.314000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:33 pblack:89 pts:1354 t:1.354000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:34 pblack:88 pts:1394 t:1.394000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:35 pblack:86 pts:1434 t:1.434000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:36 pblack:85 pts:1474 t:1.474000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:37 pblack:84 pts:1514 t:1.514000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:38 pblack:83 pts:1554 t:1.554000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:39 pblack:81 pts:1594 t:1.594000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:40 pblack:80 pts:1634 t:1.634000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:41 pblack:79 pts:1674 t:1.674000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:42 pblack:78 pts:1714 t:1.714000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:43 pblack:77 pts:1754 t:1.754000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:44 pblack:76 pts:1794 t:1.794000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:45 pblack:75 pts:1834 t:1.834000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:46 pblack:74 pts:1874 t:1.874000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:47 pblack:74 pts:1914 t:1.914000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:48 pblack:73 pts:1954 t:1.954000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:49 pblack:72 pts:1994 t:1.994000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f0968002340] frame:50 pblack:72 pts:2034 t:2.034000 type:B last_keyframe:0
+[out#0/null @ 0x55cd17e258c0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.97x    

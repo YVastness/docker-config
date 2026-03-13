@@ -1,0 +1,42 @@
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E135 - 第135集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-11-27T11:46:16.000000Z
+  Duration: 00:21:04.98, start: 0.000000, bitrate: 4970 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4842553
+        DURATION        : 00:21:04.920000000
+        NUMBER_OF_FRAMES: 31623
+        NUMBER_OF_BYTES : 765680363
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-27 11:46:16
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125344
+        DURATION        : 00:21:04.981000000
+        NUMBER_OF_FRAMES: 59296
+        NUMBER_OF_BYTES : 19819824
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-27 11:46:16
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 4842553
+        DURATION        : 00:21:04.920000000
+        NUMBER_OF_FRAMES: 31623
+        NUMBER_OF_BYTES : 765680363
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-27 11:46:16
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   10 fps=4.0 q=-0.0 size=N/A time=00:00:00.40 bitrate=N/A speed=0.158x    frame=   43 fps= 14 q=-0.0 size=N/A time=00:00:01.72 bitrate=N/A speed=0.565x    [out#0/null @ 0x565415aca400] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 16 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.637x    

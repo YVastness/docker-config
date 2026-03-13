@@ -1,0 +1,105 @@
+[matroska,webm @ 0x56354986b000] The tags at index 1 refer to a non-existent track 48224356444070151.
+[matroska,webm @ 0x56354986b000] The tags at index 2 refer to a non-existent track 319337624843089962.
+[matroska,webm @ 0x56354986b000] The tags at index 3 refer to a non-existent track 832785071990162387.
+[matroska,webm @ 0x56354986b000] The tags at index 4 refer to a non-existent track 1247515031582512554.
+[matroska,webm @ 0x56354986b000] The tags at index 5 refer to a non-existent track 1505495948228435355.
+[matroska,webm @ 0x56354986b000] The tags at index 6 refer to a non-existent track 1624125757724415034.
+[matroska,webm @ 0x56354986b000] The tags at index 7 refer to a non-existent track 2197282749231328735.
+[matroska,webm @ 0x56354986b000] The tags at index 8 refer to a non-existent track 4053002142555313941.
+[matroska,webm @ 0x56354986b000] The tags at index 9 refer to a non-existent track 4347594328224285680.
+[matroska,webm @ 0x56354986b000] The tags at index 10 refer to a non-existent track 5437300290285850841.
+[matroska,webm @ 0x56354986b000] The tags at index 11 refer to a non-existent track 5448047971184553173.
+[matroska,webm @ 0x56354986b000] The tags at index 12 refer to a non-existent track 5951342454893582652.
+[matroska,webm @ 0x56354986b000] The tags at index 13 refer to a non-existent track 6180236229793766985.
+[matroska,webm @ 0x56354986b000] The tags at index 14 refer to a non-existent track 6911281165458039563.
+[matroska,webm @ 0x56354986b000] The tags at index 15 refer to a non-existent track 7196838343259474703.
+[matroska,webm @ 0x56354986b000] The tags at index 16 refer to a non-existent track 7316834202113396293.
+[matroska,webm @ 0x56354986b000] The tags at index 17 refer to a non-existent track 7366103894455641353.
+[matroska,webm @ 0x56354986b000] The tags at index 18 refer to a non-existent track -8950194985458438704.
+[matroska,webm @ 0x56354986b000] The tags at index 19 refer to a non-existent track -8819496199025876473.
+[matroska,webm @ 0x56354986b000] The tags at index 20 refer to a non-existent track -8764182454036867983.
+[matroska,webm @ 0x56354986b000] The tags at index 21 refer to a non-existent track -8050307949699514269.
+[matroska,webm @ 0x56354986b000] The tags at index 22 refer to a non-existent track -7983786697425175934.
+[matroska,webm @ 0x56354986b000] The tags at index 23 refer to a non-existent track -7149008621492591037.
+[matroska,webm @ 0x56354986b000] The tags at index 24 refer to a non-existent track -4131149326398964905.
+[matroska,webm @ 0x56354986b000] The tags at index 25 refer to a non-existent track -4094889473555254672.
+[matroska,webm @ 0x56354986b000] The tags at index 26 refer to a non-existent track -2315641453046453026.
+[matroska,webm @ 0x56354986b000] The tags at index 27 refer to a non-existent track -1771967622808978302.
+[matroska,webm @ 0x56354986b000] The tags at index 28 refer to a non-existent track -1433023722808956039.
+[matroska,webm @ 0x56354986b000] The tags at index 29 refer to a non-existent track -1274058915569946406.
+[matroska,webm @ 0x56354986b000] The tags at index 30 refer to a non-existent track -1218390326010266268.
+[matroska,webm @ 0x56354986b000] The tags at index 31 refer to a non-existent track -903486449351946724.
+Input #0, matroska,webm, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E119 - 第119集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    Muxer           : Anti-Piracy
+  Duration: 00:23:42.85, start: 0.000000, bitrate: 5390 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5006287
+        DURATION        : 00:23:42.800000000
+        NUMBER_OF_FRAMES: 35570
+        NUMBER_OF_BYTES : 890368272
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 256000
+        DURATION        : 00:23:42.848000000
+        NUMBER_OF_FRAMES: 44464
+        NUMBER_OF_BYTES : 45531136
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125347
+        DURATION        : 00:23:42.848000000
+        NUMBER_OF_FRAMES: 66696
+        NUMBER_OF_BYTES : 22293882
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    Muxer           : Anti-Piracy
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 5006287
+        DURATION        : 00:23:42.800000000
+        NUMBER_OF_FRAMES: 35570
+        NUMBER_OF_BYTES : 890368272
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    4 fps=2.6 q=-0.0 size=N/A time=00:00:00.16 bitrate=N/A speed=0.106x    [Parsed_blackframe_0 @ 0x7ff67c002340] frame:26 pblack:52 pts:1054 t:1.054000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:27 pblack:55 pts:1094 t:1.094000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:28 pblack:58 pts:1134 t:1.134000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:29 pblack:61 pts:1174 t:1.174000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:30 pblack:64 pts:1214 t:1.214000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:31 pblack:67 pts:1254 t:1.254000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:32 pblack:64 pts:1294 t:1.294000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:33 pblack:68 pts:1334 t:1.334000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:34 pblack:75 pts:1374 t:1.374000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:35 pblack:81 pts:1414 t:1.414000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:36 pblack:88 pts:1454 t:1.454000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:37 pblack:97 pts:1494 t:1.494000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:38 pblack:98 pts:1534 t:1.534000 type:I last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:39 pblack:99 pts:1574 t:1.574000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:40 pblack:99 pts:1614 t:1.614000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:41 pblack:100 pts:1654 t:1.654000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:42 pblack:100 pts:1694 t:1.694000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:43 pblack:100 pts:1734 t:1.734000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:44 pblack:100 pts:1774 t:1.774000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:45 pblack:100 pts:1814 t:1.814000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:46 pblack:100 pts:1854 t:1.854000 type:B last_keyframe:38
+frame=   47 fps= 23 q=-0.0 size=N/A time=00:00:01.88 bitrate=N/A speed=0.934x    [Parsed_blackframe_0 @ 0x7ff67c002340] frame:47 pblack:100 pts:1894 t:1.894000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:48 pblack:100 pts:1934 t:1.934000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:49 pblack:100 pts:1974 t:1.974000 type:B last_keyframe:38
+[Parsed_blackframe_0 @ 0x7ff67c002340] frame:50 pblack:100 pts:2014 t:2.014000 type:B last_keyframe:38
+[out#0/null @ 0x5635498cd980] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 24 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.971x    

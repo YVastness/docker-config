@@ -1,0 +1,40 @@
+Input #0, matroska,webm, from '/media/Animes/紫川 (2021)/Season 2/紫川 - S02E19 - 第19集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:21:29.45, start: 0.000000, bitrate: 6448 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:21:29.442000000
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:21:29.450000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] n:   0 pts:    491 pts_time:0.491   duration:     39 duration_time:0.039   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:42E96C20 plane_checksum:[459DA045 699602E6 413CC8E6] mean:[368 515 526] stdev:[144.1 42.9 36.9]
+[Parsed_showinfo_0 @ 0x7f7e3c001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31382e342063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] 
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        DURATION        : 00:21:29.442000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] n:   1 pts:   6491 pts_time:6.491   duration:     39 duration_time:0.039   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:4EC53773 plane_checksum:[3F70FBAC 4201BA85 22B88124] mean:[469 461 569] stdev:[200.5 36.7 34.6]
+[Parsed_showinfo_0 @ 0x7f7e3c001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31382e342063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] 
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] n:   2 pts:  12411 pts_time:12.411  duration:     39 duration_time:0.039   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:19F4A02D plane_checksum:[779E4175 A06F5108 7A7D0DB0] mean:[428 555 493] stdev:[161.2 20.9 16.0]
+[Parsed_showinfo_0 @ 0x7f7e3c001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31382e342063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] 
+[Parsed_showinfo_0 @ 0x7f7e3c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55f9cbb84300] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.52 bitrate=N/A speed=14.8x    

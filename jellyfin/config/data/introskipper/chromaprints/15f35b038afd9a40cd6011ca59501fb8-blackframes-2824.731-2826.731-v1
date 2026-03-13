@@ -1,0 +1,32 @@
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E19 - 第19集.mkv':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:47:34.73, start: 0.000000, bitrate: 25690 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 25428670
+        NUMBER_OF_FRAMES: 171282
+        NUMBER_OF_BYTES : 9073903257
+        DURATION        : 00:47:34.699000000
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 标准音效
+        BPS             : 255999
+        NUMBER_OF_FRAMES: 122943
+        NUMBER_OF_BYTES : 91351389
+        DURATION        : 00:47:34.731000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 25428670
+        NUMBER_OF_FRAMES: 171282
+        NUMBER_OF_BYTES : 9073903257
+        DURATION        : 00:47:34.699000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    3 fps=0.7 q=-0.0 size=N/A time=00:00:00.05 bitrate=N/A speed=0.0111x    frame=   33 fps=6.6 q=-0.0 size=N/A time=00:00:00.55 bitrate=N/A speed=0.11x    frame=   62 fps= 11 q=-0.0 size=N/A time=00:00:01.03 bitrate=N/A speed=0.187x    frame=   90 fps= 15 q=-0.0 size=N/A time=00:00:01.50 bitrate=N/A speed=0.249x    frame=  119 fps= 18 q=-0.0 size=N/A time=00:00:01.98 bitrate=N/A speed=0.305x    [out#0/null @ 0x563773f7fc40] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 18 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.305x    

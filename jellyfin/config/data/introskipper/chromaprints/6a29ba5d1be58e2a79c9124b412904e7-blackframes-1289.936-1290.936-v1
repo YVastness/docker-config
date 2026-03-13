@@ -1,0 +1,55 @@
+[png @ 0x562c530bb4c0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x562c530b5000] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/遮天 (2023)/Season 1/遮天 - S01E142 - 第142集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-30T10:45:42.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:22:15.94, start: 0.000000, bitrate: 6127 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 5991193
+        DURATION        : 00:22:15.880000000
+        NUMBER_OF_FRAMES: 33397
+        NUMBER_OF_BYTES : 1000439376
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-30 10:45:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 125345
+        DURATION        : 00:22:15.936000000
+        NUMBER_OF_FRAMES: 62622
+        NUMBER_OF_BYTES : 20931710
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-30 10:45:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 5991193
+        DURATION        : 00:22:15.880000000
+        NUMBER_OF_FRAMES: 33397
+        NUMBER_OF_BYTES : 1000439376
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-30 10:45:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    3 fps=3.0 q=-0.0 size=N/A time=00:00:00.16 bitrate=N/A speed=0.16x    [out#0/null @ 0x562c53213ac0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps= 19 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.791x    

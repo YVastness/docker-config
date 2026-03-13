@@ -1,0 +1,69 @@
+[mpegts @ 0x55b9e896f000] Could not detect TS packet size, defaulting to non-FEC/DVHS
+[mpegts @ 0x55b9e896f000] max resync size reached, could not find sync byte
+    Last message repeated 9 times
+[mpegts @ 0x55b9e896f000] changing packet size to 204
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 204
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] max resync size reached, could not find sync byte
+    Last message repeated 56 times
+[mpegts @ 0x55b9e896f000] PES packet size mismatch
+[mpegts @ 0x55b9e896f000] Packet corrupt (stream = 1, dts = 59400000).
+[mpegts @ 0x55b9e896f000] max resync size reached, could not find sync byte
+    Last message repeated 30 times
+[in#0/mpegts @ 0x55b9e896ed00] could not seek to position 11524.488
+Input #0, mpegts, from '/media/Girls/JAV_output/三上悠亚/SSNI-865/SSNI-865-C.iso':
+  Duration: 00:01:00.00, start: 600.000000, bitrate: 4361175 kb/s
+  Program 1 
+  Stream #0:0[0x1011]: Video: h264 (High) (HDMV / 0x564D4448), yuv420p(tv, bt709, top first), 1920x1080 [SAR 1:1 DAR 16:9], 29.97 fps, 59.94 tbr, 90k tbn
+  Stream #0:1[0x1100]: Audio: pcm_bluray (HDMV / 0x564D4448), 48000 Hz, stereo, s16, 1536 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[mpegts @ 0x55b9e896f000] max resync size reached, could not find sync byte
+    Last message repeated 7 times
+[mpegts @ 0x55b9e896f000] changing packet size to 204
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 204
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[mpegts @ 0x55b9e896f000] changing packet size to 188
+[mpegts @ 0x55b9e896f000] changing packet size to 192
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:0 pblack:99 pts:3003 t:0.033367 type:I last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, top coded first (swapped)), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 29.97 fps, 29.97 tbn
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:1 pblack:52 pts:6006 t:0.066733 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:2 pblack:52 pts:9009 t:0.100100 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:3 pblack:52 pts:12012 t:0.133467 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:4 pblack:52 pts:15015 t:0.166833 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:51 pblack:89 pts:156156 t:1.735067 type:I last_keyframe:51
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:52 pblack:78 pts:159159 t:1.768433 type:P last_keyframe:51
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:53 pblack:65 pts:162162 t:1.801800 type:P last_keyframe:51
+[Parsed_blackframe_0 @ 0x7f2ec8002340] frame:54 pblack:52 pts:165165 t:1.835167 type:P last_keyframe:51
+[out#0/null @ 0x55b9e8c04240] video:25KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   59 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.96 bitrate=N/A speed=4.69x    

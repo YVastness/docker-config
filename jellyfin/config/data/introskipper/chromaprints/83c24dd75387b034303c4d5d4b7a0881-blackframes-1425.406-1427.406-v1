@@ -1,0 +1,41 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5649276dc000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/斗破苍穹 (2017)/Season 5/斗破苍穹 - S05E105 - 第105集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf56.40.101
+  Duration: 00:24:02.66, start: 0.000000, bitrate: 5527 kb/s
+  Stream #0:0[0x1](chi): Video: hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 5530 kb/s, 25 fps, 25 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 139 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 800x800, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5649276dc000] Packet corrupt (stream = 0, dts = 22782752).
+[in#0/mov,mp4,m4a,3gp,3g2,mj2 @ 0x5649276dbd00] corrupt input packet in stream 0
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5649276dc000] stream 0, offset 0x3b6abb05: partial file
+[hevc @ 0x564927767d80] Invalid NAL unit size (42925 > 27890).
+[hevc @ 0x564927767d80] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x5649276df700] [dec:hevc @ 0x564927753080] Decoding error: Invalid data found when processing input
+[vost#0:0/wrapped_avframe @ 0x564927769140] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x56492773cec0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x56492773cec0] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

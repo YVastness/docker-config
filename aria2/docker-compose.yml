@@ -1,0 +1,30 @@
+version: "3"
+services:
+    aria2-pro:
+        container_name: aria2
+        restart: unless-stopped
+        logging:
+            options:
+                max-size: 1m
+        network_mode: host
+        environment:
+            - PUID=0
+            - PGID=0
+            - RPC_SECRET=wsoe8vkt3ob7uxgvqq63947cprbpspch
+            - RPC_PORT=6800
+            - LISTEN_PORT=6888
+            - IPV6_MODE=true
+        volumes:
+            - /docker/aria2/config:/config
+            - /mnt/sda2/Videos:/downloads
+        image: p3terx/aria2-pro
+
+    ariang:
+        container_name: ariang
+        logging:
+            options:
+                max-size: 1m
+        restart: unless-stopped
+        network_mode: host
+        image: p3terx/ariang
+        command: --port 6880 --ipv6

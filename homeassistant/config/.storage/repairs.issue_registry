@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "minor_version": 2,
+  "key": "repairs.issue_registry",
+  "data": {
+    "issues": [
+      {
+        "created": "2025-07-02T10:39:33.441752+00:00",
+        "dismissed_version": null,
+        "domain": "hacs",
+        "is_persistent": false,
+        "issue_id": "restart_required_192604318_tags/2.4.1"
+      },
+      {
+        "created": "2025-08-04T07:33:55.685646+00:00",
+        "dismissed_version": null,
+        "domain": "hacs",
+        "is_persistent": false,
+        "issue_id": "restart_required_854347601_tags/v0.4.1"
+      },
+      {
+        "created": "2025-08-31T08:49:36.901245+00:00",
+        "dismissed_version": null,
+        "domain": "hacs",
+        "is_persistent": false,
+        "issue_id": "restart_required_799096673_tags/v0.6.9"
+      },
+      {
+        "created": "2025-12-31T09:19:15.203598+00:00",
+        "dismissed_version": null,
+        "domain": "hacs",
+        "is_persistent": false,
+        "issue_id": "restart_required_799096673_tags/v0.6.10"
+      }
+    ]
+  }
+}

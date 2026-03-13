@@ -1,0 +1,15 @@
+services:
+  jellyfin:
+    image: jellyfin/jellyfin
+    container_name: jellyfin
+    # user: uid:gid
+    # network_mode: 'host'
+    volumes:
+      - /docker/jellyfin/config:/config
+      - /docker/jellyfin/cache:/cache
+      - type: bind
+        source: /mnt/sda2/Videos
+        target: /media
+    restart: 'unless-stopped'
+    ports: 
+      - 8097:8096

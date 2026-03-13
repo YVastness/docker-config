@@ -1,0 +1,91 @@
+Input #0, matroska,webm, from '/media/Animes/一拳超人 (2015)/Season 3/一拳超人 - S03E07 - 第7集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-24T03:14:45.000000Z
+  Duration: 00:24:03.03, start: 0.000000, bitrate: 12916 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 135.500000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 135.500000, end 223.250000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 223.250000, end 1435.450000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 1435.450000, end 1443.030000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 12784783
+        DURATION        : 00:24:02.942000000
+        NUMBER_OF_FRAMES: 34596
+        NUMBER_OF_BYTES : 2305962636
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(jpn): Audio: aac (HE-AAC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : Japanese (日语)
+        BPS             : 128000
+        DURATION        : 00:24:03.029000000
+        NUMBER_OF_FRAMES: 33821
+        NUMBER_OF_BYTES : 23088469
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : Simplified Chinese (简体中文)
+        BPS             : 59
+        DURATION        : 00:23:44.089000000
+        NUMBER_OF_FRAMES: 406
+        NUMBER_OF_BYTES : 10547
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Traditional Chinese (繁體中文)
+        BPS             : 59
+        DURATION        : 00:23:44.089000000
+        NUMBER_OF_FRAMES: 406
+        NUMBER_OF_BYTES : 10547
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Attachment: ttf
+      Metadata:
+        filename        : 思源黑体 Medium[0]_subset_1_0.ttf
+        mimetype        : application/x-truetype-font
+        title           : Imported font from TextTrack_1463565218_dec.assfonts.ass
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Part 02
+  Stream #0:0(jpn): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : Japanese (日语)
+        BPS             : 128000
+        DURATION        : 00:24:03.029000000
+        NUMBER_OF_FRAMES: 33821
+        NUMBER_OF_BYTES : 23088469
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f2c98002440] silence_start: 5.904021
+[silencedetect @ 0x7f2c98002440] silence_end: 7.072167 | silence_duration: 1.168146
+[out#0/null @ 0x55c1adc5d700] video:0KiB audio:1313KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=7.18x    

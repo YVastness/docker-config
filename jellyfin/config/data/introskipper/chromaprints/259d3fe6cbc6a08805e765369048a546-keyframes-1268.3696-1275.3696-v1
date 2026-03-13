@@ -1,0 +1,97 @@
+[matroska,webm @ 0x55de513c8080] The tags at index 1 refer to a non-existent track 48224356444070151.
+[matroska,webm @ 0x55de513c8080] The tags at index 2 refer to a non-existent track 319337624843089962.
+[matroska,webm @ 0x55de513c8080] The tags at index 3 refer to a non-existent track 832785071990162387.
+[matroska,webm @ 0x55de513c8080] The tags at index 4 refer to a non-existent track 1247515031582512554.
+[matroska,webm @ 0x55de513c8080] The tags at index 5 refer to a non-existent track 1505495948228435355.
+[matroska,webm @ 0x55de513c8080] The tags at index 6 refer to a non-existent track 1624125757724415034.
+[matroska,webm @ 0x55de513c8080] The tags at index 7 refer to a non-existent track 2197282749231328735.
+[matroska,webm @ 0x55de513c8080] The tags at index 8 refer to a non-existent track 4053002142555313941.
+[matroska,webm @ 0x55de513c8080] The tags at index 9 refer to a non-existent track 4347594328224285680.
+[matroska,webm @ 0x55de513c8080] The tags at index 10 refer to a non-existent track 5437300290285850841.
+[matroska,webm @ 0x55de513c8080] The tags at index 11 refer to a non-existent track 5448047971184553173.
+[matroska,webm @ 0x55de513c8080] The tags at index 12 refer to a non-existent track 5951342454893582652.
+[matroska,webm @ 0x55de513c8080] The tags at index 13 refer to a non-existent track 6180236229793766985.
+[matroska,webm @ 0x55de513c8080] The tags at index 14 refer to a non-existent track 6911281165458039563.
+[matroska,webm @ 0x55de513c8080] The tags at index 15 refer to a non-existent track 7196838343259474703.
+[matroska,webm @ 0x55de513c8080] The tags at index 16 refer to a non-existent track 7316834202113396293.
+[matroska,webm @ 0x55de513c8080] The tags at index 17 refer to a non-existent track 7366103894455641353.
+[matroska,webm @ 0x55de513c8080] The tags at index 18 refer to a non-existent track -8950194985458438704.
+[matroska,webm @ 0x55de513c8080] The tags at index 19 refer to a non-existent track -8819496199025876473.
+[matroska,webm @ 0x55de513c8080] The tags at index 20 refer to a non-existent track -8764182454036867983.
+[matroska,webm @ 0x55de513c8080] The tags at index 21 refer to a non-existent track -8050307949699514269.
+[matroska,webm @ 0x55de513c8080] The tags at index 22 refer to a non-existent track -7983786697425175934.
+[matroska,webm @ 0x55de513c8080] The tags at index 23 refer to a non-existent track -7149008621492591037.
+[matroska,webm @ 0x55de513c8080] The tags at index 24 refer to a non-existent track -4131149326398964905.
+[matroska,webm @ 0x55de513c8080] The tags at index 25 refer to a non-existent track -4094889473555254672.
+[matroska,webm @ 0x55de513c8080] The tags at index 26 refer to a non-existent track -2315641453046453026.
+[matroska,webm @ 0x55de513c8080] The tags at index 27 refer to a non-existent track -1771967622808978302.
+[matroska,webm @ 0x55de513c8080] The tags at index 28 refer to a non-existent track -1433023722808956039.
+[matroska,webm @ 0x55de513c8080] The tags at index 29 refer to a non-existent track -1274058915569946406.
+[matroska,webm @ 0x55de513c8080] The tags at index 30 refer to a non-existent track -1218390326010266268.
+[matroska,webm @ 0x55de513c8080] The tags at index 31 refer to a non-existent track -903486449351946724.
+Input #0, matroska,webm, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E121 - 第121集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    Muxer           : Anti-Piracy
+  Duration: 00:25:26.91, start: 0.000000, bitrate: 6038 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5655197
+        DURATION        : 00:25:26.840000000
+        NUMBER_OF_FRAMES: 38171
+        NUMBER_OF_BYTES : 1079322712
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 256000
+        DURATION        : 00:25:26.912000000
+        NUMBER_OF_FRAMES: 47716
+        NUMBER_OF_BYTES : 48861184
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125346
+        DURATION        : 00:25:26.890000000
+        NUMBER_OF_FRAMES: 71573
+        NUMBER_OF_BYTES : 23923838
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] n:   0 pts:   1312 pts_time:1.312   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:D0DCAB6F plane_checksum:[F859D169 C1D9F89A 1E65E14E] mean:[491 516 511] stdev:[116.3 18.6 16.9]
+[Parsed_showinfo_0 @ 0x7ffb6c001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] 
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    Muxer           : Anti-Piracy
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 5655197
+        DURATION        : 00:25:26.840000000
+        NUMBER_OF_FRAMES: 38171
+        NUMBER_OF_BYTES : 1079322712
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] n:   1 pts:   6432 pts_time:6.432   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:0F625AB3 plane_checksum:[ADADB108 7CF8D62C DCBCD361] mean:[459 522 473] stdev:[200.7 79.9 67.0]
+[Parsed_showinfo_0 @ 0x7ffb6c001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] 
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] n:   2 pts:  11472 pts_time:11.472  duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:314A3669 plane_checksum:[27E65B0C 554BB979 E9A521D5] mean:[612 549 482] stdev:[233.9 24.7 30.6]
+[Parsed_showinfo_0 @ 0x7ffb6c001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] 
+[Parsed_showinfo_0 @ 0x7ffb6c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55de51424d80] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.48 bitrate=N/A speed=13.6x    

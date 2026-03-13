@@ -1,0 +1,92 @@
+Input #0, matroska,webm, from '/media/Animes/一拳超人 (2015)/Season 3/一拳超人 - S03E07 - 第7集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-24T03:14:45.000000Z
+  Duration: 00:24:03.03, start: 0.000000, bitrate: 12916 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 135.500000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 135.500000, end 223.250000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 223.250000, end 1435.450000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 1435.450000, end 1443.030000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 12784783
+        DURATION        : 00:24:02.942000000
+        NUMBER_OF_FRAMES: 34596
+        NUMBER_OF_BYTES : 2305962636
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(jpn): Audio: aac (HE-AAC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : Japanese (日语)
+        BPS             : 128000
+        DURATION        : 00:24:03.029000000
+        NUMBER_OF_FRAMES: 33821
+        NUMBER_OF_BYTES : 23088469
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : Simplified Chinese (简体中文)
+        BPS             : 59
+        DURATION        : 00:23:44.089000000
+        NUMBER_OF_FRAMES: 406
+        NUMBER_OF_BYTES : 10547
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Traditional Chinese (繁體中文)
+        BPS             : 59
+        DURATION        : 00:23:44.089000000
+        NUMBER_OF_FRAMES: 406
+        NUMBER_OF_BYTES : 10547
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Attachment: ttf
+      Metadata:
+        filename        : 思源黑体 Medium[0]_subset_1_0.ttf
+        mimetype        : application/x-truetype-font
+        title           : Imported font from TextTrack_1463565218_dec.assfonts.ass
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f4e10001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f4e10001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f4e10001f80] n:   0 pts:   4511 pts_time:4.511   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:A13D2034 plane_checksum:[87111357 69594F96 F31ABD38] mean:[581 551 486] stdev:[223.7 41.7 30.9]
+[Parsed_showinfo_0 @ 0x7f4e10001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 7.000000
+      Metadata:
+        title           : Part 02
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 12784783
+        DURATION        : 00:24:02.942000000
+        NUMBER_OF_FRAMES: 34596
+        NUMBER_OF_BYTES : 2305962636
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-24 03:14:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=1.0 q=-0.0 size=N/A time=00:00:04.54 bitrate=N/A speed=4.54x    [Parsed_showinfo_0 @ 0x7f4e10001f80] n:   1 pts:  14938 pts_time:14.938  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:9E890E42 plane_checksum:[51ED8AA7 8300BFA4 87FAC3D9] mean:[553 548 489] stdev:[231.2 41.7 32.1]
+[Parsed_showinfo_0 @ 0x7f4e10001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55bd949b4680] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.8 q=-0.0 Lsize=N/A time=00:00:04.54 bitrate=N/A speed=3.82x    

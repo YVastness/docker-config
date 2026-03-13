@@ -1,0 +1,66 @@
+[png @ 0x559044a3b4c0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x559044a330c0] Could not find codec parameters for stream 3 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/神国之上 (2025)/Season 1/神国之上 - S01E17 - 第17集.mkv':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-09-20T02:09:52.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:29:18.47, start: 0.000000, bitrate: 6352 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv), 3840x1608, SAR 1:1 DAR 160:67, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6057446
+        DURATION        : 00:29:18.440000000
+        NUMBER_OF_FRAMES: 43961
+        NUMBER_OF_BYTES : 1331457071
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-20 02:09:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 96000
+        DURATION        : 00:29:18.464000000
+        NUMBER_OF_FRAMES: 54952
+        NUMBER_OF_BYTES : 21101568
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-20 02:09:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 189659
+        DURATION        : 00:29:18.470000000
+        NUMBER_OF_FRAMES: 75731
+        NUMBER_OF_BYTES : 41688720
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-20 02:09:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 96000
+        DURATION        : 00:29:18.464000000
+        NUMBER_OF_FRAMES: 54952
+        NUMBER_OF_BYTES : 21101568
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-20 02:09:52
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f1b0c002440] silence_start: 0.131667
+[silencedetect @ 0x7f1b0c002440] silence_end: 6.588375 | silence_duration: 6.456708
+[out#0/null @ 0x559044ad8740] video:0KiB audio:1312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 576x    

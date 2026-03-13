@@ -1,0 +1,93 @@
+Input #0, matroska,webm, from '/media/Animes/完美世界 (2021)/Season 1/完美世界 - S01E259 - 第259集.mkv':
+  Metadata:
+    MOVIE/ENCODER   : Lavf60.21.101
+    creation_time   : 2026-03-13T01:54:21.000000Z
+    COMMENT         : CH 2026.03
+    ENCODER         : Lavf62.0.102
+  Duration: 00:26:32.74, start: 0.000000, bitrate: 5757 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1636 [SAR 1:1 DAR 960:409], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4922296
+        NUMBER_OF_FRAMES: 39815
+        NUMBER_OF_BYTES : 979906156
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.642000000
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 国语 HIFI声
+        BPS             : 317340
+        NUMBER_OF_FRAMES: 74656
+        NUMBER_OF_BYTES : 63176994
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.661000000
+  Stream #0:2(chi): Audio: eac3, 48000 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        title           : 国语 杜比音效
+        BPS             : 128000
+        NUMBER_OF_FRAMES: 49773
+        NUMBER_OF_BYTES : 25483776
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.736000000
+  Stream #0:3(chi): Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : 国语 立体环绕声
+        BPS             : 253356
+        NUMBER_OF_FRAMES: 74656
+        NUMBER_OF_BYTES : 50438863
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.661000000
+  Stream #0:4(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : 国语 标准音效
+        BPS             : 125341
+        NUMBER_OF_FRAMES: 74656
+        NUMBER_OF_BYTES : 24953361
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.661000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f8040001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f8040001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f8040001f80] n:   0 pts:   3599 pts_time:3.599   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1636 i:P iskey:1 type:I checksum:2F41A872 plane_checksum:[4AF6388C 6A40F54E E6187A89] mean:[161 505 515] stdev:[32.8 3.2 2.5]
+[Parsed_showinfo_0 @ 0x7f8040001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f8040001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e31302063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f8040001f80] 
+[Parsed_showinfo_0 @ 0x7f8040001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf60.21.101
+    COMMENT         : CH 2026.03
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1636 [SAR 1:1 DAR 960:409], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 4922296
+        NUMBER_OF_FRAMES: 39815
+        NUMBER_OF_BYTES : 979906156
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.642000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f8040001f80] n:   1 pts:   8839 pts_time:8.839   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1636 i:P iskey:1 type:I checksum:281ED8F1 plane_checksum:[3F474B70 2F2C5FDC DC782DA5] mean:[294 517 526] stdev:[183.7 56.8 38.7]
+[Parsed_showinfo_0 @ 0x7f8040001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f8040001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e31302063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f8040001f80] 
+[Parsed_showinfo_0 @ 0x7f8040001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f8040001f80] n:   2 pts:  14079 pts_time:14.079  duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1636 i:P iskey:1 type:I checksum:8F988EDB plane_checksum:[1DFA1778 579F37EF D0553F74] mean:[437 469 557] stdev:[155.4 78.7 31.8]
+[Parsed_showinfo_0 @ 0x7f8040001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f8040001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e31302063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f8040001f80] 
+[Parsed_showinfo_0 @ 0x7f8040001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55bd89ebb780] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.64 bitrate=N/A speed=12.9x    

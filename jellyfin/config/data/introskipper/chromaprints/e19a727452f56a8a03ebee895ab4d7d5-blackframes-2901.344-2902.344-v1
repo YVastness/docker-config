@@ -1,0 +1,56 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/星球大战：安多 (2022)/Season 1/星球大战：安多 - S01E06 - 第6集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : ShanaEncoder
+  Duration: 00:50:37.34, start: 0.000000, bitrate: 11719 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 11200 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, 5.1, fltp, 512 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:0 pblack:99 pts:381 t:0.031006 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:1 pblack:99 pts:893 t:0.072673 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:2 pblack:99 pts:1405 t:0.114339 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:3 pblack:99 pts:1917 t:0.156006 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:4 pblack:99 pts:2429 t:0.197673 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:5 pblack:99 pts:2941 t:0.239339 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:6 pblack:99 pts:3453 t:0.281006 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:7 pblack:99 pts:3965 t:0.322673 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:8 pblack:99 pts:4477 t:0.364339 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:9 pblack:99 pts:4989 t:0.406006 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:10 pblack:99 pts:5501 t:0.447673 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:11 pblack:99 pts:6013 t:0.489339 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:12 pblack:99 pts:6525 t:0.531006 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:13 pblack:99 pts:7037 t:0.572673 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:14 pblack:99 pts:7549 t:0.614339 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:15 pblack:99 pts:8061 t:0.656006 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:16 pblack:99 pts:8573 t:0.697673 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:17 pblack:99 pts:9085 t:0.739339 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:18 pblack:99 pts:9597 t:0.781006 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:19 pblack:99 pts:10109 t:0.822673 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:20 pblack:99 pts:10621 t:0.864339 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:21 pblack:99 pts:11133 t:0.906006 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:22 pblack:99 pts:11645 t:0.947673 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:23 pblack:99 pts:12157 t:0.989339 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fec30002340] frame:24 pblack:99 pts:12669 t:1.031006 type:B last_keyframe:0
+[out#0/null @ 0x55f77eeb6fc0] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=1.15x    

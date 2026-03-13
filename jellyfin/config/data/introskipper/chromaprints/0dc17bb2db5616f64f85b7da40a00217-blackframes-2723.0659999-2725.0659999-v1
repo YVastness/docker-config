@@ -1,0 +1,52 @@
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E06 - 第6集.mkv':
+  Metadata:
+    creation_time   : 2025-11-23T13:24:25.000000Z
+    ENCODER         : Lavf60.16.100
+  Duration: 00:45:53.07, start: 0.000000, bitrate: 14825 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1920 [SAR 1:1 DAR 2:1], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 14695651
+        DURATION        : 00:45:53.017000000
+        NUMBER_OF_FRAMES: 165181
+        NUMBER_OF_BYTES : 5057172370
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 13:24:25
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        BPS             : 125351
+        DURATION        : 00:45:53.066000000
+        NUMBER_OF_FRAMES: 129050
+        NUMBER_OF_BYTES : 43137681
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 13:24:25
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : quark4k.com
+        BPS             : 20
+        DURATION        : 00:00:10.000000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 25
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 13:24:25
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 14695651
+        DURATION        : 00:45:53.017000000
+        NUMBER_OF_FRAMES: 165181
+        NUMBER_OF_BYTES : 5057172370
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 13:24:25
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.2 q=-0.0 size=N/A time=00:00:00.01 bitrate=N/A speed=0.0037x    frame=   32 fps=6.4 q=-0.0 size=N/A time=00:00:00.53 bitrate=N/A speed=0.106x    frame=   66 fps= 12 q=-0.0 size=N/A time=00:00:01.10 bitrate=N/A speed= 0.2x    frame=  100 fps= 17 q=-0.0 size=N/A time=00:00:01.66 bitrate=N/A speed=0.277x    [out#0/null @ 0x564fcca71400] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 19 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.316x    

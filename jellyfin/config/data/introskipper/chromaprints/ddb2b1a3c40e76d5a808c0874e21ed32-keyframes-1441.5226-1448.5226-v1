@@ -1,0 +1,72 @@
+[png @ 0x55a5172495c0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x55a517243080] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E193 - 第193集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-07T10:43:29.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:24:39.70, start: 0.000000, bitrate: 5324 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 5189396
+        DURATION        : 00:24:39.640000000
+        NUMBER_OF_FRAMES: 36991
+        NUMBER_OF_BYTES : 959804828
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 10:43:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 125345
+        DURATION        : 00:24:39.701000000
+        NUMBER_OF_FRAMES: 69361
+        NUMBER_OF_BYTES : 23184256
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 10:43:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f3780001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f3780001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f3780001f80] n:   0 pts:   4119 pts_time:4.119   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:5D40DFC4 plane_checksum:[8A1B6E22 3481657E AE580C24] mean:[42 148 131] stdev:[45.1 16.4 7.5]
+[Parsed_showinfo_0 @ 0x7f3780001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f3780001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f3780001f80] 
+[Parsed_showinfo_0 @ 0x7f3780001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 5189396
+        DURATION        : 00:24:39.640000000
+        NUMBER_OF_FRAMES: 36991
+        NUMBER_OF_BYTES : 959804828
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-07 10:43:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f3780001f80] n:   1 pts:   9359 pts_time:9.359   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:E3241698 plane_checksum:[D19E1C1F 8E1ED762 52132308] mean:[170 140 134] stdev:[29.9 6.7 4.1]
+[Parsed_showinfo_0 @ 0x7f3780001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f3780001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f3780001f80] 
+[Parsed_showinfo_0 @ 0x7f3780001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f3780001f80] n:   2 pts:  14479 pts_time:14.479  duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:43437A7F plane_checksum:[C4D292A4 263FC425 F0DC23A7] mean:[66 128 128] stdev:[41.0 3.4 2.6]
+[Parsed_showinfo_0 @ 0x7f3780001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f3780001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f3780001f80] 
+[Parsed_showinfo_0 @ 0x7f3780001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55a5173d9b80] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:04.16 bitrate=N/A speed=14.9x    

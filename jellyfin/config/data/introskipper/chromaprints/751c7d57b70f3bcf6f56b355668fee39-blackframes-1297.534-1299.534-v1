@@ -1,0 +1,56 @@
+Input #0, matroska,webm, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E122 - 第122集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-04T11:05:19.000000Z
+    MOVIE/COMMENT   : Fuck You
+    MOVIE/ENCODER   : Lavf61.1.100
+  Duration: 00:21:54.78, start: 0.000000, bitrate: 6509 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6125291
+        DURATION        : 00:21:54.720000000
+        NUMBER_OF_FRAMES: 32868
+        NUMBER_OF_BYTES : 1006630325
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 11:05:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 256000
+        DURATION        : 00:21:54.784000000
+        NUMBER_OF_FRAMES: 41087
+        NUMBER_OF_BYTES : 42073088
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 11:05:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125347
+        DURATION        : 00:21:54.773000000
+        NUMBER_OF_FRAMES: 61630
+        NUMBER_OF_BYTES : 20600452
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 11:05:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/COMMENT   : Fuck You
+    MOVIE/ENCODER   : Lavf61.1.100
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 6125291
+        DURATION        : 00:21:54.720000000
+        NUMBER_OF_FRAMES: 32868
+        NUMBER_OF_BYTES : 1006630325
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-04 11:05:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.3 q=-0.0 size=N/A time=00:00:00.08 bitrate=N/A speed=0.0227x    frame=   18 fps=4.5 q=-0.0 size=N/A time=00:00:00.76 bitrate=N/A speed=0.188x    frame=   32 fps=7.1 q=-0.0 size=N/A time=00:00:01.32 bitrate=N/A speed=0.291x    frame=   49 fps=9.7 q=-0.0 size=N/A time=00:00:02.00 bitrate=N/A speed=0.397x    [out#0/null @ 0x5652783d9ec0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps=9.6 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.392x    

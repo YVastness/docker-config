@@ -1,0 +1,43 @@
+Input #0, matroska,webm, from '/media/Animes/斗破苍穹 (2017)/Season 5/斗破苍穹 - S05E132 - 第132集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-02-01T11:32:33.000000Z
+  Duration: 00:22:10.41, start: 0.000000, bitrate: 7764 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 7637095
+        DURATION        : 00:22:10.360000000
+        NUMBER_OF_FRAMES: 33259
+        NUMBER_OF_BYTES : 1270010729
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-01 11:32:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125336
+        DURATION        : 00:22:10.410000000
+        NUMBER_OF_FRAMES: 62363
+        NUMBER_OF_BYTES : 20843560
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-01 11:32:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        BPS             : 125336
+        DURATION        : 00:22:10.410000000
+        NUMBER_OF_FRAMES: 62363
+        NUMBER_OF_BYTES : 20843560
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-01 11:32:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f5890002440] silence_start: 0.000666667
+[silencedetect @ 0x7f5890002440] silence_end: 7.032833 | silence_duration: 7.032167
+[out#0/null @ 0x55fb2f477d40] video:0KiB audio:1313KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=82.6x    

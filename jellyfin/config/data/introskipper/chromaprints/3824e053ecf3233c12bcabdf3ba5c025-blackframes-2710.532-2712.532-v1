@@ -1,0 +1,58 @@
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 2147835 (0x20c5fb) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 65895952 (0x3ed7e10) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 118539355 (0x710c45b) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 176693719 (0xa8821d7) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 230481419 (0xdbcde0b) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 340747032 (0x144f6318) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 384516274 (0x16eb40b2) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 448401225 (0x1aba0f49) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 502251769 (0x1defc0f9) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 559368907 (0x21574acb) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 610912336 (0x2469c850) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 666863923 (0x27bf8933) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 720915583 (0x2af84c7f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 776112592 (0x2e4289d0) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 821785029 (0x30fb71c5) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 882434602 (0x3498e22a) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 934198834 (0x37aebe32) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 986372574 (0x3acad9de) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1049026831 (0x3e86e10f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1104184010 (0x41d082ca) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1160380305 (0x4529ff91) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1214243630 (0x485fe32e) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1324404602 (0x4ef0cf7a) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1424690263 (0x54eb0c57) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1543506708 (0x5c000b14) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1594640433 (0x5f0c4831) invalid as first byte of an EBML number
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1648595746 (0x62439322) invalid as first byte of an EBML number
+    Last message repeated 1 times
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E06 - 第6集.mkv':
+  Metadata:
+    title           : 06
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-29T04:30:11.000000Z
+  Duration: 00:45:32.03, start: 0.000000, bitrate: 4970 kb/s
+  Stream #0:0(chi): Video: h264 (Main), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: aac (HE-AAC), 48000 Hz, stereo, fltp (default) (original)
+      Metadata:
+        title           : China
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x5640fd375000] 0x00 at pos 1648595746 (0x62439322) invalid as first byte of an EBML number
+[h264 @ 0x5640fd3cab80] cabac decode of qscale diff failed at 103 22
+[h264 @ 0x5640fd3cab80] error while decoding MB 103 22, bytestream -4
+[h264 @ 0x5640fd3cab80] concealing 5466 DC, 5466 AC, 5466 MV errors in P frame
+[vist#0:0/h264 @ 0x5640fd3aea00] [dec:h264 @ 0x5640fd37c580] corrupt decoded frame
+[vost#0:0/wrapped_avframe @ 0x5640fd3b0700] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 06
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 1k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x5640fd3afa00] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x5640fd3afa00] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

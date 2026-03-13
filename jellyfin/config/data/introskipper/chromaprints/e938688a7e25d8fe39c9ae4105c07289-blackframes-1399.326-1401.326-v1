@@ -1,0 +1,52 @@
+[png @ 0x5648a4954300] Invalid PNG signature 0xFFD8FFE1010A4578.
+[matroska,webm @ 0x5648a494e000] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/斗破苍穹 (2017)/Season 5/斗破苍穹 - S05E171 - 第171集.mp4':
+  Metadata:
+    title           : 你在找什么?[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-01T10:44:25.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:23:36.58, start: 0.000000, bitrate: 6164 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6036482
+        DURATION        : 00:23:36.520000000
+        NUMBER_OF_FRAMES: 35413
+        NUMBER_OF_BYTES : 1068849851
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-01 10:44:25
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125354
+        DURATION        : 00:23:36.576000000
+        NUMBER_OF_FRAMES: 66402
+        NUMBER_OF_BYTES : 22196725
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-01 10:44:25
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : FUCK.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么?[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 6036482
+        DURATION        : 00:23:36.520000000
+        NUMBER_OF_FRAMES: 35413
+        NUMBER_OF_BYTES : 1068849851
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-01 10:44:25
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   13 fps= 13 q=-0.0 size=N/A time=00:00:00.56 bitrate=N/A speed=0.558x    [out#0/null @ 0x5648a49867c0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 34 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.38x    

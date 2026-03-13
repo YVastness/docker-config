@@ -1,0 +1,57 @@
+Input #0, matroska,webm, from '/media/Animes/沧元图 (2023)/Season 1/沧元图 - S01E47 - 第47集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-03-21T04:02:05.000000Z
+  Duration: 00:21:44.78, start: 0.000000, bitrate: 22418 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1776 [SAR 1:1 DAR 80:37], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 22160550
+        DURATION        : 00:21:44.760000000
+        NUMBER_OF_FRAMES: 32619
+        NUMBER_OF_BYTES : 3614274937
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-03-21 04:02:05
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:21:44.775000000
+        NUMBER_OF_FRAMES: 56192
+        NUMBER_OF_BYTES : 41752823
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-03-21 04:02:05
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1776 [SAR 1:1 DAR 80:37], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 22160550
+        DURATION        : 00:21:44.760000000
+        NUMBER_OF_FRAMES: 32619
+        NUMBER_OF_BYTES : 3614274937
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-03-21 04:02:05
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.7 q=-0.0 size=N/A time=00:00:00.08 bitrate=N/A speed=0.0526x    frame=   13 fps=6.4 q=-0.0 size=N/A time=00:00:00.56 bitrate=N/A speed=0.277x    [Parsed_blackframe_0 @ 0x7f8924002340] frame:25 pblack:77 pts:1026 t:1.026000 type:I last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:26 pblack:77 pts:1066 t:1.066000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:27 pblack:62 pts:1106 t:1.106000 type:B last_keyframe:25
+frame=   28 fps= 11 q=-0.0 size=N/A time=00:00:01.16 bitrate=N/A speed=0.46x    [Parsed_blackframe_0 @ 0x7f8924002340] frame:30 pblack:61 pts:1226 t:1.226000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:31 pblack:63 pts:1266 t:1.266000 type:B last_keyframe:25
+frame=   32 fps= 11 q=-0.0 size=N/A time=00:00:01.32 bitrate=N/A speed=0.436x    [Parsed_blackframe_0 @ 0x7f8924002340] frame:32 pblack:63 pts:1306 t:1.306000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:33 pblack:67 pts:1346 t:1.346000 type:B last_keyframe:25
+frame=   34 fps=9.6 q=-0.0 size=N/A time=00:00:01.40 bitrate=N/A speed=0.397x    [Parsed_blackframe_0 @ 0x7f8924002340] frame:34 pblack:69 pts:1386 t:1.386000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:35 pblack:66 pts:1426 t:1.426000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:36 pblack:61 pts:1466 t:1.466000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:37 pblack:59 pts:1506 t:1.506000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:38 pblack:60 pts:1546 t:1.546000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:39 pblack:58 pts:1586 t:1.586000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:40 pblack:58 pts:1626 t:1.626000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:41 pblack:58 pts:1666 t:1.666000 type:B last_keyframe:25
+[Parsed_blackframe_0 @ 0x7f8924002340] frame:42 pblack:54 pts:1706 t:1.706000 type:B last_keyframe:25
+frame=   48 fps= 12 q=-0.0 size=N/A time=00:00:01.96 bitrate=N/A speed=0.487x    [out#0/null @ 0x559f57598c40] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 12 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.483x    

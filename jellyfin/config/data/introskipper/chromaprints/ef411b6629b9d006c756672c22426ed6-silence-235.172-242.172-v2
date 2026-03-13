@@ -1,0 +1,138 @@
+Input #0, matroska,webm, from '/media/TV Shows/绝命毒师 (2008)/Season 1/绝命毒师 - S01E07 - 第7集.mkv':
+  Metadata:
+    title           : cXcY@FRDS
+    encoder         : libebml v1.3.1 + libmatroska v1.4.2
+    creation_time   : 2022-11-05T04:12:06.000000Z
+  Duration: 00:47:35.46, start: 0.000000, bitrate: 9765 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9101609
+        BPS-eng         : 9101609
+        DURATION        : 00:47:32.433000000
+        DURATION-eng    : 00:47:32.433000000
+        NUMBER_OF_FRAMES: 68390
+        NUMBER_OF_FRAMES-eng: 68390
+        NUMBER_OF_BYTES : 3245216304
+        NUMBER_OF_BYTES-eng: 3245216304
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:12:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : English-DD5.1￡cXcY
+        BPS             : 640000
+        BPS-eng         : 640000
+        DURATION        : 00:47:35.456000000
+        DURATION-eng    : 00:47:35.456000000
+        NUMBER_OF_FRAMES: 89233
+        NUMBER_OF_FRAMES-eng: 89233
+        NUMBER_OF_BYTES : 228436480
+        NUMBER_OF_BYTES-eng: 228436480
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:12:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: hdmv_pgs_subtitle (pgssub), 1920x1080 (default) (forced)
+      Metadata:
+        title           : 中上英下-SUP_YYeTs字幕￡cXcY
+        BPS             : 32370
+        BPS-eng         : 32370
+        DURATION        : 00:45:46.911000000
+        DURATION-eng    : 00:45:46.911000000
+        NUMBER_OF_FRAMES: 1239
+        NUMBER_OF_FRAMES-eng: 1239
+        NUMBER_OF_BYTES : 11114709
+        NUMBER_OF_BYTES-eng: 11114709
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:12:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: ass (ssa)
+      Metadata:
+        title           : 简体中文-ASS_R3-官方字幕￡cXcY
+        BPS             : 132
+        BPS-eng         : 132
+        DURATION        : 00:45:46.900000000
+        DURATION-eng    : 00:45:46.900000000
+        NUMBER_OF_FRAMES: 637
+        NUMBER_OF_FRAMES-eng: 637
+        NUMBER_OF_BYTES : 45658
+        NUMBER_OF_BYTES-eng: 45658
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:12:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : 简体中文-SRT_YYeTs字幕￡cXcY
+        BPS             : 54
+        BPS-eng         : 54
+        DURATION        : 00:45:46.910000000
+        DURATION-eng    : 00:45:46.910000000
+        NUMBER_OF_FRAMES: 723
+        NUMBER_OF_FRAMES-eng: 723
+        NUMBER_OF_BYTES : 18859
+        NUMBER_OF_BYTES-eng: 18859
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:12:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : 英文-ASS_官方字幕￡cXcY
+        BPS             : 123
+        BPS-eng         : 123
+        DURATION        : 00:45:46.160000000
+        DURATION-eng    : 00:45:46.160000000
+        NUMBER_OF_FRAMES: 620
+        NUMBER_OF_FRAMES-eng: 620
+        NUMBER_OF_BYTES : 42263
+        NUMBER_OF_BYTES-eng: 42263
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:12:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : cXcY@FRDS
+    encoder         : Lavf61.1.100
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        title           : English-DD5.1￡cXcY
+        BPS             : 640000
+        BPS-eng         : 640000
+        DURATION        : 00:47:35.456000000
+        DURATION-eng    : 00:47:35.456000000
+        NUMBER_OF_FRAMES: 89233
+        NUMBER_OF_FRAMES-eng: 89233
+        NUMBER_OF_BYTES : 228436480
+        NUMBER_OF_BYTES-eng: 228436480
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:12:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:12:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7fd5c4002440] silence_start: 5.615938
+[silencedetect @ 0x7fd5c4002440] silence_end: 5.719771 | silence_duration: 0.103833
+[silencedetect @ 0x7fd5c4002440] silence_start: 5.721812
+[silencedetect @ 0x7fd5c4002440] silence_end: 7.0355 | silence_duration: 1.313687
+[out#0/null @ 0x561caac33400] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 217x    

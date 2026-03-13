@@ -1,0 +1,41 @@
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E185 - 第185集.mkv':
+  Metadata:
+    DESCRIPTION     : hehehe
+    ENCODER         : Lavf61.7.100
+  Duration: 00:24:05.01, start: 0.000000, bitrate: 6623 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        COMMENT         : hehehe
+        DURATION        : 00:24:05.002000000
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 标准音效
+        DURATION        : 00:24:05.013000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x55c4bd58d080] 0x00 at pos 4613732 (0x466664) invalid as first byte of an EBML number
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] n:   0 pts:   5036 pts_time:5.036   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:2D85CD65 plane_checksum:[8016A139 65B5E71F 77C044FE] mean:[80 520 509] stdev:[18.9 4.8 3.8]
+[Parsed_showinfo_0 @ 0x7f2ae0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31382e342063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] 
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    DESCRIPTION     : hehehe
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        COMMENT         : hehehe
+        DURATION        : 00:24:05.002000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[matroska,webm @ 0x55c4bd58d080] 0x00 at pos 26010629 (0x18ce405) invalid as first byte of an EBML number
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] n:   1 pts:  21036 pts_time:21.036  duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:C3C715CB plane_checksum:[AC0175F2 0137C34F 8A72DC6C] mean:[431 548 476] stdev:[128.5 27.6 13.9]
+[Parsed_showinfo_0 @ 0x7f2ae0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31382e342063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] 
+[Parsed_showinfo_0 @ 0x7f2ae0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55c4bd5da340] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.08 bitrate=N/A speed=11.7x    

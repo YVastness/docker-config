@@ -1,0 +1,59 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/沧元图 (2023)/Season 1/沧元图 - S01E45 - 第45集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf59.27.100
+  Duration: 00:20:42.85, start: 0.000000, bitrate: 22319 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1776 [SAR 1:1 DAR 80:37], 22057 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1776 [SAR 1:1 DAR 80:37], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   13 fps=8.6 q=-0.0 size=N/A time=00:00:00.56 bitrate=N/A speed=0.371x    [Parsed_blackframe_0 @ 0x7f6ea8002340] frame:23 pblack:50 pts:85673 t:0.951922 type:I last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:24 pblack:50 pts:89273 t:0.991922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:25 pblack:51 pts:92873 t:1.031922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:26 pblack:51 pts:96473 t:1.071922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:27 pblack:51 pts:100073 t:1.111922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:28 pblack:52 pts:103673 t:1.151922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:29 pblack:52 pts:107273 t:1.191922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:30 pblack:52 pts:110873 t:1.231922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:31 pblack:53 pts:114473 t:1.271922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:32 pblack:54 pts:118073 t:1.311922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:33 pblack:54 pts:121673 t:1.351922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:34 pblack:55 pts:125273 t:1.391922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:35 pblack:55 pts:128873 t:1.431922 type:B last_keyframe:23
+frame=   36 fps= 18 q=-0.0 size=N/A time=00:00:01.48 bitrate=N/A speed=0.737x    [Parsed_blackframe_0 @ 0x7f6ea8002340] frame:36 pblack:55 pts:132473 t:1.471922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:37 pblack:55 pts:136073 t:1.511922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:38 pblack:55 pts:139673 t:1.551922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:39 pblack:55 pts:143273 t:1.591922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:40 pblack:55 pts:146873 t:1.631922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:41 pblack:55 pts:150473 t:1.671922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:42 pblack:55 pts:154073 t:1.711922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:43 pblack:55 pts:157673 t:1.751922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:44 pblack:56 pts:161273 t:1.791922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:45 pblack:56 pts:164873 t:1.831922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:46 pblack:56 pts:168473 t:1.871922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:47 pblack:56 pts:172073 t:1.911922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:48 pblack:56 pts:175673 t:1.951922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:49 pblack:56 pts:179273 t:1.991922 type:B last_keyframe:23
+[Parsed_blackframe_0 @ 0x7f6ea8002340] frame:50 pblack:56 pts:182873 t:2.031922 type:B last_keyframe:23
+[out#0/null @ 0x563e54f35480] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 21 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.868x    

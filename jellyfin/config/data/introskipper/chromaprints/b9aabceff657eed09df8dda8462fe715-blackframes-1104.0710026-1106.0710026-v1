@@ -1,0 +1,49 @@
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 46597116 (0x2c703fc) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 58735605 (0x3803bf5) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 85428631 (0x5178997) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 97652383 (0x5d20e9f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 115818559 (0x6e7403f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 162990246 (0x9b708a6) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 172811824 (0xa4ce630) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 182932977 (0xae755f1) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 191146941 (0xb64abbd) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 211300947 (0xc983253) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 222762163 (0xd4714b3) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 229798495 (0xdb2725f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 248555220 (0xed0a6d4) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 272069891 (0x10377503) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 280634784 (0x10ba25a0) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 288582958 (0x11336d2e) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 319226490 (0x1307027a) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 326441311 (0x1375195f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 368667190 (0x15f96a36) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 407175211 (0x1845002b) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 428892803 (0x19906283) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 460709329 (0x1b75ddd1) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 465098175 (0x1bb8d5bf) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 486566170 (0x1d00691a) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615275cf000] 0x00 at pos 507656111 (0x1e4237af) invalid as first byte of an EBML number
+Input #0, matroska,webm, from '/media/Animes/紫川 (2021)/Season 2/紫川 - S02E24 - 第24集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:20:24.68, start: 0.000000, bitrate: 4045 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:20:24.600000000
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:20:24.682000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        DURATION        : 00:20:24.600000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   27 fps= 18 q=-0.0 size=N/A time=00:00:01.08 bitrate=N/A speed=0.72x    [out#0/null @ 0x561527630b40] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 29 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.16x    

@@ -1,0 +1,76 @@
+[png @ 0x55bee98bf440] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x55bee98b7080] Stream #3: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x55bee98b7080] Could not find codec parameters for stream 3 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1133 - 第1133集.mp4':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-16T01:45:21.000000Z
+    MOVIE/ENCODER   : Lavf60.21.101
+  Duration: 00:23:35.86, start: 0.000000, bitrate: 10491 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv), 3840x2160, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 10195473
+        DURATION        : 00:23:35.791000000
+        NUMBER_OF_FRAMES: 33945
+        NUMBER_OF_BYTES : 1804332508
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-16 01:45:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        title           : DDP
+        BPS             : 96000
+        DURATION        : 00:23:35.840000000
+        NUMBER_OF_FRAMES: 44245
+        NUMBER_OF_BYTES : 16990080
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-16 01:45:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC
+        BPS             : 189650
+        DURATION        : 00:23:35.860000000
+        NUMBER_OF_FRAMES: 60976
+        NUMBER_OF_BYTES : 33564805
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-16 01:45:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f0a48001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f0a48001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f0a48001f80] n:   0 pts:   2222 pts_time:2.222   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:2FBFDCBA plane_checksum:[0CD53691 148182E4 1EF42345] mean:[143 103 113] stdev:[58.6 25.0 18.9]
+[Parsed_showinfo_0 @ 0x7f0a48001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？
+    MOVIE/ENCODER   : Lavf60.21.101
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 10195473
+        DURATION        : 00:23:35.791000000
+        NUMBER_OF_FRAMES: 33945
+        NUMBER_OF_BYTES : 1804332508
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-16 01:45:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f0a48001f80] n:   1 pts:   4140 pts_time:4.14    duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:3DC6B7E5 plane_checksum:[AEFB1093 053005A7 4222A1AB] mean:[146 111 123] stdev:[60.0 24.8 21.0]
+[Parsed_showinfo_0 @ 0x7f0a48001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f0a48001f80] n:   2 pts:   6101 pts_time:6.101   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:83E34EC4 plane_checksum:[81D16438 159D5D8D AEE08CF0] mean:[151 115 125] stdev:[59.1 25.0 21.6]
+[Parsed_showinfo_0 @ 0x7f0a48001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f0a48001f80] n:   3 pts:   6726 pts_time:6.726   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:548E8034 plane_checksum:[5827A57A 790FED4E 790FED4E] mean:[18 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f0a48001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f0a48001f80] n:   4 pts:  11690 pts_time:11.69   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:52AE4A66 plane_checksum:[D25C6FAC 790FED4E 790FED4E] mean:[39 128 128] stdev:[63.1 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f0a48001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55bee99395c0] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.75 bitrate=N/A speed=6.99x    

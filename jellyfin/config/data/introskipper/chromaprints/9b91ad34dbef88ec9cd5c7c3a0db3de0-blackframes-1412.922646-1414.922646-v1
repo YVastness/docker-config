@@ -1,0 +1,37 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E96 - 第96集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-07-06T19:00:57.4332364+08:00
+    encoder         : Lavf60.21.101
+  Duration: 00:24:02.92, start: 0.000000, bitrate: 5941 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 5809 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-07-06T19:00:57.4332364+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   12 fps=3.4 q=-0.0 size=N/A time=00:00:00.52 bitrate=N/A speed=0.148x    frame=   32 fps=8.0 q=-0.0 size=N/A time=00:00:01.32 bitrate=N/A speed=0.328x    [Parsed_blackframe_0 @ 0x7fa628002340] frame:35 pblack:50 pts:129542 t:1.439356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa628002340] frame:36 pblack:50 pts:133142 t:1.479356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa628002340] frame:37 pblack:50 pts:136742 t:1.519356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa628002340] frame:38 pblack:50 pts:140341 t:1.559344 type:B last_keyframe:0
+frame=   49 fps= 11 q=-0.0 size=N/A time=00:00:02.00 bitrate=N/A speed=0.442x    [out#0/null @ 0x565396ee5500] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 11 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.438x    

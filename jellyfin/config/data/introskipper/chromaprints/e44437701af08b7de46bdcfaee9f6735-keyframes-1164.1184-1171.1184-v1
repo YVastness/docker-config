@@ -1,0 +1,48 @@
+Input #0, matroska,webm, from '/media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E11 - 第11集.mkv':
+  Metadata:
+    encoder         : Lavf
+  Duration: 00:23:25.82, start: 0.000000, bitrate: 1823 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1596 [SAR 1:1 DAR 320:133], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:23:25.708000000
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        DURATION        : 00:23:25.824000000
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        title           : AAC5.1
+        DURATION        : 00:23:25.717000000
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        DURATION        : 00:23:25.717000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f5530001f80] config in time_base: 1/1000, frame_rate: 24/1
+[Parsed_showinfo_0 @ 0x7f5530001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f5530001f80] n:   0 pts:   5299 pts_time:5.299   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x1596 i:P iskey:1 type:I checksum:4178FF98 plane_checksum:[4583E8F0 E37E35C2 5B8DE0D7] mean:[426 489 541] stdev:[219.4 40.8 37.8]
+[Parsed_showinfo_0 @ 0x7f5530001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f5530001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e392063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f5530001f80] 
+[Parsed_showinfo_0 @ 0x7f5530001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1596 [SAR 1:1 DAR 320:133], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        DURATION        : 00:23:25.708000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f5530001f80] n:   1 pts:  11299 pts_time:11.299  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x1596 i:P iskey:1 type:I checksum:7CF4B9C9 plane_checksum:[65084D84 D955B993 6855B2A3] mean:[592 387 549] stdev:[124.7 40.4 22.1]
+[Parsed_showinfo_0 @ 0x7f5530001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f5530001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e392063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f5530001f80] 
+[Parsed_showinfo_0 @ 0x7f5530001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f5530001f80] n:   2 pts:  17299 pts_time:17.299  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x1596 i:P iskey:1 type:I checksum:131302B1 plane_checksum:[3D06532C 5D25D190 8C2DDDD7] mean:[500 380 591] stdev:[179.1 77.5 40.1]
+[Parsed_showinfo_0 @ 0x7f5530001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f5530001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e392063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f5530001f80] 
+[Parsed_showinfo_0 @ 0x7f5530001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55af83748700] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.33 bitrate=N/A speed=15.7x    

@@ -1,0 +1,269 @@
+[matroska,webm @ 0x55ff0f8be000] Invalid Block Addition value 0x0 for unknown Block Addition Mapping type 68766345, name ""
+[matroska,webm @ 0x55ff0f8be000] Stream #4: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x55ff0f8be000] Stream #5: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x55ff0f8be000] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[matroska,webm @ 0x55ff0f8be000] Could not find codec parameters for stream 3 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Movies/流浪地球 (2019)/流浪地球 (2019).mkv':
+  Metadata:
+    title           : The.Wandering.Earth.II.2023.2160p.CHN.UHD.Bluray.REMUX.DV.HDR.HEVC.TrueHD.Atmos.7.1-老K
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2024-11-16T13:14:32.000000Z
+  Duration: 02:53:21.83, start: 0.000000, bitrate: 88053 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 583.000000
+      Metadata:
+        title           : 第 01 章
+    Chapter #0:1: start 583.000000, end 1184.000000
+      Metadata:
+        title           : 第 02 章
+    Chapter #0:2: start 1184.000000, end 2121.000000
+      Metadata:
+        title           : 第 03 章
+    Chapter #0:3: start 2121.000000, end 2525.000000
+      Metadata:
+        title           : 第 04 章
+    Chapter #0:4: start 2525.000000, end 3480.000000
+      Metadata:
+        title           : 第 05 章
+    Chapter #0:5: start 3480.000000, end 3948.000000
+      Metadata:
+        title           : 第 06 章
+    Chapter #0:6: start 3948.000000, end 4366.000000
+      Metadata:
+        title           : 第 01 章
+    Chapter #0:7: start 4366.000000, end 4657.000000
+      Metadata:
+        title           : 第 02 章
+    Chapter #0:8: start 4657.000000, end 5285.000000
+      Metadata:
+        title           : 第 03 章
+    Chapter #0:9: start 5285.000000, end 5793.000000
+      Metadata:
+        title           : 第 04 章
+    Chapter #0:10: start 5793.000000, end 6325.000000
+      Metadata:
+        title           : 第 05 章
+    Chapter #0:11: start 6325.000000, end 6879.000000
+      Metadata:
+        title           : 第 06 章
+    Chapter #0:12: start 6879.000000, end 7449.000000
+      Metadata:
+        title           : 第 07 章
+    Chapter #0:13: start 7449.000000, end 8123.000000
+      Metadata:
+        title           : 第 08 章
+    Chapter #0:14: start 8123.000000, end 8894.000000
+      Metadata:
+        title           : 第 09 章
+    Chapter #0:15: start 8894.000000, end 9483.000000
+      Metadata:
+        title           : 第 10 章
+    Chapter #0:16: start 9483.000000, end 10003.000000
+      Metadata:
+        title           : 第 11 章
+    Chapter #0:17: start 10003.000000, end 10401.833333
+      Metadata:
+        title           : 第 12 章
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x2160 [SAR 1:1 DAR 16:9], 24 fps, 24 tbr, 1k tbn
+      Metadata:
+        BPS             : 84070979
+        DURATION        : 02:53:21.834000000
+        NUMBER_OF_FRAMES: 249644
+        NUMBER_OF_BYTES : 109311546504
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-16 13:14:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+  Stream #0:1(chi): Audio: truehd (Dolby TrueHD + Dolby Atmos), 48000 Hz, 7.1, s32 (24 bit) (default)
+      Metadata:
+        BPS             : 3892662
+        DURATION        : 02:53:21.834000000
+        NUMBER_OF_FRAMES: 12482200
+        NUMBER_OF_BYTES : 5061353442
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-16 13:14:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: hdmv_pgs_subtitle (pgssub) (default)
+      Metadata:
+        BPS             : 17785
+        DURATION        : 02:52:29.083000000
+        NUMBER_OF_FRAMES: 5418
+        NUMBER_OF_BYTES : 23007635
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-16 13:14:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: hdmv_pgs_subtitle (pgssub)
+      Metadata:
+        BPS             : 24642
+        DURATION        : 02:52:29.083000000
+        NUMBER_OF_FRAMES: 5420
+        NUMBER_OF_BYTES : 31878905
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-16 13:14:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Video: png, rgb24(pc, gbr/unknown/unknown), 1418x918, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : 流浪地球2
+        mimetype        : image/png
+  Stream #0:5: Video: mjpeg (Progressive), yuvj420p(pc, bt470bg/unknown/unknown), 254x254 [SAR 1:1 DAR 1:1], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : 影片封装：老K
+        mimetype        : image/jpeg
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 10 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : The.Wandering.Earth.II.2023.2160p.CHN.UHD.Bluray.REMUX.DV.HDR.HEVC.TrueHD.Atmos.7.1-老K
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : 第 11 章
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 24 fps, 24 tbn
+      Metadata:
+        BPS             : 84070979
+        DURATION        : 02:53:21.834000000
+        NUMBER_OF_FRAMES: 249644
+        NUMBER_OF_BYTES : 109311546504
+        _STATISTICS_WRITING_APP: mkvmerge v68.0.0 ('The Curtain') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-11-16 13:14:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 7, level: 6, rpu flag: 1, el flag: 1, bl flag: 1, compatibility id: 6
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+frame=   13 fps= 13 q=-0.0 size=N/A time=00:00:00.58 bitrate=N/A speed=0.58x    [hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 10 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+frame=   27 fps= 18 q=-0.0 size=N/A time=00:00:01.16 bitrate=N/A speed=0.774x    [hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 10 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+frame=   42 fps= 21 q=-0.0 size=N/A time=00:00:01.79 bitrate=N/A speed=0.891x    [hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f8f5e00] Skipping NAL unit 63
+    Last message repeated 3 times
+[out#0/null @ 0x55ff0f9389c0] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 21 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.895x    
+[hevc @ 0x55ff0faa98c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0fa42000] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9f23c0] Skipping NAL unit 63
+    Last message repeated 3 times
+[hevc @ 0x55ff0f9deb40] Skipping NAL unit 63
+    Last message repeated 3 times

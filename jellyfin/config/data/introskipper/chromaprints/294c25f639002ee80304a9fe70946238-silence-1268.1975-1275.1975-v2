@@ -1,0 +1,39 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55be9c27e0c0] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/吞噬星空 (2020)/Season 1/吞噬星空 - S01E179 - 第179集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    totaldiscs      : a^h#m&v!z(x!n$c$x!76&v^-zyfx.ysepan.com-2021(&^*&*7680/^j
+    encoder         : Lavf59.34.101
+    disc            : 2&a0&2z5$#%&&*cjwl!@%^&)&$9124
+  Duration: 00:21:47.86, start: 0.000000, bitrate: 7836 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 7697 kb/s, 30 fps, 30 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 2160x1215 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    totaldiscs      : a^h#m&v!z(x!n$c$x!76&v^-zyfx.ysepan.com-2021(&^*&*7680/^j
+    disc            : 2&a0&2z5$#%&&*cjwl!@%^&)&$9124
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f2b08002440] silence_start: 0.000333333
+[silencedetect @ 0x7f2b08002440] silence_end: 4.165458 | silence_duration: 4.165125
+[out#0/null @ 0x55be9c2e4440] video:0KiB audio:1312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 150x    

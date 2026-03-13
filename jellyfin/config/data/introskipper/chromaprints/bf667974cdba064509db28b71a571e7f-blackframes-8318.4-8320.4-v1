@@ -1,0 +1,35 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Girls/JAV_output/戸田真琴/STARS-156/STARS-156-流出-C.mp4':
+  Metadata:
+    major_brand     : avc1
+    minor_version   : 0
+    compatible_brands: avc1mp42
+    creation_time   : 2019-09-07T00:56:14.000000Z
+  Duration: 02:20:08.40, start: 0.000000, bitrate: 5395 kb/s
+  Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 4996 kb/s, 29.97 fps, 29.97 tbr, 30k tbn (default)
+      Metadata:
+        creation_time   : 2019-09-07T00:56:14.000000Z
+        handler_name    : Video Media Handler
+        vendor_id       : [0][0][0][0]
+        encoder         : AVC Coding
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 384 kb/s (default)
+      Metadata:
+        creation_time   : 2019-09-07T00:56:14.000000Z
+        handler_name    : Sound Media Handler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : avc1
+    minor_version   : 0
+    compatible_brands: avc1mp42
+    encoder         : Lavf61.1.100
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, top coded first (swapped)), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 29.97 fps, 29.97 tbn (default)
+      Metadata:
+        creation_time   : 2019-09-07T00:56:14.000000Z
+        handler_name    : Video Media Handler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x55a6361fa4c0] video:26KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   60 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.96 bitrate=N/A speed=4.94x    

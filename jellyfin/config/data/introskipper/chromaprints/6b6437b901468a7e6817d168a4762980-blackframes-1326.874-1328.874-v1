@@ -1,0 +1,62 @@
+Input #0, matroska,webm, from '/media/Animes/斗破苍穹 (2017)/Season 5/斗破苍穹 - S05E177 - 第177集.mkv':
+  Metadata:
+    title           : 微博@Tacit0924 
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2025-12-13T10:47:13.000000Z
+    COMMENT         : 更多分享关注微博@Tacit0924 或者网址：https://link3.cc/tacit0924
+  Duration: 00:22:24.12, start: 0.000000, bitrate: 4137 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        title           : 微博@Tacit0924
+        BPS             : 4012624
+        DURATION        : 00:22:24.040000000
+        NUMBER_OF_FRAMES: 33601
+        NUMBER_OF_BYTES : 674141057
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-13 10:47:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 微博@Tacit0924
+        BPS             : 122375
+        DURATION        : 00:22:24.106000000
+        NUMBER_OF_FRAMES: 63005
+        NUMBER_OF_BYTES : 20560644
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-13 10:47:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : 微博@Tacit0924
+        BPS             : 105
+        DURATION        : 00:00:10.000000000
+        NUMBER_OF_FRAMES: 2
+        NUMBER_OF_BYTES : 132
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-13 10:47:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Video: png, rgba(pc, gbr/bt709/iec61966-2-1), 600x600, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : 微博@Tacit0924 .png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 微博@Tacit0924 
+    COMMENT         : 更多分享关注微博@Tacit0924 或者网址：https://link3.cc/tacit0924
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        title           : 微博@Tacit0924
+        BPS             : 4012624
+        DURATION        : 00:22:24.040000000
+        NUMBER_OF_FRAMES: 33601
+        NUMBER_OF_BYTES : 674141057
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-13 10:47:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    0 fps=0.0 q=-0.0 size=       0KiB time=00:00:00.04 bitrate=   0.0kbits/s speed=0.0785x    frame=   19 fps= 19 q=-0.0 size=N/A time=00:00:00.76 bitrate=N/A speed=0.752x    frame=   41 fps= 27 q=-0.0 size=N/A time=00:00:01.64 bitrate=N/A speed=1.09x    [out#0/null @ 0x555fdec7efc0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 31 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.23x    

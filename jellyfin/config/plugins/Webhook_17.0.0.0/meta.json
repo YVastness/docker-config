@@ -1,0 +1,16 @@
+{
+  "category": "Notifications",
+  "changelog": "- Update Ntfy.handlebars (#298) @Sk4lli\n- ntfy.sh: Template Optimizations Pt. 3 (#297) @v3DJG6GL\n\n### New features and improvements ###\n- feat: add url_encode helper (#314) @armanckeser",
+  "description": "Sends notifications to various services via webhooks.",
+  "guid": "71552a5a-5c5c-4350-a2ae-ebe451a30173",
+  "name": "Webhook",
+  "overview": "Sends notifications.",
+  "owner": "jellyfin",
+  "targetAbi": "10.10.6.0",
+  "timestamp": "2025-02-22T17:59:11.0000000Z",
+  "version": "17.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/plugins/Webhook_17.0.0.0/jellyfin-plugin-webhook.png",
+  "assemblies": []
+}

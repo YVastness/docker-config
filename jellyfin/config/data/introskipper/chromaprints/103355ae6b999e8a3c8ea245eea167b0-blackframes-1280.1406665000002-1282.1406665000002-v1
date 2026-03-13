@@ -1,0 +1,41 @@
+Input #0, matroska,webm, from '/media/Animes/完美世界 (2021)/Season 1/完美世界 - S01E226 - 第226集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-31T11:05:34.000000Z
+  Duration: 00:21:43.38, start: 0.000000, bitrate: 5464 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1636 [SAR 1:1 DAR 960:409], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5336538
+        DURATION        : 00:21:43.320000000
+        NUMBER_OF_FRAMES: 32583
+        NUMBER_OF_BYTES : 869402219
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-31 11:05:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125342
+        DURATION        : 00:21:43.381000000
+        NUMBER_OF_FRAMES: 61096
+        NUMBER_OF_BYTES : 20421174
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-31 11:05:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1636 [SAR 1:1 DAR 960:409], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 5336538
+        DURATION        : 00:21:43.320000000
+        NUMBER_OF_FRAMES: 32583
+        NUMBER_OF_BYTES : 869402219
+        _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-31 11:05:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    4 fps=2.6 q=-0.0 size=N/A time=00:00:00.20 bitrate=N/A speed=0.132x    frame=   23 fps= 11 q=-0.0 size=N/A time=00:00:00.96 bitrate=N/A speed=0.477x    frame=   42 fps= 17 q=-0.0 size=N/A time=00:00:01.72 bitrate=N/A speed=0.684x    [out#0/null @ 0x5629972f6040] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 18 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.737x    

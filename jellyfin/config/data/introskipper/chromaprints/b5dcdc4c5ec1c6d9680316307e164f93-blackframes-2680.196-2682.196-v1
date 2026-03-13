@@ -1,0 +1,55 @@
+[png @ 0x560eaadaa600] Invalid PNG signature 0xFFD8FFE1010A4578.
+[matroska,webm @ 0x560eaada4000] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E12 - 第12集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-26T13:04:04.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:45:01.70, start: 0.000000, bitrate: 14732 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1920 [SAR 1:1 DAR 2:1], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 14602190
+        DURATION        : 00:45:01.650000000
+        NUMBER_OF_FRAMES: 162099
+        NUMBER_OF_BYTES : 4931250849
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 13:04:04
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 125355
+        DURATION        : 00:45:01.696000000
+        NUMBER_OF_FRAMES: 126642
+        NUMBER_OF_BYTES : 42333937
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 13:04:04
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : FUCK.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 14602190
+        DURATION        : 00:45:01.650000000
+        NUMBER_OF_FRAMES: 162099
+        NUMBER_OF_BYTES : 4931250849
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-26 13:04:04
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   23 fps=4.2 q=-0.0 size=N/A time=00:00:00.38 bitrate=N/A speed=0.0696x    frame=   55 fps=9.2 q=-0.0 size=N/A time=00:00:00.91 bitrate=N/A speed=0.153x    frame=   90 fps= 14 q=-0.0 size=N/A time=00:00:01.50 bitrate=N/A speed=0.231x    [out#0/null @ 0x560eab0ff840] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 17 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.286x    

@@ -1,0 +1,43 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E191 - 第191集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    title           : 兄弟,这里没有你想要的信息
+    encoder         : Lavf62.3.100
+    comment         : 安心去观影吧
+    genre           : 别找了
+    copyright       : 来源：热心网友
+  Duration: 00:25:49.70, start: 0.000000, bitrate: 7612 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 7480 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    title           : 兄弟,这里没有你想要的信息
+    copyright       : 来源：热心网友
+    comment         : 安心去观影吧
+    genre           : 别找了
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f72b8002440] silence_start: 1.375938
+[silencedetect @ 0x7f72b8002440] silence_end: 1.496604 | silence_duration: 0.120667
+[silencedetect @ 0x7f72b8002440] silence_start: 1.664104
+[silencedetect @ 0x7f72b8002440] silence_end: 4.066625 | silence_duration: 2.402521
+[out#0/null @ 0x5600d02c1240] video:0KiB audio:1313KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=53.5x    

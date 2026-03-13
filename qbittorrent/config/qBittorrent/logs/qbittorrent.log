@@ -1,0 +1,176 @@
+(I) 2026-03-13T07:07:03 - 成功监听 IP。IP：“fe80::2ff:d14b:4f33:7824%utun”。端口：“UTP/10090”
+(W) 2026-03-13T07:09:39 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[198.18.0.1]: no router found”
+(W) 2026-03-13T07:09:39 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[198.18.0.1]: no router found”
+(N) 2026-03-13T07:21:14 - qBittorrent v5.1.4 已启动。进程 ID：146
+(N) 2026-03-13T07:21:14 - 使用配置目录：/config/qBittorrent
+(N) 2026-03-13T07:21:14 - 尝试侦听下列 IP 地址列表：“0.0.0.0:10090,[::]:10090”
+(I) 2026-03-13T07:21:15 - Peer ID：“-qB5140-”
+(I) 2026-03-13T07:21:15 - HTTP User-Agent：“qBittorrent/5.1.4”
+(I) 2026-03-13T07:21:15 - 分布式哈希表（DHT）支持：开
+(I) 2026-03-13T07:21:15 - 本地 Peer 发现支持：开
+(I) 2026-03-13T07:21:15 - Peer 交换（PeX）支持：开
+(I) 2026-03-13T07:21:15 - 匿名模式：关
+(I) 2026-03-13T07:21:15 - 加密支持：开
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“127.0.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“127.0.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“192.168.1.6”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“192.168.1.6”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“192.168.2.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“192.168.2.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.18.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.18.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.25.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.25.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.23.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.23.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.17.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.17.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.22.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.22.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.20.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.20.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.24.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.24.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.21.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“172.21.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“198.18.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“198.18.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“::1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“::1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::62be:b4ff:fe24:20cf%br-lan”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::62be:b4ff:fe24:20cf%br-lan”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:10ff:fe35:d59%br-e720f3873ecf”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:10ff:fe35:d59%br-e720f3873ecf”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:3ff:fe17:84a7%br-1c21737730ca”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:3ff:fe17:84a7%br-1c21737730ca”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:7aff:fea5:c074%br-20f3277ded5a”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:7aff:fea5:c074%br-20f3277ded5a”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:b6ff:fef5:3198%docker0”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:b6ff:fef5:3198%docker0”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:7cff:fe84:b77c%br-8ef220372e9f”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:7cff:fe84:b77c%br-8ef220372e9f”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:cbff:fe76:f505%br-d0fc903ef55d”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:cbff:fe76:f505%br-d0fc903ef55d”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:10ff:fe1e:5d74%br-d74c0048d579”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:10ff:fe1e:5d74%br-d74c0048d579”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:8ff:febf:c571%br-e59bccaa6a6f”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::42:8ff:febf:c571%br-e59bccaa6a6f”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::c54:36ff:feb6:9a28%vethec5ca24”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::c54:36ff:feb6:9a28%vethec5ca24”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::982e:83ff:feb7:d6bf%veth9c728e1”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::982e:83ff:feb7:d6bf%veth9c728e1”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::a6:c0ff:fe82:cb69%veth123708d”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::a6:c0ff:fe82:cb69%veth123708d”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::902b:36ff:fe55:2314%vethfaec615”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::902b:36ff:fe55:2314%vethfaec615”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::54d1:7bff:fe41:b674%veth3e2f89f”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::54d1:7bff:fe41:b674%veth3e2f89f”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::24ae:1cff:fe76:1cab%vethc1ec3a6”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::24ae:1cff:fe76:1cab%vethc1ec3a6”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::9456:f1ff:fe62:887%vethe617877”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::9456:f1ff:fe62:887%vethe617877”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::c62:79ff:feff:c910%veth11d820f”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::c62:79ff:feff:c910%veth11d820f”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::f448:d5ff:fe28:d221%veth70c3af7”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::f448:d5ff:fe28:d221%veth70c3af7”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::c80f:29ff:fea6:aaed%veth0e96372”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::c80f:29ff:fea6:aaed%veth0e96372”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::ac1d:64ff:fe02:6d8c%vethf93d786”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::ac1d:64ff:fe02:6d8c%vethf93d786”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::2a70:7e88:60b1:c384%utun”。端口：“TCP/10090”
+(I) 2026-03-13T07:21:15 - 成功监听 IP。IP：“fe80::2a70:7e88:60b1:c384%utun”。端口：“UTP/10090”
+(I) 2026-03-13T07:21:15 - UPnP/NAT-PMP 支持：开
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“[4K] SSIS-820 交わる体液、濃密セックス 清楚女子大生の隠された性欲が爆発する濃厚3本番ノーカットスペシャル 結月りあ”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“[4K] MIDA-146 「ちょ、待っ…！」 からかい挑発パンチラまんチラ乳チラ耳元淫語繰り返された童貞甥っ子が理性ぶっ飛び暴走ピストン J●の激イキをスルーする継続追撃で逆転アクメ 八木奈々”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“[4K] MIDA-146 「ちょ、待っ…！」 からかい挑発パンチラまんチラ乳チラ耳元淫語繰り返された童貞甥っ子が理性ぶっ飛び暴走ピストン J●の激イキをスルーする継続追撃で逆転アクメ 八木奈々”。原因：“MIDA-146.[4K]@R90s fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/MIDA-146.[4K]@R90s/- ｜ HiHBT 精品薈萃｜AS123.in｜.TXT): mismatching file size”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“[4K] SSIS-820 交わる体液、濃密セックス 清楚女子大生の隠された性欲が爆発する濃厚3本番ノーカットスペシャル 結月りあ”。原因：“SSIS-820.[4K]@RUNBKK fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/SSIS-820.[4K]@RUNBKK/_ _【169最新地址发布页】_ _.txt): mismatching file size”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“SSIS-852 専属 NO.1STYLE 本郷愛エスワンデビュー 新章[4K]”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“[4K] SONE-210 【※観覧注意】【※ヌキ過ぎ注意】絶頂を超えた更に先、イキまくり限界ピストン！恍惚の過去最大トランスFUCK 本郷愛”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“[4K] SONE-210 【※観覧注意】【※ヌキ過ぎ注意】絶頂を超えた更に先、イキまくり限界ピストン！恍惚の過去最大トランスFUCK 本郷愛”。原因：“SONE-210.[4K]@R fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/SONE-210.[4K]@R/[2024] 169最新地址发布页.lnk): mismatching file size”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“SSIS-852 専属 NO.1STYLE 本郷愛エスワンデビュー 新章[4K]”。原因：“SSIS852.[4K]@RUNBKK fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/SSIS852.[4K]@RUNBKK/SSIS852[4K].mkv): mismatching file size”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“[4K] SONE-136 生々しい個人撮影AVをネットで拾ったら愛するボクの婚約者でした。 miru”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“[4K] SONE-136 生々しい個人撮影AVをネットで拾ったら愛するボクの婚約者でした。 miru”。原因：“SONE-136.[4K]@R fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/SONE-136.[4K]@R/[2024] 169最新地址发布页.lnk): mismatching file size”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“[4K] SONE-305 グラビア芸能人 解禁 進撃の4本番 金松季歩”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“[4K] SONE-305 グラビア芸能人 解禁 進撃の4本番 金松季歩”。原因：“SONE-305.[4K]@R fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/SONE-305.[4K]@R/[activehlj.com]@SONE-305_[4K].mkv): mismatching file size”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“三上悠亚 SSNI-618”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“三上悠亚 SSNI-618”。原因：“三上悠亚 SSNI-618 fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/三上悠亚 SSNI-618/【JavPlayer200A破解增强】 SSNI-618三上悠亞.mp4): mismatching file size”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“SSNI-763”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“SSIS-588”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“SSIS-588”。原因：“SSIS-588 fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/SSIS-588/2048/(_2048免翻墙地址发布.htm): mismatching file size”
+(N) 2026-03-13T07:21:15 - 已还原 Torrent。Torrent：“SONE-012.[4K]@RUNBKK”
+(W) 2026-03-13T07:21:15 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“SONE-012.[4K]@RUNBKK”。原因：“SONE-012.[4K]@RUNBKK fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/SONE-012.[4K]@RUNBKK/SONE012.[4K].mkv): mismatching file size”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“DLDSS-402.[4K]@R90s”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“[4K] FNS-052 人気コスプレイヤーがキモオタのファンにやさしくしたせいで勝手にオフパコをセッティングされ、密室のホテルでおま●こがぶっ壊れるほどイカされ理性崩壊 八蜜凛”
+(W) 2026-03-13T07:21:16 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“[4K] FNS-052 人気コスプレイヤーがキモオタのファンにやさしくしたせいで勝手にオフパコをセッティングされ、密室のホテルでおま●こがぶっ壊れるほどイカされ理性崩壊 八蜜凛”。原因：“FNS-052.[4K]@R90s fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/FNS-052.[4K]@R90s/- ｜ HiHBT 精品薈萃｜AS123.in｜.TXT): mismatching file size”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“ABW-204”
+(W) 2026-03-13T07:21:16 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“ABW-204”。原因：“ABW-204 fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/ABW-204/hhd800.com@ABW-204.mp4): mismatching file size”
+(I) 2026-03-13T07:21:16 - UPnP/NAT-PMP 端口映射成功。消息：“successfully mapped port using UPnP. local: 192.168.1.6 external port: TCP/10090”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“ABW-155”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“ssis-740 4K夫を愛しているのに一夜だけ元カレの相性抜群ペニスで性欲欲求不満妻 miru”
+(W) 2026-03-13T07:21:16 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“ssis-740 4K夫を愛しているのに一夜だけ元カレの相性抜群ペニスで性欲欲求不満妻 miru”。原因：“ssis-740-4k fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/ssis-740-4k/ssis-740-4k.mp4): mismatching file size”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“+++ [FHD] SSIS-573 今日も後輩にロングスカートの中でこっそり密着騎乗位され平然と浮気してしまう最低なボク。 miru”
+(W) 2026-03-13T07:21:16 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“+++ [FHD] SSIS-573 今日も後輩にロングスカートの中でこっそり密着騎乗位され平然と浮気してしまう最低なボク。 miru”。原因：“SSIS-573 fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/SSIS-573/hhd800.com@SSIS-573.mp4): mismatching file size”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“(無修正-流出) DV-1682 (Uncensored Leaked) つかさとの身がもたない新婚生活 葵つかさ”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“[4KUHD] CAWD-628 2ヶ月セックスお預けされフライト前からムラムラ限界…渡航先に着くなり機長とホテル直行し早朝フライトまでの 12 時間ケダモノみたいにハメ狂った巨乳キャビンアテンダント 伊藤舞雪”
+(W) 2026-03-13T07:21:16 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“[4KUHD] CAWD-628 2ヶ月セックスお預けされフライト前からムラムラ限界…渡航先に着くなり機長とホテル直行し早朝フライトまでの 12 時間ケダモノみたいにハメ狂った巨乳キャビンアテンダント 伊藤舞雪”。原因：“cawd-628-4k fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/cawd-628-4k/cawd-628-4k.mp4): mismatching file size”
+(N) 2026-03-13T07:21:16 - 已还原 Torrent。Torrent：“sdmu-881 SODロマンス 息子の朝勃ち男根を思わず鬼咥えする淫乱義母 鈴木さとみ”
+(W) 2026-03-13T07:21:16 - 恢复 Torrent 失败。文件可能被移动或存储不可访问。Torrent：“sdmu-881 SODロマンス 息子の朝勃ち男根を思わず鬼咥えする淫乱義母 鈴木さとみ”。原因：“[168x.me]sdmu-881 fast resume rejected. file_stat(/downloads/Videos/Girls/temp/AV/[168x.me]sdmu-881/sdmu-881.mp4): mismatching file size”
+(I) 2026-03-13T07:21:16 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Sun Mar 1 02:42:44 2026。
+(N) 2026-03-13T07:21:16 - 使用内置 WebUI
+(N) 2026-03-13T07:21:16 - 成功加载了所选语言环境 (zh_CN) 的 WebUI 翻译
+(N) 2026-03-13T07:21:16 - Web UI：正在监听 IP：*，端口：10089 
+(I) 2026-03-13T07:21:16 - UPnP/NAT-PMP 端口映射成功。消息：“successfully mapped port using UPnP. local: 192.168.1.6 external port: UDP/10090”
+(I) 2026-03-13T07:21:20 - 检测到外部 IP。IP：“112.38.115.156”
+(I) 2026-03-13T07:21:24 - Tracker 列表已更新
+(N) 2026-03-13T07:21:35 - WebAPI 登录成功。IP：::ffff:172.24.0.2
+(W) 2026-03-13T07:23:51 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[198.18.0.1]: no router found”
+(W) 2026-03-13T07:23:51 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[198.18.0.1]: no router found”
+(I) 2026-03-13T07:48:18 - 成功监听 IP。IP：“172.27.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T07:48:18 - 成功监听 IP。IP：“172.27.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T07:48:18 - 成功监听 IP。IP：“fe80::42:bff:fece:53e7%br-05ac2ba26f99”。端口：“TCP/10090”
+(I) 2026-03-13T07:48:18 - 成功监听 IP。IP：“fe80::42:bff:fece:53e7%br-05ac2ba26f99”。端口：“UTP/10090”
+(I) 2026-03-13T07:48:19 - 成功监听 IP。IP：“fe80::c0bf:d2ff:fe9b:9290%veth7de333e”。端口：“TCP/10090”
+(I) 2026-03-13T07:48:19 - 成功监听 IP。IP：“fe80::c0bf:d2ff:fe9b:9290%veth7de333e”。端口：“UTP/10090”
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："[4K] FNS-052 人気コスプレイヤーがキモオタのファンにやさしくしたせいで勝手にオフパコをセッティングされ、密室のホテルでおま●こがぶっ壊れるほどイカされ理性崩壊 八蜜凛"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："sdmu-881 SODロマンス 息子の朝勃ち男根を思わず鬼咥えする淫乱義母 鈴木さとみ"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："SSNI-763"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："+++ [FHD] SSIS-573 今日も後輩にロングスカートの中でこっそり密着騎乗位され平然と浮気してしまう最低なボク。 miru"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："[4K] MIDA-146 「ちょ、待っ…！」 からかい挑発パンチラまんチラ乳チラ耳元淫語繰り返された童貞甥っ子が理性ぶっ飛び暴走ピストン J●の激イキをスルーする継続追撃で逆転アクメ 八木奈々"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："ABW-204"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："SONE-012.[4K]@RUNBKK"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："(無修正-流出) DV-1682 (Uncensored Leaked) つかさとの身がもたない新婚生活 葵つかさ"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："SSIS-852 専属 NO.1STYLE 本郷愛エスワンデビュー 新章[4K]"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："三上悠亚 SSNI-618"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："[4K] SONE-305 グラビア芸能人 解禁 進撃の4本番 金松季歩"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："ABW-155"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："[4K] SONE-136 生々しい個人撮影AVをネットで拾ったら愛するボクの婚約者でした。 miru"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："[4K] SSIS-820 交わる体液、濃密セックス 清楚女子大生の隠された性欲が爆発する濃厚3本番ノーカットスペシャル 結月りあ"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："[4K] SONE-210 【※観覧注意】【※ヌキ過ぎ注意】絶頂を超えた更に先、イキまくり限界ピストン！恍惚の過去最大トランスFUCK 本郷愛"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："[4KUHD] CAWD-628 2ヶ月セックスお預けされフライト前からムラムラ限界…渡航先に着くなり機長とホテル直行し早朝フライトまでの 12 時間ケダモノみたいにハメ狂った巨乳キャビンアテンダント 伊藤舞雪"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："DLDSS-402.[4K]@R90s"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："ssis-740 4K夫を愛しているのに一夜だけ元カレの相性抜群ペニスで性欲欲求不満妻 miru"
+(N) 2026-03-13T07:55:08 - 已删除 Torrent。Torrent："SSIS-588"
+(I) 2026-03-13T07:55:26 - 发现 Python 可执行文件。名称："python3"。版本："3.12.12"
+(N) 2026-03-13T08:00:30 - 添加了新 Torrent。Torrent：“Mion Sonoda (園田みおん) ABP-601 Leaked Clips”
+(I) 2026-03-13T08:04:11 - 成功监听 IP。IP：“198.18.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T08:04:11 - 成功监听 IP。IP：“198.18.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T08:04:11 - 成功监听 IP。IP：“fe80::c985:ff08:6b94:e1a4%utun”。端口：“TCP/10090”
+(I) 2026-03-13T08:04:11 - 成功监听 IP。IP：“fe80::c985:ff08:6b94:e1a4%utun”。端口：“UTP/10090”
+(W) 2026-03-13T08:06:47 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[198.18.0.1]: no router found”
+(W) 2026-03-13T08:06:47 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[198.18.0.1]: no router found”
+(N) 2026-03-13T08:10:11 - 添加了新 Torrent。Torrent：“[98t.tv]ssis-437-4k”
+(N) 2026-03-13T08:10:23 - 已删除 Torrent。Torrent："Mion Sonoda (園田みおん) ABP-601 Leaked Clips"
+(I) 2026-03-13T08:16:56 - 成功监听 IP。IP：“198.18.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T08:16:56 - 成功监听 IP。IP：“198.18.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T08:16:56 - 成功监听 IP。IP：“fe80::2099:6e59:ef55:d05c%utun”。端口：“TCP/10090”
+(I) 2026-03-13T08:16:56 - 成功监听 IP。IP：“fe80::2099:6e59:ef55:d05c%utun”。端口：“UTP/10090”
+(I) 2026-03-13T08:17:13 - 成功监听 IP。IP：“198.18.0.1”。端口：“TCP/10090”
+(I) 2026-03-13T08:17:13 - 成功监听 IP。IP：“198.18.0.1”。端口：“UTP/10090”
+(I) 2026-03-13T08:17:13 - 成功监听 IP。IP：“fe80::279c:b29a:82e4:a4f9%utun”。端口：“TCP/10090”
+(I) 2026-03-13T08:17:13 - 成功监听 IP。IP：“fe80::279c:b29a:82e4:a4f9%utun”。端口：“UTP/10090”
+(W) 2026-03-13T08:19:53 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[198.18.0.1]: no router found”
+(W) 2026-03-13T08:19:53 - UPnP/NAT-PMP 端口映射失败。消息：“could not map port using UPnP[198.18.0.1]: no router found”
+(N) 2026-03-13T08:24:01 - 添加了新 Torrent。Torrent：“Mion Sonoda (園田みおん) ABP-601 Leaked Clips”
+(N) 2026-03-13T08:24:20 - 添加了新 Torrent。Torrent：“waaa-098”
+(N) 2026-03-13T08:24:50 - 添加了新 Torrent。Torrent：“ssis-924-4k”
+(I) 2026-03-13T09:37:35 - 检测到外部 IP。IP：“42.200.231.127”

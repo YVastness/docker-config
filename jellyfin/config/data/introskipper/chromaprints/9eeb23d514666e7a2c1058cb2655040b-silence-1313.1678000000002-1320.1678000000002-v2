@@ -1,0 +1,66 @@
+Input #0, matroska,webm, from '/media/Animes/间谍过家家 (2022)/Season 3/间谍过家家 - S03E13 - 第13集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-28T02:20:21.000000Z
+  Duration: 00:23:42.04, start: 0.000000, bitrate: 5553 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 5423317
+        DURATION        : 00:23:41.963000000
+        NUMBER_OF_FRAMES: 34093
+        NUMBER_OF_BYTES : 963969663
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-28 02:20:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(jpn): Audio: aac (HE-AAC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : Japanese
+        BPS             : 128000
+        DURATION        : 00:23:42.036000000
+        NUMBER_OF_FRAMES: 33329
+        NUMBER_OF_BYTES : 22752597
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-28 02:20:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : Simplified Chinese
+        BPS             : 68
+        DURATION        : 00:23:40.252000000
+        NUMBER_OF_FRAMES: 373
+        NUMBER_OF_BYTES : 12200
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-28 02:20:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Traditional Chinese
+        BPS             : 70
+        DURATION        : 00:23:40.252000000
+        NUMBER_OF_FRAMES: 373
+        NUMBER_OF_BYTES : 12433
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-28 02:20:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(jpn): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : Japanese
+        BPS             : 128000
+        DURATION        : 00:23:42.036000000
+        NUMBER_OF_FRAMES: 33329
+        NUMBER_OF_BYTES : 22752597
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-28 02:20:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f5d08002440] silence_start: 1.263083
+[silencedetect @ 0x7f5d08002440] silence_end: 5.165854 | silence_duration: 3.902771
+[out#0/null @ 0x557339b033c0] video:0KiB audio:1313KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 190x    

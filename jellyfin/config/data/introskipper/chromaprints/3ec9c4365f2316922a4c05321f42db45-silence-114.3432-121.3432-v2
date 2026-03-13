@@ -1,0 +1,55 @@
+Input #0, matroska,webm, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E118 - 第118集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-07T11:02:13.000000Z
+  Duration: 00:25:03.26, start: 0.000000, bitrate: 5138 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4754486
+        DURATION        : 00:25:03.200000000
+        NUMBER_OF_FRAMES: 37580
+        NUMBER_OF_BYTES : 893367989
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-07 11:02:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 256000
+        DURATION        : 00:25:03.264000000
+        NUMBER_OF_FRAMES: 46977
+        NUMBER_OF_BYTES : 48104448
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-07 11:02:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125353
+        DURATION        : 00:25:03.253000000
+        NUMBER_OF_FRAMES: 70465
+        NUMBER_OF_BYTES : 23554759
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-07 11:02:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 256000
+        DURATION        : 00:25:03.264000000
+        NUMBER_OF_FRAMES: 46977
+        NUMBER_OF_BYTES : 48104448
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-07 11:02:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f5c34002440] silence_start: 6.666313
+[silencedetect @ 0x7f5c34002440] silence_end: 7.033 | silence_duration: 0.366687
+[out#0/null @ 0x5615c7cd2400] video:0KiB audio:1312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 196x    

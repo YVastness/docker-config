@@ -1,0 +1,80 @@
+Input #0, matroska,webm, from '/media/Girls/JAV_output/清原みゆう/SONE-293/SONE-293.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-08-22T07:55:42.000000Z
+    MOVIE/ENCODER   : Lavf59.16.100
+  Duration: 02:26:06.10, start: 0.000000, bitrate: 23309 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 59.94 fps, 59.94 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 23048501
+        DURATION        : 02:26:06.007000000
+        NUMBER_OF_FRAMES: 525435
+        NUMBER_OF_BYTES : 25255415932
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-08-22 07:55:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 255999
+        DURATION        : 02:26:06.102000000
+        NUMBER_OF_FRAMES: 410911
+        NUMBER_OF_BYTES : 280515243
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-08-22 07:55:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf59.16.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        BPS             : 23048501
+        DURATION        : 02:26:06.007000000
+        NUMBER_OF_FRAMES: 525435
+        NUMBER_OF_BYTES : 25255415932
+        _STATISTICS_WRITING_APP: mkvmerge v86.0 ('Winter') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-08-22 07:55:42
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 3 >= 3
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 7 >= 7
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 10 >= 10
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 13 >= 13
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 16 >= 16
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 19 >= 19
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 22 >= 22
+frame=   25 fps= 25 q=-0.0 size=N/A time=00:00:00.43 bitrate=N/A speed=0.432x    [null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 25 >= 25
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 29 >= 29
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 32 >= 32
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 35 >= 35
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 38 >= 38
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 41 >= 41
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 44 >= 44
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 48 >= 48
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 51 >= 51
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 54 >= 54
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 57 >= 57
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 60 >= 60
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 63 >= 63
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 67 >= 67
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 70 >= 70
+frame=   73 fps= 49 q=-0.0 size=N/A time=00:00:01.23 bitrate=N/A speed=0.82x    [null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 73 >= 73
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 76 >= 76
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 79 >= 79
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 82 >= 82
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 85 >= 85
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 89 >= 89
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 92 >= 92
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 95 >= 95
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 98 >= 98
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 101 >= 101
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 104 >= 104
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 108 >= 108
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 111 >= 111
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 114 >= 114
+[null @ 0x5607c0265900] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 117 >= 117
+[out#0/null @ 0x5607c02657c0] video:51KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  119 fps= 61 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.02x    

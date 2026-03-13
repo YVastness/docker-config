@@ -1,0 +1,52 @@
+Input #0, matroska,webm, from '/media/Animes/鬼吹灯之南海归墟 (2025)/Season 1/鬼吹灯之南海归墟 - S01E05 - 第5集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-29T12:46:32.000000Z
+    MOVIE/ENCODER   : Lavf60.16.100
+  Duration: 00:15:50.76, start: 0.000000, bitrate: 6664 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709/bt709/unknown), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6537012
+        DURATION        : 00:15:50.720000000
+        NUMBER_OF_FRAMES: 23768
+        NUMBER_OF_BYTES : 776858541
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-29 12:46:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125342
+        DURATION        : 00:15:50.762000000
+        NUMBER_OF_FRAMES: 44567
+        NUMBER_OF_BYTES : 14896327
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-29 12:46:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Subtitle: subrip (srt) (default)
+      Metadata:
+        BPS             : 34
+        DURATION        : 00:00:09.000000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 39
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-29 12:46:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf60.16.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709/bt709/unknown, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 6537012
+        DURATION        : 00:15:50.720000000
+        NUMBER_OF_FRAMES: 23768
+        NUMBER_OF_BYTES : 776858541
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-29 12:46:32
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   16 fps=0.0 q=-0.0 size=N/A time=00:00:00.64 bitrate=N/A speed=1.27x    [out#0/null @ 0x56406ac31e40] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 50 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=   2x    

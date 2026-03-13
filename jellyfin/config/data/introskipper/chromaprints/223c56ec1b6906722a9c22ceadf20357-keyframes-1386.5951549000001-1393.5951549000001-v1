@@ -1,0 +1,51 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1131 - 第1131集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:23:35.86, start: 0.000000, bitrate: 10408 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160, 10213 kb/s, 23.98 fps, 23.98 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] config in time_base: 1/90000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   0 pts:  75055 pts_time:0.833944 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:EB4B6187 plane_checksum:[DE8A3137 0CDC581C AE66D825] mean:[86 130 128] stdev:[46.4 3.2 2.7]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160, q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   1 pts: 161391 pts_time:1.793233 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:259FB13B plane_checksum:[747FB0B2 45CF20E3 A26DDF97] mean:[74 128 128] stdev:[49.1 2.7 2.2]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   2 pts: 165145 pts_time:1.834944 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:7FF28B83 plane_checksum:[4685D7F1 4A8BEA4F 2DCCC925] mean:[74 128 128] stdev:[49.0 2.7 2.2]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   3 pts: 274004 pts_time:3.044489 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:44763A47 plane_checksum:[123ED5DC B1112993 37473AC9] mean:[80 128 132] stdev:[31.7 1.7 3.6]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   4 pts: 416646 pts_time:4.6294  duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:BB8C0DF6 plane_checksum:[B739233E DAAB6ECC E0147BDD] mean:[94 126 132] stdev:[62.9 3.6 4.7]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   5 pts: 420400 pts_time:4.671111 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:A2EBE880 plane_checksum:[6D386F77 72A7E0AE CABF984C] mean:[94 126 132] stdev:[62.9 3.7 4.7]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+frame=    6 fps=6.0 q=-0.0 size=N/A time=00:00:04.71 bitrate=N/A speed=4.68x    [Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   6 pts: 517998 pts_time:5.755533 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:053C6233 plane_checksum:[6227386C D0F4957E 4272943A] mean:[139 133 123] stdev:[78.4 6.4 10.7]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   7 pts: 641871 pts_time:7.1319  duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:30891618 plane_checksum:[1DE2856E 20BA0BCE 4B0D84CD] mean:[76 128 131] stdev:[51.9 6.7 7.4]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] n:   8 pts: 773253 pts_time:8.5917  duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:D5D3C197 plane_checksum:[D80332B1 5AD933D0 86565B16] mean:[38 128 128] stdev:[31.0 2.0 2.9]
+[Parsed_showinfo_0 @ 0x7fa2f8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55efc6b2ac40] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    7 fps=5.2 q=-0.0 Lsize=N/A time=00:00:05.79 bitrate=N/A speed=4.33x    

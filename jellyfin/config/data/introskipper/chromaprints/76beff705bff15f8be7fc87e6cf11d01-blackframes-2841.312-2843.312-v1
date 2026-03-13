@@ -1,0 +1,63 @@
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E25 - 第25集.mkv':
+  Metadata:
+    COMMENT         : 4K精品资源合集：https://link3.cc/4kzy
+    ENCODER         : Lavf59.27.100
+    TITLE           : 4K精品资源合集：https://link3.cc/4kzy
+  Duration: 00:47:38.56, start: 0.000000, bitrate: 5508 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 5247741
+        DURATION        : 00:47:38.534000000
+        NUMBER_OF_BYTES : 1875105956
+        NUMBER_OF_FRAMES: 171512
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:47:38.562000000
+        NUMBER_OF_BYTES : 91473990
+        NUMBER_OF_FRAMES: 123108
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+  Stream #0:2(chi): Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : Simplified Chinese
+        BPS             : 104
+        DURATION        : 00:43:18.500000000
+        NUMBER_OF_BYTES : 33805
+        NUMBER_OF_FRAMES: 686
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+  Stream #0:3(chi): Subtitle: ass (ssa)
+      Metadata:
+        title           : Traditional Chinese
+        BPS             : 104
+        DURATION        : 00:43:18.500000000
+        NUMBER_OF_BYTES : 33814
+        NUMBER_OF_FRAMES: 686
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+  Stream #0:4: Video: png, rgba(pc, gbr/bt709/iec61966-2-1), 514x615, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : cover.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    COMMENT         : 4K精品资源合集：https://link3.cc/4kzy
+    TITLE           : 4K精品资源合集：https://link3.cc/4kzy
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 5247741
+        DURATION        : 00:47:38.534000000
+        NUMBER_OF_BYTES : 1875105956
+        NUMBER_OF_FRAMES: 171512
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   40 fps= 27 q=-0.0 size=N/A time=00:00:00.66 bitrate=N/A speed=0.443x    frame=   74 fps= 37 q=-0.0 size=N/A time=00:00:01.23 bitrate=N/A speed=0.615x    frame=  111 fps= 44 q=-0.0 size=N/A time=00:00:01.85 bitrate=N/A speed=0.738x    [out#0/null @ 0x5649e2772280] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 46 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.763x    

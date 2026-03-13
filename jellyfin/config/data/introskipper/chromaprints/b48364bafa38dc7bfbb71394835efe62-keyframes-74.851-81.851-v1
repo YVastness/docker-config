@@ -1,0 +1,71 @@
+Input #0, matroska,webm, from '/media/TV Shows/唐朝诡事录 (2022)/Season 4/唐朝诡事录 - S04E13 - 第13集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:19:32.61, start: 0.000000, bitrate: 4383 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1608 [SAR 1:1 DAR 160:67], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        title           : TG频道@yunpantv
+        BPS             : 4123175
+        DURATION        : 00:19:32.567000000
+        NUMBER_OF_FRAMES: 70354
+        NUMBER_OF_BYTES : 604337454
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : 环绕声
+        BPS             : 256000
+        DURATION        : 00:19:32.608000000
+        NUMBER_OF_FRAMES: 36644
+        NUMBER_OF_BYTES : 37523456
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : 简体中文
+        BPS             : 136
+        DURATION        : 00:17:05.510000000
+        NUMBER_OF_FRAMES: 397
+        NUMBER_OF_BYTES : 17471
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] config in time_base: 1/1000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] n:   0 pts:   4132 pts_time:4.132   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:A282B733 plane_checksum:[FB6D643B 59C642E8 D5731010] mean:[205 507 522] stdev:[84.4 13.1 15.0]
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - Content light level metadata: MaxCLL=540, MaxFALL=90
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0269, average_maxrgb[0]: 0.2908, variance_maxrgb[0]:0.7878, maximum_maxrgb[0]: 0.6847, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        title           : TG频道@yunpantv
+        BPS             : 4123175
+        DURATION        : 00:19:32.567000000
+        NUMBER_OF_FRAMES: 70354
+        NUMBER_OF_BYTES : 604337454
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] n:   1 pts:   4149 pts_time:4.149   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:ABA8BCD6 plane_checksum:[A7135CA9 4AB33162 09222ECB] mean:[205 507 522] stdev:[84.6 13.2 15.2]
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - Content light level metadata: MaxCLL=540, MaxFALL=90
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0274, average_maxrgb[0]: 0.2908, variance_maxrgb[0]:0.7878, maximum_maxrgb[0]: 0.6847, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] n:   2 pts:   7132 pts_time:7.132   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:9917836C plane_checksum:[81A57046 F8092EDA A641E43D] mean:[65 512 513] stdev:[5.1 1.1 0.9]
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - Content light level metadata: MaxCLL=540, MaxFALL=90
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0274, average_maxrgb[0]: 0.0386, variance_maxrgb[0]:0.1651, maximum_maxrgb[0]: 0.1211, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] n:   3 pts:  12132 pts_time:12.132  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:A3721628 plane_checksum:[62569E15 030EED3F D2658AB6] mean:[229 507 521] stdev:[63.5 22.1 17.7]
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - Content light level metadata: MaxCLL=540, MaxFALL=90
+[Parsed_showinfo_0 @ 0x7fb1c4001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0332, average_maxrgb[0]: 0.3138, variance_maxrgb[0]:0.7087, maximum_maxrgb[0]: 0.6681, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7fb1c4001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[out#0/null @ 0x561f45348000] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:04.16 bitrate=N/A speed=12.7x    

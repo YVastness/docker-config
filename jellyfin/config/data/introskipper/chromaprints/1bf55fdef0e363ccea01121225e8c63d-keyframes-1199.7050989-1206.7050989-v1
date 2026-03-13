@@ -1,0 +1,43 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/沧元图 (2023)/Season 1/沧元图 - S01E61 - 第61集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:20:27.36, start: 0.000000, bitrate: 20375 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1776 [SAR 1:1 DAR 80:37], 20175 kb/s, 25 fps, 25 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f3824001f80] config in time_base: 1/16000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f3824001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f3824001f80] n:   0 pts:  18798 pts_time:1.174875 duration:    640 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:36C317BB plane_checksum:[B3457046 542B010A 9829A65C] mean:[422 527 505] stdev:[270.7 36.9 50.6]
+[Parsed_showinfo_0 @ 0x7f3824001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1776 [SAR 1:1 DAR 80:37], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f3824001f80] n:   1 pts:  50798 pts_time:3.174875 duration:    640 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:9304F6DF plane_checksum:[D050AB96 1723403D 07DB0B0C] mean:[63 512 512] stdev:[0.3 0.1 0.0]
+[Parsed_showinfo_0 @ 0x7f3824001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f3824001f80] n:   2 pts:  66798 pts_time:4.174875 duration:    640 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:9A7A6A6D plane_checksum:[DACEC1A8 E9DDBBE0 5B14ECC7] mean:[577 530 491] stdev:[219.3 55.2 62.8]
+[Parsed_showinfo_0 @ 0x7f3824001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    3 fps=0.0 q=-0.0 size=N/A time=00:00:04.20 bitrate=N/A speed= 8.4x    [Parsed_showinfo_0 @ 0x7f3824001f80] n:   3 pts:  96238 pts_time:6.014875 duration:    640 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:E5F21934 plane_checksum:[110E1D7F E2A0EF80 C90F0C26] mean:[525 545 465] stdev:[231.0 50.0 64.1]
+[Parsed_showinfo_0 @ 0x7f3824001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    4 fps=4.0 q=-0.0 size=N/A time=00:00:06.04 bitrate=N/A speed=6.04x    [Parsed_showinfo_0 @ 0x7f3824001f80] n:   4 pts: 141038 pts_time:8.814875 duration:    640 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:A0B1DDC3 plane_checksum:[10CC8ACE B17D48D2 D4510A23] mean:[619 523 489] stdev:[206.5 53.5 68.2]
+[Parsed_showinfo_0 @ 0x7f3824001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55804cd1c980] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=3.8 q=-0.0 Lsize=N/A time=00:00:06.04 bitrate=N/A speed=5.67x    

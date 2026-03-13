@@ -1,0 +1,76 @@
+Input #0, matroska,webm, from '/media/Animes/完美世界 (2021)/Season 1/完美世界 - S01E259 - 第259集.mkv':
+  Metadata:
+    MOVIE/ENCODER   : Lavf60.21.101
+    creation_time   : 2026-03-13T01:54:21.000000Z
+    COMMENT         : CH 2026.03
+    ENCODER         : Lavf62.0.102
+  Duration: 00:26:32.74, start: 0.000000, bitrate: 5757 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1636 [SAR 1:1 DAR 960:409], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4922296
+        NUMBER_OF_FRAMES: 39815
+        NUMBER_OF_BYTES : 979906156
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.642000000
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 国语 HIFI声
+        BPS             : 317340
+        NUMBER_OF_FRAMES: 74656
+        NUMBER_OF_BYTES : 63176994
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.661000000
+  Stream #0:2(chi): Audio: eac3, 48000 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        title           : 国语 杜比音效
+        BPS             : 128000
+        NUMBER_OF_FRAMES: 49773
+        NUMBER_OF_BYTES : 25483776
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.736000000
+  Stream #0:3(chi): Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : 国语 立体环绕声
+        BPS             : 253356
+        NUMBER_OF_FRAMES: 74656
+        NUMBER_OF_BYTES : 50438863
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.661000000
+  Stream #0:4(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : 国语 标准音效
+        BPS             : 125341
+        NUMBER_OF_FRAMES: 74656
+        NUMBER_OF_BYTES : 24953361
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.661000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf60.21.101
+    COMMENT         : CH 2026.03
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1636 [SAR 1:1 DAR 960:409], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 4922296
+        NUMBER_OF_FRAMES: 39815
+        NUMBER_OF_BYTES : 979906156
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:54:21
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:26:32.642000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   16 fps= 16 q=-0.0 size=N/A time=00:00:00.68 bitrate=N/A speed=0.676x    [out#0/null @ 0x563e96134280] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 32 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.32x    

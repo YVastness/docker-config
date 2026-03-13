@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2025-10-12T02:00:00.0068815Z","EndTimeUtc":"2025-10-12T02:00:00.0077186Z","Status":"Completed","Name":"Video preview thumbnail extraction","Key":"RefreshChapterImages","Id":"d15b3f9fc313609ffe7e49bd1c74f753"}

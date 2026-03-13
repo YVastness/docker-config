@@ -1,0 +1,65 @@
+[png @ 0x55a705c07380] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x55a705c01080] Stream #2: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x55a705c01080] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1138 - 第1138集.mp4':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-04T03:15:18.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:23:35.88, start: 0.000000, bitrate: 10479 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv), 3840x2160, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 10279510
+        DURATION        : 00:23:35.833000000
+        NUMBER_OF_FRAMES: 33946
+        NUMBER_OF_BYTES : 1819258808
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-04 03:15:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 189450
+        DURATION        : 00:23:35.883000000
+        NUMBER_OF_FRAMES: 60977
+        NUMBER_OF_BYTES : 33529945
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-04 03:15:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f4094001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f4094001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f4094001f80] n:   0 pts:   2098 pts_time:2.098   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:B6AE2BC5 plane_checksum:[D114CAD7 169AD047 5A7F9089] mean:[143 103 113] stdev:[58.6 24.9 18.9]
+[Parsed_showinfo_0 @ 0x7f4094001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 10279510
+        DURATION        : 00:23:35.833000000
+        NUMBER_OF_FRAMES: 33946
+        NUMBER_OF_BYTES : 1819258808
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-04 03:15:18
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:02.12 bitrate=N/A speed=4.25x    [Parsed_showinfo_0 @ 0x7f4094001f80] n:   1 pts:   4016 pts_time:4.016   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:EAF00D03 plane_checksum:[C9312BF1 3304E4E9 6F5EFC0B] mean:[146 111 123] stdev:[59.9 24.8 21.0]
+[Parsed_showinfo_0 @ 0x7f4094001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f4094001f80] n:   2 pts:   5977 pts_time:5.977   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:63004B4D plane_checksum:[A0DCEE88 BB31977A 1410C52D] mean:[151 115 125] stdev:[58.9 25.0 21.6]
+[Parsed_showinfo_0 @ 0x7f4094001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+frame=    3 fps=3.0 q=-0.0 size=N/A time=00:00:06.00 bitrate=N/A speed=   6x    [Parsed_showinfo_0 @ 0x7f4094001f80] n:   3 pts:   6602 pts_time:6.602   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:0A788024 plane_checksum:[C2D5062A DEB232F0 877C470A] mean:[123 133 130] stdev:[41.6 7.4 12.7]
+[Parsed_showinfo_0 @ 0x7f4094001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f4094001f80] n:   4 pts:  11566 pts_time:11.566  duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:31404631 plane_checksum:[801A06B5 1E01CEF0 4E3E707D] mean:[168 133 129] stdev:[50.0 7.3 12.0]
+[Parsed_showinfo_0 @ 0x7f4094001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55a705c71000] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=3.0 q=-0.0 Lsize=N/A time=00:00:06.63 bitrate=N/A speed=4.95x    

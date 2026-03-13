@@ -1,0 +1,62 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x559aa7170080] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/玄界之门 (2025)/Season 1/玄界之门 - S01E01 - 第1集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2025-11-26T02:00:00.000000Z
+    title           : 1 石猴觉醒
+    album           : 玄界之门
+    encoder         : Lavf60.16.100
+    comment         : https://www.bilibili.com/video/BV1krUDBTE6D/
+    description     : 在武者为尊的世界，石牧的命运似乎注定要与众不同。作为世家养子，他被迫踏上寻找真相和自我救赎的武者之路。从丰城四馆较技到宗门之争，利益牵扯，强敌环伺，每一次挑战都让石牧更坚
+  Duration: 00:21:04.47, start: 0.000000, bitrate: 10681 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 10476 kb/s, 24 fps, 24 tbr, 16k tbn (default)
+      Metadata:
+        creation_time   : 2025-11-26T02:00:00.000000Z
+        handler_name    : Bento4 Video Handler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 185 kb/s (default)
+      Metadata:
+        creation_time   : 2025-11-26T02:00:00.000000Z
+        handler_name    : Bento4 Sound Handler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 1134x1512, 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f4070001f80] config in time_base: 1/16000, frame_rate: 24/1
+[Parsed_showinfo_0 @ 0x7f4070001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f4070001f80] n:   0 pts:  24467 pts_time:1.529187 duration:    666 duration_time:0.041625 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:191C634A plane_checksum:[4EA4762A C8EE67C2 448A854F] mean:[123 106 131] stdev:[59.8 14.6 18.3]
+[Parsed_showinfo_0 @ 0x7f4070001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=b3e16330-8c3c-9e4f-c239-81097eaaa52e
+[Parsed_showinfo_0 @ 0x7f4070001f80] User Data=2042494c494156432e322e302e323a31202d20482e3236342f41564320636f646563202d20436f7079726967687420323031392d32303232202863292042696c6962696c6920496e6300
+[Parsed_showinfo_0 @ 0x7f4070001f80] 
+[Parsed_showinfo_0 @ 0x7f4070001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    description     : 在武者为尊的世界，石牧的命运似乎注定要与众不同。作为世家养子，他被迫踏上寻找真相和自我救赎的武者之路。从丰城四馆较技到宗门之争，利益牵扯，强敌环伺，每一次挑战都让石牧更坚
+    title           : 1 石猴觉醒
+    album           : 玄界之门
+    comment         : https://www.bilibili.com/video/BV1krUDBTE6D/
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        creation_time   : 2025-11-26T02:00:00.000000Z
+        handler_name    : Bento4 Video Handler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f4070001f80] n:   1 pts: 104467 pts_time:6.529187 duration:    666 duration_time:0.041625 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:914FED34 plane_checksum:[EE1C1FFA DA3AE16B 5335EBC0] mean:[128 125 131] stdev:[53.3 11.9 11.9]
+[Parsed_showinfo_0 @ 0x7f4070001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=b3e16330-8c3c-9e4f-c239-81097eaaa52e
+[Parsed_showinfo_0 @ 0x7f4070001f80] User Data=2042494c494156432e322e302e323a31202d20482e3236342f41564320636f646563202d20436f7079726967687420323031392d32303232202863292042696c6962696c6920496e6300
+[Parsed_showinfo_0 @ 0x7f4070001f80] 
+[Parsed_showinfo_0 @ 0x7f4070001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    2 fps=2.0 q=-0.0 size=N/A time=00:00:06.58 bitrate=N/A speed=6.58x    [Parsed_showinfo_0 @ 0x7f4070001f80] n:   2 pts: 184467 pts_time:11.529188 duration:    666 duration_time:0.041625 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:42F40EA7 plane_checksum:[04FB351C E433E47A ABCCF4F3] mean:[129 124 139] stdev:[45.7 9.9 15.9]
+[Parsed_showinfo_0 @ 0x7f4070001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=b3e16330-8c3c-9e4f-c239-81097eaaa52e
+[Parsed_showinfo_0 @ 0x7f4070001f80] User Data=2042494c494156432e322e302e323a31202d20482e3236342f41564320636f646563202d20436f7079726967687420323031392d32303232202863292042696c6962696c6920496e6300
+[Parsed_showinfo_0 @ 0x7f4070001f80] 
+[Parsed_showinfo_0 @ 0x7f4070001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x559aa7175280] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=2.0 q=-0.0 Lsize=N/A time=00:00:06.58 bitrate=N/A speed=6.56x    

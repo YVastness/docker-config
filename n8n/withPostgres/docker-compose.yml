@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    container_name: n8n-postgres
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - db_storage:/var/lib/postgresql/data
+
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: n8n
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - N8N_DEFAULT_LOCALE=zh-CN
+    ports:
+      - "5678:5678"
+    depends_on:
+      - db
+    volumes:
+      - n8n_storage:/home/node/.n8n
+      - ./zh-cn:/usr/local/lib/node_modules/n8n/node_modules/n8n-editor-ui/dist
+
+        #volumes:
+        #  postgres-data:
+        #  n8n-data:
+
+volumes:
+  db_storage:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: /docker/n8n/withPostgres/db_storage
+  n8n_storage:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: /docker/n8n/withPostgres/config

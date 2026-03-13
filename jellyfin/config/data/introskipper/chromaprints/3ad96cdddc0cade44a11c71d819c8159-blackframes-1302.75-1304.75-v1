@@ -1,0 +1,55 @@
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 18358645 (0x1182175) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 45697705 (0x2b94aa9) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 83008023 (0x4f29a17) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 125451699 (0x77a3db3) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 164238966 (0x9ca1676) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 204104805 (0xc2a6465) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 292811815 (0x1173f427) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 322407089 (0x13378ab1) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 361335274 (0x158989ea) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 401237362 (0x17ea6572) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 441128929 (0x1a4b17e1) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 479891349 (0x1c9a8f95) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 519609399 (0x1ef89c37) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 558567959 (0x214b1217) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 598368981 (0x23aa62d5) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 637109187 (0x25f983c3) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 676983583 (0x2859f31f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 716826353 (0x2ab9e6f1) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 795448604 (0x2f69951c) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 835296864 (0x31c99e60) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 874126100 (0x341a1b14) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 913965839 (0x367a030f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 1003731159 (0x3bd3b8d7) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 1031667796 (0x3d7e0054) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 1071310959 (0x3fdae86f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] 0x00 at pos 1149909891 (0x448a3b83) invalid as first byte of an EBML number
+[matroska,webm @ 0x5574dd196000] File ended prematurely
+    Last message repeated 1 times
+Input #0, matroska,webm, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E04 - 第4集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-10-13T10:16:54.000000Z
+  Duration: 00:22:00.00, start: 0.000000, bitrate: 7337 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : AAC2.0
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x5574dd196000] File ended prematurely
+[vost#0:0/wrapped_avframe @ 0x5574dd1cb180] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 1k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x5574dd1ec540] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x5574dd1ec540] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

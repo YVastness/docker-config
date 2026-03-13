@@ -1,0 +1,73 @@
+Input #0, matroska,webm, from '/media/Animes/一拳超人 (2015)/Season 3/一拳超人 - S03E08 - 第8集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-30T15:26:51.000000Z
+  Duration: 00:24:01.12, start: 0.000000, bitrate: 8115 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 7984755
+        DURATION        : 00:24:01.066000000
+        NUMBER_OF_FRAMES: 34551
+        NUMBER_OF_BYTES : 1438319973
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-30 15:26:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(jpn): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 127999
+        DURATION        : 00:24:01.124000000
+        NUMBER_OF_FRAMES: 62064
+        NUMBER_OF_BYTES : 23057973
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-30 15:26:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : CHS
+        BPS             : 58
+        DURATION        : 00:23:27.797000000
+        NUMBER_OF_FRAMES: 385
+        NUMBER_OF_BYTES : 10347
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-30 15:26:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : CHT
+        BPS             : 58
+        DURATION        : 00:23:27.797000000
+        NUMBER_OF_FRAMES: 385
+        NUMBER_OF_BYTES : 10347
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-30 15:26:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fa798001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7fa798001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fa798001f80] n:   0 pts:   1871 pts_time:1.871   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:7B9ECC11 plane_checksum:[B815CBF1 8A18E39E 1C901C73] mean:[49 125 150] stdev:[43.2 7.4 19.9]
+[Parsed_showinfo_0 @ 0x7fa798001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 7984755
+        DURATION        : 00:24:01.066000000
+        NUMBER_OF_FRAMES: 34551
+        NUMBER_OF_BYTES : 1438319973
+        _STATISTICS_WRITING_APP: mkvmerge v96.0 ('It's My Life') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-30 15:26:51
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fa798001f80] n:   1 pts:   3873 pts_time:3.873   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:45BE81A6 plane_checksum:[0478900A 208D2996 9254C7F7] mean:[107 122 139] stdev:[60.8 12.4 20.7]
+[Parsed_showinfo_0 @ 0x7fa798001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fa798001f80] n:   2 pts:   5875 pts_time:5.875   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:1A192A7D plane_checksum:[D5E6CD59 B036CE09 779C8EFD] mean:[107 122 139] stdev:[60.6 12.4 21.0]
+[Parsed_showinfo_0 @ 0x7fa798001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fa798001f80] n:   3 pts:   7877 pts_time:7.877   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:C55DF7E6 plane_checksum:[B1E815B9 61F1AB62 25CB36CB] mean:[87 152 100] stdev:[48.0 12.9 17.0]
+[Parsed_showinfo_0 @ 0x7fa798001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fa798001f80] n:   4 pts:   9879 pts_time:9.879   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:3527C2EA plane_checksum:[BF5389A0 3CC29E6A 73F69AD1] mean:[86 152 100] stdev:[47.3 12.9 17.0]
+[Parsed_showinfo_0 @ 0x7fa798001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55862ddb0780] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.92 bitrate=N/A speed=20.7x    

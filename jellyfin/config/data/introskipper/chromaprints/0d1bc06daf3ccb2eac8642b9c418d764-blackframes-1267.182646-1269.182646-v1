@@ -1,0 +1,70 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E176 - 第176集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-09-10T18:40:48.2518795+08:00
+    encoder         : Lavf60.21.101
+  Duration: 00:21:44.68, start: 0.000000, bitrate: 8218 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 8086 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:0 pblack:100 pts:1742 t:0.019356 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-09-10T18:40:48.2518795+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:1 pblack:100 pts:5342 t:0.059356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:2 pblack:100 pts:8942 t:0.099356 type:B last_keyframe:0
+frame=    3 fps=0.0 q=-0.0 size=N/A time=00:00:00.12 bitrate=N/A speed=0.24x    [Parsed_blackframe_0 @ 0x7fda74002340] frame:3 pblack:100 pts:12541 t:0.139344 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:4 pblack:100 pts:16142 t:0.179356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:5 pblack:100 pts:19742 t:0.219356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:6 pblack:100 pts:23342 t:0.259356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:7 pblack:100 pts:26942 t:0.299356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:8 pblack:100 pts:30542 t:0.339356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:9 pblack:100 pts:34142 t:0.379356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:10 pblack:100 pts:37742 t:0.419356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:11 pblack:100 pts:41342 t:0.459356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:12 pblack:100 pts:44941 t:0.499344 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:13 pblack:100 pts:48542 t:0.539356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:14 pblack:100 pts:52142 t:0.579356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:15 pblack:100 pts:55742 t:0.619356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:16 pblack:100 pts:59342 t:0.659356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:17 pblack:100 pts:62942 t:0.699356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:18 pblack:100 pts:66542 t:0.739356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:19 pblack:100 pts:70142 t:0.779356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:20 pblack:100 pts:73742 t:0.819356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:21 pblack:100 pts:77342 t:0.859356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:22 pblack:100 pts:80942 t:0.899356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:23 pblack:100 pts:84541 t:0.939344 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:24 pblack:100 pts:88142 t:0.979356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:25 pblack:100 pts:91742 t:1.019356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:26 pblack:100 pts:95342 t:1.059356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:27 pblack:100 pts:98941 t:1.099344 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:28 pblack:100 pts:102542 t:1.139356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:29 pblack:100 pts:106142 t:1.179356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:30 pblack:100 pts:109742 t:1.219356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:31 pblack:100 pts:113342 t:1.259356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:32 pblack:100 pts:116942 t:1.299356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:33 pblack:100 pts:120541 t:1.339344 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:34 pblack:100 pts:124142 t:1.379356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:35 pblack:100 pts:127742 t:1.419356 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fda74002340] frame:36 pblack:100 pts:131342 t:1.459356 type:B last_keyframe:0
+[out#0/null @ 0x55e3980b8f40] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.22x    

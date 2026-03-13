@@ -1,0 +1,104 @@
+Input #0, matroska,webm, from '/media/TV Shows/怪奇物语 (2016)/Season 5/怪奇物语 - S05E03 - 第3集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:09:26.41, start: 0.000000, bitrate: 11384 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 348.500000
+      Metadata:
+        title           : Chapter 1
+    Chapter #0:1: start 348.500000, end 397.500000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 397.500000, end 3822.450000
+      Metadata:
+        title           : Chapter 2
+    Chapter #0:3: start 3822.450000, end 4166.413000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+  Stream #0:1(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default) (original)
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+  Stream #0:4(ara): Subtitle: subrip (srt) (dub)
+  Stream #0:5(cze): Subtitle: subrip (srt) (dub)
+  Stream #0:6(dan): Subtitle: subrip (srt) (dub)
+  Stream #0:7(ger): Subtitle: subrip (srt) (dub)
+  Stream #0:8(gre): Subtitle: subrip (srt) (dub)
+  Stream #0:9(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Spanish (Latin America)
+  Stream #0:10(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Spanish (Spain)
+  Stream #0:11(fin): Subtitle: subrip (srt) (dub)
+  Stream #0:12(fil): Subtitle: subrip (srt) (dub)
+  Stream #0:13(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : French
+  Stream #0:14(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : French (Canada)
+  Stream #0:15(heb): Subtitle: subrip (srt) (dub)
+  Stream #0:16(hrv): Subtitle: subrip (srt) (dub)
+  Stream #0:17(hun): Subtitle: subrip (srt) (dub)
+  Stream #0:18(ind): Subtitle: subrip (srt) (dub)
+  Stream #0:19(ita): Subtitle: subrip (srt) (dub)
+  Stream #0:20(jpn): Subtitle: subrip (srt) (dub)
+  Stream #0:21(kor): Subtitle: subrip (srt) (dub)
+  Stream #0:22(may): Subtitle: subrip (srt) (dub)
+  Stream #0:23(nob): Subtitle: subrip (srt) (dub)
+  Stream #0:24(dut): Subtitle: subrip (srt) (dub)
+  Stream #0:25(pol): Subtitle: subrip (srt) (dub)
+  Stream #0:26(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Portuguese (Brazil)
+  Stream #0:27(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Portuguese (Portugal)
+  Stream #0:28(rum): Subtitle: subrip (srt) (dub)
+  Stream #0:29(rus): Subtitle: subrip (srt) (dub)
+  Stream #0:30(swe): Subtitle: subrip (srt) (dub)
+  Stream #0:31(tha): Subtitle: subrip (srt) (dub)
+  Stream #0:32(tur): Subtitle: subrip (srt) (dub)
+  Stream #0:33(ukr): Subtitle: subrip (srt) (dub)
+  Stream #0:34(vie): Subtitle: subrip (srt) (dub)
+  Stream #0:35(chi): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Chinese (Simplified)
+  Stream #0:36(chi): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Chinese (Traditional)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f2b74001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f2b74001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f2b74001f80] n:   0 pts:   1894 pts_time:1.894   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:020BB108 plane_checksum:[BA25912E 4357F672 36C32959] mean:[68 511 512] stdev:[4.4 1.2 4.3]
+[Parsed_showinfo_0 @ 0x7f2b74001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Chapter 2
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f2b74001f80] n:   1 pts:   3896 pts_time:3.896   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:A9CA2B46 plane_checksum:[FB997081 6CA5D657 CCF3E450] mean:[76 511 512] stdev:[71.0 4.0 5.3]
+[Parsed_showinfo_0 @ 0x7f2b74001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f2b74001f80] n:   2 pts:   4355 pts_time:4.355   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:D0BD7F44 plane_checksum:[D8D4E878 9A80A98E C391ED20] mean:[76 511 512] stdev:[71.1 4.0 5.2]
+[Parsed_showinfo_0 @ 0x7f2b74001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    3 fps=0.0 q=-0.0 size=N/A time=00:00:04.37 bitrate=N/A speed=8.76x    [Parsed_showinfo_0 @ 0x7f2b74001f80] n:   3 pts:   5898 pts_time:5.898   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:D4595128 plane_checksum:[A6BF313A 01900B3B 2A7B14B3] mean:[67 512 512] stdev:[2.3 0.2 0.2]
+[Parsed_showinfo_0 @ 0x7f2b74001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f2b74001f80] n:   4 pts:   7900 pts_time:7.9     duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:A6A8A994 plane_checksum:[4F2833D8 A5BB82C1 6E9AF2EC] mean:[70 510 518] stdev:[17.8 9.9 43.5]
+[Parsed_showinfo_0 @ 0x7f2b74001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f2b74001f80] n:   5 pts:   9902 pts_time:9.902   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:964CFA53 plane_checksum:[1E0DE05C 38CE19D2 7EEE0025] mean:[70 509 518] stdev:[19.8 11.1 48.7]
+[Parsed_showinfo_0 @ 0x7f2b74001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x56175ff4d0c0] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.92 bitrate=N/A speed=8.16x    

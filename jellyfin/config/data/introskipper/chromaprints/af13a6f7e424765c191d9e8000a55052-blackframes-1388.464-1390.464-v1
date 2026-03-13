@@ -1,0 +1,61 @@
+Input #0, matroska,webm, from '/media/Animes/紫川 (2021)/Season 2/紫川 - S02E03 - 第3集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-30T01:58:29.000000Z
+    MOVIE/ENCODER   : Lavf62.0.102
+  Duration: 00:23:38.46, start: 0.000000, bitrate: 5346 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4708928
+        DURATION        : 00:23:38.320000000
+        NUMBER_OF_FRAMES: 35458
+        NUMBER_OF_BYTES : 834845856
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 01:58:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125349
+        DURATION        : 00:23:38.368000000
+        NUMBER_OF_FRAMES: 66486
+        NUMBER_OF_BYTES : 22223999
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 01:58:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 253355
+        DURATION        : 00:23:38.368000000
+        NUMBER_OF_FRAMES: 66486
+        NUMBER_OF_BYTES : 44918988
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 01:58:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:23:38.464000000
+        NUMBER_OF_FRAMES: 44327
+        NUMBER_OF_BYTES : 45390848
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 01:58:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf62.0.102
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 4708928
+        DURATION        : 00:23:38.320000000
+        NUMBER_OF_FRAMES: 35458
+        NUMBER_OF_BYTES : 834845856
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-30 01:58:29
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   16 fps=3.5 q=-0.0 size=N/A time=00:00:00.64 bitrate=N/A speed=0.142x    frame=   27 fps=5.4 q=-0.0 size=N/A time=00:00:01.08 bitrate=N/A speed=0.216x    frame=   45 fps=8.2 q=-0.0 size=N/A time=00:00:01.80 bitrate=N/A speed=0.327x    [out#0/null @ 0x559670524ec0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps=8.8 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.353x    

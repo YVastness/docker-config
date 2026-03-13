@@ -1,0 +1,74 @@
+[matroska,webm @ 0x56283044e000] 0x00 at pos 21252973 (0x1444b6d) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x56283044e000] 0x00 at pos 34193200 (0x209bf30) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 45552235 (0x2b7126b) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 60315985 (0x3985951) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 94897431 (0x5a80517) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 113222737 (0x6bfa451) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 128959855 (0x7afc56f) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 149982671 (0x8f08dcf) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 166213172 (0x9e83634) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 259915141 (0xf7dfd85) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 290784203 (0x115503cb) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 314651252 (0x12c13274) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 324498590 (0x1357749e) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 338263748 (0x14297ec4) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 364056825 (0x15b310f9) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 377943315 (0x1686f513) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 473965879 (0x1c402537) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 483823213 (0x1cd68e6d) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 528745767 (0x1f840527) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 536546021 (0x1ffb0ae5) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 549508040 (0x20c0d3c8) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 603832843 (0x23fdc20b) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 616007438 (0x24b7870e) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 655876446 (0x2717e15e) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 669584211 (0x27e90b53) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 695823996 (0x29796e7c) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 721965435 (0x2b08517b) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 748160937 (0x2c9807a9) invalid as first byte of an EBML number
+[matroska,webm @ 0x56283044e000] 0x00 at pos 775465173 (0x2e38a8d5) invalid as first byte of an EBML number
+Input #0, matroska,webm, from '/media/Animes/紫川 (2021)/Season 2/紫川 - S02E20 - 第20集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:20:00.47, start: 0.000000, bitrate: 5516 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:20:00.400000000
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:20:00.468000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x56283044e000] 0x00 at pos 775465173 (0x2e38a8d5) invalid as first byte of an EBML number
+[hevc @ 0x5628304b4e00] Could not find ref with POC 112
+[hevc @ 0x5628304b4e00] Could not find ref with POC 104
+[hevc @ 0x5628304b4e00] Could not find ref with POC 96
+[hevc @ 0x562830468380] Could not find ref with POC 112
+[hevc @ 0x562830468380] Could not find ref with POC 104
+[hevc @ 0x562830468380] Could not find ref with POC 96
+[hevc @ 0x562830479780] Could not find ref with POC 112
+[hevc @ 0x562830479780] Could not find ref with POC 104
+[hevc @ 0x562830479780] Could not find ref with POC 96
+[hevc @ 0x5628304cc0c0] Could not find ref with POC 112
+[hevc @ 0x5628304cc0c0] Could not find ref with POC 104
+[hevc @ 0x5628304b5c80] Could not find ref with POC 112
+[hevc @ 0x5628304b4e00] Could not find ref with POC 112
+[hevc @ 0x562830468380] Could not find ref with POC 112
+[hevc @ 0x562830479780] Could not find ref with POC 112
+[hevc @ 0x5628304cc0c0] Could not find ref with POC 112
+[hevc @ 0x5628304b5c80] Could not find ref with POC 112
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        DURATION        : 00:20:00.400000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[hevc @ 0x5628304b4e00] Could not find ref with POC 112
+[hevc @ 0x562830468380] Could not find ref with POC 112
+[out#0/null @ 0x56283049f880] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x56283049f880] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

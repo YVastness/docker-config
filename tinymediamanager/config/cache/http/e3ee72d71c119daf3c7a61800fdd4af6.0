@@ -5,26 +5,26 @@ Accept-Encoding: br,gzip
 HTTP/1.1 200 
 21
 content-type: application/json;charset=utf-8
-date: Sat, 12 Jul 2025 07:03:20 GMT
 content-encoding: gzip
+date: Tue, 15 Jul 2025 09:01:06 GMT
+etag: W/"57ab6dfc4710e63a5b63008e8d7a2641"
 server: openresty
-cache-control: public, max-age=12984
+cache-control: public, max-age=10257
 x-memc: HIT
 x-memc-key: 309eb48477d7a0f2794725da43755539f3c3e722fcf0d6e11be984ebe774d1d7
-x-memc-age: 8988
-x-memc-expires: 12984
-x-az: us-east-1c
-x-task-id: 70735e56c18a47b49f02154ff57dfd68
-etag: W/"57ab6dfc4710e63a5b63008e8d7a2641"
+x-memc-age: 11923
+x-memc-expires: 10257
+x-az: us-east-1a
+x-task-id: b8f65fc675cf46a8a6cd336b6d7b4577
 vary: accept-encoding
 x-cache: Miss from cloudfront
-via: 1.1 240505787baa09e4b0a287e248b4543a.cloudfront.net (CloudFront)
-x-amz-cf-pop: HIO52-P3
+via: 1.1 02d90bf99fd6253b329a53c82f19e224.cloudfront.net (CloudFront)
+x-amz-cf-pop: SEA73-P1
 alt-svc: h3=":443"; ma=86400
-x-amz-cf-id: VcPoMRPmxlAdEbeBmKSPSiaHU4WIbUqFnlunFO_-P0m0Hn9qr0Lszg==
+x-amz-cf-id: ak8YxP_YvpwUwes4GhzsZR1MJghBfZxwCfS20wTgU4-d6iO0g--AAw==
 vary: Origin
-OkHttp-Sent-Millis: 1752303800115
-OkHttp-Received-Millis: 1752303800434
+OkHttp-Sent-Millis: 1752570066255
+OkHttp-Received-Millis: 1752570066544
 
 TLS_AES_128_GCM_SHA256
 0

@@ -1,0 +1,49 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1134 - 第1134集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf60.21.101
+  Duration: 00:23:35.86, start: 0.000000, bitrate: 9188 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160, 8895 kb/s, 23.98 fps, 23.98 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](chi): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f03c8001f80] config in time_base: 1/90000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f03c8001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f03c8001f80] n:   0 pts: 177660 pts_time:1.974   duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:F4B0643B plane_checksum:[FA36E5CE B6E17459 465A0A05] mean:[143 103 113] stdev:[58.6 25.0 18.9]
+[Parsed_showinfo_0 @ 0x7f03c8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160, q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:02.00 bitrate=N/A speed=   4x    [Parsed_showinfo_0 @ 0x7f03c8001f80] n:   1 pts: 350333 pts_time:3.892589 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:04138861 plane_checksum:[B392E3FD 40B7034B 3432A10A] mean:[146 111 123] stdev:[60.0 24.8 21.0]
+[Parsed_showinfo_0 @ 0x7f03c8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f03c8001f80] n:   2 pts: 583066 pts_time:6.478511 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:67D58678 plane_checksum:[4EBCEBF1 AD1E5A3B 7A9C403D] mean:[145 140 118] stdev:[46.0 10.3 5.7]
+[Parsed_showinfo_0 @ 0x7f03c8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+frame=    3 fps=3.0 q=-0.0 size=N/A time=00:00:06.50 bitrate=N/A speed= 6.5x    [Parsed_showinfo_0 @ 0x7f03c8001f80] n:   3 pts: 759492 pts_time:8.4388  duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:46B9FF01 plane_checksum:[6892B394 D7A9AF34 30659C2A] mean:[95 147 112] stdev:[34.2 5.5 5.3]
+[Parsed_showinfo_0 @ 0x7f03c8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f03c8001f80] n:   4 pts:1026009 pts_time:11.4001 duration:   3753 duration_time:0.0417  fmt:yuv420p cl:left sar:0/1 s:3840x2160 i:P iskey:1 type:I checksum:B69D734C plane_checksum:[8F486272 64CA995F 52F5776C] mean:[196 138 117] stdev:[30.9 3.9 4.4]
+[Parsed_showinfo_0 @ 0x7f03c8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55b2c3b5e540] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=2.9 q=-0.0 Lsize=N/A time=00:00:06.50 bitrate=N/A speed= 6.2x    

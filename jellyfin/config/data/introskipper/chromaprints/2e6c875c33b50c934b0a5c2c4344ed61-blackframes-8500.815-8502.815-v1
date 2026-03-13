@@ -1,0 +1,96 @@
+Input #0, matroska,webm, from '/media/Movies/哪吒之魔童闹海 (2025)/哪吒之魔童闹海 (2025).mkv':
+  Metadata:
+    title           : hehe
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-02T01:51:47.000000Z
+    MOVIE/ENCODER   : Lavf61.7.100
+  Duration: 02:24:01.44, start: 0.000000, bitrate: 31317 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 27304976
+        DURATION        : 02:23:58.717000000
+        NUMBER_OF_FRAMES: 518323
+        NUMBER_OF_BYTES : 29484995700
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-02 01:51:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: dts (dca) (DTS), 48000 Hz, 5.1(side), fltp, 768 kb/s (default)
+      Metadata:
+        title           : DTSC环绕声-国语
+        BPS             : 768000
+        DURATION        : 02:23:58.752000000
+        NUMBER_OF_FRAMES: 809883
+        NUMBER_OF_BYTES : 829320192
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-02 01:51:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: eac3, 48000 Hz, 5.1(side), fltp, 448 kb/s (default)
+      Metadata:
+        title           : 杜比全景声-HD5(国语)
+        BPS             : 448000
+        DURATION        : 02:23:58.752000000
+        NUMBER_OF_FRAMES: 269961
+        NUMBER_OF_BYTES : 483770112
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-02 01:51:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default)
+      Metadata:
+        title           : 杜比环绕声-HD4(国语)
+        BPS             : 768000
+        DURATION        : 02:24:01.440000000
+        NUMBER_OF_FRAMES: 270045
+        NUMBER_OF_BYTES : 829578240
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-02 01:51:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : 杜比环绕声(国语)
+        BPS             : 256000
+        DURATION        : 02:23:58.752000000
+        NUMBER_OF_FRAMES: 269961
+        NUMBER_OF_BYTES : 276440064
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-02 01:51:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5: Audio: aac (LC), 44100 Hz, 5.1, fltp (default)
+      Metadata:
+        title           : 臻悦全景声(国语)
+        BPS             : 255999
+        DURATION        : 02:23:58.752000000
+        NUMBER_OF_FRAMES: 372040
+        NUMBER_OF_BYTES : 276440062
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-02 01:51:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 标准音效(国语)
+        BPS             : 255999
+        DURATION        : 02:23:58.752000000
+        NUMBER_OF_FRAMES: 372040
+        NUMBER_OF_BYTES : 276440062
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-02 01:51:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : hehe
+    MOVIE/ENCODER   : Lavf61.7.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 27304976
+        DURATION        : 02:23:58.717000000
+        NUMBER_OF_FRAMES: 518323
+        NUMBER_OF_BYTES : 29484995700
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-02 01:51:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   31 fps=4.8 q=-0.0 size=N/A time=00:00:00.51 bitrate=N/A speed=0.0793x    frame=   65 fps=9.3 q=-0.0 size=N/A time=00:00:01.08 bitrate=N/A speed=0.154x    frame=  101 fps= 13 q=-0.0 size=N/A time=00:00:01.68 bitrate=N/A speed=0.224x    [out#0/null @ 0x556af804d900] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 15 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.256x    

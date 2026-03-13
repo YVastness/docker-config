@@ -1,0 +1,65 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E02 - 第2集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf60.16.100
+  Duration: 00:24:52.86, start: 0.000000, bitrate: 2297 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1596 [SAR 1:1 DAR 320:133], 1519 kb/s, 24 fps, 24 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, 5.1, fltp, 253 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:3[0x4](und): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:4[0x5](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 317 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1596 [SAR 1:1 DAR 320:133], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   12 fps=8.0 q=-0.0 size=N/A time=00:00:00.54 bitrate=N/A speed=0.36x    [Parsed_blackframe_0 @ 0x7fb618002340] frame:18 pblack:99 pts:12644 t:0.790250 type:I last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:19 pblack:99 pts:13316 t:0.832250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:20 pblack:98 pts:13988 t:0.874250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:21 pblack:89 pts:14644 t:0.915250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:22 pblack:82 pts:15316 t:0.957250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:23 pblack:93 pts:15988 t:0.999250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:24 pblack:81 pts:16644 t:1.040250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:25 pblack:79 pts:17316 t:1.082250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:26 pblack:78 pts:17988 t:1.124250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:27 pblack:87 pts:18644 t:1.165250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:28 pblack:87 pts:19316 t:1.207250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:29 pblack:87 pts:19988 t:1.249250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:30 pblack:86 pts:20644 t:1.290250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:31 pblack:86 pts:21316 t:1.332250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:32 pblack:78 pts:21988 t:1.374250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:33 pblack:78 pts:22644 t:1.415250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:34 pblack:60 pts:23316 t:1.457250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:40 pblack:66 pts:27316 t:1.707250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:41 pblack:66 pts:27988 t:1.749250 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7fb618002340] frame:44 pblack:99 pts:29988 t:1.874250 type:B last_keyframe:18
+[out#0/null @ 0x55ac9fc33000] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 24 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.04x    

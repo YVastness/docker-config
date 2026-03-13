@@ -1,0 +1,59 @@
+Input #0, matroska,webm, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E144 - 第144集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-01-29T14:58:01.000000Z
+  Duration: 00:21:44.36, start: 0.000000, bitrate: 10319 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 10192171
+        DURATION        : 00:21:44.320000000
+        NUMBER_OF_FRAMES: 32608
+        NUMBER_OF_BYTES : 1661731600
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-29 14:58:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125347
+        DURATION        : 00:21:44.363000000
+        NUMBER_OF_FRAMES: 61142
+        NUMBER_OF_BYTES : 20437304
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-29 14:58:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] n:   0 pts:   3061 pts_time:3.061   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:4015FA5D plane_checksum:[F3823F14 1E0AD72B 11B9E40F] mean:[92 114 112] stdev:[45.6 12.1 18.3]
+[Parsed_showinfo_0 @ 0x7f2aa8001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] User Data=54656e63656e742d563236352d312e362e392e322d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31352e342063722d6931322e306132342e302072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] 
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 10192171
+        DURATION        : 00:21:44.320000000
+        NUMBER_OF_FRAMES: 32608
+        NUMBER_OF_BYTES : 1661731600
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-01-29 14:58:01
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] n:   1 pts:   8221 pts_time:8.221   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:81663D98 plane_checksum:[A31774EC F6168C81 B6893C1C] mean:[75 156 116] stdev:[55.9 15.3 6.7]
+[Parsed_showinfo_0 @ 0x7f2aa8001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] User Data=54656e63656e742d563236352d312e362e392e322d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31352e342063722d6931322e306132342e302072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] 
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] n:   2 pts:  14221 pts_time:14.221  duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:A8C9E889 plane_checksum:[9A9E5C40 55101EDA B9C76D6F] mean:[46 119 158] stdev:[36.7 8.8 20.8]
+[Parsed_showinfo_0 @ 0x7f2aa8001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] User Data=54656e63656e742d563236352d312e362e392e322d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31352e342063722d6931322e306132342e302072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] 
+[Parsed_showinfo_0 @ 0x7f2aa8001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x5571013f1fc0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.12 bitrate=N/A speed=8.68x    

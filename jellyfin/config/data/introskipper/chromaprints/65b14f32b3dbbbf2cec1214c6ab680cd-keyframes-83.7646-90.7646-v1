@@ -1,0 +1,80 @@
+Input #0, matroska,webm, from '/media/Animes/间谍过家家 (2022)/Season 3/间谍过家家 - S03E04 - 第4集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-10-26T02:55:33.000000Z
+  Duration: 00:23:40.37, start: 0.000000, bitrate: 6708 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 6574806
+        DURATION        : 00:23:39.961000000
+        NUMBER_OF_FRAMES: 34045
+        NUMBER_OF_BYTES : 1166996079
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-26 02:55:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(cre): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 128000
+        DURATION        : 00:23:40.016000000
+        NUMBER_OF_FRAMES: 61155
+        NUMBER_OF_BYTES : 22720262
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-26 02:55:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : 简体中文
+        BPS             : 140
+        DURATION        : 00:23:26.760000000
+        NUMBER_OF_FRAMES: 471
+        NUMBER_OF_BYTES : 24699
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-26 02:55:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: ass (ssa)
+      Metadata:
+        title           : 繁体中文
+        BPS             : 140
+        DURATION        : 00:23:26.760000000
+        NUMBER_OF_FRAMES: 471
+        NUMBER_OF_BYTES : 24699
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-26 02:55:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Attachment: ttf
+      Metadata:
+        filename        : 方正粗圆_GBK[0]_subset_0.ttf
+        mimetype        : application/x-truetype-font
+        title           : Imported font from 394_SPY x FAMILY_S3E4_zh-Hans_sync.assfonts.ass
+  Stream #0:5: Attachment: ttf
+      Metadata:
+        filename        : 方正粗圆_GBK[0]_subset_0.ttf
+        mimetype        : application/x-truetype-font
+        title           : Imported font from 394_SPY x FAMILY_S3E4_zh-Hant_sync.assfonts.ass
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f82e0001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f82e0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f82e0001f80] n:   0 pts:  10079 pts_time:10.079  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:3AE5FA8D plane_checksum:[36EA69CC D72AB570 46B6DB42] mean:[200 478 549] stdev:[103.7 29.1 24.6]
+[Parsed_showinfo_0 @ 0x7f82e0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 6574806
+        DURATION        : 00:23:39.961000000
+        NUMBER_OF_FRAMES: 34045
+        NUMBER_OF_BYTES : 1166996079
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-26 02:55:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f82e0001f80] n:   1 pts:  20506 pts_time:20.506  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:0EBB2B2F plane_checksum:[91D7E302 18CEAAB6 221E9D59] mean:[666 538 491] stdev:[149.0 52.2 44.8]
+[Parsed_showinfo_0 @ 0x7f82e0001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55c63c6166c0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x55c63c6166c0] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

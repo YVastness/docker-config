@@ -1,0 +1,41 @@
+Input #0, matroska,webm, from '/media/Animes/百炼成神 (2022)/Season 1/百炼成神 - S01E95 - 第95集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-09-20T04:49:38.000000Z
+  Duration: 00:20:16.75, start: 0.000000, bitrate: 25582 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 25324004
+        DURATION        : 00:20:16.720000000
+        NUMBER_OF_FRAMES: 30418
+        NUMBER_OF_BYTES : 3851527912
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-09-20 04:49:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 255999
+        DURATION        : 00:20:16.749000000
+        NUMBER_OF_FRAMES: 52401
+        NUMBER_OF_BYTES : 38935964
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-09-20 04:49:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 25324004
+        DURATION        : 00:20:16.720000000
+        NUMBER_OF_FRAMES: 30418
+        NUMBER_OF_BYTES : 3851527912
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-09-20 04:49:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    5 fps=5.0 q=-0.0 size=N/A time=00:00:00.20 bitrate=N/A speed=0.198x    frame=   23 fps= 15 q=-0.0 size=N/A time=00:00:00.96 bitrate=N/A speed=0.636x    frame=   41 fps= 20 q=-0.0 size=N/A time=00:00:01.64 bitrate=N/A speed=0.816x    [out#0/null @ 0x561b73871ec0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 22 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.864x    

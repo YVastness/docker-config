@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-08-01T11:56:05.300083+00:00","last_reported":"2025-08-01T11:56:05.300083+00:00","last_updated":"2025-08-01T11:56:05.300083+00:00","context":{"id":"01K1JQTH9MMA1X0P66AV98FEEW","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"event.backup_automatic_backup","state":"unknown","attributes":{"event_types":["completed","failed","in_progress"],"event_type":null,"friendly_name":"Backup 自动备份"},"last_changed":"2025-08-01T11:56:05.455252+00:00","last_reported":"2025-08-01T11:56:05.455252+00:00","last_updated":"2025-08-01T11:56:05.455252+00:00","context":{"id":"01K1JQTHEF0CAFAKQV40KSR5F6","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": null,
+        "last_event_attributes": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"person.yinhaoyu","state":"home","attributes":{"editable":true,"id":"yinhaoyu","device_trackers":["device_tracker.iphone","device_tracker.my_iphone"],"source":"device_tracker.my_iphone","user_id":"7af7934b12794a888602d25e4c4f21a1","friendly_name":"yinhaoyu"},"last_changed":"2025-08-01T11:56:05.916960+00:00","last_reported":"2025-08-02T03:37:46.473357+00:00","last_updated":"2025-08-02T03:37:46.473357+00:00","context":{"id":"01K1MDPT79TZMQDXZYMYF2E6YV","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"device_tracker.iphone","state":"home","attributes":{"source_type":"gps","battery_level":100,"latitude":36.85494116442665,"longitude":117.11648408773874,"gps_accuracy":19,"altitude":29.425455061051,"vertical_accuracy":30,"friendly_name":"iPhone"},"last_changed":"2025-08-02T03:20:35.523369+00:00","last_reported":"2025-08-02T03:20:35.523369+00:00","last_updated":"2025-08-02T03:20:35.523369+00:00","context":{"id":"01K1MCQBE39TWR7ZPC60YT15MF","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_battery_level","state":"100","attributes":{"unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery","friendly_name":"iPhone Battery Level"},"last_changed":"2025-08-01T11:56:08.605462+00:00","last_reported":"2025-08-01T11:56:08.605462+00:00","last_updated":"2025-08-01T11:56:08.605462+00:00","context":{"id":"01K1JQTMGXYD0Z0Q54XJSMYPN0","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": 100,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_sim_1","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone SIM 1"},"last_changed":"2025-08-01T11:56:08.605674+00:00","last_reported":"2025-08-01T11:56:08.605674+00:00","last_updated":"2025-08-01T11:56:08.605674+00:00","context":{"id":"01K1JQTMGX1K91K45QPWJVHR73","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_sim_2","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone SIM 2"},"last_changed":"2025-08-01T11:56:08.605840+00:00","last_reported":"2025-08-01T11:56:08.605840+00:00","last_updated":"2025-08-01T11:56:08.605840+00:00","context":{"id":"01K1JQTMGXVMCDTG5WTE0KKJB5","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_geocoded_location","state":"中国\n山东省\n济南市 济阳区\n簸箕刘街895号","attributes":{"Administrative Area":"山东省","Areas Of Interest":"N/A","Country":"中国","Inland Water":"N/A","ISO Country Code":"CN","Locality":"济南市","Location":[36.85550891156294,117.12263609988825],"Name":"济南先投雅遇公寓(起步区)","Ocean":"N/A","Postal Code":"N/A","Sub Administrative Area":"N/A","Sub Locality":"济阳区","Sub Thoroughfare":"N/A","Thoroughfare":"簸箕刘街895号","Time Zone":"Asia/Shanghai","Zones":["我的家"],"icon":"mdi:map","friendly_name":"iPhone Geocoded Location"},"last_changed":"2025-08-02T03:20:35.693349+00:00","last_reported":"2025-08-02T03:20:35.693349+00:00","last_updated":"2025-08-02T03:20:35.693349+00:00","context":{"id":"01K1MCQBKDRJJ602JE1P0FAE7Q","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "中国\n山东省\n济南市 济阳区\n簸箕刘街895号",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_last_update_trigger","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone Last Update Trigger"},"last_changed":"2025-08-01T11:56:08.606177+00:00","last_reported":"2025-08-01T11:56:08.606177+00:00","last_updated":"2025-08-01T11:56:08.606177+00:00","context":{"id":"01K1JQTMGYQTFWPFTGBA4VFA7R","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_app_version","state":"2025.7.2","attributes":{"icon":"mdi:cellphone","friendly_name":"iPhone App Version"},"last_changed":"2025-08-02T03:20:35.597030+00:00","last_reported":"2025-08-02T03:20:35.693493+00:00","last_updated":"2025-08-02T03:20:35.597030+00:00","context":{"id":"01K1MCQBGDNSEFJ2H09W6BMQ1D","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "2025.7.2",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_location_permission","state":"Authorized Always","attributes":{"icon":"mdi:map","friendly_name":"iPhone Location permission"},"last_changed":"2025-08-01T11:56:08.606482+00:00","last_reported":"2025-08-01T11:56:08.606482+00:00","last_updated":"2025-08-01T11:56:08.606482+00:00","context":{"id":"01K1JQTMGY725F9NA5A35HAK88","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "Authorized Always",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_audio_output","state":"unavailable","attributes":{"icon":"mdi:dots-square","friendly_name":"iPhone Audio Output"},"last_changed":"2025-08-01T11:56:08.606620+00:00","last_reported":"2025-08-01T11:56:08.606620+00:00","last_updated":"2025-08-01T11:56:08.606620+00:00","context":{"id":"01K1JQTMGYSF3RR4DB21K0B12G","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "unavailable",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_battery_state","state":"Not Charging","attributes":{"Low Power Mode":false,"icon":"mdi:battery","friendly_name":"iPhone Battery State"},"last_changed":"2025-08-01T11:56:08.606759+00:00","last_reported":"2025-08-01T11:56:08.606759+00:00","last_updated":"2025-08-01T11:56:08.606759+00:00","context":{"id":"01K1JQTMGYTCY0K8W29X50JBJG","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "Not Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-08-02T18:56:11.680986+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.iphone_storage","state":"unavailable","attributes":{"unit_of_measurement":"% availabl

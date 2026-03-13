@@ -1,0 +1,31 @@
+Input #0, matroska,webm, from '/media/TV Shows/唐朝诡事录 (2022)/Season 1/唐朝诡事录 - S01E08 - 第8集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:45:56.88, start: 0.000000, bitrate: 9883 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:45:56.760000000
+  Stream #0:1: Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP 5.1
+        DURATION        : 00:45:56.864000000
+  Stream #0:2: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:45:56.882000000
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : 简体中文
+        DURATION        : 00:00:10.010000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        DURATION        : 00:45:56.760000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=1.0 q=-0.0 size=N/A time=00:00:00.04 bitrate=N/A speed=0.04x    frame=   24 fps= 16 q=-0.0 size=N/A time=00:00:00.96 bitrate=N/A speed=0.639x    [out#0/null @ 0x56371dd55000] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 25 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=   1x    

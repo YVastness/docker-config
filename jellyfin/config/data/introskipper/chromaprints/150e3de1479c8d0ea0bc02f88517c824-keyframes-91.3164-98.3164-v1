@@ -1,0 +1,39 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/纸牌屋 (2013)/Season 4/纸牌屋 - S04E11 - 第 50 章.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : ShanaEncoder
+  Duration: 00:51:34.26, start: 0.000000, bitrate: 15351 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 13181 kb/s, 23.98 fps, 23.98 tbr, 24k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: dts (dca) (DTS-HD MA) (mp4a / 0x6134706D), 48000 Hz, 5.1(side), s16p (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f81b4001f80] config in time_base: 1/24000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f81b4001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f81b4001f80] n:   0 pts:  60656 pts_time:2.527333 duration:   1001 duration_time:0.0417083 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:E6E0C39D plane_checksum:[54F5212F 6AAE9496 3D1C0DD8] mean:[27 129 126] stdev:[18.2 2.0 2.1]
+[Parsed_showinfo_0 @ 0x7f81b4001f80]   side data - SMPTE 12-1 timecode: timecode - 01:02:34:16
+[Parsed_showinfo_0 @ 0x7f81b4001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:02.58 bitrate=N/A speed=5.17x    [Parsed_showinfo_0 @ 0x7f81b4001f80] n:   1 pts: 310906 pts_time:12.954417 duration:   1001 duration_time:0.0417083 fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:92935710 plane_checksum:[3FA903C0 00398516 8800CE2B] mean:[53 123 130] stdev:[41.8 3.6 1.5]
+[Parsed_showinfo_0 @ 0x7f81b4001f80]   side data - SMPTE 12-1 timecode: timecode - 01:02:45:02
+[Parsed_showinfo_0 @ 0x7f81b4001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x558840256740] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.58 bitrate=N/A speed=4.77x    

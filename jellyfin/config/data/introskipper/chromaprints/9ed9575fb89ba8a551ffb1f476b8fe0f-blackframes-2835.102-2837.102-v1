@@ -1,0 +1,72 @@
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E05 - 第5集.mkv':
+  Metadata:
+    creation_time   : 2025-11-23T10:01:24.000000Z
+    ENCODER         : Lavf60.16.100
+  Duration: 00:47:32.35, start: 0.000000, bitrate: 15034 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1920 [SAR 1:1 DAR 2:1], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 14587450
+        DURATION        : 00:47:32.167000000
+        NUMBER_OF_FRAMES: 171130
+        NUMBER_OF_BYTES : 5200730688
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 10:01:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        title           : DDP 2.0
+        BPS             : 64000
+        DURATION        : 00:47:32.352000000
+        NUMBER_OF_FRAMES: 89136
+        NUMBER_OF_BYTES : 22818816
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 10:01:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : AAC 5.1
+        BPS             : 253352
+        DURATION        : 00:47:32.245000000
+        NUMBER_OF_FRAMES: 133699
+        NUMBER_OF_BYTES : 90328012
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 10:01:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        BPS             : 125350
+        DURATION        : 00:47:32.224000000
+        NUMBER_OF_FRAMES: 133698
+        NUMBER_OF_BYTES : 44691055
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 10:01:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : quark4k.com
+        BPS             : 20
+        DURATION        : 00:00:10.000000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 25
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 10:01:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 14587450
+        DURATION        : 00:47:32.167000000
+        NUMBER_OF_FRAMES: 171130
+        NUMBER_OF_BYTES : 5200730688
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-23 10:01:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   32 fps=9.1 q=-0.0 size=N/A time=00:00:00.55 bitrate=N/A speed=0.157x    frame=   64 fps= 16 q=-0.0 size=N/A time=00:00:01.08 bitrate=N/A speed=0.27x    frame=   97 fps= 21 q=-0.0 size=N/A time=00:00:01.63 bitrate=N/A speed=0.362x    [out#0/null @ 0x55b2dec78a40] video:51KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  119 fps= 24 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.411x    

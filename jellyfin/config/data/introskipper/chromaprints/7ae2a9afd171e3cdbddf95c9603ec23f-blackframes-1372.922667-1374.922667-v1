@@ -1,0 +1,53 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E111 - 第111集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-10-19T18:40:35.1755098+08:00
+    encoder         : Lavf62.0.102
+  Duration: 00:23:22.92, start: 0.000000, bitrate: 6278 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 6146 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-10-19T18:40:35.1755098+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    7 fps=0.0 q=-0.0 size=N/A time=00:00:00.32 bitrate=N/A speed=0.64x    [Parsed_blackframe_0 @ 0x7ff2f0002340] frame:20 pblack:50 pts:75540 t:0.839333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:24 pblack:50 pts:89940 t:0.999333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:28 pblack:50 pts:104340 t:1.159333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:32 pblack:50 pts:118740 t:1.319333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:34 pblack:50 pts:125940 t:1.399333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:36 pblack:50 pts:133140 t:1.479333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:37 pblack:50 pts:136740 t:1.519333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:38 pblack:50 pts:140340 t:1.559333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:39 pblack:50 pts:143940 t:1.599333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:40 pblack:50 pts:147540 t:1.639333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:41 pblack:50 pts:151140 t:1.679333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:42 pblack:50 pts:154740 t:1.719333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:43 pblack:50 pts:158340 t:1.759333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:44 pblack:50 pts:161940 t:1.799333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:45 pblack:50 pts:165540 t:1.839333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:46 pblack:50 pts:169140 t:1.879333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:47 pblack:50 pts:172740 t:1.919333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:48 pblack:50 pts:176339 t:1.959322 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:49 pblack:50 pts:179940 t:1.999333 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ff2f0002340] frame:50 pblack:50 pts:183540 t:2.039333 type:B last_keyframe:0
+[out#0/null @ 0x5559b17e6340] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.17x    

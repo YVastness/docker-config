@@ -1,0 +1,58 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/纸牌屋 (2013)/Season 6/纸牌屋 - S06E01 - 第 66 章.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : ShanaEncoder
+  Duration: 00:52:07.14, start: 0.000000, bitrate: 13646 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x1920 [SAR 1:1 DAR 2:1], 13257 kb/s, 23.98 fps, 23.98 tbr, 24k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: ac3 (ac-3 / 0x332D6361), 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:0 pblack:96 pts:610 t:0.025417 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:1 pblack:96 pts:1611 t:0.067125 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:2 pblack:96 pts:2612 t:0.108833 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:3 pblack:96 pts:3613 t:0.150542 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:4 pblack:96 pts:4614 t:0.192250 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:5 pblack:96 pts:5615 t:0.233958 type:P last_keyframe:0
+frame=    6 fps=2.0 q=-0.0 size=N/A time=00:00:00.29 bitrate=N/A speed=0.0969x    [Parsed_blackframe_0 @ 0x7f87b0002340] frame:6 pblack:96 pts:6616 t:0.275667 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:7 pblack:96 pts:7617 t:0.317375 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:8 pblack:96 pts:8618 t:0.359083 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:9 pblack:96 pts:9619 t:0.400792 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:10 pblack:96 pts:10620 t:0.442500 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:11 pblack:96 pts:11621 t:0.484208 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:12 pblack:96 pts:12622 t:0.525917 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:13 pblack:96 pts:13623 t:0.567625 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:14 pblack:96 pts:14624 t:0.609333 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:15 pblack:96 pts:15625 t:0.651042 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:16 pblack:96 pts:16626 t:0.692750 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:17 pblack:96 pts:17627 t:0.734458 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:18 pblack:96 pts:18628 t:0.776167 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:19 pblack:96 pts:19629 t:0.817875 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:20 pblack:96 pts:20630 t:0.859583 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:21 pblack:96 pts:21631 t:0.901292 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:22 pblack:96 pts:22632 t:0.943000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:23 pblack:96 pts:23633 t:0.984708 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f87b0002340] frame:24 pblack:96 pts:24634 t:1.026417 type:P last_keyframe:0
+[out#0/null @ 0x55d6e8170340] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=6.8 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.295x    

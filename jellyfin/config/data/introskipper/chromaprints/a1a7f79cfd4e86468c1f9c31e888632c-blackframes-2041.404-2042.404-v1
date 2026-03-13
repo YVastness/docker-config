@@ -1,0 +1,73 @@
+Input #0, matroska,webm, from '/media/Animes/诡秘之主 (2025)/Season 1/诡秘之主 - S01E01 - 第1集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-07-04T11:43:41.000000Z
+  Duration: 00:34:47.40, start: 0.000000, bitrate: 8106 kb/s
+  Stream #0:0(chi): Video: h264 (High), yuv420p(progressive), 1920x816 [SAR 799:800 DAR 47:20], SAR 816:817 DAR 1920:817, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        title           : Chinese
+        BPS             : 7976274
+        DURATION        : 00:34:47.320000000
+        NUMBER_OF_FRAMES: 52183
+        NUMBER_OF_BYTES : 2081129769
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-04 11:43:41
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : Mandarin
+        BPS             : 128000
+        DURATION        : 00:34:47.404000000
+        NUMBER_OF_FRAMES: 89897
+        NUMBER_OF_BYTES : 33398469
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-04 11:43:41
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : Chinese Simplified
+        BPS             : 40
+        DURATION        : 00:34:09.680000000
+        NUMBER_OF_FRAMES: 428
+        NUMBER_OF_BYTES : 10308
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-04 11:43:41
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese Traditional
+        BPS             : 40
+        DURATION        : 00:34:09.680000000
+        NUMBER_OF_FRAMES: 428
+        NUMBER_OF_BYTES : 10317
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-04 11:43:41
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(progressive), 1920x816 [SAR 816:817 DAR 1920:817], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        title           : Chinese
+        BPS             : 7976274
+        DURATION        : 00:34:47.320000000
+        NUMBER_OF_FRAMES: 52183
+        NUMBER_OF_BYTES : 2081129769
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-07-04 11:43:41
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    4 fps=0.0 q=-0.0 size=N/A time=00:00:00.20 bitrate=N/A speed=0.399x    [Parsed_blackframe_0 @ 0x7f92c0002340] frame:17 pblack:50 pts:716 t:0.716000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7f92c0002340] frame:18 pblack:52 pts:756 t:0.756000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7f92c0002340] frame:19 pblack:54 pts:796 t:0.796000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7f92c0002340] frame:20 pblack:55 pts:836 t:0.836000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7f92c0002340] frame:21 pblack:54 pts:876 t:0.876000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7f92c0002340] frame:22 pblack:55 pts:916 t:0.916000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7f92c0002340] frame:23 pblack:55 pts:956 t:0.956000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7f92c0002340] frame:24 pblack:52 pts:996 t:0.996000 type:P last_keyframe:14
+[Parsed_blackframe_0 @ 0x7f92c0002340] frame:25 pblack:51 pts:1036 t:1.036000 type:P last_keyframe:14
+[out#0/null @ 0x55a5a67c0080] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=1.36x    

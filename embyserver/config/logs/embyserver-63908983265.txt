@@ -1,0 +1,812 @@
+2026-03-13 07:00:26.743 Info Main: Application path: /system/EmbyServer.dll
+2026-03-13 07:00:28.146 Info NetworkManager: Adding event handler for NetworkChange.NetworkAddressChanged
+2026-03-13 07:00:30.219 Info App: Setting default culture to zh-CN
+2026-03-13 07:00:30.344 Info Main: Emby Server 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+2026-03-13 07:00:30.344 Info Main: Logs path: /config/logs
+2026-03-13 07:00:30.344 Info Main: Cache path: /config/cache
+2026-03-13 07:00:30.344 Info Main: Internal metadata path: /config/metadata
+2026-03-13 07:00:30.344 Info Main: DefaultThreadCurrentCulture: zh-CN
+2026-03-13 07:00:30.344 Info Main: DefaultThreadCurrentUICulture: zh-CN
+2026-03-13 07:00:30.344 Info Main: DefaultThreadCurrentUICulture: zh-CN
+2026-03-13 07:00:30.348 Info Main: Server Friendly Name: ‌iStoreOS‌
+2026-03-13 07:00:30.349 Info Main: Local time: 03/13/2026 07:00:30 +00:00
+2026-03-13 07:00:30.455 Info App: Emby Server Version: 4.9.1.90
+2026-03-13 07:00:30.458 Info App: Loading assemblies
+2026-03-13 07:00:31.187 Info App: File /config/plugins/AudioDb.dll has version 1.0.20.0
+2026-03-13 07:00:31.202 Info App: File /system/plugins/AudioDb.dll has version 1.0.20.0
+2026-03-13 07:00:31.243 Info App: File /config/plugins/EmbyGuideData.dll has version 1.0.20.0
+2026-03-13 07:00:31.258 Info App: File /system/plugins/EmbyGuideData.dll has version 1.0.20.0
+2026-03-13 07:00:31.262 Info App: File /config/plugins/Fanart.dll has version 1.0.17.0
+2026-03-13 07:00:31.278 Info App: File /system/plugins/Fanart.dll has version 1.0.17.0
+2026-03-13 07:00:31.297 Info App: File /config/plugins/Emby.M3UTuner.dll has version 1.0.42.0
+2026-03-13 07:00:31.304 Info App: File /system/plugins/Emby.M3UTuner.dll has version 1.0.42.0
+2026-03-13 07:00:31.328 Info App: File /config/plugins/Emby.Webhooks.dll has version 1.0.37.0
+2026-03-13 07:00:31.331 Info App: File /system/plugins/Emby.Webhooks.dll has version 1.0.37.0
+2026-03-13 07:00:31.344 Info App: File /config/plugins/DvdMounter.dll has version 1.0.2.0
+2026-03-13 07:00:31.383 Info App: File /system/plugins/DvdMounter.dll has version 1.0.1.0
+2026-03-13 07:00:31.406 Info App: File /config/plugins/OpenSubtitles.dll has version 1.0.66.0
+2026-03-13 07:00:31.432 Info App: File /system/plugins/OpenSubtitles.dll has version 1.0.66.0
+2026-03-13 07:00:31.440 Info App: File /config/plugins/StudioImages.dll has version 1.0.3.0
+2026-03-13 07:00:31.447 Info App: File /system/plugins/StudioImages.dll has version 1.0.3.0
+2026-03-13 07:00:31.463 Info App: File /config/plugins/BlurayMounter.dll has version 1.0.5.0
+2026-03-13 07:00:31.468 Info App: File /system/plugins/BlurayMounter.dll has version 1.0.3.0
+2026-03-13 07:00:31.471 Info App: File /config/plugins/Emby.XmlTV.dll has version 1.2.1.0
+2026-03-13 07:00:31.493 Info App: File /system/plugins/Emby.XmlTV.dll has version 1.2.1.0
+2026-03-13 07:00:31.507 Info App: File /config/plugins/Tvdb.dll has version 1.6.3.0
+2026-03-13 07:00:31.517 Info App: File /system/plugins/Tvdb.dll has version 1.6.3.0
+2026-03-13 07:00:31.531 Info App: File /config/plugins/Emby.Dlna.dll has version 1.5.4.0
+2026-03-13 07:00:31.571 Info App: File /system/plugins/Emby.Dlna.dll has version 1.5.4.0
+2026-03-13 07:00:31.610 Info App: File /config/plugins/Emby.Server.CinemaMode.dll has version 1.0.49.0
+2026-03-13 07:00:31.627 Info App: File /system/plugins/Emby.Server.CinemaMode.dll has version 1.0.49.0
+2026-03-13 07:00:31.628 Info App: File /config/plugins/MusicBrainz.dll has version 1.0.27.0
+2026-03-13 07:00:31.651 Info App: File /system/plugins/MusicBrainz.dll has version 1.0.27.0
+2026-03-13 07:00:31.658 Info App: File /config/plugins/MovieDb.dll has version 1.8.9.0
+2026-03-13 07:00:31.678 Info App: File /system/plugins/MovieDb.dll has version 1.8.6.0
+2026-03-13 07:00:31.690 Info App: File /config/plugins/OMDb.dll has version 1.0.22.0
+2026-03-13 07:00:31.696 Info App: File /system/plugins/OMDb.dll has version 1.0.22.0
+2026-03-13 07:00:31.713 Info App: File /config/plugins/NfoMetadata.dll has version 1.0.85.0
+2026-03-13 07:00:31.725 Info App: File /system/plugins/NfoMetadata.dll has version 1.0.85.0
+2026-03-13 07:00:31.732 Info App: File /config/plugins/MBBackup.dll has version 1.8.2.0
+2026-03-13 07:00:31.758 Info App: File /system/plugins/MBBackup.dll has version 1.8.2.0
+2026-03-13 07:00:31.780 Info App: File /config/plugins/Emby.PortMapper.dll has version 1.3.0.0
+2026-03-13 07:00:31.784 Info App: File /system/plugins/Emby.PortMapper.dll has version 1.3.0.0
+2026-03-13 07:00:31.826 Error App: Error loading assembly /config/plugins/StrmAssistant.dll
+	*** Error Report ***
+	Version: 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+	System.BadImageFormatException: System.BadImageFormatException: Bad IL format.
+	   at System.Reflection.Assembly.Load(Byte[] rawAssembly, Byte[] rawSymbolStore)
+	   at Emby.Server.Implementations.ApplicationHost.LoadAssembly(String file)
+	Source: System.Private.CoreLib
+	TargetSite: System.Reflection.Assembly Load(Byte[], Byte[])
+	
+2026-03-13 07:00:32.030 Info App: Loading Emby.Api, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.031 Info App: Loading Emby.Web, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.031 Info App: Loading MediaBrowser.Model, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.031 Info App: Loading MediaBrowser.Common, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading MediaBrowser.Controller, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Providers, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Photos, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Server.Implementations, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.LiveTV, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.ActivityLog, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Server.MediaEncoding, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.LocalMetadata, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Notifications, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Web.GenericUI, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Codecs.Dxva, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Codecs, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Server.Connect, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading Emby.Server.Sync, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading EmbyServer, Version=4.9.1.90, Culture=neutral, PublicKeyToken=null
+2026-03-13 07:00:32.032 Info App: Loading AudioDb, Version=1.0.20.0, Culture=neutral, PublicKeyToken=null from /config/plugins/AudioDb.dll
+2026-03-13 07:00:32.032 Info App: Loading EmbyGuideData, Version=1.0.20.0, Culture=neutral, PublicKeyToken=null from /config/plugins/EmbyGuideData.dll
+2026-03-13 07:00:32.032 Info App: Loading Fanart, Version=1.0.17.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Fanart.dll
+2026-03-13 07:00:32.032 Info App: Loading Emby.M3UTuner, Version=1.0.42.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.M3UTuner.dll
+2026-03-13 07:00:32.032 Info App: Loading Emby.Webhooks, Version=1.0.37.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Webhooks.dll
+2026-03-13 07:00:32.032 Info App: Loading DvdMounter, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null from /config/plugins/DvdMounter.dll
+2026-03-13 07:00:32.032 Info App: Loading OpenSubtitles, Version=1.0.66.0, Culture=neutral, PublicKeyToken=null from /config/plugins/OpenSubtitles.dll
+2026-03-13 07:00:32.032 Info App: Loading Trakt, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Trakt.dll
+2026-03-13 07:00:32.032 Info App: Loading StudioImages, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null from /config/plugins/StudioImages.dll
+2026-03-13 07:00:32.032 Info App: Loading BlurayMounter, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null from /config/plugins/BlurayMounter.dll
+2026-03-13 07:00:32.032 Info App: Loading Emby.XmlTV, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.XmlTV.dll
+2026-03-13 07:00:32.032 Info App: Loading Tvdb, Version=1.6.3.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Tvdb.dll
+2026-03-13 07:00:32.032 Info App: Loading Emby.Dlna, Version=1.5.4.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Dlna.dll
+2026-03-13 07:00:32.032 Info App: Loading MetaTube, Version=2025.1102.2200.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MetaTube.dll
+2026-03-13 07:00:32.032 Info App: Loading Emby.Server.CinemaMode, Version=1.0.49.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Server.CinemaMode.dll
+2026-03-13 07:00:32.032 Info App: Loading MusicBrainz, Version=1.0.27.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MusicBrainz.dll
+2026-03-13 07:00:32.032 Info App: Loading MovieDb, Version=1.8.9.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MovieDb.dll
+2026-03-13 07:00:32.032 Info App: Loading OMDb, Version=1.0.22.0, Culture=neutral, PublicKeyToken=null from /config/plugins/OMDb.dll
+2026-03-13 07:00:32.032 Info App: Loading NfoMetadata, Version=1.0.85.0, Culture=neutral, PublicKeyToken=null from /config/plugins/NfoMetadata.dll
+2026-03-13 07:00:32.032 Info App: Loading MBBackup, Version=1.8.2.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MBBackup.dll
+2026-03-13 07:00:32.032 Info App: Loading Emby.PortMapper, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.PortMapper.dll
+2026-03-13 07:00:32.032 Info App: Loading Emby.MeiamSub.Thunder, Version=1.0.11.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.MeiamSub.Thunder.dll
+2026-03-13 07:00:33.087 Info SqliteUserRepository: Initializing PooledDatabaseConnectionManager with pool size: 3
+2026-03-13 07:00:33.093 Info SqliteUserRepository: Sqlite version: 3.49.2
+2026-03-13 07:00:33.093 Info SqliteUserRepository: Sqlite compiler options: ATOMIC_INTRINSICS=1,COMPILER=gcc-10.3.0,DEFAULT_AUTOVACUUM,DEFAULT_CACHE_SIZE=-2000,DEFAULT_FILE_FORMAT=4,DEFAULT_JOURNAL_SIZE_LIMIT=-1,DEFAULT_MMAP_SIZE=0,DEFAULT_PAGE_SIZE=4096,DEFAULT_PCACHE_INITSZ=20,DEFAULT_RECURSIVE_TRIGGERS,DEFAULT_SECTOR_SIZE=4096,DEFAULT_SYNCHRONOUS=2,DEFAULT_WAL_AUTOCHECKPOINT=1000,DEFAULT_WAL_SYNCHRONOUS=2,DEFAULT_WORKER_THREADS=0,DIRECT_OVERFLOW_READ,ENABLE_COLUMN_METADATA,ENABLE_DBSTAT_VTAB,ENABLE_FTS3_PARENTHESIS,ENABLE_FTS3_TOKENIZER,ENABLE_FTS5,ENABLE_MATH_FUNCTIONS,ENABLE_PREUPDATE_HOOK,ENABLE_SESSION,ENABLE_UPDATE_DELETE_LIMIT,LIKE_DOESNT_MATCH_BLOBS,MALLOC_SOFT_LIMIT=1024,MAX_ATTACHED=10,MAX_COLUMN=2000,MAX_COMPOUND_SELECT=500,MAX_DEFAULT_PAGE_SIZE=8192,MAX_EXPR_DEPTH=1000,MAX_FUNCTION_ARG=1000,MAX_LENGTH=1000000000,MAX_LIKE_PATTERN_LENGTH=50000,MAX_MMAP_SIZE=0x7fff0000,MAX_PAGE_COUNT=0xfffffffe,MAX_PAGE_SIZE=65536,MAX_SCHEMA_RETRY=25,MAX_SQL_LENGTH=1000000000,MAX_TRIGGER_DEPTH=1000,MAX_VARIABLE_NUMBER=250000,MAX_VDBE_OP=250000000,MAX_WORKER_THREADS=8,MUTEX_PTHREADS,OMIT_LOOKASIDE,OMIT_SHARED_CACHE,SYSTEM_MALLOC,TEMP_STORE=1,THREADSAFE=1
+2026-03-13 07:00:33.093 Info SqliteUserRepository: Sqlite ThreadSafe: 1
+2026-03-13 07:00:33.093 Info SqliteUserRepository: Sqlite ThreadingMode: MultiThreaded
+2026-03-13 07:00:33.093 Info SqliteUserRepository: Opening sqlite connection to /config/data/users.db. isReadOnly: False
+2026-03-13 07:00:33.169 Info SqliteUserRepository: Default journal_mode for /config/data/users.db is wal
+2026-03-13 07:00:33.171 Info SqliteUserRepository: PRAGMA cache_size=-65536
+2026-03-13 07:00:33.172 Info SqliteUserRepository: PRAGMA page_size=4096
+2026-03-13 07:00:33.172 Info SqliteUserRepository: PRAGMA foreign_keys=1
+2026-03-13 07:00:33.172 Info SqliteUserRepository: PRAGMA SECURE_DELETE=0
+2026-03-13 07:00:33.172 Info SqliteUserRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2026-03-13 07:00:33.172 Info SqliteUserRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2026-03-13 07:00:33.273 Info SqliteItemRepository: Initializing PooledDatabaseConnectionManager with pool size: 5
+2026-03-13 07:00:33.275 Info AuthenticationRepository: Initializing PooledDatabaseConnectionManager with pool size: 5
+2026-03-13 07:00:33.443 Info ActivityRepository: Initializing PooledDatabaseConnectionManager with pool size: 3
+2026-03-13 07:00:33.444 Info ActivityRepository: Opening sqlite connection to /config/data/activitylog.db. isReadOnly: False
+2026-03-13 07:00:33.552 Info ActivityRepository: Default journal_mode for /config/data/activitylog.db is wal
+2026-03-13 07:00:33.552 Info ActivityRepository: PRAGMA cache_size=-65536
+2026-03-13 07:00:33.552 Info ActivityRepository: PRAGMA page_size=4096
+2026-03-13 07:00:33.552 Info ActivityRepository: PRAGMA foreign_keys=1
+2026-03-13 07:00:33.552 Info ActivityRepository: PRAGMA SECURE_DELETE=0
+2026-03-13 07:00:33.552 Info ActivityRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2026-03-13 07:00:33.552 Info ActivityRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2026-03-13 07:00:33.582 Info NetworkManager: Detecting local network addresses
+2026-03-13 07:00:33.582 Info NetworkManager: networkInterface: Ethernet eth0, Speed: 1000000000, Description: eth0
+2026-03-13 07:00:33.585 Info NetworkManager: GatewayAddresses: 192.168.1.1
+2026-03-13 07:00:33.585 Info NetworkManager: UnicastAddresses: 192.168.1.6
+2026-03-13 07:00:33.588 Info NetworkManager: networkInterface: Ethernet eth1, Speed: 1000000000, Description: eth1
+2026-03-13 07:00:33.588 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.588 Info NetworkManager: UnicastAddresses: 
+2026-03-13 07:00:33.588 Info NetworkManager: networkInterface: Ethernet br-lan, Speed: 1000000000, Description: br-lan
+2026-03-13 07:00:33.588 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 192.168.2.1,fe80::62be:b4ff:fe24:20cf%16
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet br-d0fc903ef55d, Speed: 10000000000, Description: br-d0fc903ef55d
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 172.20.0.1,fe80::42:fbff:fe09:2ac8%18
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet br-e59bccaa6a6f, Speed: 10000000000, Description: br-e59bccaa6a6f
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 172.21.0.1,fe80::42:efff:fe40:e334%19
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet br-e720f3873ecf, Speed: 10000000000, Description: br-e720f3873ecf
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 172.18.0.1,fe80::42:85ff:fe6e:56bc%20
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet br-1c21737730ca, Speed: 10000000000, Description: br-1c21737730ca
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 172.25.0.1,fe80::42:cfff:fe8d:2405%22
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet br-8ef220372e9f, Speed: 10000000000, Description: br-8ef220372e9f
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 172.22.0.1,fe80::42:a0ff:fe7f:daf8%24
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet br-20f3277ded5a, Speed: 10000000000, Description: br-20f3277ded5a
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 172.23.0.1,fe80::42:fdff:fe8a:afc9%25
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet docker0, Speed: 10000000000, Description: docker0
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 172.17.0.1,fe80::42:23ff:feb7:a332%26
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet br-d74c0048d579, Speed: 10000000000, Description: br-d74c0048d579
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 172.24.0.1,fe80::42:1bff:fe76:b9cd%27
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet vethf8608a6, Speed: 10000000000, Description: vethf8608a6
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::103d:7ff:fe7a:af67%29
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth55a0a33, Speed: 10000000000, Description: veth55a0a33
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::14f8:8fff:fe4e:3c6f%31
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth040e5de, Speed: 10000000000, Description: veth040e5de
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::70:39ff:fea3:af70%33
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth2a6b006, Speed: 10000000000, Description: veth2a6b006
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::f865:9cff:fe95:2f5f%35
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet vethadc25b5, Speed: 10000000000, Description: vethadc25b5
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::c85d:7dff:fe99:c016%37
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth087dd76, Speed: 10000000000, Description: veth087dd76
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::64e7:32ff:feab:6251%39
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth5c19192, Speed: 10000000000, Description: veth5c19192
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::64a1:e4ff:fe00:653e%41
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth635d7ce, Speed: 10000000000, Description: veth635d7ce
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::a80e:f0ff:fef0:9c1f%43
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth406bb52, Speed: 10000000000, Description: veth406bb52
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::e4d9:c8ff:fe83:415%45
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth14c738e, Speed: 10000000000, Description: veth14c738e
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::48c3:ecff:fee0:e316%47
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Ethernet veth7cd1d0f, Speed: 10000000000, Description: veth7cd1d0f
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: fe80::78a9:c3ff:fe86:c98d%49
+2026-03-13 07:00:33.594 Info NetworkManager: networkInterface: Loopback lo, Speed: -1, Description: lo
+2026-03-13 07:00:33.594 Info NetworkManager: GatewayAddresses: 
+2026-03-13 07:00:33.594 Info NetworkManager: UnicastAddresses: 127.0.0.1,::1
+2026-03-13 07:00:33.634 Info NetworkManager: Detected local ip addresses: [{"IPAddress":"192.168.1.6","HasGateWayAddress":true,"PrefixLength":24,"IPv4Mask":"255.255.255.0"},{"IPAddress":"192.168.2.1","HasGateWayAddress":false,"PrefixLength":24,"IPv4Mask":"255.255.255.0"},{"IPAddress":"172.20.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"172.21.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"172.18.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"172.25.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"172.22.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"172.23.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"172.17.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"172.24.0.1","HasGateWayAddress":false,"PrefixLength":16,"IPv4Mask":"255.255.0.0"},{"IPAddress":"127.0.0.1","HasGateWayAddress":false,"PrefixLength":8,"IPv4Mask":"255.0.0.0"},{"IPAddress":"fe80::62be:b4ff:fe24:20cf%16","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:fbff:fe09:2ac8%18","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:efff:fe40:e334%19","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:85ff:fe6e:56bc%20","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:cfff:fe8d:2405%22","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:a0ff:fe7f:daf8%24","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:fdff:fe8a:afc9%25","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:23ff:feb7:a332%26","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::42:1bff:fe76:b9cd%27","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::103d:7ff:fe7a:af67%29","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::14f8:8fff:fe4e:3c6f%31","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::70:39ff:fea3:af70%33","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::f865:9cff:fe95:2f5f%35","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::c85d:7dff:fe99:c016%37","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::64e7:32ff:feab:6251%39","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::64a1:e4ff:fe00:653e%41","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::a80e:f0ff:fef0:9c1f%43","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::e4d9:c8ff:fe83:415%45","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::48c3:ecff:fee0:e316%47","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"fe80::78a9:c3ff:fe86:c98d%49","HasGateWayAddress":false,"PrefixLength":64},{"IPAddress":"::1","HasGateWayAddress":false,"PrefixLength":128}]
+2026-03-13 07:00:33.641 Info App: Adding HttpListener prefix http://+:8096/
+2026-03-13 07:00:34.020 Info AuthenticationRepository: Opening sqlite connection to /config/data/authentication.db. isReadOnly: False
+2026-03-13 07:00:34.093 Info AuthenticationRepository: Default journal_mode for /config/data/authentication.db is wal
+2026-03-13 07:00:34.094 Info AuthenticationRepository: PRAGMA cache_size=-65536
+2026-03-13 07:00:34.094 Info AuthenticationRepository: PRAGMA page_size=4096
+2026-03-13 07:00:34.094 Info AuthenticationRepository: PRAGMA foreign_keys=1
+2026-03-13 07:00:34.094 Info AuthenticationRepository: PRAGMA SECURE_DELETE=0
+2026-03-13 07:00:34.094 Info AuthenticationRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2026-03-13 07:00:34.094 Info AuthenticationRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2026-03-13 07:00:34.100 Info SqliteItemRepository: Opening sqlite connection to /config/data/library.db. isReadOnly: False
+2026-03-13 07:00:34.170 Info SqliteItemRepository: Default journal_mode for /config/data/library.db is wal
+2026-03-13 07:00:34.172 Info SqliteItemRepository: PRAGMA cache_size=-131072
+2026-03-13 07:00:34.172 Info SqliteItemRepository: PRAGMA page_size=4096
+2026-03-13 07:00:34.172 Info SqliteItemRepository: PRAGMA foreign_keys=1
+2026-03-13 07:00:34.172 Info SqliteItemRepository: PRAGMA SECURE_DELETE=0
+2026-03-13 07:00:34.172 Info SqliteItemRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2026-03-13 07:00:34.172 Info SqliteItemRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2026-03-13 07:00:34.181 Info SqliteItemRepository: Init Complete
+2026-03-13 07:00:34.184 Info SqliteItemRepository: Opening sqlite connection to /config/data/library.db. isReadOnly: True
+2026-03-13 07:00:34.185 Info SqliteItemRepository: PRAGMA cache_size=-131072
+2026-03-13 07:00:34.185 Info SqliteItemRepository: PRAGMA page_size=4096
+2026-03-13 07:00:34.185 Info SqliteItemRepository: PRAGMA foreign_keys=1
+2026-03-13 07:00:34.185 Info SqliteItemRepository: PRAGMA SECURE_DELETE=0
+2026-03-13 07:00:34.185 Info SqliteItemRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2026-03-13 07:00:34.185 Info SqliteItemRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2026-03-13 07:00:34.299 Info SqliteUserRepository: Opening sqlite connection to /config/data/users.db. isReadOnly: True
+2026-03-13 07:00:34.299 Info SqliteUserRepository: PRAGMA cache_size=-65536
+2026-03-13 07:00:34.300 Info SqliteUserRepository: PRAGMA page_size=4096
+2026-03-13 07:00:34.300 Info SqliteUserRepository: PRAGMA foreign_keys=1
+2026-03-13 07:00:34.300 Info SqliteUserRepository: PRAGMA SECURE_DELETE=0
+2026-03-13 07:00:34.300 Info SqliteUserRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2026-03-13 07:00:34.300 Info SqliteUserRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2026-03-13 07:00:34.510 Info App: Emby Server 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+2026-03-13 07:00:34.511 Info App: Logs path: /config/logs
+2026-03-13 07:00:34.511 Info App: Cache path: /config/cache
+2026-03-13 07:00:34.511 Info App: Internal metadata path: /config/metadata
+2026-03-13 07:00:34.512 Info App: Transcoding temporary files path: /config/transcoding-temp
+2026-03-13 07:00:34.512 Info App: DefaultThreadCurrentCulture: zh-CN
+2026-03-13 07:00:34.512 Info App: DefaultThreadCurrentUICulture: zh-CN
+2026-03-13 07:00:34.512 Info App: DefaultThreadCurrentUICulture: zh-CN
+2026-03-13 07:00:34.512 Info App: Server Friendly Name: ‌iStoreOS‌
+2026-03-13 07:00:34.512 Info App: Local time: 03/13/2026 07:00:34 +00:00
+2026-03-13 07:00:34.742 Info ThunderProvider: MeiamSub.Thunder Init
+2026-03-13 07:00:35.856 Info FfmpegManager: FFMpeg: /bin/ffmpeg
+2026-03-13 07:00:35.856 Info FfmpegManager: FFProbe: /bin/ffprobe
+2026-03-13 07:00:35.856 Info FfmpegManager: FFDetect: /bin/ffdetect
+2026-03-13 07:00:36.148 Info Skia: SkiaSharp version: 2.88.0.0
+2026-03-13 07:00:36.547 Info libvips: NetVips version: 3.0.0.0
+2026-03-13 07:00:36.551 Info ImageProcessor: Adding image processor Skia
+2026-03-13 07:00:36.551 Info ImageProcessor: Adding image processor libvips
+2026-03-13 07:00:36.699 Info TaskManager: Daily trigger for Video preview thumbnail extraction set to fire at 03/14/2026 02:00:00, which is 1139.3883524433334 minutes from now.
+2026-03-13 07:00:36.835 Info TaskManager: Daily trigger for Rotate log file set to fire at 03/14/2026 00:00:00, which is 1019.38615225 minutes from now.
+2026-03-13 07:00:36.845 Info TaskManager: Queueing task HardwareDetectionScheduledTask
+2026-03-13 07:00:36.851 Info TaskManager: Executing Hardware Detection
+2026-03-13 07:00:36.853 Info TaskManager: Daily trigger for Generate Trailers set to fire at 03/14/2026 01:00:00, which is 1079.3857717583332 minutes from now.
+2026-03-13 07:00:36.855 Info TaskManager: Daily trigger for Organize Metadata set to fire at 03/14/2026 03:00:00, which is 1199.3857516616667 minutes from now.
+2026-03-13 07:00:36.860 Info TaskManager: Daily trigger for Update Plugin set to fire at 03/14/2026 05:00:00, which is 1319.38571487 minutes from now.
+2026-03-13 07:00:36.907 Info TaskManager: Daily trigger for Emby Server Backup set to fire at 03/14/2026 00:10:00, which is 1029.3849760616667 minutes from now.
+2026-03-13 07:00:36.919 Info App: ServerId: 3d6e6430cfd04b72aec9ddc1888006e2
+2026-03-13 07:00:36.968 Info FfmpegManager: ProcessRun 'ffmpeg -hide_banner -version' Execute: /bin/ffmpeg -hide_banner -version
+2026-03-13 07:00:36.984 Info App: Starting entry point Emby.Server.Implementations.Networking.RemoteAddressEntryPoint
+2026-03-13 07:00:36.985 Info App: Loading data from /config/data/wan.dat
+2026-03-13 07:00:36.986 Info App: Entry point completed: Emby.Server.Implementations.Networking.RemoteAddressEntryPoint. Duration: 0.0014281 seconds
+2026-03-13 07:00:36.986 Info App: Starting entry point Emby.Server.Connect.ConnectEntryPoint
+2026-03-13 07:00:36.987 Info App: Loading data from /config/data/connect.txt
+2026-03-13 07:00:36.988 Info App: Entry point completed: Emby.Server.Connect.ConnectEntryPoint. Duration: 0.0016387 seconds
+2026-03-13 07:00:36.988 Info App: Starting entry point Emby.Dlna.Main.DlnaEntryPoint
+2026-03-13 07:00:37.212 Info App: Entry point completed: Emby.Dlna.Main.DlnaEntryPoint. Duration: 0.2243969 seconds
+2026-03-13 07:00:37.213 Info App: Core startup complete
+2026-03-13 07:00:37.214 Info App: Starting entry point Emby.Server.Implementations.Udp.UdpServerEntryPoint
+2026-03-13 07:00:37.231 Info App: Entry point completed: Emby.Server.Implementations.Udp.UdpServerEntryPoint. Duration: 0.0142416 seconds
+2026-03-13 07:00:37.231 Info App: Starting entry point Emby.Server.Implementations.Session.PartyEventNotifier
+2026-03-13 07:00:37.232 Info App: Entry point completed: Emby.Server.Implementations.Session.PartyEventNotifier. Duration: 0.000589 seconds
+2026-03-13 07:00:37.232 Info App: Starting entry point Emby.Server.Implementations.Playlists.PlaylistUpgradeEntryPoint
+2026-03-13 07:00:37.234 Info App: Entry point completed: Emby.Server.Implementations.Playlists.PlaylistUpgradeEntryPoint. Duration: 0.0012157 seconds
+2026-03-13 07:00:37.234 Info App: Starting entry point Emby.Server.Implementations.Library.DeviceAccessEntryPoint
+2026-03-13 07:00:37.235 Info App: Entry point completed: Emby.Server.Implementations.Library.DeviceAccessEntryPoint. Duration: 0.0003677 seconds
+2026-03-13 07:00:37.235 Info App: Starting entry point Emby.Server.Implementations.IO.LibraryMonitorStartup
+2026-03-13 07:00:37.270 Info App: Entry point completed: Emby.Server.Implementations.IO.LibraryMonitorStartup. Duration: 0.0347615 seconds
+2026-03-13 07:00:37.270 Info LibraryMonitor: Skipping realtime monitor for /mnt/Animes because the path is currently not available
+2026-03-13 07:00:37.270 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.AutomaticRestartEntryPoint
+2026-03-13 07:00:37.270 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.AutomaticRestartEntryPoint. Duration: 0.0003048 seconds
+2026-03-13 07:00:37.270 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.KeepServerAwake
+2026-03-13 07:00:37.270 Info LibraryMonitor: Skipping realtime monitor for /mnt/Girls/JAV_output because the path is currently not available
+2026-03-13 07:00:37.271 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.KeepServerAwake. Duration: 0.0001795 seconds
+2026-03-13 07:00:37.271 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.LibraryChangedNotifier
+2026-03-13 07:00:37.272 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.LibraryChangedNotifier. Duration: 0.0006442 seconds
+2026-03-13 07:00:37.272 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.LogLibrariesEntryPoint
+2026-03-13 07:00:37.272 Info LibraryMonitor: Watching directory with new FileSystemWatcher for /mnt/Movies for item 4820
+2026-03-13 07:00:37.273 Info LibraryMonitor: Skipping realtime monitor for /mnt/TV Shows because the path is currently not available
+2026-03-13 07:00:37.274 Info App: Libraries
+	Server Configuration: CollapseVideoFolders: False
+	Library:  Girls, id: 3, CollectionType: movies, CollapseSingleItemFolders: False
+	Configured paths: /mnt/Girls/JAV_output
+	Library Folder: JAV_output, id: 4583: path: /mnt/Girls/JAV_output
+	Library:  合集, id: 1827, CollectionType: boxsets, CollapseSingleItemFolders: True
+	Configured paths: 
+	Library:  电影, id: 2831, CollectionType: movies, CollapseSingleItemFolders: False
+	Configured paths: /mnt/Movies
+	Library Folder: Movies, id: 4820: path: /mnt/Movies
+	Library:  电视剧, id: 3462, CollectionType: tvshows, CollapseSingleItemFolders: False
+	Configured paths: /mnt/TV Shows
+	Library Folder: TV Shows, id: 4821: path: /mnt/TV Shows
+	Library:  动漫, id: 3464, CollectionType: tvshows, CollapseSingleItemFolders: False
+	Configured paths: /mnt/Animes
+	Library Folder: Animes, id: 4819: path: /mnt/Animes
+2026-03-13 07:00:37.274 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.LogLibrariesEntryPoint. Duration: 0.0018812 seconds
+2026-03-13 07:00:37.274 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.ServerEventNotifier
+2026-03-13 07:00:37.275 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.ServerEventNotifier. Duration: 0.0013487 seconds
+2026-03-13 07:00:37.275 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.StartupWizard
+2026-03-13 07:00:37.276 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.StartupWizard. Duration: 0.0002399 seconds
+2026-03-13 07:00:37.276 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.SystemEvents
+2026-03-13 07:00:37.276 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.SystemEvents. Duration: 0.0001994 seconds
+2026-03-13 07:00:37.276 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.UserDataChangeNotifier
+2026-03-13 07:00:37.276 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.UserDataChangeNotifier. Duration: 0.0002336 seconds
+2026-03-13 07:00:37.276 Info App: Starting entry point Emby.Server.Implementations.Channels.ChannelsEntryPoint
+2026-03-13 07:00:37.278 Info App: Entry point completed: Emby.Server.Implementations.Channels.ChannelsEntryPoint. Duration: 0.0019388 seconds
+2026-03-13 07:00:37.278 Info App: Starting entry point Emby.LiveTV.EntryPoint
+2026-03-13 07:00:37.280 Info LiveTV: Loading live tv data from /config/data/livetv/timers
+2026-03-13 07:00:37.281 Info App: Entry point completed: Emby.LiveTV.EntryPoint. Duration: 0.0027338 seconds
+2026-03-13 07:00:37.281 Info App: Starting entry point Emby.LiveTV.RecordingNotifier
+2026-03-13 07:00:37.282 Info App: Entry point completed: Emby.LiveTV.RecordingNotifier. Duration: 0.000942 seconds
+2026-03-13 07:00:37.282 Info App: Starting entry point Emby.Server.MediaEncoding.Api.EncodingManagerEntryPoint
+2026-03-13 07:00:37.287 Info App: Entry point completed: Emby.Server.MediaEncoding.Api.EncodingManagerEntryPoint. Duration: 0.0043272 seconds
+2026-03-13 07:00:37.287 Info App: Starting entry point Emby.Notifications.NotificationManagerEntryPoint
+2026-03-13 07:00:37.317 Info Notifications: Registering event nofitier Activity Log
+2026-03-13 07:00:37.317 Info Notifications: Registering event nofitier Emby Server User Notifications
+2026-03-13 07:00:37.317 Info Notifications: Registering event factory CoreNotificationTypeFactory
+2026-03-13 07:00:37.317 Info Notifications: Registering event factory BackupNotificationTypeFactory
+2026-03-13 07:00:37.361 Info App: Entry point completed: Emby.Notifications.NotificationManagerEntryPoint. Duration: 0.0739076 seconds
+2026-03-13 07:00:37.361 Info App: Starting entry point Emby.Server.Sync.SyncNotificationEntryPoint
+2026-03-13 07:00:37.362 Info App: Entry point completed: Emby.Server.Sync.SyncNotificationEntryPoint. Duration: 0.0008888 seconds
+2026-03-13 07:00:37.362 Info App: Starting entry point EmbyServer.Windows.LoopUtilEntryPoint
+2026-03-13 07:00:37.363 Info App: Entry point completed: EmbyServer.Windows.LoopUtilEntryPoint. Duration: 0.0001222 seconds
+2026-03-13 07:00:37.363 Info App: Starting entry point Trakt.ServerMediator
+2026-03-13 07:00:37.363 Info App: Entry point completed: Trakt.ServerMediator. Duration: 0.0002354 seconds
+2026-03-13 07:00:37.363 Info App: Starting entry point Tvdb.EntryPoint
+2026-03-13 07:00:37.364 Info App: Entry point completed: Tvdb.EntryPoint. Duration: 4.49E-05 seconds
+2026-03-13 07:00:37.364 Info App: Starting entry point Emby.Security.PluginSecurityManager
+2026-03-13 07:00:37.364 Info App: Entry point completed: Emby.Security.PluginSecurityManager. Duration: 6.82E-05 seconds
+2026-03-13 07:00:37.364 Info App: Starting entry point Emby.Server.CinemaMode.IntrosEntryPoint
+2026-03-13 07:00:37.364 Info App: Entry point completed: Emby.Server.CinemaMode.IntrosEntryPoint. Duration: 0.0001612 seconds
+2026-03-13 07:00:37.364 Info App: Starting entry point NfoMetadata.EntryPoint
+2026-03-13 07:00:37.365 Info App: Entry point completed: NfoMetadata.EntryPoint. Duration: 0.0001338 seconds
+2026-03-13 07:00:37.365 Info App: Starting entry point MBBackup.ServerEntryPoint
+2026-03-13 07:00:37.365 Info App: Entry point completed: MBBackup.ServerEntryPoint. Duration: 4.59E-05 seconds
+2026-03-13 07:00:37.365 Info App: Starting entry point Emby.PortMapper.ExternalPortForwarding
+2026-03-13 07:00:37.366 Info App: Entry point completed: Emby.PortMapper.ExternalPortForwarding. Duration: 0.0011234 seconds
+2026-03-13 07:00:37.366 Info App: All entry points have started
+2026-03-13 07:00:37.473 Info FfmpegManager: ProcessRun 'ffmpeg -hide_banner -version' Process exited with code 0
+2026-03-13 07:00:37.494 Info App: Init BeginReceive on 0.0.0.0
+2026-03-13 07:00:37.494 Info App: Init BeginReceive on 0.0.0.0
+2026-03-13 07:00:37.494 Info App: Init BeginReceive on 192.168.1.6
+2026-03-13 07:00:37.494 Info App: Init BeginReceive on 127.0.0.1
+2026-03-13 07:00:37.558 Info FfmpegManager: FfmpegValidator.Validate complete
+2026-03-13 07:00:37.639 Info SoftwareCodecProvider: h264, libx264, x264, V-E-libx264
+2026-03-13 07:00:37.639 Info SoftwareCodecProvider: hevc, libx265, x265, V-E-libx265
+2026-03-13 07:00:37.639 Info SoftwareCodecProvider: mpeg4, mpeg4, MPEG-4 part 2, V-E-mpeg4
+2026-03-13 07:00:37.639 Info SoftwareCodecProvider: msmpeg4v3, msmpeg4, MPEG-4 part 2 (MS Variant 3), V-E-msmpeg4
+2026-03-13 07:00:37.639 Info SoftwareCodecProvider: vp8, libvpx, libvpx VP8, V-E-libvpx
+2026-03-13 07:00:37.640 Info SoftwareCodecProvider: av1, libaom-av1, libaom-av1, V-E-libaom_av1
+2026-03-13 07:00:37.642 Info SoftwareCodecProvider: h264, libx264, x264, V-E-libx264
+2026-03-13 07:00:37.642 Info SoftwareCodecProvider: hevc, libx265, x265, V-E-libx265
+2026-03-13 07:00:37.642 Info SoftwareCodecProvider: mpeg4, mpeg4, MPEG-4 part 2, V-E-mpeg4
+2026-03-13 07:00:37.642 Info SoftwareCodecProvider: msmpeg4v3, msmpeg4, MPEG-4 part 2 (MS Variant 3), V-E-msmpeg4
+2026-03-13 07:00:37.642 Info SoftwareCodecProvider: vp8, libvpx, libvpx VP8, V-E-libvpx
+2026-03-13 07:00:37.642 Info SoftwareCodecProvider: av1, libaom-av1, libaom-av1, V-E-libaom_av1
+2026-03-13 07:00:37.652 Info VaapiCodecProvider: ProcessRun 'ffdetect_vaencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 vaencdec -print_format json 
+2026-03-13 07:00:37.952 Info VaapiCodecProvider: ProcessRun 'ffdetect_vaencdec' Process exited with code 0
+2026-03-13 07:00:38.029 Info VaapiCodecProvider: Adapter #0: 'Alder Lake-N Intel Graphics' Id:18132 (Driver: , Vendor: Intel Corporation)
+2026-03-13 07:00:38.031 Info QuickSyncCodecProvider: ProcessRun 'ffdetect_qsvencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 qsvencdec -print_format json 
+2026-03-13 07:00:38.046 Info QuickSyncCodecProvider: ProcessRun 'ffdetect_qsvencdec' Process exited with code 0
+2026-03-13 07:00:38.103 Info NvidiaCodecProvider: ProcessRun 'ffdetect_nvencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 nvencdec -print_format json 
+2026-03-13 07:00:38.107 Info NvidiaCodecProvider: ProcessRun 'ffdetect_nvencdec' Process exited with code 1 - Failed
+2026-03-13 07:00:39.821 Info TaskManager: Queueing task PluginUpdateTask
+2026-03-13 07:00:39.821 Info TaskManager: Executing Check for plugin updates
+2026-03-13 07:00:39.832 Info HttpClient: GET https://www.mb3admin.com/admin/service/EmbyPackages.json
+2026-03-13 07:00:39.836 Info TaskManager: Queueing task SystemUpdateTask
+2026-03-13 07:00:39.836 Info TaskManager: Executing Check for application updates
+2026-03-13 07:00:39.849 Info TaskManager: Queueing task SubtitleOcrDataTask
+2026-03-13 07:00:39.849 Info TaskManager: Executing Download OCR Data
+2026-03-13 07:00:39.855 Info HttpClient: GET https://api.github.com/repos/MediaBrowser/Emby.Releases/releases
+2026-03-13 07:00:39.893 Info TaskManager: Download OCR Data Completed after 0 minute(s) and 0 seconds
+2026-03-13 07:00:40.693 Info HttpClient: Http response 200 from https://api.github.com/repos/MediaBrowser/Emby.Releases/releases after 838ms
+2026-03-13 07:00:40.828 Info CodecManager: CodecList:
+2026-03-13 07:00:40.828 Info TaskManager: Hardware Detection Completed after 0 minute(s) and 3 seconds
+2026-03-13 07:00:41.405 Info HttpClient: Http response 200 from https://www.mb3admin.com/admin/service/EmbyPackages.json after 1573ms
+2026-03-13 07:00:41.643 Info TaskManager: Check for application updates Completed after 0 minute(s) and 1 seconds
+2026-03-13 07:00:41.748 Info HttpClient: POST https://api.day.app/qtSCxHhNxnPujdpDt6hSPa?icon=https://play-lh.googleusercontent.com/x2eHcquFzIsSuhwXmbvD_xouXUxMkAfdak0z8zayXU_OzC9yYxBdbur3nE_kE4kazg&URL=infuse://
+2026-03-13 07:00:43.217 Info HttpClient: Http response 200 from https://api.day.app/qtSCxHhNxnPujdpDt6hSPa?icon=https://play-lh.googleusercontent.com/x2eHcquFzIsSuhwXmbvD_xouXUxMkAfdak0z8zayXU_OzC9yYxBdbur3nE_kE4kazg&URL=infuse:// after 1468ms
+2026-03-13 07:01:24.758 Info AuthenticationRepository: Opening sqlite connection to /config/data/authentication.db. isReadOnly: True
+2026-03-13 07:01:24.758 Info AuthenticationRepository: PRAGMA cache_size=-65536
+2026-03-13 07:01:24.758 Info AuthenticationRepository: PRAGMA page_size=4096
+2026-03-13 07:01:24.758 Info AuthenticationRepository: PRAGMA foreign_keys=1
+2026-03-13 07:01:24.758 Info AuthenticationRepository: PRAGMA SECURE_DELETE=0
+2026-03-13 07:01:24.758 Info AuthenticationRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2026-03-13 07:01:24.758 Info AuthenticationRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2026-03-13 07:01:36.737 Info ThunderProvider: MeiamSub.Thunder Search | SubtitleSearchRequest -> {"Language":"zh-CN","LanguageInfo":{"Name":"Chinese Simplified","DisplayName":"Chinese Simplified","TwoLetterISOLanguageName":"zh-CN","ThreeLetterISOLanguageName":"chs","ThreeLetterISOLanguageNames":["chs"],"TwoLetterISOLanguageNames":["zh-CN","zh-SG","zh-Hans","zh-CHS","zh-CN-Hans"]},"ContentType":"Movie","MediaPath":"/mnt/Girls/JAV_output/松本一香/MIDA-290/MIDA-290.mp4","Name":"MIDA-290 痴汉天堂 那诱人软懒无毛小穴 超吸睛的变态恋物视角映象","ProductionYear":2025,"RuntimeTicks":77724380000,"IsPerfectMatch":true,"IsForced":true,"ProviderIds":{"Tvdb":"290534","IMDB":"tt1342441","Tmdb":"455943"},"SeriesProviderIds":{},"SearchAllProviders":false,"DisabledSubtitleFetchers":["Open Subtitles"],"SubtitleFetcherOrder":["MeiamSub.Thunder","Open Subtitles"]}
+2026-03-13 07:01:36.739 Error SubtitleManager: Error searching for subtitles on MeiamSub.Thunder
+	*** Error Report ***
+	Version: 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+	System.IO.DirectoryNotFoundException: System.IO.DirectoryNotFoundException: Could not find a part of the path '/mnt/Girls/JAV_output/松本一香/MIDA-290/MIDA-290.mp4'.
+	   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+	   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+	   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+	   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.GetCidByFile(String filePath)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.SearchSubtitlesAsync(SubtitleSearchRequest request)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.Search(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	   at Emby.Providers.Subtitles.SubtitleManager.SearchSubtitles(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	Source: System.Private.CoreLib
+	TargetSite: Void ThrowExceptionForIoErrno(ErrorInfo, System.String, Boolean)
+	
+2026-03-13 07:01:36.740 Info ThunderProvider: MeiamSub.Thunder Search | SubtitleSearchRequest -> {"Language":"zh-CN","LanguageInfo":{"Name":"Chinese Simplified","DisplayName":"Chinese Simplified","TwoLetterISOLanguageName":"zh-CN","ThreeLetterISOLanguageName":"chs","ThreeLetterISOLanguageNames":["chs"],"TwoLetterISOLanguageNames":["zh-CN","zh-SG","zh-Hans","zh-CHS","zh-CN-Hans"]},"ContentType":"Movie","MediaPath":"/mnt/Girls/JAV_output/沙月恵奈/BAB-136/BAB-136.mp4","Name":"BAB-136 Bri Buri Gang Gimari DJ Aphrodisiac Hub 清酒过量 Kimeseku SEASON1 皋月惠那","ProductionYear":2024,"RuntimeTicks":76408540000,"IsPerfectMatch":true,"IsForced":true,"ProviderIds":{},"SeriesProviderIds":{},"SearchAllProviders":false,"DisabledSubtitleFetchers":["Open Subtitles"],"SubtitleFetcherOrder":["MeiamSub.Thunder","Open Subtitles"]}
+2026-03-13 07:01:36.740 Error SubtitleManager: Error searching for subtitles on MeiamSub.Thunder
+	*** Error Report ***
+	Version: 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+	System.IO.DirectoryNotFoundException: System.IO.DirectoryNotFoundException: Could not find a part of the path '/mnt/Girls/JAV_output/沙月恵奈/BAB-136/BAB-136.mp4'.
+	   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+	   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+	   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+	   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.GetCidByFile(String filePath)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.SearchSubtitlesAsync(SubtitleSearchRequest request)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.Search(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	   at Emby.Providers.Subtitles.SubtitleManager.SearchSubtitles(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	Source: System.Private.CoreLib
+	TargetSite: Void ThrowExceptionForIoErrno(ErrorInfo, System.String, Boolean)
+	
+2026-03-13 07:01:36.741 Info ThunderProvider: MeiamSub.Thunder Search | SubtitleSearchRequest -> {"Language":"zh-CN","LanguageInfo":{"Name":"Chinese Simplified","DisplayName":"Chinese Simplified","TwoLetterISOLanguageName":"zh-CN","ThreeLetterISOLanguageName":"chs","ThreeLetterISOLanguageNames":["chs"],"TwoLetterISOLanguageNames":["zh-CN","zh-SG","zh-Hans","zh-CHS","zh-CN-Hans"]},"ContentType":"Movie","MediaPath":"/mnt/Girls/JAV_output/逢沢みゆ/SQTE-634/SQTE-634.mp4","Name":"SQTE-634 放学后，她留宿并与人发生性关係。她脱下校服，在屋顶上多次达到高潮。相泽美优","ProductionYear":2025,"RuntimeTicks":66448650000,"IsPerfectMatch":true,"IsForced":true,"ProviderIds":{},"SeriesProviderIds":{},"SearchAllProviders":false,"DisabledSubtitleFetchers":["Open Subtitles"],"SubtitleFetcherOrder":["MeiamSub.Thunder","Open Subtitles"]}
+2026-03-13 07:01:36.741 Error SubtitleManager: Error searching for subtitles on MeiamSub.Thunder
+	*** Error Report ***
+	Version: 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+	System.IO.DirectoryNotFoundException: System.IO.DirectoryNotFoundException: Could not find a part of the path '/mnt/Girls/JAV_output/逢沢みゆ/SQTE-634/SQTE-634.mp4'.
+	   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+	   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+	   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+	   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.GetCidByFile(String filePath)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.SearchSubtitlesAsync(SubtitleSearchRequest request)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.Search(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	   at Emby.Providers.Subtitles.SubtitleManager.SearchSubtitles(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	Source: System.Private.CoreLib
+	TargetSite: Void ThrowExceptionForIoErrno(ErrorInfo, System.String, Boolean)
+	
+2026-03-13 07:01:36.741 Info ThunderProvider: MeiamSub.Thunder Search | SubtitleSearchRequest -> {"Language":"zh-CN","LanguageInfo":{"Name":"Chinese Simplified","DisplayName":"Chinese Simplified","TwoLetterISOLanguageName":"zh-CN","ThreeLetterISOLanguageName":"chs","ThreeLetterISOLanguageNames":["chs"],"TwoLetterISOLanguageNames":["zh-CN","zh-SG","zh-Hans","zh-CHS","zh-CN-Hans"]},"ContentType":"Movie","MediaPath":"/mnt/Girls/JAV_output/未知演员/MKMP-655/MKMP-655.mp4","Name":"MKMP-655 虐男折磨套房：能干的女总裁挑逗，玩弄她手下顺从的男人，让他们达到高潮的边缘，我们紧跟着她释放性慾的步伐。","ProductionYear":2025,"RuntimeTicks":74408540000,"IsPerfectMatch":true,"IsForced":true,"ProviderIds":{},"SeriesProviderIds":{},"SearchAllProviders":false,"DisabledSubtitleFetchers":["Open Subtitles"],"SubtitleFetcherOrder":["MeiamSub.Thunder","Open Subtitles"]}
+2026-03-13 07:01:36.741 Error SubtitleManager: Error searching for subtitles on MeiamSub.Thunder
+	*** Error Report ***
+	Version: 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+	System.IO.DirectoryNotFoundException: System.IO.DirectoryNotFoundException: Could not find a part of the path '/mnt/Girls/JAV_output/未知演员/MKMP-655/MKMP-655.mp4'.
+	   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+	   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+	   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+	   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.GetCidByFile(String filePath)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.SearchSubtitlesAsync(SubtitleSearchRequest request)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.Search(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	   at Emby.Providers.Subtitles.SubtitleManager.SearchSubtitles(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	Source: System.Private.CoreLib
+	TargetSite: Void ThrowExceptionForIoErrno(ErrorInfo, System.String, Boolean)
+	
+2026-03-13 07:01:36.742 Info ThunderProvider: MeiamSub.Thunder Search | SubtitleSearchRequest -> {"Language":"zh-CN","LanguageInfo":{"Name":"Chinese Simplified","DisplayName":"Chinese Simplified","TwoLetterISOLanguageName":"zh-CN","ThreeLetterISOLanguageName":"chs","ThreeLetterISOLanguageNames":["chs"],"TwoLetterISOLanguageNames":["zh-CN","zh-SG","zh-Hans","zh-CHS","zh-CN-Hans"]},"ContentType":"Movie","MediaPath":"/mnt/Girls/JAV_output/铃村爱里/ABF-061/ABF-061.mp4","Name":"ABF-061 子宮で欲しがる鈴村あいりの中出し懇願 4シチューエーション","ProductionYear":2024,"RuntimeTicks":119097010000,"IsPerfectMatch":true,"IsForced":true,"ProviderIds":{"Tmdb":"1471064"},"SeriesProviderIds":{},"SearchAllProviders":false,"DisabledSubtitleFetchers":["Open Subtitles"],"SubtitleFetcherOrder":["MeiamSub.Thunder","Open Subtitles"]}
+2026-03-13 07:01:36.742 Error SubtitleManager: Error searching for subtitles on MeiamSub.Thunder
+	*** Error Report ***
+	Version: 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+	System.IO.DirectoryNotFoundException: System.IO.DirectoryNotFoundException: Could not find a part of the path '/mnt/Girls/JAV_output/铃村爱里/ABF-061/ABF-061.mp4'.
+	   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+	   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+	   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+	   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.GetCidByFile(String filePath)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.SearchSubtitlesAsync(SubtitleSearchRequest request)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.Search(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	   at Emby.Providers.Subtitles.SubtitleManager.SearchSubtitles(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	Source: System.Private.CoreLib
+	TargetSite: Void ThrowExceptionForIoErrno(ErrorInfo, System.String, Boolean)
+	
+2026-03-13 07:01:36.743 Info ThunderProvider: MeiamSub.Thunder Search | SubtitleSearchRequest -> {"Language":"zh-CN","LanguageInfo":{"Name":"Chinese Simplified","DisplayName":"Chinese Simplified","TwoLetterISOLanguageName":"zh-CN","ThreeLetterISOLanguageName":"chs","ThreeLetterISOLanguageNames":["chs"],"TwoLetterISOLanguageNames":["zh-CN","zh-SG","zh-Hans","zh-CHS","zh-CN-Hans"]},"ContentType":"Movie","MediaPath":"/mnt/Girls/JAV_output/未知演员/FC2-4813091/FC2-4813091.mp4","Name":"FC2-4813091 表情抬起來了！[不] [大中出第二輪] 與最低限度的美麗重逢並進行調情性愛。我非常享受她的小奶子和大屁股，我像往常一樣向她緊緻的陰戶射了兩次大精液。*可用獎金| FC2電子市場","ProductionYear":2025,"RuntimeTicks":29017270000,"IsPerfectMatch":true,"IsForced":true,"ProviderIds":{},"SeriesProviderIds":{},"SearchAllProviders":false,"DisabledSubtitleFetchers":["Open Subtitles"],"SubtitleFetcherOrder":["MeiamSub.Thunder","Open Subtitles"]}
+2026-03-13 07:01:36.744 Error SubtitleManager: Error searching for subtitles on MeiamSub.Thunder
+	*** Error Report ***
+	Version: 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+	System.IO.DirectoryNotFoundException: System.IO.DirectoryNotFoundException: Could not find a part of the path '/mnt/Girls/JAV_output/未知演员/FC2-4813091/FC2-4813091.mp4'.
+	   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+	   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+	   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+	   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.GetCidByFile(String filePath)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.SearchSubtitlesAsync(SubtitleSearchRequest request)
+	   at Emby.MeiamSub.Thunder.ThunderProvider.Search(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	   at Emby.Providers.Subtitles.SubtitleManager.SearchSubtitles(SubtitleSearchRequest request, CancellationToken cancellationToken)
+	Source: System.Private.CoreLib
+	TargetSite: Void ThrowExceptionForIoErrno(ErrorInfo, System.String, Boolean)
+	
+2026-03-13 07:01:36.835 Info SqliteItemRepository: Opening sqlite connection to /config/data/library.db. isReadOnly: True
+2026-03-13 07:01:36.837 Info SqliteItemRepository: PRAGMA cache_size=-131072
+2026-03-13 07:01:36.837 Info SqliteItemRepository: PRAGMA page_size=4096
+2026-03-13 07:01:36.837 Info SqliteItemRepository: PRAGMA foreign_keys=1
+2026-03-13 07:01:36.837 Info SqliteItemRepository: PRAGMA SECURE_DELETE=0
+2026-03-13 07:01:36.837 Info SqliteItemRepository: Result of setting SQLITE_DBCONFIG_DQS_DDL to 0 is 0
+2026-03-13 07:01:36.837 Info SqliteItemRepository: Result of setting SQLITE_DBCONFIG_DQS_DML to 0 is 0
+2026-03-13 07:01:36.839 Info App: ValidatePhysicalRoots start validating 4819 Animes /mnt/Animes
+2026-03-13 07:01:36.840 Info ServerConfigurationManager: Saving system configuration
+2026-03-13 07:01:36.846 Info App: Setting default culture to zh-CN
+2026-03-13 07:01:36.856 Info LiveTV: Loading live tv data from /config/data/livetv/seriestimers
+2026-03-13 07:01:36.871 Info App: Removing item from database, Type: Series, Name: 一拳超人, Path: /mnt/Animes/一拳超人 (2015), Id: 13042
+2026-03-13 07:01:36.908 Info App: Deleting path /config/metadata/library/9c/9c0604e66c0c6eb1936863d6ec37d700
+2026-03-13 07:01:36.914 Info App: Deleting path /config/metadata/library/3a/3a2d2e9bb3c969f6e68bc4b10d589af1
+2026-03-13 07:01:36.917 Info App: Deleting path /config/metadata/library/55/55dcb7faa8808c5e8845fece3a6c697b
+2026-03-13 07:01:36.924 Info App: Deleting path /config/metadata/library/de/de508ba6b2daad9ec74372a9e144deef
+2026-03-13 07:01:36.928 Info App: Deleting path /config/metadata/library/dd/dd568f7db5e12a880a4193c549b3bf87
+2026-03-13 07:01:36.934 Info App: Deleting path /config/metadata/library/30/309ddc24492a422b157e7b7e8f0f2ce4
+2026-03-13 07:01:36.935 Info App: Deleting path /config/metadata/library/a4/a41a1b8bc384bf1d69f803f023240e3f
+2026-03-13 07:01:36.954 Info App: Removing item from database, Type: Series, Name: 斗罗大陆Ⅱ绝世唐门, Path: /mnt/Animes/斗罗大陆Ⅱ绝世唐门 (2023), Id: 13043
+2026-03-13 07:01:36.977 Info App: Deleting path /config/metadata/library/c5/c5ed3ab56c9bce07c5605a09da11fa36
+2026-03-13 07:01:36.978 Info App: Deleting path /config/metadata/library/88/8826b7517cf8a36fe5b9575ed98427e7
+2026-03-13 07:01:36.981 Info App: Deleting path /config/metadata/library/37/375816903697bfaa311c8753639ac865
+2026-03-13 07:01:36.985 Info App: Deleting path /config/metadata/library/5f/5f42bb16c64056a60d346e5d8c613294
+2026-03-13 07:01:36.991 Info App: Deleting path /config/metadata/library/d3/d3a537723c4d8bb26e434dceb0e1e826
+2026-03-13 07:01:36.992 Info App: Deleting path /config/metadata/library/c3/c3fde57d3960b546bf360ab4aaf983ea
+2026-03-13 07:01:37.001 Info App: Removing item from database, Type: Series, Name: 斗破苍穹, Path: /mnt/Animes/斗破苍穹 (2017), Id: 13044
+2026-03-13 07:01:37.061 Info App: Deleting path /config/metadata/library/74/74ee18353a27e5971374281ca84b46ad
+2026-03-13 07:01:37.062 Info App: Deleting path /config/metadata/library/8e/8ef80cad57c637fee606078d1dc3af8b
+2026-03-13 07:01:37.064 Info App: Deleting path /config/metadata/library/ab/ab86f548cabb7b19b1c0f1864b87262c
+2026-03-13 07:01:37.068 Info App: Deleting path /config/metadata/library/cf/cffcb07bbb241bee9deaa649258fe8b5
+2026-03-13 07:01:37.078 Info App: Deleting path /config/metadata/library/e7/e77567c1b614e1887a90708714e242e8
+2026-03-13 07:01:37.084 Info App: Deleting path /config/metadata/library/4f/4fb605c9a92dc15af92b94007cf39faa
+2026-03-13 07:01:37.090 Info App: Removing item from database, Type: Series, Name: 天相, Path: /mnt/Animes/天相 (2025), Id: 13045
+2026-03-13 07:01:37.109 Info App: Deleting path /config/metadata/library/76/76c32351029952851e80b81cb52e0550
+2026-03-13 07:01:37.115 Info App: Deleting path /config/metadata/library/19/198320f97e3af89ce6c0b8e5c5c45fa7
+2026-03-13 07:01:37.118 Info App: Deleting path /config/metadata/library/52/52440d135fe22e1c5044da017b2fa220
+2026-03-13 07:01:37.121 Info App: Deleting path /config/metadata/library/f4/f49fd17b73c4de5b7cb685df9f13a1c3
+2026-03-13 07:01:37.125 Info App: Removing item from database, Type: Series, Name: 航海王, Path: /mnt/Animes/航海王 (1999), Id: 13046
+2026-03-13 07:01:37.138 Info App: Deleting path /config/metadata/library/6b/6b8d67375c78a186a109a17c7221768b
+2026-03-13 07:01:37.138 Info App: Deleting path /config/metadata/library/c3/c35968f8f38fdca25fe5bd278de6b2c3
+2026-03-13 07:01:37.138 Info App: Deleting path /config/metadata/library/2f/2f1f19e816f132dfa2f10ccdb0332a65
+2026-03-13 07:01:37.144 Info App: Deleting path /config/metadata/library/08/08d02ee763c99c426ed3cf298aec0340
+2026-03-13 07:01:37.150 Info App: Deleting path /config/metadata/library/d5/d57b6a1c8154cbc63e56f8b48eeb97f1
+2026-03-13 07:01:37.156 Info App: Removing item from database, Type: Series, Name: 神印王座, Path: /mnt/Animes/神印王座 (2022), Id: 13047
+2026-03-13 07:01:37.164 Info App: Deleting path /config/metadata/library/cf/cfbd978c78ec8b943ae4d44d92d35e3b
+2026-03-13 07:01:37.164 Info App: Deleting path /config/metadata/library/e8/e8abc209d3e5a49eae4bad98474c1142
+2026-03-13 07:01:37.166 Info App: Deleting path /config/metadata/library/b3/b38963008733dc9bbbcc2f9f8b114e4b
+2026-03-13 07:01:37.169 Info App: Deleting path /config/metadata/library/29/2965675ce6fb4e21fd6a95cc0970f3f1
+2026-03-13 07:01:37.174 Info App: Deleting path /config/metadata/library/2e/2e260ffd53a7ab3c3cdf42af00c05f1c
+2026-03-13 07:01:37.182 Info App: Deleting path /config/metadata/library/72/72f1d0f8a861d70082ce020269e8ec7e
+2026-03-13 07:01:37.183 Info App: Removing item from database, Type: Series, Name: 吞噬星空, Path: /mnt/Animes/吞噬星空 (2020), Id: 13048
+2026-03-13 07:01:37.195 Info App: Deleting path /config/metadata/library/e4/e42935c5fc88fd8a14215de5f014cd31
+2026-03-13 07:01:37.196 Info App: Deleting path /config/metadata/library/b7/b719f172080f90f87224fb1b958d5c79
+2026-03-13 07:01:37.196 Info App: Deleting path /config/metadata/library/8f/8ff29139464f25be8cea1f6c014eafa8
+2026-03-13 07:01:37.201 Info App: Deleting path /config/metadata/library/aa/aa684b6ad7fc266797bb32cfdaab739b
+2026-03-13 07:01:37.202 Info App: Deleting path /config/metadata/library/89/8911d75ae0b51b94264f36c151fb2dc1
+2026-03-13 07:01:37.205 Info App: Deleting path /config/metadata/library/bb/bb33f56be1ee95106fb5f00ce6b5b163
+2026-03-13 07:01:37.206 Info App: Removing item from database, Type: Series, Name: 完美世界, Path: /mnt/Animes/完美世界 (2021), Id: 13049
+2026-03-13 07:01:37.217 Info App: Deleting path /config/metadata/library/20/2058cd32d14f6613ca55a2bf286cbddf
+2026-03-13 07:01:37.218 Info App: Deleting path /config/metadata/library/d6/d6ab54717c358f00b8492b49094ebf6a
+2026-03-13 07:01:37.219 Info App: Deleting path /config/metadata/library/03/03185709cbfac6e6c262816abc2955f5
+2026-03-13 07:01:37.222 Info App: Deleting path /config/metadata/library/66/6660b9987e72041e3b2b863b57459637
+2026-03-13 07:01:37.226 Info App: Removing item from database, Type: Series, Name: 仙逆, Path: /mnt/Animes/仙逆 (2023), Id: 13050
+2026-03-13 07:01:37.230 Info App: Deleting path /config/metadata/library/35/354f35c515aaf3542321875fdaa2334a
+2026-03-13 07:01:37.231 Info App: Deleting path /config/metadata/library/b1/b1d51d5100d72057d134dd4fe1558906
+2026-03-13 07:01:37.231 Info App: Deleting path /config/metadata/library/e1/e17f84113df20a407eabd69a74105cd3
+2026-03-13 07:01:37.237 Info App: Deleting path /config/metadata/library/f4/f405714185919ec71298f9d87b0c30aa
+2026-03-13 07:01:37.238 Info App: Deleting path /config/metadata/library/cf/cfa35225d33ded633b1afd7ce59050d6
+2026-03-13 07:01:37.241 Info App: Deleting path /config/metadata/library/8e/8e9691fc892450cb6981d60930d95bba
+2026-03-13 07:01:37.244 Info App: Deleting path /config/metadata/library/29/29d8953dbf6fa754eddfd02e20a1734f
+2026-03-13 07:01:37.249 Info App: Removing item from database, Type: Series, Name: 遮天, Path: /mnt/Animes/遮天 (2023), Id: 13052
+2026-03-13 07:01:37.252 Info App: Deleting path /config/metadata/library/ae/ae38ea4043f61ca925a3f9a35718a7aa
+2026-03-13 07:01:37.252 Info App: Deleting path /config/metadata/library/ea/eaf47ebaa47c9fa496dfffb23c4ad246
+2026-03-13 07:01:37.257 Info App: Deleting path /config/metadata/library/c9/c914cf633bd3f561021e8191cc4ef146
+2026-03-13 07:01:37.260 Info App: Deleting path /config/metadata/library/96/96709136de0edfb366ce949284970fab
+2026-03-13 07:01:37.266 Info App: Deleting path /config/metadata/library/8e/8eca358b0d91093da31f235d763ece12
+2026-03-13 07:01:37.266 Info App: Deleting path /config/metadata/library/7c/7c1cbdfceda3a7c5b08997926549a843
+2026-03-13 07:01:37.272 Info App: Removing item from database, Type: Series, Name: 神墓, Path: /mnt/Animes/神墓 (2022), Id: 13054
+2026-03-13 07:01:37.281 Info App: Deleting path /config/metadata/library/dd/dd0d0300e238a9705d7198fe4314ecbc
+2026-03-13 07:01:37.281 Info App: Deleting path /config/metadata/library/ee/eef81ac4863293b54412ff9fd6bf9958
+2026-03-13 07:01:37.281 Info App: Deleting path /config/metadata/library/36/3667d664d220c40fcc6d216bb045bbab
+2026-03-13 07:01:37.284 Info App: Removing item from database, Type: Folder, Name: 玄界之门 (2025), Path: /mnt/Animes/玄界之门 (2025), Id: 16984
+2026-03-13 07:01:37.295 Info App: Deleting path /config/metadata/library/7f/7fc4033b245559e90962f0bdfbf0e1a2
+2026-03-13 07:01:37.295 Info App: Deleting path /config/metadata/library/7f/7fc4033b245559e90962f0bdfbf0e1a2
+2026-03-13 07:01:37.295 Info App: Removing item from database, Type: Series, Name: 剑来, Path: /mnt/Animes/剑来 (2024), Id: 17755
+2026-03-13 07:01:37.300 Info App: Deleting path /config/metadata/library/94/946bca46b4bda3f83c32f22af55f437b
+2026-03-13 07:01:37.301 Info App: Deleting path /config/metadata/library/cd/cd67374a2ba3fafed748035f55198dde
+2026-03-13 07:01:37.304 Info App: Deleting path /config/metadata/library/99/9918aa7a017cd865a36017a35a6f2634
+2026-03-13 07:01:37.307 Info App: Deleting path /config/metadata/library/29/2959bb7be0cd45a91b480e9ee7179025
+2026-03-13 07:01:37.310 Info App: Deleting path /config/metadata/library/98/981d023bea1f3443bc7c74a44975db03
+2026-03-13 07:01:37.313 Info App: Deleting path /config/metadata/library/18/1880edd725b72c2346efa8850bfd9ed4
+2026-03-13 07:01:37.319 Info App: Deleting path /config/metadata/library/0b/0b73ef5b2d09a232d00b0e475f7ca0a1
+2026-03-13 07:01:37.320 Info App: Removing item from database, Type: Series, Name: 光阴之外, Path: /mnt/Animes/光阴之外 (2025), Id: 17815
+2026-03-13 07:01:37.329 Info App: Deleting path /config/metadata/library/9a/9aa928aa4accd32a395a1d2ba4212447
+2026-03-13 07:01:37.334 Info App: Deleting path /config/metadata/library/ff/ffd6f81baa6be9546d45df148b4d177e
+2026-03-13 07:01:37.334 Info App: Deleting path /config/metadata/library/4b/4b909f435d3b1573f66eec87990bf937
+2026-03-13 07:01:37.341 Info App: Deleting path /config/metadata/library/96/967ecbf90fb20f882642a625354fb5ea
+2026-03-13 07:01:37.344 Info App: Deleting path /config/metadata/library/ce/ce48a4a1b7cfc971a78aec80e4fdd14f
+2026-03-13 07:01:37.348 Info App: Removing item from database, Type: Series, Name: 一人之下, Path: /mnt/Animes/一人之下 (2016), Id: 17994
+2026-03-13 07:01:37.358 Info App: Deleting path /config/metadata/library/c6/c6a0d1d050e281f424066ffa61d27e1b
+2026-03-13 07:01:37.360 Info App: Deleting path /config/metadata/library/28/28d6e2b4499c7abbcd3c5e7223b79425
+2026-03-13 07:01:37.360 Info App: Deleting path /config/metadata/library/63/63628debd161c7fc196c353eef9668d3
+2026-03-13 07:01:37.364 Info App: Deleting path /config/metadata/library/8c/8ca0cb3c8b721a1aa7ade1572196eed5
+2026-03-13 07:01:37.367 Info App: Deleting path /config/metadata/library/59/593d9f1d2896658e132091a305afe2cb
+2026-03-13 07:01:37.373 Info App: Removing item from database, Type: Series, Name: 星球大战：安多, Path: /mnt/Animes/星球大战：安多 (2022), Id: 18028
+2026-03-13 07:01:37.444 Info App: Deleting path /config/metadata/library/56/56941f41f59bd70c4d060b7b7cb01a60
+2026-03-13 07:01:37.445 Info App: Deleting path /config/metadata/library/6e/6e6ce7fe13805c7f5ec726a047874c47
+2026-03-13 07:01:37.445 Info App: Deleting path /config/metadata/library/8e/8ed67b328e8c0bf999afebebb75cf49b
+2026-03-13 07:01:37.448 Info App: Deleting path /config/metadata/library/8b/8b7f71c825975bd9a80b045f3bd6e8ed
+2026-03-13 07:01:37.451 Info App: Deleting path /config/metadata/library/ea/ea0b18c2ed6eda6cb91977bb9f4a821d
+2026-03-13 07:01:37.455 Info App: Deleting path /config/metadata/library/21/21a99350aba293bf508e11368c11e87c
+2026-03-13 07:01:37.458 Info App: Deleting path /config/metadata/library/6f/6fdc804687820e4f94a14231822d35ad
+2026-03-13 07:01:37.464 Info App: Deleting path /config/metadata/library/a8/a8ee5e45093c7ada1e21844679acda4d
+2026-03-13 07:01:37.465 Info App: Deleting path /config/metadata/library/19/19892e1af88b5e12603b37e7530a52de
+2026-03-13 07:01:37.468 Info App: Deleting path /config/metadata/library/04/0483f35010221aa5d61d9edde6f45f2d
+2026-03-13 07:01:37.471 Info App: Deleting path /config/metadata/library/81/813dcff2b64396842f13fe3ba05346f4
+2026-03-13 07:01:37.482 Info App: Deleting path /config/metadata/library/02/027e09dbe0291a03ebfb95dd0b7d99a9
+2026-03-13 07:01:37.483 Info App: Deleting path /config/metadata/library/fc/fc9fb51541705e12081578a2a9a4ab5e
+2026-03-13 07:01:37.491 Info App: Deleting path /config/metadata/library/53/53f2f70d033ce248924a12a8f1e6be14
+2026-03-13 07:01:37.498 Info App: ValidatePhysicalRoots completed validating 4819 Animes /mnt/Animes
+2026-03-13 07:01:37.498 Info App: ValidatePhysicalRoots start validating 4583 JAV_output /mnt/Girls/JAV_output
+2026-03-13 07:01:37.501 Error App: Error in validateChildren for 4583 /mnt/Girls/JAV_output
+	*** Error Report ***
+	Version: 4.9.1.90
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 6.6.110 (build@buildserver) (x86_64-openwrt-linux-musl-gcc (OpenWrt GCC 13.3.0 2025041811) 13.3.0, GNU ld (GNU Binutils) 2.42) #0 SMP Th
+	OS/Process: x64/x64
+	Framework: .NET 8.0.11
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+	System.IO.DirectoryNotFoundException: System.IO.DirectoryNotFoundException: Could not find a part of the path '/mnt/Girls/JAV_output'.
+	   at System.IO.Enumeration.FileSystemEnumerator`1.CreateDirectoryHandle(String path, Boolean ignoreNotFound)
+	   at System.IO.Enumeration.FileSystemEnumerator`1.Init()
+	   at System.IO.Enumeration.FileSystemEnumerable`1..ctor(String directory, FindTransform transform, EnumerationOptions options, Boolean isNormalized)
+	   at System.IO.Enumeration.FileSystemEnumerableFactory.FileSystemInfos(String directory, String expression, EnumerationOptions options, Boolean isNormalized)
+	   at System.IO.DirectoryInfo.InternalEnumerateInfos(String path, String searchPattern, SearchTarget searchTarget, EnumerationOptions options)
+	   at Emby.Server.Implementations.IO.ManagedFileSystem.EnumerateFileSystemInfos(DirectoryInfo dir, Boolean recursive)
+	   at Emby.Server.Implementations.IO.ManagedFileSystem.GetFileSystemEntries(String path, Boolean recursive, FileSystemCredentials credentials)
+	   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntriesInternal(String path)
+	   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+	   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path, Boolean clearCache)
+	   at MediaBrowser.Controller.Providers.DirectoryService.GetFileSystemEntries(String path)
+	   at MediaBrowser.Controller.Entities.BaseItem.GetFileSystemChildren(IDirectoryService directoryService)
+	   at MediaBrowser.Controller.Entities.Folder.GetNonCachedChildren(IDirectoryService directoryService, BaseItem[] collectionFolders, LibraryOptions libraryOptions)
+	   at MediaBrowser.Controller.Entities.BaseItem.ValidateChildrenInternal(IProgress`1 progress, CancellationToken cancellationToken, Boolean recursive, Boolean refreshChildMetadata, BaseItem[] collectionFolders, LibraryOptions libraryOptions, Dictionary`2 newItemIds, MetadataRefreshOptions refreshOptions, IDirectoryService directoryService)
+	   at Emby.Server.Implementations.Library.LibraryManager.ValidatePhysicalRoots(IProgress`1 progress, IDirectoryService directoryService, CancellationToken cancellationToken)
+	Source: System.Private.CoreLib
+	TargetSite: IntPtr CreateDirectoryHandle(System.String, Boolean)
+	
+2026-03-13 07:01:37.501 Info App: ValidatePhysicalRoots start validating 4820 Movies /mnt/Movies
+2026-03-13 07:01:37.502 Info App: ValidatePhysicalRoots completed validating 4820 Movies /mnt/Movies
+2026-03-13 07:01:37.502 Info App: ValidatePhysicalRoots start validating 4821 TV Shows /mnt/TV Shows
+2026-03-13 07:01:37.503 Info App: ValidatePhysicalRoots completed validating 4821 TV Shows /mnt/TV Shows
+2026-03-13 07:01:37.504 Info App: ValidateTopLibraryFolders validating 3 Girls 
+2026-03-13 07:01:37.555 Info App: ValidateTopLibraryFolders validating 1827 合集 
+2026-03-13 07:01:37.562 Info App: ValidateTopLibraryFolders validating 2831 电影 
+2026-03-13 07:01:37.567 Info App: ValidateTopLibraryFolders validating 3462 电视剧 
+2026-03-13 07:01:37.572 Info App: ValidateTopLibraryFolders validating 3464 动漫 
+2026-03-13 07:01:57.495 Info Trakt: Timer elapsed - Processing queued items
+2026-03-13 07:01:57.497 Info Trakt: 0 Movie Deletes to Process
+2026-03-13 07:01:57.497 Info Trakt: 0 Movie Adds to Process
+2026-03-13 07:01:57.497 Info Trakt: 0 Episode Deletes to Process
+2026-03-13 07:01:57.498 Info Trakt: 15 Series Deletes to Process
+2026-03-13 07:01:58.708 Info HttpClient: POST https://api.trakt.tv/oauth/token
+2026-03-13 07:02:01.886 Info HttpClient: Http response 200 from https://api.trakt.tv/oauth/token after 3178ms
+2026-03-13 07:02:01.890 Info Trakt: New trakt token info: {"access_token":"78b824dc762b911b83e0e81e4ba7c2d288febb5da890bca5f74cb5329e02e52c","token_type":"Bearer","expires_in":604799,"refresh_token":"5b80d291474564f7badee33389ccd97dd1e73ec89d45f1adf89b05f01bfc268c","scope":"public","created_at":1773385321}.
+2026-03-13 07:02:01.890 Info BaseItem: Updating trakt user, reset pin info: False
+2026-03-13 07:02:03.093 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:04.419 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 1326ms
+2026-03-13 07:02:05.624 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:06.032 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 408ms
+2026-03-13 07:02:07.234 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:10.182 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 2948ms
+2026-03-13 07:02:11.384 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:12.178 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 794ms
+2026-03-13 07:02:13.379 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:14.199 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 820ms
+2026-03-13 07:02:15.400 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:16.119 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 719ms
+2026-03-13 07:02:17.320 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:25.699 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 8378ms
+2026-03-13 07:02:26.900 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:31.107 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 4207ms
+2026-03-13 07:02:32.308 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:32.998 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 689ms
+2026-03-13 07:02:34.199 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:34.618 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 419ms
+2026-03-13 07:02:35.820 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:37.198 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 1378ms
+2026-03-13 07:02:38.399 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:39.103 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 703ms
+2026-03-13 07:02:41.845 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:42.444 Info HttpClient: GetTempFileResponse url: https://embydata.com/admin/service/packageFiles/MBBackup.dll_1.8.3.exe
+2026-03-13 07:02:42.444 Info HttpClient: GET https://embydata.com/admin/service/packageFiles/MBBackup.dll_1.8.3.exe
+2026-03-13 07:02:42.593 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 748ms
+2026-03-13 07:02:43.791 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:44.186 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 394ms
+2026-03-13 07:02:45.554 Info HttpClient: Http response 200 from https://embydata.com/admin/service/packageFiles/MBBackup.dll_1.8.3.exe after 3110ms
+2026-03-13 07:02:46.035 Info HttpClient: POST https://api.trakt.tv/sync/collection/remove
+2026-03-13 07:02:46.418 Info HttpClient: Http response 200 from https://api.trakt.tv/sync/collection/remove after 383ms
+2026-03-13 07:02:46.421 Info Trakt: 0 Episode Adds to Process
+2026-03-13 07:02:52.097 Info InstallationManager: Plugin updated: Backup & Restore 1.8.3 Release
+2026-03-13 07:02:52.098 Info App: Emby Server needs to be restarted.
+2026-03-13 07:02:52.099 Info HttpClient: GetTempFileResponse url: https://embydata.com/admin/service/packageFiles/Emby.Server.CinemaMode.dll_1.0.50.exe
+2026-03-13 07:02:52.099 Info HttpClient: GET https://embydata.com/admin/service/packageFiles/Emby.Server.CinemaMode.dll_1.0.50.exe
+2026-03-13 07:02:52.206 Info HttpClient: POST https://api.day.app/qtSCxHhNxnPujdpDt6hSPa?icon=https://play-lh.googleusercontent.com/x2eHcquFzIsSuhwXmbvD_xouXUxMkAfdak0z8zayXU_OzC9yYxBdbur3nE_kE4kazg&URL=infuse://
+2026-03-13 07:02:52.533 Info HttpClient: Http response 200 from https://api.day.app/qtSCxHhNxnPujdpDt6hSPa?icon=https://play-lh.googleusercontent.com/x2eHcquFzIsSuhwXmbvD_xouXUxMkAfdak0z8zayXU_OzC9yYxBdbur3nE_kE4kazg&URL=infuse:// after 327ms
+2026-03-13 07:02:52.775 Info HttpClient: Http response 200 from https://embydata.com/admin/service/packageFiles/Emby.Server.CinemaMode.dll_1.0.50.exe after 676ms
+2026-03-13 07:02:56.096 Info InstallationManager: Plugin updated: Cinema Intros 1.0.50 Release
+2026-03-13 07:02:56.096 Info App: Emby Server needs to be restarted.
+2026-03-13 07:02:56.096 Info HttpClient: GetTempFileResponse url: https://embydata.com/admin/service/packageFiles/Emby.Dlna.dll_1.5.5.exe
+2026-03-13 07:02:56.096 Info HttpClient: GET https://embydata.com/admin/service/packageFiles/Emby.Dlna.dll_1.5.5.exe
+2026-03-13 07:02:56.776 Info HttpClient: Http response 200 from https://embydata.com/admin/service/packageFiles/Emby.Dlna.dll_1.5.5.exe after 680ms
+2026-03-13 07:03:08.157 Info InstallationManager: Plugin updated: Dlna 1.5.5 Release
+2026-03-13 07:03:08.157 Info App: Emby Server needs to be restarted.
+2026-03-13 07:03:08.157 Info HttpClient: GetTempFileResponse url: https://embydata.com/admin/service/packageFiles/Fanart.dll_1.0.18.exe
+2026-03-13 07:03:08.157 Info HttpClient: GET https://embydata.com/admin/service/packageFiles/Fanart.dll_1.0.18.exe
+2026-03-13 07:03:08.869 Info HttpClient: Http response 200 from https://embydata.com/admin/service/packageFiles/Fanart.dll_1.0.18.exe after 712ms
+2026-03-13 07:03:11.102 Info InstallationManager: Plugin updated: Fanart.tv 1.0.18 Release
+2026-03-13 07:03:11.103 Info App: Emby Server needs to be restarted.
+2026-03-13 07:03:11.103 Info HttpClient: GetTempFileResponse url: https://embydata.com/admin/service/packageFiles/NfoMetadata.dll_1.0.86.exe
+2026-03-13 07:03:11.103 Info HttpClient: GET https://embydata.com/admin/service/packageFiles/NfoMetadata.dll_1.0.86.exe
+2026-03-13 07:03:11.504 Info HttpClient: Http response 200 from https://embydata.com/admin/service/packageFiles/NfoMetadata.dll_1.0.86.exe after 401ms
+2026-03-13 07:03:14.061 Info InstallationManager: Plugin updated: Nfo Metadata 1.0.86 Release
+2026-03-13 07:03:14.062 Info App: Emby Server needs to be restarted.
+2026-03-13 07:03:14.062 Info HttpClient: GetTempFileResponse url: https://embydata.com/admin/service/packageFiles/OpenSubtitles.dll_1.0.68.exe
+2026-03-13 07:03:14.062 Info HttpClient: GET https://embydata.com/admin/service/packageFiles/OpenSubtitles.dll_1.0.68.exe
+2026-03-13 07:03:14.793 Info HttpClient: Http response 200 from https://embydata.com/admin/service/packageFiles/OpenSubtitles.dll_1.0.68.exe after 731ms
+2026-03-13 07:03:17.534 Info InstallationManager: New plugin installed: OpenSubtitles 1.0.68 Release
+2026-03-13 07:03:17.535 Info App: Emby Server needs to be restarted.
+2026-03-13 07:03:17.535 Info HttpClient: GetTempFileResponse url: https://embydata.com/admin/service/packageFiles/Emby.Webhooks.dll_1.0.38.exe
+2026-03-13 07:03:17.535 Info HttpClient: GET https://embydata.com/admin/service/packageFiles/Emby.Webhooks.dll_1.0.38.exe
+2026-03-13 07:03:18.253 Info HttpClient: Http response 200 from https://embydata.com/admin/service/packageFiles/Emby.Webhooks.dll_1.0.38.exe after 718ms
+2026-03-13 07:03:19.506 Info InstallationManager: Plugin updated: Webhooks 1.0.38 Release
+2026-03-13 07:03:19.507 Info App: Emby Server needs to be restarted.
+2026-03-13 07:03:19.507 Info HttpClient: GetTempFileResponse url: https://embydata.com/admin/service/packageFiles/Emby.XmlTV.dll_1.2.2.exe
+2026-03-13 07:03:19.508 Info HttpClient: GET https://embydata.com/admin/service/packageFiles/Emby.XmlTV.dll_1.2.2.exe
+2026-03-13 07:03:20.160 Info HttpClient: Http response 200 from https://embydata.com/admin/service/packageFiles/Emby.XmlTV.dll_1.2.2.exe after 653ms
+2026-03-13 07:03:21.561 Info InstallationManager: New plugin installed: Xml TV 1.2.2 Release
+2026-03-13 07:03:21.561 Info App: Emby Server needs to be restarted.
+2026-03-13 07:03:21.561 Info TaskManager: Check for plugin updates Completed after 2 minute(s) and 41 seconds
+2026-03-13 07:14:25.091 Info UserService-0HNK0POTDP2N4:00000002: http/1.1 POST http://‌‍‍192.168.2.1‌:8096/Users/AuthenticateByName. Source Ip: ‌‍‍192.168.2.207‌, Accept=application/json, Connection=keep-alive, Host=‌‍‍192.168.2.1‌:8096, User-Agent=Infuse-Library/8.3.9, Accept-Encoding=gzip, deflate, Accept-Language=zh-CN,zh-Hans;q=0.9, Content-Type=application/json, Content-Length=93, X-Emby-Authorization=MediaBrowser DeviceId="686A20C4-4338-5C17-89C0-B661071D28FC", Device="Mac", Client="Infuse-Library", Version="8.3.9"
+2026-03-13 07:14:25.110 Info UserManager: Authentication request for yinhaoyu has succeeded.
+2026-03-13 07:14:25.112 Info SessionManager: Reissuing access token: ‌4af01ffe4a5c402b9fe66b78d14feac3‌
+2026-03-13 07:14:25.147 Info UserService-0HNK0POTDP2N4:00000002: http/1.1 Response 200 to ‌‍‍192.168.2.207‌. Time: 56ms. POST http://‌‍‍192.168.2.1‌:8096/Users/AuthenticateByName. Headers: Content-Type=application/json; charset=utf-8, Date=Fri, 13 Mar 2026 07:14:24 GMT, Server=UPnP/1.0 DLNADOC/1.50, Content-Encoding=deflate, Expires=-1, Vary=Accept-Encoding, Content-Length=1220, Cross-Origin-Resource-Policy=cross-origin, Private-Network-Access-Name=iStoreOS, Private-Network-Access-Id=3d6e6430cfd04b72aec9ddc1888006e2
+2026-03-13 07:15:26.151 Info HttpClient: GET https://www.mb3admin.com/admin/service/EmbyPackages.json
+2026-03-13 07:15:27.743 Info HttpClient: Http response 200 from https://www.mb3admin.com/admin/service/EmbyPackages.json after 1592ms

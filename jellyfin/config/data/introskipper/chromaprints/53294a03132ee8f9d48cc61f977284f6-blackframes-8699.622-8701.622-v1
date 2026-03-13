@@ -1,0 +1,171 @@
+Input #0, matroska,webm, from '/media/Animes/封神第二部：战火西岐 (2025)/封神第二部：战火西岐 (2025).mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-08T07:14:06.000000Z
+    Muxer           : Rainbow Island
+  Duration: 02:25:16.87, start: 0.000000, bitrate: 10894 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 759.166000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 759.166000, end 1690.208000
+      Metadata:
+        title           : Chapter 02
+    Chapter #0:2: start 1690.208000, end 2560.500000
+      Metadata:
+        title           : Chapter 03
+    Chapter #0:3: start 2560.500000, end 3341.375000
+      Metadata:
+        title           : Chapter 04
+    Chapter #0:4: start 3341.375000, end 4203.875000
+      Metadata:
+        title           : Chapter 05
+    Chapter #0:5: start 4203.875000, end 5042.166000
+      Metadata:
+        title           : Chapter 06
+    Chapter #0:6: start 5042.166000, end 5804.541000
+      Metadata:
+        title           : Chapter 07
+    Chapter #0:7: start 5804.541000, end 6822.708000
+      Metadata:
+        title           : Chapter 08
+    Chapter #0:8: start 6822.708000, end 7519.500000
+      Metadata:
+        title           : Chapter 09
+    Chapter #0:9: start 7519.500000, end 8716.872000
+      Metadata:
+        title           : Chapter 10
+  Stream #0:0(chi): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x804 [SAR 1:1 DAR 160:67], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 6482797
+        DURATION        : 02:25:16.834000000
+        NUMBER_OF_FRAMES: 209204
+        NUMBER_OF_BYTES : 7063683726
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default) (original)
+      Metadata:
+        BPS             : 384000
+        DURATION        : 02:25:16.864000000
+        NUMBER_OF_FRAMES: 272402
+        NUMBER_OF_BYTES : 418409472
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: dts (dca) (DTS), 48000 Hz, 5.1(side), fltp, 768 kb/s (default)
+      Metadata:
+        title           : 国语 Mandarin DTS-HD 5.1
+        BPS             : 756000
+        DURATION        : 02:25:16.832000000
+        NUMBER_OF_FRAMES: 817203
+        NUMBER_OF_BYTES : 823740624
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Audio: dts (dca) (DTS-HD MA), 48000 Hz, 7.1, s16p (default)
+      Metadata:
+        title           : 国语 Mandarin DTS-HDMA 7.1
+        BPS             : 2946088
+        DURATION        : 02:25:16.854000000
+        NUMBER_OF_FRAMES: 817205
+        NUMBER_OF_BYTES : 3210077516
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(chi): Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 320 kb/s (default)
+      Metadata:
+        title           : 国语 Mandarin Dolby Digital Plus
+        BPS             : 320000
+        DURATION        : 02:25:16.872000000
+        NUMBER_OF_FRAMES: 363203
+        NUMBER_OF_BYTES : 348674880
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(fre): Subtitle: subrip (srt) (original)
+      Metadata:
+        BPS             : 30
+        DURATION        : 02:23:45.459000000
+        NUMBER_OF_FRAMES: 1159
+        NUMBER_OF_BYTES : 32914
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(eng): Subtitle: ass (ssa) (default)
+      Metadata:
+        BPS             : 48
+        DURATION        : 02:19:24.560000000
+        NUMBER_OF_FRAMES: 998
+        NUMBER_OF_BYTES : 50568
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(eng): Subtitle: ass (ssa) (default)
+      Metadata:
+        BPS             : 49
+        DURATION        : 02:19:24.560000000
+        NUMBER_OF_FRAMES: 998
+        NUMBER_OF_BYTES : 51423
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(may): Subtitle: ass (ssa) (default)
+      Metadata:
+        BPS             : 51
+        DURATION        : 02:19:24.560000000
+        NUMBER_OF_FRAMES: 998
+        NUMBER_OF_BYTES : 53904
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(chi): Subtitle: ass (ssa) (default)
+      Metadata:
+        BPS             : 41
+        DURATION        : 02:19:24.560000000
+        NUMBER_OF_FRAMES: 998
+        NUMBER_OF_BYTES : 43352
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(chi): Subtitle: ass (ssa) (default)
+      Metadata:
+        BPS             : 41
+        DURATION        : 02:19:24.560000000
+        NUMBER_OF_FRAMES: 998
+        NUMBER_OF_BYTES : 43212
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(chi): Subtitle: ass (ssa) (default)
+      Metadata:
+        BPS             : 85
+        DURATION        : 02:19:24.560000000
+        NUMBER_OF_FRAMES: 998
+        NUMBER_OF_BYTES : 89108
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    Muxer           : Rainbow Island
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Chapter 10
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x804 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 6482797
+        DURATION        : 02:25:16.834000000
+        NUMBER_OF_FRAMES: 209204
+        NUMBER_OF_BYTES : 7063683726
+        _STATISTICS_WRITING_APP: mkvmerge v82.0 ('I'm The President') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-08 07:14:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x55e557b0dbc0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=5.98x    

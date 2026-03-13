@@ -1,0 +1,45 @@
+Input #0, matroska,webm, from '/media/TV Shows/长安的荔枝 (2025)/Season 1/长安的荔枝 - S01E06 - 李善德得保鲜秘法博生机.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-08T14:09:12.000000Z
+  Duration: 00:47:20.83, start: 0.000000, bitrate: 17212 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(pc), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 16236532
+        DURATION        : 00:47:20.640000000
+        NUMBER_OF_FRAMES: 71016
+        NUMBER_OF_BYTES : 5765267898
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-08 14:09:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 5, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 0
+  Stream #0:1(div): Audio: eac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        BPS             : 384000
+        DURATION        : 00:47:20.832000000
+        NUMBER_OF_FRAMES: 88776
+        NUMBER_OF_BYTES : 136359936
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-08 14:09:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(pc, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 16236532
+        DURATION        : 00:47:20.640000000
+        NUMBER_OF_FRAMES: 71016
+        NUMBER_OF_BYTES : 5765267898
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('All I Know') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-08 14:09:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 5, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 0
+frame=    7 fps=7.0 q=-0.0 size=N/A time=00:00:00.28 bitrate=N/A speed=0.28x    frame=   29 fps= 19 q=-0.0 size=N/A time=00:00:01.16 bitrate=N/A speed=0.772x    frame=   50 fps= 25 q=-0.0 size=N/A time=00:00:02.00 bitrate=N/A speed=0.998x    [out#0/null @ 0x563de67acd40] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 25 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.993x    

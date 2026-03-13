@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  
+  nastools:
+      #image: diluka/nas-tools:latest
+      image: nastool/nas-tools:latest
+      container_name: nastools
+      restart: unless-stopped
+      network_mode: bridge
+      environment:
+          - PUID=0
+          - PGID=0
+          - TZ=Asia/Shanghai
+          - NASTOOL_AUTO_UPDATE=false
+      volumes:
+          - /docker/nastools/config:/config
+          - /mnt/sda2/Videos:/media
+            #- /mnt:/mnt:rslave
+      ports:
+          - 3000:3000

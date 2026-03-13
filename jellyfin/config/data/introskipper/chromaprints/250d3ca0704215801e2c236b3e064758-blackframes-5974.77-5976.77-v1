@@ -1,0 +1,114 @@
+Input #0, matroska,webm, from '/media/Animes/电锯人剧场版：蕾塞篇 (2025)/电锯人剧场版：蕾塞篇 (2025).mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-09T00:42:34.000000Z
+  Duration: 01:39:59.52, start: 0.000000, bitrate: 25812 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1604 [SAR 1:1 DAR 960:401], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 24272849
+        DURATION        : 01:39:59.494000000
+        NUMBER_OF_FRAMES: 143844
+        NUMBER_OF_BYTES : 18203102015
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 8, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 1
+  Stream #0:1(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        BPS             : 384000
+        DURATION        : 01:39:59.520000000
+        NUMBER_OF_FRAMES: 187485
+        NUMBER_OF_BYTES : 287976960
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(spa): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s
+      Metadata:
+        title           : Latin American
+        BPS             : 384000
+        DURATION        : 01:39:59.520000000
+        NUMBER_OF_FRAMES: 187485
+        NUMBER_OF_BYTES : 287976960
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(fre): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s
+      Metadata:
+        title           : European
+        BPS             : 384000
+        DURATION        : 01:39:59.520000000
+        NUMBER_OF_FRAMES: 187485
+        NUMBER_OF_BYTES : 287976960
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(jpn): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s
+      Metadata:
+        BPS             : 384000
+        DURATION        : 01:39:59.520000000
+        NUMBER_OF_FRAMES: 187485
+        NUMBER_OF_BYTES : 287976960
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Simplified
+        BPS             : 33
+        DURATION        : 01:38:53.100000000
+        NUMBER_OF_FRAMES: 920
+        NUMBER_OF_BYTES : 24676
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Traditional
+        BPS             : 33
+        DURATION        : 01:38:53.100000000
+        NUMBER_OF_FRAMES: 917
+        NUMBER_OF_BYTES : 24788
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : British
+        BPS             : 40
+        DURATION        : 01:38:53.100000000
+        NUMBER_OF_FRAMES: 915
+        NUMBER_OF_BYTES : 30038
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 47
+        DURATION        : 01:38:56.186000000
+        NUMBER_OF_FRAMES: 1191
+        NUMBER_OF_BYTES : 35421
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1604 [SAR 1:1 DAR 960:401], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 24272849
+        DURATION        : 01:39:59.494000000
+        NUMBER_OF_FRAMES: 143844
+        NUMBER_OF_BYTES : 18203102015
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-09 00:42:34
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 8, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 1
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:00.12 bitrate=N/A speed=0.25x    frame=   35 fps= 35 q=-0.0 size=N/A time=00:00:01.50 bitrate=N/A speed= 1.5x    [out#0/null @ 0x55c8c1c609c0] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 39 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.66x    

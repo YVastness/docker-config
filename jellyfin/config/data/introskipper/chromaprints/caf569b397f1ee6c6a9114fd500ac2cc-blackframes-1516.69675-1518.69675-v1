@@ -1,0 +1,63 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E08 - 第8集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    encoder         : Lavf61.1.100
+    comment         : Fuck You
+  Duration: 00:25:34.98, start: 0.000000, bitrate: 1815 kb/s
+  Stream #0:0[0x1](zho): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1596 [SAR 1:1 DAR 320:133], 1295 kb/s, 24 fps, 24 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](zho): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, stereo, fltp, 128 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+  Stream #0:2[0x3](zho): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, 5.1, fltp, 253 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:3[0x4](zho): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomdby1iso2mp41
+    comment         : Fuck You
+    encoder         : Lavf61.1.100
+  Stream #0:0(zho): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1596 [SAR 1:1 DAR 320:133], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:19 pblack:99 pts:12852 t:0.803250 type:I last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:20 pblack:99 pts:13524 t:0.845250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:21 pblack:98 pts:14196 t:0.887250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:22 pblack:89 pts:14852 t:0.928250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:23 pblack:82 pts:15524 t:0.970250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:24 pblack:93 pts:16196 t:1.012250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:25 pblack:81 pts:16852 t:1.053250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:26 pblack:79 pts:17524 t:1.095250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:27 pblack:78 pts:18196 t:1.137250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:28 pblack:87 pts:18852 t:1.178250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:29 pblack:87 pts:19524 t:1.220250 type:B last_keyframe:19
+frame=   30 fps= 15 q=-0.0 size=N/A time=00:00:01.25 bitrate=N/A speed=0.624x    [Parsed_blackframe_0 @ 0x7f3e38002340] frame:30 pblack:87 pts:20196 t:1.262250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:31 pblack:86 pts:20852 t:1.303250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:32 pblack:86 pts:21524 t:1.345250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:33 pblack:78 pts:22196 t:1.387250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:34 pblack:78 pts:22852 t:1.428250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:35 pblack:60 pts:23524 t:1.470250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:41 pblack:66 pts:27524 t:1.720250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:42 pblack:66 pts:28196 t:1.762250 type:B last_keyframe:19
+[Parsed_blackframe_0 @ 0x7f3e38002340] frame:45 pblack:99 pts:30196 t:1.887250 type:B last_keyframe:19
+[out#0/null @ 0x56294e828dc0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps= 21 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.889x    

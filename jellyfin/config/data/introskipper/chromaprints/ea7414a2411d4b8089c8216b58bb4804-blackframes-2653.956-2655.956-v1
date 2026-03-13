@@ -1,0 +1,63 @@
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E09 - 第9集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-11-25T11:31:56.000000Z
+    COMMENT         : 【发布页:https://link3.cc/panclub】
+  Duration: 00:44:35.46, start: 0.000000, bitrate: 15020 kb/s
+  Stream #0:0: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s
+      Metadata:
+        BPS             : 64000
+        DURATION        : 00:44:35.456000000
+        NUMBER_OF_FRAMES: 83608
+        NUMBER_OF_BYTES : 21403648
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-25 11:31:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        BPS             : 253347
+        DURATION        : 00:44:35.370000000
+        NUMBER_OF_FRAMES: 125408
+        NUMBER_OF_BYTES : 84724705
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-25 11:31:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1920 [SAR 1:1 DAR 2:1], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        title           : 【发布页:https://link3.cc/panclub】
+        BPS             : 14573721
+        DURATION        : 00:44:35.250000000
+        NUMBER_OF_FRAMES: 160515
+        NUMBER_OF_BYTES : 4873543393
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-25 11:31:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        BPS             : 125345
+        DURATION        : 00:44:35.306000000
+        NUMBER_OF_FRAMES: 125405
+        NUMBER_OF_BYTES : 41917085
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-25 11:31:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:2 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    COMMENT         : 【发布页:https://link3.cc/panclub】
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        title           : 【发布页:https://link3.cc/panclub】
+        BPS             : 14573721
+        DURATION        : 00:44:35.250000000
+        NUMBER_OF_FRAMES: 160515
+        NUMBER_OF_BYTES : 4873543393
+        _STATISTICS_WRITING_APP: mkvmerge v85.0 ('Shame For You') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-11-25 11:31:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    2 fps=0.6 q=-0.0 size=N/A time=00:00:00.03 bitrate=N/A speed=0.00951x    frame=   35 fps=8.7 q=-0.0 size=N/A time=00:00:00.58 bitrate=N/A speed=0.146x    frame=   66 fps= 15 q=-0.0 size=N/A time=00:00:01.10 bitrate=N/A speed=0.244x    frame=   97 fps= 19 q=-0.0 size=N/A time=00:00:01.61 bitrate=N/A speed=0.323x    [out#0/null @ 0x555d9f62a080] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 22 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.37x    

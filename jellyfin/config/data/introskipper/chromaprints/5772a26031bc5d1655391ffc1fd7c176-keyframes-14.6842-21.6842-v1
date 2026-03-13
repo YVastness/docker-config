@@ -1,0 +1,38 @@
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E15 - 第15集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:43:19.38, start: 0.000000, bitrate: 16114 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1920 [SAR 1:1 DAR 2:1], 59.94 fps, 59.94 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: flac, 48000 Hz, stereo, s32 (24 bit) (default)
+      Metadata:
+        title           : 国语·FLAC无损HiFi声
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : 国语·立体环绕声
+  Stream #0:3(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : 国语·立体音效
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fad54001f80] config in time_base: 1/1000, frame_rate: 19001/317
+[Parsed_showinfo_0 @ 0x7fad54001f80] config out time_base: 0/0, frame_rate: 0/0
+[matroska,webm @ 0x563a49686080] 0x00 at pos 31288087 (0x1dd6b17) invalid as first byte of an EBML number
+[Parsed_showinfo_0 @ 0x7fad54001f80] n:   0 pts:   2358 pts_time:2.358   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:8539F2FF plane_checksum:[01EF126C 5E950EE8 8AA0D1AB] mean:[605 488 506] stdev:[146.4 15.2 32.8]
+[Parsed_showinfo_0 @ 0x7fad54001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7fad54001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b34343067386c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e332072636d2d4e6f6e6520737562206163742d534652342e362e30
+[Parsed_showinfo_0 @ 0x7fad54001f80] 
+[Parsed_showinfo_0 @ 0x7fad54001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=1.0 q=-0.0 size=N/A time=00:00:02.36 bitrate=N/A speed=2.37x    [Parsed_showinfo_0 @ 0x7fad54001f80] n:   1 pts:  74358 pts_time:74.358  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1920 i:P iskey:1 type:I checksum:369D4C10 plane_checksum:[B5A71728 69ACE39D CD66513C] mean:[496 506 433] stdev:[59.1 16.8 53.5]
+[Parsed_showinfo_0 @ 0x7fad54001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7fad54001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b34343067386c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e332072636d2d4e6f6e6520737562206163742d534652342e362e30
+[Parsed_showinfo_0 @ 0x7fad54001f80] 
+[Parsed_showinfo_0 @ 0x7fad54001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x563a49747b00] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.8 q=-0.0 Lsize=N/A time=00:00:02.36 bitrate=N/A speed=1.89x    

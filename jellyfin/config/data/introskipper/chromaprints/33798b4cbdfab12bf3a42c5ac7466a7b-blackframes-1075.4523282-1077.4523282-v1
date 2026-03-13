@@ -1,0 +1,58 @@
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 21323451 (0x1455ebb) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 37230543 (0x23817cf) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 57783912 (0x371b668) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 95954474 (0x5b8262a) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 114539806 (0x6d3bd1e) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 154614616 (0x9373b58) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 172484055 (0xa47e5d7) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 188331471 (0xb39b5cf) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 213299303 (0xcb6b067) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 228947046 (0xda57466) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 242684744 (0xe771348) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 258222592 (0xf642a00) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 285696463 (0x110761cf) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 335461754 (0x13febd7a) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 389493099 (0x1737316b) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 402974924 (0x1804e8cc) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 468310264 (0x1be9d8f8) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 477616987 (0x1c77db5b) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 489262782 (0x1d298ebe) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 565666321 (0x21b76211) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 624430023 (0x25380bc7) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 653721350 (0x26f6ff06) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 692475590 (0x294656c6) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 712409190 (0x2a768066) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 754089973 (0x2cf27ff5) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 771154037 (0x2df6e075) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 811156920 (0x305945b8) invalid as first byte of an EBML number
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 859232800 (0x3336da20) invalid as first byte of an EBML number
+Input #0, matroska,webm, from '/media/Animes/紫川 (2021)/Season 2/紫川 - S02E22 - 第22集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:20:39.55, start: 0.000000, bitrate: 5978 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:20:39.480000000
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:20:39.551000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x5615bd9f1000] 0x00 at pos 859232800 (0x3336da20) invalid as first byte of an EBML number
+[hevc @ 0x5615bda6ff40] Could not find ref with POC 68
+[hevc @ 0x5615bda6ff40] Could not find ref with POC 70
+[hevc @ 0x5615bda6b740] Could not find ref with POC 70
+[hevc @ 0x5615bda6b740] Could not find ref with POC 68
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        DURATION        : 00:20:39.480000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x5615bda69c00] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x5615bda69c00] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

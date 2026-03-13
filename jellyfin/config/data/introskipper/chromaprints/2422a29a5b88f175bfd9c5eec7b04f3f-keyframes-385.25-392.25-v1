@@ -1,0 +1,710 @@
+Input #0, matroska,webm, from '/media/TV Shows/怪奇物语 (2016)/Season 5/怪奇物语 - S05E05 - 第5集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.2 + libmatroska v1.6.3
+    creation_time   : 2025-12-26T01:04:17.000000Z
+  Duration: 01:08:03.39, start: 0.000000, bitrate: 3171 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 341.500000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 341.500000, end 390.250000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 390.250000, end 3747.450000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 3747.450000, end 4083.392000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2457141
+        DURATION        : 01:08:03.163000000
+        NUMBER_OF_FRAMES: 97898
+        NUMBER_OF_BYTES : 1254113699
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 448 kb/s (default)
+      Metadata:
+        title           : Eng [Original] DD+ Atmos 5.1 448 Kbps ~ REL1VIN
+        BPS             : 448000
+        DURATION        : 01:08:03.200000000
+        NUMBER_OF_FRAMES: 127600
+        NUMBER_OF_BYTES : 228659200
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(hin): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s
+      Metadata:
+        title           : Hin DD+ 5.1 256 Kbps ~ REL1VIN
+        BPS             : 256000
+        DURATION        : 01:08:03.392000000
+        NUMBER_OF_FRAMES: 127606
+        NUMBER_OF_BYTES : 130668544
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : English [Original] (Forced)
+        BPS             : 135
+        DURATION        : 00:00:02.127000000
+        NUMBER_OF_FRAMES: 1
+        NUMBER_OF_BYTES : 36
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(ara): Subtitle: subrip (srt)
+      Metadata:
+        title           : Arabic
+        BPS             : 91
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 910
+        NUMBER_OF_BYTES : 44302
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(cze): Subtitle: subrip (srt)
+      Metadata:
+        title           : Czech
+        BPS             : 51
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 834
+        NUMBER_OF_BYTES : 24819
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(cze): Subtitle: subrip (srt)
+      Metadata:
+        title           : Czech (SDH)
+        BPS             : 57
+        DURATION        : 01:01:45.827000000
+        NUMBER_OF_FRAMES: 770
+        NUMBER_OF_BYTES : 26433
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(dan): Subtitle: subrip (srt)
+      Metadata:
+        title           : Danish
+        BPS             : 52
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 791
+        NUMBER_OF_BYTES : 25269
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(ger): Subtitle: subrip (srt)
+      Metadata:
+        title           : German
+        BPS             : 53
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 829
+        NUMBER_OF_BYTES : 25981
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(ger): Subtitle: subrip (srt)
+      Metadata:
+        title           : German (CC)
+        BPS             : 74
+        DURATION        : 01:04:40.752000000
+        NUMBER_OF_FRAMES: 1003
+        NUMBER_OF_BYTES : 36070
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(ger): Subtitle: subrip (srt)
+      Metadata:
+        title           : German (SDH)
+        BPS             : 68
+        DURATION        : 01:01:47.829000000
+        NUMBER_OF_FRAMES: 851
+        NUMBER_OF_BYTES : 31965
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(gre): Subtitle: subrip (srt)
+      Metadata:
+        title           : Greek
+        BPS             : 87
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 871
+        NUMBER_OF_BYTES : 42514
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English [Original] (CC)
+        BPS             : 63
+        DURATION        : 01:04:44.172000000
+        NUMBER_OF_FRAMES: 948
+        NUMBER_OF_BYTES : 30661
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : English [Original] (SDH)
+        BPS             : 60
+        DURATION        : 01:01:47.829000000
+        NUMBER_OF_FRAMES: 861
+        NUMBER_OF_BYTES : 28036
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (latin america)
+        BPS             : 53
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 845
+        NUMBER_OF_BYTES : 25631
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (latin america) (CC)
+        BPS             : 69
+        DURATION        : 01:02:13.313000000
+        NUMBER_OF_FRAMES: 1058
+        NUMBER_OF_BYTES : 32535
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (latin america) (SDH)
+        BPS             : 61
+        DURATION        : 01:01:47.829000000
+        NUMBER_OF_FRAMES: 881
+        NUMBER_OF_BYTES : 28503
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (spain)
+        BPS             : 50
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 839
+        NUMBER_OF_BYTES : 24317
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (spain) (CC)
+        BPS             : 67
+        DURATION        : 01:04:38.458000000
+        NUMBER_OF_FRAMES: 1036
+        NUMBER_OF_BYTES : 32523
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(spa): Subtitle: subrip (srt)
+      Metadata:
+        title           : Spanish (spain) (SDH)
+        BPS             : 59
+        DURATION        : 01:01:47.704000000
+        NUMBER_OF_FRAMES: 866
+        NUMBER_OF_BYTES : 27779
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(fin): Subtitle: subrip (srt)
+      Metadata:
+        title           : Finnish
+        BPS             : 50
+        DURATION        : 01:04:26.029000000
+        NUMBER_OF_FRAMES: 745
+        NUMBER_OF_BYTES : 24483
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(fil): Subtitle: subrip (srt)
+      Metadata:
+        title           : Filipino
+        BPS             : 56
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 865
+        NUMBER_OF_BYTES : 27362
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(fil): Subtitle: subrip (srt)
+      Metadata:
+        title           : Filipino (SDH)
+        BPS             : 66
+        DURATION        : 01:01:46.953000000
+        NUMBER_OF_FRAMES: 821
+        NUMBER_OF_BYTES : 30712
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French
+        BPS             : 51
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 812
+        NUMBER_OF_BYTES : 24975
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (canada)
+        BPS             : 59
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 874
+        NUMBER_OF_BYTES : 28897
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (canada) (SDH)
+        BPS             : 74
+        DURATION        : 01:01:47.329000000
+        NUMBER_OF_FRAMES: 1016
+        NUMBER_OF_BYTES : 34573
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:26(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (CC)
+        BPS             : 69
+        DURATION        : 01:04:44.172000000
+        NUMBER_OF_FRAMES: 962
+        NUMBER_OF_BYTES : 33921
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:27(fre): Subtitle: subrip (srt)
+      Metadata:
+        title           : French (SDH)
+        BPS             : 66
+        DURATION        : 01:01:47.829000000
+        NUMBER_OF_FRAMES: 856
+        NUMBER_OF_BYTES : 30857
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:28(heb): Subtitle: subrip (srt)
+      Metadata:
+        title           : Hebrew
+        BPS             : 87
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 850
+        NUMBER_OF_BYTES : 42069
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:29(hrv): Subtitle: subrip (srt)
+      Metadata:
+        title           : Croatian
+        BPS             : 50
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 822
+        NUMBER_OF_BYTES : 24266
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:30(hun): Subtitle: subrip (srt)
+      Metadata:
+        title           : Hungarian
+        BPS             : 50
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 784
+        NUMBER_OF_BYTES : 24443
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:31(hun): Subtitle: subrip (srt)
+      Metadata:
+        title           : Hungarian (SDH)
+        BPS             : 64
+        DURATION        : 01:01:46.119000000
+        NUMBER_OF_FRAMES: 814
+        NUMBER_OF_BYTES : 30005
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:32(ind): Subtitle: subrip (srt)
+      Metadata:
+        title           : Indonesian
+        BPS             : 53
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 866
+        NUMBER_OF_BYTES : 25634
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:33(ind): Subtitle: subrip (srt)
+      Metadata:
+        title           : Indonesian (SDH)
+        BPS             : 61
+        DURATION        : 01:01:46.411000000
+        NUMBER_OF_FRAMES: 809
+        NUMBER_OF_BYTES : 28268
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:34(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : Italian
+        BPS             : 51
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 851
+        NUMBER_OF_BYTES : 24723
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:35(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : Italian (CC)
+        BPS             : 70
+        DURATION        : 01:04:35.497000000
+        NUMBER_OF_FRAMES: 1080
+        NUMBER_OF_BYTES : 34195
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:36(ita): Subtitle: subrip (srt)
+      Metadata:
+        title           : Italian (SDH)
+        BPS             : 60
+        DURATION        : 01:01:47.829000000
+        NUMBER_OF_FRAMES: 876
+        NUMBER_OF_BYTES : 28201
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:37(jpn): Subtitle: subrip (srt)
+      Metadata:
+        title           : Japanese
+        BPS             : 53
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 912
+        NUMBER_OF_BYTES : 25695
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:38(jpn): Subtitle: subrip (srt)
+      Metadata:
+        title           : Japanese (CC)
+        BPS             : 80
+        DURATION        : 01:04:28.115000000
+        NUMBER_OF_FRAMES: 1181
+        NUMBER_OF_BYTES : 38958
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:39(jpn): Subtitle: subrip (srt)
+      Metadata:
+        title           : Japanese (SDH)
+        BPS             : 71
+        DURATION        : 01:01:47.746000000
+        NUMBER_OF_FRAMES: 1103
+        NUMBER_OF_BYTES : 33274
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:40(kor): Subtitle: subrip (srt)
+      Metadata:
+        title           : Korean
+        BPS             : 60
+        DURATION        : 01:04:28.115000000
+        NUMBER_OF_FRAMES: 872
+        NUMBER_OF_BYTES : 29195
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:41(may): Subtitle: subrip (srt)
+      Metadata:
+        title           : Malay
+        BPS             : 51
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 868
+        NUMBER_OF_BYTES : 25128
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:42(nob): Subtitle: subrip (srt)
+      Metadata:
+        title           : Norwegian bokmål
+        BPS             : 53
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 716
+        NUMBER_OF_BYTES : 25690
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:43(dut): Subtitle: subrip (srt)
+      Metadata:
+        title           : Dutch
+        BPS             : 46
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 670
+        NUMBER_OF_BYTES : 22625
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:44(pol): Subtitle: subrip (srt)
+      Metadata:
+        title           : Polish
+        BPS             : 51
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 842
+        NUMBER_OF_BYTES : 24703
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:45(pol): Subtitle: subrip (srt)
+      Metadata:
+        title           : Polish (CC)
+        BPS             : 57
+        DURATION        : 01:02:13.814000000
+        NUMBER_OF_FRAMES: 959
+        NUMBER_OF_BYTES : 26943
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:46(pol): Subtitle: subrip (srt)
+      Metadata:
+        title           : Polish (SDH)
+        BPS             : 47
+        DURATION        : 01:01:45.076000000
+        NUMBER_OF_FRAMES: 705
+        NUMBER_OF_BYTES : 22224
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:47(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese (brazil)
+        BPS             : 57
+        DURATION        : 01:01:56.463000000
+        NUMBER_OF_FRAMES: 834
+        NUMBER_OF_BYTES : 26861
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:48(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese (brazil) (CC)
+        BPS             : 74
+        DURATION        : 01:02:10.310000000
+        NUMBER_OF_FRAMES: 1041
+        NUMBER_OF_BYTES : 34620
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:49(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese (brazil) (SDH)
+        BPS             : 63
+        DURATION        : 01:01:47.829000000
+        NUMBER_OF_FRAMES: 865
+        NUMBER_OF_BYTES : 29266
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:50(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Portuguese (portugal)
+        BPS             : 52
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 841
+        NUMBER_OF_BYTES : 25326
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:51(rum): Subtitle: subrip (srt)
+      Metadata:
+        title           : Romanian
+        BPS             : 51
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 762
+        NUMBER_OF_BYTES : 25085
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:52(rus): Subtitle: subrip (srt)
+      Metadata:
+        title           : Russian
+        BPS             : 86
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 915
+        NUMBER_OF_BYTES : 41604
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:53(rus): Subtitle: subrip (srt)
+      Metadata:
+        title           : Russian (SDH)
+        BPS             : 92
+        DURATION        : 01:01:45.661000000
+        NUMBER_OF_FRAMES: 798
+        NUMBER_OF_BYTES : 42657
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:54(swe): Subtitle: subrip (srt)
+      Metadata:
+        title           : Swedish
+        BPS             : 50
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 736
+        NUMBER_OF_BYTES : 24496
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:55(tha): Subtitle: subrip (srt)
+      Metadata:
+        title           : Thai
+        BPS             : 129
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 869
+        NUMBER_OF_BYTES : 62470
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:56(tha): Subtitle: subrip (srt)
+      Metadata:
+        title           : Thai (CC)
+        BPS             : 165
+        DURATION        : 01:04:38.458000000
+        NUMBER_OF_FRAMES: 1118
+        NUMBER_OF_BYTES : 80189
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:57(tha): Subtitle: subrip (srt)
+      Metadata:
+        title           : Thai (SDH)
+        BPS             : 140
+        DURATION        : 01:01:47.829000000
+        NUMBER_OF_FRAMES: 902
+        NUMBER_OF_BYTES : 64915
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:58(tur): Subtitle: subrip (srt)
+      Metadata:
+        title           : Turkish
+        BPS             : 53
+        DURATION        : 01:04:26.029000000
+        NUMBER_OF_FRAMES: 715
+        NUMBER_OF_BYTES : 25868
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:59(tur): Subtitle: subrip (srt)
+      Metadata:
+        title           : Turkish (SDH)
+        BPS             : 56
+        DURATION        : 01:01:46.578000000
+        NUMBER_OF_FRAMES: 787
+        NUMBER_OF_BYTES : 26029
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:60(ukr): Subtitle: subrip (srt)
+      Metadata:
+        title           : Ukrainian
+        BPS             : 81
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 869
+        NUMBER_OF_BYTES : 39168
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:61(ukr): Subtitle: subrip (srt)
+      Metadata:
+        title           : Ukrainian (SDH)
+        BPS             : 92
+        DURATION        : 01:01:46.244000000
+        NUMBER_OF_FRAMES: 774
+        NUMBER_OF_BYTES : 42967
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:62(vie): Subtitle: subrip (srt)
+      Metadata:
+        title           : Vietnamese
+        BPS             : 71
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 799
+        NUMBER_OF_BYTES : 34606
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:63(vie): Subtitle: subrip (srt)
+      Metadata:
+        title           : Vietnamese (SDH)
+        BPS             : 89
+        DURATION        : 01:04:33.745000000
+        NUMBER_OF_FRAMES: 874
+        NUMBER_OF_BYTES : 43303
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:64(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese (simplified)
+        BPS             : 56
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 872
+        NUMBER_OF_BYTES : 27395
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:65(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Chinese (traditional)
+        BPS             : 51
+        DURATION        : 01:04:28.198000000
+        NUMBER_OF_FRAMES: 888
+        NUMBER_OF_BYTES : 25105
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f6a24001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f6a24001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f6a24001f80] n:   0 pts:   5057 pts_time:5.057   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:B7FB1EB0 plane_checksum:[401E78D0 8BF9D2E1 8BF9D2E1] mean:[64 512 512] stdev:[0.2 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f6a24001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Part 02
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2457141
+        DURATION        : 01:08:03.163000000
+        NUMBER_OF_FRAMES: 97898
+        NUMBER_OF_BYTES : 1254113699
+        _STATISTICS_WRITING_APP: mkvmerge v65.0.0 ('Too Much') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 01:04:17
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f6a24001f80] n:   1 pts:  11104 pts_time:11.104  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:FA85DFD0 plane_checksum:[72964E70 CDCEE987 4295A7CA] mean:[67 510 520] stdev:[21.0 11.5 49.5]
+[Parsed_showinfo_0 @ 0x7f6a24001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f6a24001f80] n:   2 pts:  17152 pts_time:17.152  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:1920x1080 i:P iskey:1 type:I checksum:2BC79109 plane_checksum:[67454D6C A0CB15E9 EF7A2DB4] mean:[391 438 572] stdev:[264.2 55.3 47.5]
+[Parsed_showinfo_0 @ 0x7f6a24001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x563ec3843680] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.08 bitrate=N/A speed=50.7x    

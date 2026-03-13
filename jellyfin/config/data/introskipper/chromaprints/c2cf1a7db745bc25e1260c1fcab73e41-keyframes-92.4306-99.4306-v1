@@ -1,0 +1,59 @@
+[png @ 0x5620b8f651c0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x5620b8f5f080] Stream #2: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x5620b8f5f080] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E27 - 第27集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-12T05:08:35.000000Z
+  Duration: 00:47:45.30, start: 0.000000, bitrate: 23608 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 23344336
+        DURATION        : 00:47:45.250000000
+        NUMBER_OF_FRAMES: 171915
+        NUMBER_OF_BYTES : 8360920198
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-12 05:08:35
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 255999
+        DURATION        : 00:47:45.296000000
+        NUMBER_OF_FRAMES: 123398
+        NUMBER_OF_BYTES : 91689471
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-12 05:08:35
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f2c60001f80] config in time_base: 1/1000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7f2c60001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f2c60001f80] n:   0 pts:   3552 pts_time:3.552   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:AC0AC6C1 plane_checksum:[EC772130 3053D2C1 3053D2C1] mean:[63 512 512] stdev:[1.1 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f2c60001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 23344336
+        DURATION        : 00:47:45.250000000
+        NUMBER_OF_FRAMES: 171915
+        NUMBER_OF_BYTES : 8360920198
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-12 05:08:35
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f2c60001f80] n:   1 pts:  10036 pts_time:10.036  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:0F5F6B0B plane_checksum:[DFC47CF4 CD5D714E BC207CBA] mean:[633 520 522] stdev:[151.1 19.0 18.6]
+[Parsed_showinfo_0 @ 0x7f2c60001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f2c60001f80] n:   2 pts:  12202 pts_time:12.202  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:D61A3D72 plane_checksum:[DF4509E9 8ACB174B 0C9E1C3E] mean:[624 512 524] stdev:[164.9 15.6 22.4]
+[Parsed_showinfo_0 @ 0x7f2c60001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x5620b8fc4940] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.56 bitrate=N/A speed=13.3x    

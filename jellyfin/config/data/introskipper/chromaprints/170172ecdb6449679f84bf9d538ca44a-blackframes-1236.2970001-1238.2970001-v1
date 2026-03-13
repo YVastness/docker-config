@@ -1,0 +1,45 @@
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 1445159 (0x160d27) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 51809187 (0x3168ba3) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 77982676 (0x4a5ebd4) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 129368779 (0x7b602cb) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 204859812 (0xc35e9a4) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 281417438 (0x10c616de) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 306676747 (0x1247840b) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 383216304 (0x16d76ab0) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 434505803 (0x19e6084b) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 485871747 (0x1cf5d083) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 562503439 (0x21871f0f) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 587755929 (0x23087199) invalid as first byte of an EBML number
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 664152718 (0x27962a8e) invalid as first byte of an EBML number
+    Last message repeated 1 times
+Input #0, matroska,webm, from '/media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E104 - 第104集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-07T04:55:16.000000Z
+  Duration: 00:21:00.29, start: 0.000000, bitrate: 5019 kb/s
+  Stream #0:0: Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s
+  Stream #0:1: Audio: aac (LC), 48000 Hz, 5.1, fltp
+  Stream #0:2: Audio: aac (LC), 48000 Hz, stereo, fltp
+  Stream #0:3: Video: hevc (Main), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 1k tbn
+      Metadata:
+        title           : 【发布页:https://link3.cc/panclub】
+  Stream #0:4: Video: png, rgba(pc, gbr/bt709/iec61966-2-1), 200x205, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : link3.cc_panclub.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:3 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x5634d5bde000] 0x00 at pos 664152718 (0x27962a8e) invalid as first byte of an EBML number
+[vost#0:0/wrapped_avframe @ 0x5634d5c8e000] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 30 fps, 1k tbn
+      Metadata:
+        title           : 【发布页:https://link3.cc/panclub】
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x5634d5c50940] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x5634d5c50940] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

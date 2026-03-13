@@ -1,0 +1,41 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/百炼成神 (2022)/Season 1/百炼成神 - S01E58 - 第58集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2024-01-05T10:04:29.4906150+08:00
+    encoder         : Lavf60.3.100
+  Duration: 00:20:34.72, start: 0.000000, bitrate: 20129 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 19867 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fa010001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7fa010001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fa010001f80] n:   0 pts: 209448 pts_time:2.3272  duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:CA812927 plane_checksum:[C15027E4 6968B1F3 2D274F41] mean:[112 510 512] stdev:[123.1 14.8 1.7]
+[Parsed_showinfo_0 @ 0x7fa010001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2024-01-05T10:04:29.4906150+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=1.0 q=-0.0 size=N/A time=00:00:02.36 bitrate=N/A speed=2.36x    [Parsed_showinfo_0 @ 0x7fa010001f80] n:   1 pts: 645048 pts_time:7.1672  duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:225ECA83 plane_checksum:[380E1B87 9CE700ED 177DAE0F] mean:[400 535 502] stdev:[155.6 26.2 13.3]
+[Parsed_showinfo_0 @ 0x7fa010001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fa010001f80] n:   2 pts:1077048 pts_time:11.9672 duration:   3600 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:079617AF plane_checksum:[094AC57D F199BFE7 30A3922D] mean:[194 576 514] stdev:[93.0 35.0 20.5]
+[Parsed_showinfo_0 @ 0x7fa010001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x5587c31c0140] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.9 q=-0.0 Lsize=N/A time=00:00:02.36 bitrate=N/A speed=2.01x    

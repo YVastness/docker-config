@@ -1,0 +1,52 @@
+[png @ 0x562f9400b000] Invalid PNG signature 0xFFD8FFE1010A4578.
+[matroska,webm @ 0x562f940050c0] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1147 - 第1147集.mp4':
+  Metadata:
+    title           : 你这在做什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-10-27T01:37:47.000000Z
+  Duration: 00:23:35.84, start: 0.000000, bitrate: 4086 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv), 3840x2160, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 3894289
+        DURATION        : 00:23:35.791000000
+        NUMBER_OF_FRAMES: 33687
+        NUMBER_OF_BYTES : 689187495
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-27 01:37:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 189718
+        DURATION        : 00:23:35.837000000
+        NUMBER_OF_FRAMES: 60975
+        NUMBER_OF_BYTES : 33576379
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-27 01:37:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : FUCK.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你这在做什么？[GyWEB]
+    encoder         : Lavf61.1.100
+  Stream #0:0: Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s (default)
+      Metadata:
+        BPS             : 189718
+        DURATION        : 00:23:35.837000000
+        NUMBER_OF_FRAMES: 60975
+        NUMBER_OF_BYTES : 33576379
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-27 01:37:47
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7f01ec002440] silence_start: 5.696576
+[silencedetect @ 0x7f01ec002440] silence_end: 6.913991 | silence_duration: 1.217415
+[out#0/null @ 0x562f94098440] video:0KiB audio:1206KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=61.2x    

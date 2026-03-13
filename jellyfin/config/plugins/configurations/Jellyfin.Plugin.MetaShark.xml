@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DoubanCookies />
+  <EnableDoubanAvoidRiskControl>true</EnableDoubanAvoidRiskControl>
+  <EnableDoubanLargePoster>true</EnableDoubanLargePoster>
+  <EnableDoubanBackdropRaw>false</EnableDoubanBackdropRaw>
+  <DoubanImageProxyBaseUrl />
+  <EnableTmdb>true</EnableTmdb>
+  <EnableTmdbSearch>false</EnableTmdbSearch>
+  <EnableTmdbBackdrop>true</EnableTmdbBackdrop>
+  <EnableTmdbLogo>true</EnableTmdbLogo>
+  <EnableTmdbCollection>true</EnableTmdbCollection>
+  <EnableTmdbOfficialRating>true</EnableTmdbOfficialRating>
+  <TmdbApiKey />
+  <TmdbHost />
+  <TmdbProxyType />
+  <TmdbProxyPort />
+  <TmdbProxyHost />
+</PluginConfiguration>

@@ -1,0 +1,56 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Girls/JAV_output/小野坂ゆいか/NMSL-030/NMSL-030.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.18.100
+  Duration: 02:08:46.04, start: 0.000000, bitrate: 7268 kb/s
+  Stream #0:0[0x1](eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 6993 kb/s, 59.94 fps, 59.94 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : VideoHandler
+  Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 255 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:97 pblack:51 pts:146946 t:1.632733 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:98 pblack:51 pts:148448 t:1.649422 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:99 pblack:51 pts:149949 t:1.666100 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:100 pblack:53 pts:151450 t:1.682778 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:101 pblack:53 pts:152952 t:1.699467 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:102 pblack:54 pts:154454 t:1.716156 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:103 pblack:56 pts:155955 t:1.732833 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:104 pblack:56 pts:157456 t:1.749511 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:105 pblack:56 pts:158958 t:1.766200 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:106 pblack:59 pts:160460 t:1.782889 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:107 pblack:59 pts:161961 t:1.799567 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:108 pblack:59 pts:163462 t:1.816244 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:109 pblack:63 pts:164964 t:1.832933 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:110 pblack:63 pts:166466 t:1.849622 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:111 pblack:63 pts:167967 t:1.866300 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:112 pblack:65 pts:169468 t:1.882978 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:113 pblack:67 pts:170970 t:1.899667 type:I last_keyframe:113
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:114 pblack:67 pts:172472 t:1.916356 type:P last_keyframe:113
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:115 pblack:71 pts:173973 t:1.933033 type:B last_keyframe:113
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:116 pblack:71 pts:175474 t:1.949711 type:P last_keyframe:113
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:117 pblack:71 pts:176976 t:1.966400 type:B last_keyframe:113
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:118 pblack:76 pts:178478 t:1.983089 type:B last_keyframe:113
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:119 pblack:76 pts:179979 t:1.999767 type:P last_keyframe:113
+[Parsed_blackframe_0 @ 0x7f5248002340] frame:120 pblack:76 pts:181480 t:2.016444 type:B last_keyframe:113
+[out#0/null @ 0x555d23109b40] video:51KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  119 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=4.85x    

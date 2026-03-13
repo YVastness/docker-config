@@ -1,0 +1,50 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/紫川 (2021)/Season 2/紫川 - S02E04 - 第4集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-08-05T18:35:32.0926800+08:00
+    encoder         : Lavf62.0.102
+  Duration: 00:20:22.06, start: 0.000000, bitrate: 5313 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 5181 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7faad4001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7faad4001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7faad4001f80] n:   0 pts: 255996 pts_time:2.8444  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:DEA85E91 plane_checksum:[67DA0186 471A9B5E 2C68C19E] mean:[18 128 128] stdev:[21.5 0.1 0.1]
+[Parsed_showinfo_0 @ 0x7faad4001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7faad4001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e352063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7faad4001f80] 
+[Parsed_showinfo_0 @ 0x7faad4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-08-05T18:35:32.0926800+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7faad4001f80] n:   1 pts: 637596 pts_time:7.0844  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:35FEC04D plane_checksum:[424759A6 6460B34C 6460B34C] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7faad4001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7faad4001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e352063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7faad4001f80] 
+[Parsed_showinfo_0 @ 0x7faad4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7faad4001f80] n:   2 pts: 795996 pts_time:8.8444  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:5BA767D0 plane_checksum:[2C7DED37 42FBDAC4 63BE9FB7] mean:[81 123 137] stdev:[38.8 8.6 9.2]
+[Parsed_showinfo_0 @ 0x7faad4001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7faad4001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e352063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7faad4001f80] 
+[Parsed_showinfo_0 @ 0x7faad4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x555ece2a2700] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.88 bitrate=N/A speed=4.03x    

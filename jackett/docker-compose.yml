@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  
+  jackett:
+    image: linuxserver/jackett
+    container_name: jackett
+    restart: unless-stopped
+    network_mode: bridge
+    environment:
+        - PUID=0
+        - PGID=0
+        - TZ=Asia/Shanghai
+        - AUTO_UPDATE=true
+    volumes:
+        - /docker/jackett/config:/config
+        - /mnt/sda2/Videos/Torrent/nastools:/downloads
+    ports:
+        - 9117:9117

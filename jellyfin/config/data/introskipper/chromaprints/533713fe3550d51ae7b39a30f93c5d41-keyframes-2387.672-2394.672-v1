@@ -1,0 +1,47 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/长安二十四计 (2025)/Season 1/长安二十四计 - S01E01 - 第1集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf62.6.101
+    comment         : Anti-Piracy
+  Duration: 00:43:05.80, start: 0.000000, bitrate: 25689 kb/s
+  Stream #0:0[0x1](chi): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 25417 kb/s, 60 fps, 60 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](chi): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        unknown side data type 24 (152 bytes)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] config in time_base: 1/90000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] n:   0 pts: 284521 pts_time:3.161344 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:B439E8B1 plane_checksum:[4A61C9C2 86B5B0DA 3E326E06] mean:[269 542 484] stdev:[186.7 16.0 21.1]
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    comment         : Anti-Piracy
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] n:   1 pts: 413521 pts_time:4.594678 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:04C652C9 plane_checksum:[7AD91B5E F2172156 776B1615] mean:[243 543 484] stdev:[119.3 16.2 22.6]
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] n:   2 pts: 518521 pts_time:5.761344 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:67EF69AB plane_checksum:[D7298DB7 C35F190D A68FC2D8] mean:[225 545 480] stdev:[78.1 14.1 22.1]
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] n:   3 pts: 727021 pts_time:8.078011 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:0C4B592A plane_checksum:[7092E994 E8F3B8D6 CD02B6A2] mean:[211 517 509] stdev:[136.4 17.1 19.8]
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] n:   4 pts: 982021 pts_time:10.911344 duration:   1500 duration_time:0.0166667 fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:450A3230 plane_checksum:[58BA78DF 8A445C34 E89C5D0E] mean:[232 524 505] stdev:[84.8 16.1 18.3]
+[Parsed_showinfo_0 @ 0x7fc3e4001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x559acabcf200] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    3 fps=2.2 q=-0.0 Lsize=N/A time=00:00:05.78 bitrate=N/A speed=4.24x    

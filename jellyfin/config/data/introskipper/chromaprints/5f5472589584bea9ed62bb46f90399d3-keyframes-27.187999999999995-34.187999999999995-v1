@@ -1,0 +1,41 @@
+Input #0, matroska,webm, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E02 - 第2集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-10-13T10:15:17.000000Z
+  Duration: 00:22:09.92, start: 0.000000, bitrate: 7143 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : AAC2.0
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f5c78001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f5c78001f80] config out time_base: 0/0, frame_rate: 0/0
+[matroska,webm @ 0x563e56010080] 0x00 at pos 16405384 (0xfa5388) invalid as first byte of an EBML number
+[Parsed_showinfo_0 @ 0x7f5c78001f80] n:   0 pts:   1574 pts_time:1.574   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:9534145C plane_checksum:[3A9527B5 DE2767A9 C41884EF] mean:[90 112 157] stdev:[45.0 7.2 13.1]
+[Parsed_showinfo_0 @ 0x7f5c78001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=db41f3f7-dd6f-4c92-9764-48a6cec96e3d
+[Parsed_showinfo_0 @ 0x7f5c78001f80] User Data=54656e63656e74205632363520312e352e362c2070316b3138346731366c68363466347261312e20436f707972696768742028632920323032312054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e372e302072636d2d61646170742076732d3935
+[Parsed_showinfo_0 @ 0x7f5c78001f80] 
+[Parsed_showinfo_0 @ 0x7f5c78001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f5c78001f80] n:   1 pts:   5054 pts_time:5.054   duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:568087AE plane_checksum:[6FDF9FAD A1173275 8C0EB57D] mean:[113 112 156] stdev:[51.1 9.5 14.9]
+[Parsed_showinfo_0 @ 0x7f5c78001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=db41f3f7-dd6f-4c92-9764-48a6cec96e3d
+[Parsed_showinfo_0 @ 0x7f5c78001f80] User Data=54656e63656e74205632363520312e352e362c2070316b3138346731366c68363466347261312e20436f707972696768742028632920323032312054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e372e302072636d2d61646170742076732d3935
+[Parsed_showinfo_0 @ 0x7f5c78001f80] 
+[Parsed_showinfo_0 @ 0x7f5c78001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:05.08 bitrate=N/A speed=10.2x    [Parsed_showinfo_0 @ 0x7f5c78001f80] n:   2 pts:  37694 pts_time:37.694  duration:     40 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:9A8DC955 plane_checksum:[D73648BF C0082167 D60E5F2F] mean:[116 116 167] stdev:[69.6 8.3 23.6]
+[Parsed_showinfo_0 @ 0x7f5c78001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=db41f3f7-dd6f-4c92-9764-48a6cec96e3d
+[Parsed_showinfo_0 @ 0x7f5c78001f80] User Data=54656e63656e74205632363520312e352e362c2070316b3138346731366c68363466347261312e20436f707972696768742028632920323032312054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e372e302072636d2d61646170742076732d3935
+[Parsed_showinfo_0 @ 0x7f5c78001f80] 
+[Parsed_showinfo_0 @ 0x7f5c78001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x563e5608ba40] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.08 bitrate=N/A speed=9.82x    

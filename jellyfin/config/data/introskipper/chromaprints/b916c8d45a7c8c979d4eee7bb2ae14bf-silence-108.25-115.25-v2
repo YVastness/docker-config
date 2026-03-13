@@ -1,0 +1,86 @@
+Input #0, matroska,webm, from '/media/Animes/间谍过家家 (2022)/Season 3/间谍过家家 - S03E12 - 第12集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-22T03:26:26.000000Z
+  Duration: 00:23:42.08, start: 0.000000, bitrate: 5746 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 25.500000
+      Metadata:
+        title           : Part 01
+    Chapter #0:1: start 25.500000, end 113.250000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 113.250000, end 1321.450000
+      Metadata:
+        title           : Part 02
+    Chapter #0:3: start 1321.450000, end 1422.080000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        title           : 本视频由Noxia制作，未经授权禁止转载
+        BPS             : 5616679
+        DURATION        : 00:23:42.004000000
+        NUMBER_OF_FRAMES: 34094
+        NUMBER_OF_BYTES : 998367562
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-22 03:26:26
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(jpn): Audio: aac (HE-AAC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : Japanese (日语)
+        BPS             : 128000
+        DURATION        : 00:23:42.079000000
+        NUMBER_OF_FRAMES: 33330
+        NUMBER_OF_BYTES : 22753279
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-22 03:26:26
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : Simplified Chinese (简体中文)
+        BPS             : 56
+        DURATION        : 00:23:39.209000000
+        NUMBER_OF_FRAMES: 342
+        NUMBER_OF_BYTES : 9970
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-22 03:26:26
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : Traditional Chinese (繁體中文)
+        BPS             : 56
+        DURATION        : 00:23:39.209000000
+        NUMBER_OF_FRAMES: 341
+        NUMBER_OF_BYTES : 10091
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-22 03:26:26
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Part 02
+  Stream #0:0(jpn): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : Japanese (日语)
+        BPS             : 128000
+        DURATION        : 00:23:42.079000000
+        NUMBER_OF_FRAMES: 33330
+        NUMBER_OF_BYTES : 22753279
+        _STATISTICS_WRITING_APP: mkvmerge v91.0 ('Signs') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-22 03:26:26
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 pcm_s16le
+[silencedetect @ 0x7fbdb8002440] silence_start: 5.603083
+[silencedetect @ 0x7fbdb8002440] silence_end: 7.076167 | silence_duration: 1.473083
+[out#0/null @ 0x557c5f8bc880] video:0KiB audio:1313KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 219x    

@@ -1,0 +1,54 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E160 - 第160集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-05-21T19:31:12.7503109+08:00
+    encoder         : Lavf60.16.100
+  Duration: 00:22:10.73, start: 0.000000, bitrate: 5513 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 5381 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:0 pblack:55 pts:2809 t:0.031211 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-05-21T19:31:12.7503109+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:1 pblack:55 pts:6409 t:0.071211 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:2 pblack:55 pts:10009 t:0.111211 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:3 pblack:55 pts:13609 t:0.151211 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:4 pblack:54 pts:17209 t:0.191211 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:5 pblack:54 pts:20809 t:0.231211 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:6 pblack:55 pts:24409 t:0.271211 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:7 pblack:53 pts:28009 t:0.311211 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:8 pblack:59 pts:31609 t:0.351211 type:B last_keyframe:0
+frame=   10 fps=3.3 q=-0.0 size=N/A time=00:00:00.44 bitrate=N/A speed=0.146x    [Parsed_blackframe_0 @ 0x7f358c002340] frame:11 pblack:54 pts:42409 t:0.471211 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:12 pblack:51 pts:46008 t:0.511200 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:13 pblack:50 pts:49609 t:0.551211 type:B last_keyframe:0
+frame=   27 fps=7.7 q=-0.0 size=N/A time=00:00:01.12 bitrate=N/A speed=0.319x    [Parsed_blackframe_0 @ 0x7f358c002340] frame:41 pblack:56 pts:150409 t:1.671211 type:B last_keyframe:39
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:42 pblack:59 pts:154008 t:1.711200 type:B last_keyframe:39
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:43 pblack:59 pts:157609 t:1.751211 type:B last_keyframe:39
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:44 pblack:59 pts:161209 t:1.791211 type:B last_keyframe:39
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:45 pblack:56 pts:164809 t:1.831211 type:B last_keyframe:39
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:46 pblack:55 pts:168409 t:1.871211 type:B last_keyframe:39
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:47 pblack:51 pts:172009 t:1.911211 type:B last_keyframe:39
+[Parsed_blackframe_0 @ 0x7f358c002340] frame:48 pblack:53 pts:175609 t:1.951211 type:B last_keyframe:39
+frame=   49 fps= 12 q=-0.0 size=N/A time=00:00:02.00 bitrate=N/A speed=0.498x    [Parsed_blackframe_0 @ 0x7f358c002340] frame:49 pblack:50 pts:179209 t:1.991211 type:B last_keyframe:39
+[out#0/null @ 0x5568fa220140] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 12 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.493x    

@@ -1,0 +1,31 @@
+Input #0, matroska,webm, from '/media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E11 - 第11集.mkv':
+  Metadata:
+    encoder         : Lavf
+  Duration: 00:23:25.82, start: 0.000000, bitrate: 1823 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1596 [SAR 1:1 DAR 320:133], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:23:25.708000000
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        DURATION        : 00:23:25.824000000
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        title           : AAC5.1
+        DURATION        : 00:23:25.717000000
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        DURATION        : 00:23:25.717000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1596 [SAR 1:1 DAR 320:133], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        DURATION        : 00:23:25.708000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    5 fps=0.0 q=-0.0 size=N/A time=00:00:00.25 bitrate=N/A speed=0.498x    frame=   38 fps= 38 q=-0.0 size=N/A time=00:00:01.62 bitrate=N/A speed=1.61x    [out#0/null @ 0x5614352cefc0] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 41 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.73x    

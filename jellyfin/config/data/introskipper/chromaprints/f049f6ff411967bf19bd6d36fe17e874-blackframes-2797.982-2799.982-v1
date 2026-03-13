@@ -1,0 +1,70 @@
+Input #0, matroska,webm, from '/media/TV Shows/长.An.S01E25.4K.60fps.HDR.mp4':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-18T12:13:28.000000Z
+    MOVIE/ENCODER   : Lavf60.21.101
+  Duration: 00:46:55.23, start: 0.000000, bitrate: 4514 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1606 [SAR 1:1 DAR 1920:803], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 3740733
+        DURATION        : 00:46:55.050000000
+        NUMBER_OF_FRAMES: 168903
+        NUMBER_OF_BYTES : 1316294078
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        title           : DDP5.1
+        BPS             : 384000
+        DURATION        : 00:46:55.232000000
+        NUMBER_OF_FRAMES: 87976
+        NUMBER_OF_BYTES : 135131136
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+        BPS             : 256000
+        DURATION        : 00:46:55.232000000
+        NUMBER_OF_FRAMES: 87976
+        NUMBER_OF_BYTES : 90087424
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0
+        BPS             : 125349
+        DURATION        : 00:46:55.104000000
+        NUMBER_OF_FRAMES: 131958
+        NUMBER_OF_BYTES : 44109009
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Video: mjpeg (Baseline), yuvj444p(pc, bt470bg/unknown/unknown), 5120x2880 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : cover.jpg
+        mimetype        : image/jpeg
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？
+    MOVIE/ENCODER   : Lavf60.21.101
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1606 [SAR 1:1 DAR 1920:803], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 3740733
+        DURATION        : 00:46:55.050000000
+        NUMBER_OF_FRAMES: 168903
+        NUMBER_OF_BYTES : 1316294078
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-18 12:13:28
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   33 fps= 16 q=-0.0 size=N/A time=00:00:00.55 bitrate=N/A speed=0.274x    frame=   72 fps= 29 q=-0.0 size=N/A time=00:00:01.20 bitrate=N/A speed=0.479x    frame=  118 fps= 39 q=-0.0 size=N/A time=00:00:01.96 bitrate=N/A speed=0.654x    [out#0/null @ 0x556b6e3a65c0] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 39 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.656x    

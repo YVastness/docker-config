@@ -1,0 +1,46 @@
+Input #0, matroska,webm, from '/media/TV Shows/唐朝诡事录 (2022)/Season 3/唐朝诡事录 - S03E38 - 第38集.mkv':
+  Metadata:
+    ENCODER         : Lavf60.16.100
+  Duration: 00:44:28.88, start: 0.000000, bitrate: 6183 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1608 [SAR 1:1 DAR 160:67], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:44:28.783000000
+  Stream #0:1: Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP 5.1
+        DURATION        : 00:44:28.864000000
+  Stream #0:2: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC 2.0
+        DURATION        : 00:44:28.878000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fdaf8001f80] config in time_base: 1/1000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7fdaf8001f80] config out time_base: 0/0, frame_rate: 0/0
+[matroska,webm @ 0x55c6ae467080] 0x00 at pos 89441405 (0x554c47d) invalid as first byte of an EBML number
+[Parsed_showinfo_0 @ 0x7fdaf8001f80] n:   0 pts:   3545 pts_time:3.545   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:7A80B6ED plane_checksum:[DADA459A CA1285F0 C504EB54] mean:[203 515 501] stdev:[96.2 14.0 9.9]
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - Content light level metadata: MaxCLL=360, MaxFALL=52
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0332, average_maxrgb[0]: 0.3101, variance_maxrgb[0]:0.6144, maximum_maxrgb[0]: 0.6173, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7fdaf8001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        DURATION        : 00:44:28.783000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fdaf8001f80] n:   1 pts:   6445 pts_time:6.445   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:B955258B plane_checksum:[F42D9D37 43A0F3FE EB879438] mean:[69 512 511] stdev:[2.3 1.1 1.0]
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - Content light level metadata: MaxCLL=360, MaxFALL=52
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0335, average_maxrgb[0]: 0.0420, variance_maxrgb[0]:0.0276, maximum_maxrgb[0]: 0.0508, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7fdaf8001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[matroska,webm @ 0x55c6ae467080] 0x00 at pos 116392164 (0x6f000e4) invalid as first byte of an EBML number
+[Parsed_showinfo_0 @ 0x7fdaf8001f80] n:   2 pts:  39411 pts_time:39.411  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:1734C563 plane_checksum:[E48452DB 81A30176 53797112] mean:[301 501 520] stdev:[115.8 13.0 9.8]
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - Mastering display metadata: has_primaries:1 has_luminance:1 r(0.7080,0.2920) g(0.1700,0.7970) b(0.1300 0.0460) wp(0.3127, 0.3290) min_luminance=0.000100, max_luminance=1000.000000
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - Content light level metadata: MaxCLL=360, MaxFALL=52
+[Parsed_showinfo_0 @ 0x7fdaf8001f80]   side data - HDR Dynamic Metadata CUVA 005.1 2021 (Vivid): system_start_code: 1, num_windows: 1, minimum_maxrgb[0]: 0.0327, average_maxrgb[0]: 0.3641, variance_maxrgb[0]:0.4967, maximum_maxrgb[0]: 0.6125, tone_mapping_mode_flag[0]: 0, tone_mapping_param_num[0]: 0, color_saturation_mapping_flag[0]: 0
+[Parsed_showinfo_0 @ 0x7fdaf8001f80] color_range:tv color_space:bt2020nc color_primaries:bt2020 color_trc:smpte2084
+[out#0/null @ 0x55c6ae4b6980] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.46 bitrate=N/A speed=11.1x    

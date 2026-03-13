@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://anilibria.top/"
+  },
+  {
+    "id": "addrustoendofalltitlestoimprovelanguagedetectionbysonarr.willcauseenglish-onlyresultstobemisidentified.",
+    "type": "inputbool",
+    "name": "Add RUS to end of all titles to improve language detection by Sonarr. Will cause English-only results to be misidentified.",
+    "value": false
+  },
+  {
+    "id": "improvesonarrcompatibilitybytryingtobetterparseseasoninformationinreleasetitles.",
+    "type": "inputbool",
+    "name": "Improve Sonarr compatibility by trying to better parse Season information in release titles.",
+    "value": false
+  },
+  {
+    "id": "improvesonarrcompatibilitybyreturningtheenglishtitleinsteadoftherussiantitle.",
+    "type": "inputbool",
+    "name": "Improve Sonarr compatibility by returning the English Title instead of the Russian title.",
+    "value": false
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__ddg8_=24AfLfdYBMaT2In8; __ddg10_=1752986516; __ddg9_=112.36.164.43; __ddg1_=X3uapUBYYlkFiX2OomVw"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

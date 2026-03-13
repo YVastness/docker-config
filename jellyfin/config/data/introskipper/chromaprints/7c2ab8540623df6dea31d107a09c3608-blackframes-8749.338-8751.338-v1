@@ -1,0 +1,158 @@
+Input #0, matroska,webm, from '/media/Girls/JAV_output/枫芙爱/SONE-639/SONE-639.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-02-24T11:21:59.000000Z
+    MOVIE/ENCODER   : Lavf59.16.100
+  Duration: 02:26:26.84, start: 0.000000, bitrate: 23312 kb/s
+  Stream #0:0: Video: h264 (Main), yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], 59.94 fps, 59.94 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 23051517
+        DURATION        : 02:26:26.745000000
+        NUMBER_OF_FRAMES: 526678
+        NUMBER_OF_BYTES : 25318475698
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-24 11:21:59
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 255999
+        DURATION        : 02:26:26.838000000
+        NUMBER_OF_FRAMES: 411883
+        NUMBER_OF_BYTES : 281178795
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-24 11:21:59
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf59.16.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+      Metadata:
+        BPS             : 23051517
+        DURATION        : 02:26:26.745000000
+        NUMBER_OF_FRAMES: 526678
+        NUMBER_OF_BYTES : 25318475698
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-02-24 11:21:59
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:6 pblack:99 pts:102 t:0.102000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:7 pblack:99 pts:119 t:0.119000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:8 pblack:99 pts:136 t:0.136000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:9 pblack:99 pts:152 t:0.152000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:10 pblack:99 pts:169 t:0.169000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:11 pblack:99 pts:186 t:0.186000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:12 pblack:99 pts:202 t:0.202000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:13 pblack:99 pts:219 t:0.219000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:14 pblack:99 pts:236 t:0.236000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:15 pblack:99 pts:253 t:0.253000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:16 pblack:99 pts:269 t:0.269000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:17 pblack:99 pts:286 t:0.286000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:18 pblack:99 pts:303 t:0.303000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:19 pblack:99 pts:319 t:0.319000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:20 pblack:99 pts:336 t:0.336000 type:P last_keyframe:0
+frame=   20 fps= 13 q=-0.0 size=N/A time=00:00:00.33 bitrate=N/A speed=0.218x    [Parsed_blackframe_0 @ 0x7f9888002340] frame:21 pblack:99 pts:353 t:0.353000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:22 pblack:99 pts:369 t:0.369000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:23 pblack:99 pts:386 t:0.386000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:24 pblack:99 pts:403 t:0.403000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:25 pblack:99 pts:419 t:0.419000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:26 pblack:99 pts:436 t:0.436000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:27 pblack:99 pts:453 t:0.453000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:28 pblack:99 pts:469 t:0.469000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:29 pblack:99 pts:486 t:0.486000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:30 pblack:99 pts:503 t:0.503000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:31 pblack:99 pts:519 t:0.519000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:32 pblack:99 pts:536 t:0.536000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:33 pblack:99 pts:553 t:0.553000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:34 pblack:99 pts:570 t:0.570000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:35 pblack:99 pts:586 t:0.586000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:36 pblack:99 pts:603 t:0.603000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:37 pblack:99 pts:620 t:0.620000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:38 pblack:99 pts:636 t:0.636000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:39 pblack:99 pts:653 t:0.653000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:40 pblack:99 pts:670 t:0.670000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:41 pblack:99 pts:686 t:0.686000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:42 pblack:99 pts:703 t:0.703000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:43 pblack:99 pts:720 t:0.720000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:44 pblack:99 pts:736 t:0.736000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:45 pblack:99 pts:753 t:0.753000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:46 pblack:99 pts:770 t:0.770000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:47 pblack:99 pts:786 t:0.786000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:48 pblack:99 pts:803 t:0.803000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:49 pblack:99 pts:820 t:0.820000 type:B last_keyframe:0
+frame=   50 fps= 25 q=-0.0 size=N/A time=00:00:00.83 bitrate=N/A speed=0.41x    [Parsed_blackframe_0 @ 0x7f9888002340] frame:50 pblack:99 pts:836 t:0.836000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:51 pblack:99 pts:853 t:0.853000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:52 pblack:99 pts:870 t:0.870000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:53 pblack:99 pts:887 t:0.887000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:54 pblack:99 pts:903 t:0.903000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:55 pblack:99 pts:920 t:0.920000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:56 pblack:99 pts:937 t:0.937000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:57 pblack:99 pts:953 t:0.953000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:58 pblack:99 pts:970 t:0.970000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:59 pblack:99 pts:987 t:0.987000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:60 pblack:99 pts:1003 t:1.003000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:61 pblack:99 pts:1020 t:1.020000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:62 pblack:99 pts:1037 t:1.037000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:63 pblack:99 pts:1053 t:1.053000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:64 pblack:99 pts:1070 t:1.070000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:65 pblack:99 pts:1087 t:1.087000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:66 pblack:99 pts:1103 t:1.103000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:67 pblack:99 pts:1120 t:1.120000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:68 pblack:99 pts:1137 t:1.137000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:69 pblack:99 pts:1153 t:1.153000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:70 pblack:99 pts:1170 t:1.170000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:71 pblack:99 pts:1187 t:1.187000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:72 pblack:99 pts:1203 t:1.203000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:73 pblack:99 pts:1220 t:1.220000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:74 pblack:99 pts:1237 t:1.237000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:75 pblack:99 pts:1254 t:1.254000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:76 pblack:99 pts:1270 t:1.270000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:77 pblack:99 pts:1287 t:1.287000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:78 pblack:99 pts:1304 t:1.304000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:79 pblack:99 pts:1320 t:1.320000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:80 pblack:99 pts:1337 t:1.337000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:81 pblack:99 pts:1354 t:1.354000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:82 pblack:99 pts:1370 t:1.370000 type:B last_keyframe:0
+frame=   82 fps= 32 q=-0.0 size=N/A time=00:00:01.36 bitrate=N/A speed=0.539x    [Parsed_blackframe_0 @ 0x7f9888002340] frame:83 pblack:99 pts:1387 t:1.387000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:84 pblack:99 pts:1404 t:1.404000 type:I last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:85 pblack:99 pts:1420 t:1.420000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:86 pblack:99 pts:1437 t:1.437000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:87 pblack:99 pts:1454 t:1.454000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:88 pblack:99 pts:1470 t:1.470000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:89 pblack:99 pts:1487 t:1.487000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:90 pblack:99 pts:1504 t:1.504000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:91 pblack:99 pts:1520 t:1.520000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:92 pblack:99 pts:1537 t:1.537000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:93 pblack:99 pts:1554 t:1.554000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:94 pblack:99 pts:1571 t:1.571000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:95 pblack:99 pts:1587 t:1.587000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:96 pblack:99 pts:1604 t:1.604000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:97 pblack:99 pts:1621 t:1.621000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:98 pblack:99 pts:1637 t:1.637000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:99 pblack:99 pts:1654 t:1.654000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:100 pblack:99 pts:1671 t:1.671000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:101 pblack:99 pts:1687 t:1.687000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:102 pblack:99 pts:1704 t:1.704000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:103 pblack:99 pts:1721 t:1.721000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:104 pblack:99 pts:1737 t:1.737000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:105 pblack:99 pts:1754 t:1.754000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:106 pblack:99 pts:1771 t:1.771000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:107 pblack:99 pts:1787 t:1.787000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:108 pblack:99 pts:1804 t:1.804000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:109 pblack:99 pts:1821 t:1.821000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:110 pblack:99 pts:1837 t:1.837000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:111 pblack:99 pts:1854 t:1.854000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:112 pblack:99 pts:1871 t:1.871000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:113 pblack:99 pts:1888 t:1.888000 type:P last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:114 pblack:99 pts:1904 t:1.904000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:115 pblack:99 pts:1921 t:1.921000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:116 pblack:99 pts:1938 t:1.938000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:117 pblack:99 pts:1954 t:1.954000 type:P last_keyframe:84
+frame=  118 fps= 39 q=-0.0 size=N/A time=00:00:01.96 bitrate=N/A speed=0.648x    [Parsed_blackframe_0 @ 0x7f9888002340] frame:118 pblack:99 pts:1971 t:1.971000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:119 pblack:99 pts:1988 t:1.988000 type:B last_keyframe:84
+[Parsed_blackframe_0 @ 0x7f9888002340] frame:120 pblack:99 pts:2004 t:2.004000 type:B last_keyframe:84
+[out#0/null @ 0x564b0f970a00] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps= 39 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.649x    

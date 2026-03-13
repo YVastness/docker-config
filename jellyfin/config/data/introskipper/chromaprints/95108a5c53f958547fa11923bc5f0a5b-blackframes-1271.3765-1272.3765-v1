@@ -1,0 +1,68 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x561cdf37c000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/斗罗大陆Ⅱ绝世唐门 (2023)/Season 1/斗罗大陆Ⅱ绝世唐门 - S01E108 - 第108集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    totaldiscs      : a^h#m&v!z(x!n$c$x!76&v^-zyfx.ysepan.com-2021(&^*&*7680/^j
+    encoder         : Lavf59.34.101
+    disc            : 2&a0&2z5$#%&&*cjwl!@%^&)&$9124
+  Duration: 00:21:57.38, start: 0.000000, bitrate: 5120 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 4981 kb/s, 30 fps, 30 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 2160x1215 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:0 pblack:93 pts:520 t:0.032500 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    totaldiscs      : a^h#m&v!z(x!n$c$x!76&v^-zyfx.ysepan.com-2021(&^*&*7680/^j
+    disc            : 2&a0&2z5$#%&&*cjwl!@%^&)&$9124
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:1 pblack:93 pts:1048 t:0.065500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:2 pblack:93 pts:1576 t:0.098500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:3 pblack:93 pts:2120 t:0.132500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:4 pblack:93 pts:2648 t:0.165500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:5 pblack:93 pts:3176 t:0.198500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:6 pblack:93 pts:3720 t:0.232500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:7 pblack:93 pts:4248 t:0.265500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:8 pblack:93 pts:4776 t:0.298500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:9 pblack:93 pts:5320 t:0.332500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:10 pblack:93 pts:5848 t:0.365500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:11 pblack:93 pts:6376 t:0.398500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:12 pblack:93 pts:6920 t:0.432500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:13 pblack:93 pts:7448 t:0.465500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:14 pblack:93 pts:7976 t:0.498500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:15 pblack:93 pts:8520 t:0.532500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:16 pblack:93 pts:9048 t:0.565500 type:B last_keyframe:0
+frame=   16 fps=3.5 q=-0.0 size=N/A time=00:00:00.56 bitrate=N/A speed=0.125x    [Parsed_blackframe_0 @ 0x7fa588002340] frame:17 pblack:93 pts:9576 t:0.598500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:18 pblack:93 pts:10120 t:0.632500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:19 pblack:93 pts:10648 t:0.665500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:20 pblack:93 pts:11176 t:0.698500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:21 pblack:93 pts:11720 t:0.732500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:22 pblack:93 pts:12248 t:0.765500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:23 pblack:93 pts:12776 t:0.798500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:24 pblack:93 pts:13320 t:0.832500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:25 pblack:93 pts:13848 t:0.865500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:26 pblack:93 pts:14376 t:0.898500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:27 pblack:93 pts:14920 t:0.932500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:28 pblack:93 pts:15448 t:0.965500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:29 pblack:93 pts:15976 t:0.998500 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fa588002340] frame:30 pblack:93 pts:16520 t:1.032500 type:B last_keyframe:0
+[out#0/null @ 0x561cdf3ada00] video:12KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   29 fps=5.8 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=0.202x    

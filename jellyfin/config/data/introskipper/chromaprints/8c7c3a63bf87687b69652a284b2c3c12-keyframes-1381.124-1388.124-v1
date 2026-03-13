@@ -1,0 +1,70 @@
+[png @ 0x555b2f8ef380] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x555b2f8e9080] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/航海王 (1999)/Season 22/航海王 - S22E1143 - 第1143集.mp4':
+  Metadata:
+    title           : FUCK
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-09-14T15:39:09.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:23:35.84, start: 0.000000, bitrate: 3079 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv), 3840x2160, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2879728
+        DURATION        : 00:23:35.791000000
+        NUMBER_OF_FRAMES: 33945
+        NUMBER_OF_BYTES : 509636713
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-14 15:39:09
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 189653
+        DURATION        : 00:23:35.836000000
+        NUMBER_OF_FRAMES: 60975
+        NUMBER_OF_BYTES : 33564794
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-14 15:39:09
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f2328001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7f2328001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f2328001f80] n:   0 pts:   1425 pts_time:1.425   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:E0353665 plane_checksum:[BC5CAECB 44A468C9 71061EC2] mean:[64 135 105] stdev:[30.6 3.1 14.8]
+[Parsed_showinfo_0 @ 0x7f2328001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : FUCK
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2879728
+        DURATION        : 00:23:35.791000000
+        NUMBER_OF_FRAMES: 33945
+        NUMBER_OF_BYTES : 509636713
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-09-14 15:39:09
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f2328001f80] n:   1 pts:   1467 pts_time:1.467   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:BBD67C50 plane_checksum:[EFFAD582 9FC1846A 50AE2255] mean:[66 135 103] stdev:[31.8 3.1 15.8]
+[Parsed_showinfo_0 @ 0x7f2328001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f2328001f80] n:   2 pts:   2426 pts_time:2.426   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:955CA420 plane_checksum:[E820E99C 5F625B77 30A05EFE] mean:[84 136 117] stdev:[78.9 9.3 13.8]
+[Parsed_showinfo_0 @ 0x7f2328001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+frame=    3 fps=0.0 q=-0.0 size=N/A time=00:00:02.46 bitrate=N/A speed=4.86x    [Parsed_showinfo_0 @ 0x7f2328001f80] n:   3 pts:   3135 pts_time:3.135   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:FFEECDA5 plane_checksum:[E4A2967B D09376EB 8A90C030] mean:[181 137 114] stdev:[52.6 11.1 18.8]
+[Parsed_showinfo_0 @ 0x7f2328001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f2328001f80] n:   4 pts:   5763 pts_time:5.763   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:1EB66FF2 plane_checksum:[7024E671 80F181BE 713807B4] mean:[83 125 130] stdev:[57.4 13.3 7.3]
+[Parsed_showinfo_0 @ 0x7f2328001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f2328001f80] n:   5 pts:   5805 pts_time:5.805   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:84802E6E plane_checksum:[1776B24A 19001273 67CB69A2] mean:[83 125 130] stdev:[57.4 13.2 7.3]
+[Parsed_showinfo_0 @ 0x7f2328001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f2328001f80] n:   6 pts:   7014 pts_time:7.014   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:D5A361B6 plane_checksum:[988FCA73 9390E461 D946B2C4] mean:[156 115 139] stdev:[55.5 10.4 11.9]
+[Parsed_showinfo_0 @ 0x7f2328001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f2328001f80] n:   7 pts:   7973 pts_time:7.973   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:BA4F3A79 plane_checksum:[1342610B B0AA0BDE BCAECD81] mean:[112 127 122] stdev:[48.9 6.3 5.5]
+[Parsed_showinfo_0 @ 0x7f2328001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x555b2f9507c0] video:3KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    6 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.83 bitrate=N/A speed=7.77x    

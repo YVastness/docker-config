@@ -1,0 +1,62 @@
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 31288087 (0x1dd6b17) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 188745745 (0xb400811) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 357732817 (0x155291d1) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 520018762 (0x1efedb4a) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 687937622 (0x29011856) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 855090361 (0x32f7a4b9) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 1023916658 (0x3d07ba72) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 1197164264 (0x475b46e8) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 1359555333 (0x51092b05) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 1533456222 (0x5b66af5e) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 1700513586 (0x655bc732) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 1882369018 (0x7032abfa) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 2037450120 (0x79710588) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 2205751557 (0x83791905) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 2375501564 (0x8d9746fc) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 2550530908 (0x9806035c) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 2706385261 (0xa150296d) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 2879011268 (0xab9a39c4) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 3051725962 (0xb5e5a48a) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 3217209439 (0xbfc2b85f) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 3386001811 (0xc9d24993) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 3550247746 (0xd39c7b42) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 3718113152 (0xdd9de780) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 3913683589 (0xe9461285) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 4058370517 (0xf1e5d1d5) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 4242454073 (0xfcdeb639) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 4396145317 (0x10607daa5) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 4564969714 (0x11017e8f2) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 4729377929 (0x119e49489) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 4903379256 (0x12443a138) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] 0x00 at pos 5067418934 (0x12e0aad36) invalid as first byte of an EBML number
+[matroska,webm @ 0x556fc2fca000] File ended prematurely
+    Last message repeated 1 times
+Input #0, matroska,webm, from '/media/TV Shows/枭起青壤 (2025)/Season 1/枭起青壤 - S01E15 - 第15集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:43:19.38, start: 0.000000, bitrate: 16114 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1920 [SAR 1:1 DAR 2:1], 59.94 fps, 59.94 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: flac, 48000 Hz, stereo, s32 (24 bit) (default)
+      Metadata:
+        title           : 国语·FLAC无损HiFi声
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : 国语·立体环绕声
+  Stream #0:3(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : 国语·立体音效
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x556fc2fca000] File ended prematurely
+[vost#0:0/wrapped_avframe @ 0x556fc2fff200] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(progressive), 3840x1920 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 59.94 fps, 1k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x556fc2ffd7c0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x556fc2ffd7c0] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

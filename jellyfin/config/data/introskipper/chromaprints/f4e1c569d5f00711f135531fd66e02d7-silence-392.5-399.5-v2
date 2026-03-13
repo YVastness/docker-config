@@ -1,0 +1,90 @@
+Input #0, matroska,webm, from '/media/TV Shows/怪奇物语 (2016)/Season 5/怪奇物语 - S05E03 - 第3集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 01:09:26.41, start: 0.000000, bitrate: 11384 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 348.500000
+      Metadata:
+        title           : Chapter 1
+    Chapter #0:1: start 348.500000, end 397.500000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 397.500000, end 3822.450000
+      Metadata:
+        title           : Chapter 2
+    Chapter #0:3: start 3822.450000, end 4166.413000
+      Metadata:
+        title           : Credits
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+  Stream #0:1(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default) (original)
+  Stream #0:2(eng): Subtitle: subrip (srt) (original)
+  Stream #0:3(eng): Subtitle: subrip (srt) (original) (hearing impaired)
+      Metadata:
+        title           : SDH
+  Stream #0:4(ara): Subtitle: subrip (srt) (dub)
+  Stream #0:5(cze): Subtitle: subrip (srt) (dub)
+  Stream #0:6(dan): Subtitle: subrip (srt) (dub)
+  Stream #0:7(ger): Subtitle: subrip (srt) (dub)
+  Stream #0:8(gre): Subtitle: subrip (srt) (dub)
+  Stream #0:9(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Spanish (Latin America)
+  Stream #0:10(spa): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Spanish (Spain)
+  Stream #0:11(fin): Subtitle: subrip (srt) (dub)
+  Stream #0:12(fil): Subtitle: subrip (srt) (dub)
+  Stream #0:13(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : French
+  Stream #0:14(fre): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : French (Canada)
+  Stream #0:15(heb): Subtitle: subrip (srt) (dub)
+  Stream #0:16(hrv): Subtitle: subrip (srt) (dub)
+  Stream #0:17(hun): Subtitle: subrip (srt) (dub)
+  Stream #0:18(ind): Subtitle: subrip (srt) (dub)
+  Stream #0:19(ita): Subtitle: subrip (srt) (dub)
+  Stream #0:20(jpn): Subtitle: subrip (srt) (dub)
+  Stream #0:21(kor): Subtitle: subrip (srt) (dub)
+  Stream #0:22(may): Subtitle: subrip (srt) (dub)
+  Stream #0:23(nob): Subtitle: subrip (srt) (dub)
+  Stream #0:24(dut): Subtitle: subrip (srt) (dub)
+  Stream #0:25(pol): Subtitle: subrip (srt) (dub)
+  Stream #0:26(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Portuguese (Brazil)
+  Stream #0:27(por): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Portuguese (Portugal)
+  Stream #0:28(rum): Subtitle: subrip (srt) (dub)
+  Stream #0:29(rus): Subtitle: subrip (srt) (dub)
+  Stream #0:30(swe): Subtitle: subrip (srt) (dub)
+  Stream #0:31(tha): Subtitle: subrip (srt) (dub)
+  Stream #0:32(tur): Subtitle: subrip (srt) (dub)
+  Stream #0:33(ukr): Subtitle: subrip (srt) (dub)
+  Stream #0:34(vie): Subtitle: subrip (srt) (dub)
+  Stream #0:35(chi): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Chinese (Simplified)
+  Stream #0:36(chi): Subtitle: subrip (srt) (dub)
+      Metadata:
+        title           : Chinese (Traditional)
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 5.000000
+      Metadata:
+        title           : Intro
+    Chapter #0:1: start 5.000000, end 7.000000
+      Metadata:
+        title           : Chapter 2
+  Stream #0:0(eng): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default) (original)
+      Metadata:
+        encoder         : Lavc61.3.100 pcm_s16le
+[out#0/null @ 0x55ec829be880] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=  30x    

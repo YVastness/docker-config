@@ -1,0 +1,53 @@
+Input #0, matroska,webm, from '/media/Animes/沧元图 (2023)/Season 1/沧元图 - S01E35 - 第35集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-12-27T05:26:14.000000Z
+  Duration: 00:21:44.52, start: 0.000000, bitrate: 21930 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1776 [SAR 1:1 DAR 80:37], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 21672512
+        DURATION        : 00:21:44.480000000
+        NUMBER_OF_FRAMES: 32612
+        NUMBER_OF_BYTES : 3533919845
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-12-27 05:26:14
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:21:44.520000000
+        NUMBER_OF_FRAMES: 56181
+        NUMBER_OF_BYTES : 41744649
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-12-27 05:26:14
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] n:   0 pts:    149 pts_time:0.149   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:55D903DE plane_checksum:[51736DF1 9A82E399 0561B236] mean:[68 508 512] stdev:[54.9 0.2 0.3]
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1776 [SAR 1:1 DAR 80:37], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 21672512
+        DURATION        : 00:21:44.480000000
+        NUMBER_OF_FRAMES: 32612
+        NUMBER_OF_BYTES : 3533919845
+        _STATISTICS_WRITING_APP: mkvmerge v87.0 ('Black as the Sky') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-12-27 05:26:14
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] n:   1 pts:   3469 pts_time:3.469   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:72283620 plane_checksum:[2561F78A 6BAF111C 83342D6B] mean:[196 518 546] stdev:[131.1 25.1 35.2]
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] n:   2 pts:   5309 pts_time:5.309   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:642F0F53 plane_checksum:[0BBE41BB 6DF79451 8AFA3938] mean:[138 539 503] stdev:[120.2 32.4 40.7]
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    3 fps=0.0 q=-0.0 size=N/A time=00:00:05.36 bitrate=N/A speed=10.7x    frame=    3 fps=3.0 q=-0.0 size=N/A time=00:00:05.36 bitrate=N/A speed=5.36x    [Parsed_showinfo_0 @ 0x7f7dfc001f80] n:   3 pts:   6629 pts_time:6.629   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:E4114085 plane_checksum:[ABE12812 E2D14C90 DB64CBD4] mean:[164 522 528] stdev:[146.4 30.6 46.7]
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] n:   4 pts:   7709 pts_time:7.709   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1776 i:P iskey:1 type:I checksum:324148BC plane_checksum:[50995B08 6D20F565 4F40F831] mean:[164 529 535] stdev:[137.1 27.6 59.2]
+[Parsed_showinfo_0 @ 0x7f7dfc001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55fab0300480] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=2.8 q=-0.0 Lsize=N/A time=00:00:06.68 bitrate=N/A speed=4.72x    

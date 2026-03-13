@@ -1,0 +1,40 @@
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E18 - 第18集.mkv':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:44:03.52, start: 0.000000, bitrate: 24235 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 23973600
+        NUMBER_OF_FRAMES: 158609
+        NUMBER_OF_BYTES : 7921728626
+        DURATION        : 00:44:03.483000000
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 标准音效
+        BPS             : 256000
+        NUMBER_OF_FRAMES: 113847
+        NUMBER_OF_BYTES : 84592710
+        DURATION        : 00:44:03.521000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fcbec001f80] config in time_base: 1/1000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7fcbec001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fcbec001f80] n:   0 pts:   4048 pts_time:4.048   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:4A4CCF23 plane_checksum:[6D97D3C1 01232892 3053D2C1] mean:[63 512 512] stdev:[1.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7fcbec001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        BPS             : 23973600
+        NUMBER_OF_FRAMES: 158609
+        NUMBER_OF_BYTES : 7921728626
+        DURATION        : 00:44:03.483000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fcbec001f80] n:   1 pts:   8698 pts_time:8.698   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:784402C2 plane_checksum:[13F79E58 B8D54567 193E1EF4] mean:[480 541 503] stdev:[133.8 34.8 29.0]
+[Parsed_showinfo_0 @ 0x7fcbec001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fcbec001f80] n:   2 pts:  13332 pts_time:13.332  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:1733EA4E plane_checksum:[8513D2F5 900F63B4 FAFBB396] mean:[480 550 492] stdev:[121.0 27.7 27.0]
+[Parsed_showinfo_0 @ 0x7fcbec001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x564339722280] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:04.06 bitrate=N/A speed=14.1x    

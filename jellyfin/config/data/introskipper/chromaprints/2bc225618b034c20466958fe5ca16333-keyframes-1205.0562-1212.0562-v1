@@ -1,0 +1,78 @@
+Input #0, matroska,webm, from '/media/Animes/完美世界 (2021)/Season 1/完美世界 - S01E247 - 第247集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-12-26T02:01:12.000000Z
+    MOVIE/ENCODER   : Lavf62.0.102
+  Duration: 00:20:42.37, start: 0.000000, bitrate: 5373 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1636 [SAR 1:1 DAR 960:409], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4927601
+        DURATION        : 00:20:42.200000000
+        NUMBER_OF_FRAMES: 31055
+        NUMBER_OF_BYTES : 765133250
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 02:01:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 125340
+        DURATION        : 00:20:42.261000000
+        NUMBER_OF_FRAMES: 58231
+        NUMBER_OF_BYTES : 19463264
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 02:01:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        BPS             : 253362
+        DURATION        : 00:20:42.261000000
+        NUMBER_OF_FRAMES: 58231
+        NUMBER_OF_BYTES : 39342800
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 02:01:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: eac3, 48000 Hz, stereo, fltp, 64 kb/s (default)
+      Metadata:
+        BPS             : 64000
+        DURATION        : 00:20:42.368000000
+        NUMBER_OF_FRAMES: 38824
+        NUMBER_OF_BYTES : 9938944
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 02:01:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f4f34001f80] config in time_base: 1/1000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f4f34001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f4f34001f80] n:   0 pts:   3586 pts_time:3.586   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1636 i:P iskey:1 type:I checksum:F6C6718E plane_checksum:[FBA11144 B6FAC54F 23CA9AEC] mean:[180 503 515] stdev:[40.5 4.0 3.1]
+[Parsed_showinfo_0 @ 0x7f4f34001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f4f34001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f4f34001f80] 
+[Parsed_showinfo_0 @ 0x7f4f34001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    MOVIE/ENCODER   : Lavf62.0.102
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1636 [SAR 1:1 DAR 960:409], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 4927601
+        DURATION        : 00:20:42.200000000
+        NUMBER_OF_FRAMES: 31055
+        NUMBER_OF_BYTES : 765133250
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-12-26 02:01:12
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f4f34001f80] n:   1 pts:   9586 pts_time:9.586   duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1636 i:P iskey:1 type:I checksum:5BD070D2 plane_checksum:[7F1345D9 E1C9F739 A45033B1] mean:[221 592 569] stdev:[123.3 69.6 45.9]
+[Parsed_showinfo_0 @ 0x7f4f34001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f4f34001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f4f34001f80] 
+[Parsed_showinfo_0 @ 0x7f4f34001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f4f34001f80] n:   2 pts:  15066 pts_time:15.066  duration:     40 duration_time:0.04    fmt:yuv420p10le cl:left sar:1/1 s:3840x1636 i:P iskey:1 type:I checksum:E1927FD0 plane_checksum:[D4B8F476 6CCA0A67 D90080E4] mean:[289 550 508] stdev:[195.5 44.4 26.7]
+[Parsed_showinfo_0 @ 0x7f4f34001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f4f34001f80] User Data=54656e63656e742d563236352d312e362e392e352d70316b3138346731366c68383166347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31392e352063722d6932382e356132382e352072636d2d61646170742076732d39352e30
+[Parsed_showinfo_0 @ 0x7f4f34001f80] 
+[Parsed_showinfo_0 @ 0x7f4f34001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x5622280a3f40] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.64 bitrate=N/A speed=12.4x    

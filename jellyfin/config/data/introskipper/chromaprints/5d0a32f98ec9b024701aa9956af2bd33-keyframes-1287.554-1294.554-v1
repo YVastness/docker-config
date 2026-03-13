@@ -1,0 +1,379 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神印王座 (2022)/Season 1/神印王座 - S01E158 - 第158集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:21:55.46, start: 0.000000, bitrate: 4709 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 4578 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 38320).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 20695).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 5728).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 180).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 183).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 110).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 157).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 108).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 1004).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 14384).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 16495).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 8537).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 1286).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 183).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 332).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 135).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 148).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 146).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 104).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 103).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 101).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 10460).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 110).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 102).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 110).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 110).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 1193).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 38220).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 9331).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 4640).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 1223).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 2850).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 14539).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 7391).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 14984).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 30169).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 44547).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 27794).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 17494).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 9457).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 7079).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 18966).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 9177).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 10933).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca4db00] Invalid NAL unit size (0 > 24910).
+[hevc @ 0x56399ca4db00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca44fc0] Invalid NAL unit size (0 > 20480).
+[hevc @ 0x56399ca44fc0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca097c0] Invalid NAL unit size (0 > 11752).
+[hevc @ 0x56399ca097c0] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca57b00] Invalid NAL unit size (0 > 8461).
+[hevc @ 0x56399ca57b00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+[hevc @ 0x56399ca2bf00] Invalid NAL unit size (0 > 18529).
+[hevc @ 0x56399ca2bf00] Error splitting the input into NAL units.
+[vist#0:0/hevc @ 0x56399c9de200] [dec:hevc @ 0x56399c9ddbc0] Error submitting packet to decoder: Invalid data found when processing input
+    Last message repeated 3 times
+[Parsed_showinfo_0 @ 0x7f78c0001f80] config in time_base: 1/12800, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f78c0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f78c0001f80] n:   0 pts:  68173 pts_time:5.326016 duration:    512 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:C2C2F9E9 plane_checksum:[90CABA77 7D98AAA1 234994C2] mean:[44 143 126] stdev:[39.8 18.9 3.7]
+[Parsed_showinfo_0 @ 0x7f78c0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f78c0001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e312063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f78c0001f80] 
+[Parsed_showinfo_0 @ 0x7f78c0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7f78c0001f80] n:   1 pts: 144461 pts_time:11.286016 duration:    512 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:10CA6597 plane_checksum:[82CB2B90 FF215BFE 309DDDFA] mean:[73 130 130] stdev:[52.0 5.9 7.6]
+[Parsed_showinfo_0 @ 0x7f78c0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f78c0001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e312063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f78c0001f80] 
+[Parsed_showinfo_0 @ 0x7f78c0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f78c0001f80] n:   2 pts: 214093 pts_time:16.726016 duration:    512 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:5707AC22 plane_checksum:[C8F626F9 70AE5453 011030D6] mean:[50 128 132] stdev:[36.7 7.0 12.4]
+[Parsed_showinfo_0 @ 0x7f78c0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f78c0001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e312063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f78c0001f80] 
+[Parsed_showinfo_0 @ 0x7f78c0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x56399c9cad00] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.36 bitrate=N/A speed=20.8x    

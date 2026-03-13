@@ -1,0 +1,80 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/纸牌屋 (2013)/Season 2/纸牌屋 - S02E13 - 第 26 章.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : ShanaEncoder
+  Duration: 00:59:09.72, start: 0.000000, bitrate: 15536 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 13339 kb/s, 23.98 fps, 23.98 tbr, 24k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: dts (dca) (DTS-HD MA) (mp4a / 0x6134706D), 48000 Hz, 5.1(side), s16p (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:0 pblack:95 pts:679 t:0.028292 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:1 pblack:95 pts:1680 t:0.070000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:2 pblack:95 pts:2681 t:0.111708 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:3 pblack:95 pts:3682 t:0.153417 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:4 pblack:95 pts:4683 t:0.195125 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:5 pblack:95 pts:5684 t:0.236833 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:6 pblack:95 pts:6685 t:0.278542 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:7 pblack:95 pts:7686 t:0.320250 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:8 pblack:95 pts:8687 t:0.361958 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:9 pblack:95 pts:9688 t:0.403667 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:10 pblack:95 pts:10689 t:0.445375 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:11 pblack:95 pts:11690 t:0.487083 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:12 pblack:95 pts:12691 t:0.528792 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:13 pblack:95 pts:13692 t:0.570500 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:14 pblack:95 pts:14693 t:0.612208 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:15 pblack:95 pts:15694 t:0.653917 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:16 pblack:95 pts:16695 t:0.695625 type:P last_keyframe:0
+frame=   17 fps= 17 q=-0.0 size=N/A time=00:00:00.75 bitrate=N/A speed=0.745x    [Parsed_blackframe_0 @ 0x7fc32c002340] frame:17 pblack:95 pts:17696 t:0.737333 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:18 pblack:95 pts:18697 t:0.779042 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:19 pblack:95 pts:19698 t:0.820750 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:20 pblack:95 pts:20699 t:0.862458 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:21 pblack:95 pts:21700 t:0.904167 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:22 pblack:95 pts:22701 t:0.945875 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:23 pblack:95 pts:23702 t:0.987583 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:24 pblack:95 pts:24703 t:1.029292 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:25 pblack:95 pts:25704 t:1.071000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:26 pblack:95 pts:26705 t:1.112708 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:27 pblack:95 pts:27706 t:1.154417 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:28 pblack:95 pts:28707 t:1.196125 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:29 pblack:95 pts:29708 t:1.237833 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:30 pblack:95 pts:30709 t:1.279542 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:31 pblack:95 pts:31710 t:1.321250 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:32 pblack:95 pts:32711 t:1.362958 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:33 pblack:95 pts:33712 t:1.404667 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:34 pblack:95 pts:34713 t:1.446375 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:35 pblack:95 pts:35714 t:1.488083 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:36 pblack:95 pts:36715 t:1.529792 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:37 pblack:95 pts:37716 t:1.571500 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:38 pblack:95 pts:38717 t:1.613208 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:39 pblack:95 pts:39718 t:1.654917 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:40 pblack:94 pts:40719 t:1.696625 type:P last_keyframe:0
+frame=   40 fps= 27 q=-0.0 size=N/A time=00:00:01.71 bitrate=N/A speed=1.13x    [Parsed_blackframe_0 @ 0x7fc32c002340] frame:41 pblack:94 pts:41720 t:1.738333 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:42 pblack:94 pts:42721 t:1.780042 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:43 pblack:94 pts:43722 t:1.821750 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:44 pblack:94 pts:44723 t:1.863458 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:45 pblack:95 pts:45724 t:1.905167 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:46 pblack:95 pts:46725 t:1.946875 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:47 pblack:94 pts:47726 t:1.988583 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7fc32c002340] frame:48 pblack:94 pts:48727 t:2.030292 type:P last_keyframe:0
+[out#0/null @ 0x5616a5f28840] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 28 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.18x    

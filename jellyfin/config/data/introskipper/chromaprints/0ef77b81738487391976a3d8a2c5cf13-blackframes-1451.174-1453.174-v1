@@ -1,0 +1,85 @@
+Input #0, matroska,webm, from '/media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E09 - 第9集.mkv':
+  Metadata:
+    COMMENT         : ch 2026.02
+    MOVIE/ENCODER   : Lavf60.21.101
+    ENCODER         : Lavf60.16.100
+  Duration: 00:24:34.91, start: 0.000000, bitrate: 2225 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1596 [SAR 1:1 DAR 320:133], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1390311
+        NUMBER_OF_FRAMES: 35394
+        NUMBER_OF_BYTES : 256295216
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-02-20 01:51:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:24:34.791000000
+  Stream #0:1(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 国语 HIFI声
+        BPS             : 317350
+        NUMBER_OF_FRAMES: 69131
+        NUMBER_OF_BYTES : 58503369
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-02-20 01:51:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:24:34.793000000
+  Stream #0:2(chi): Audio: eac3, 48000 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        title           : 国语 杜比音效
+        BPS             : 128000
+        NUMBER_OF_FRAMES: 46091
+        NUMBER_OF_BYTES : 23598592
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-02-20 01:51:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:24:34.912000000
+  Stream #0:3(chi): Audio: aac (LC), 48000 Hz, 5.1, fltp
+      Metadata:
+        title           : 国语 立体环绕声
+        BPS             : 253361
+        NUMBER_OF_FRAMES: 69131
+        NUMBER_OF_BYTES : 46706997
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-02-20 01:51:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:24:34.793000000
+  Stream #0:4(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : 国语 标准音效
+        BPS             : 125351
+        NUMBER_OF_FRAMES: 69131
+        NUMBER_OF_BYTES : 23108413
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-02-20 01:51:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:24:34.793000000
+  Stream #0:5(chi): Subtitle: subrip (srt) (default)
+      Metadata:
+        title           : [CH].资源群.703771273
+        BPS             : 1
+        NUMBER_OF_FRAMES: 2
+        NUMBER_OF_BYTES : 52
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-21 06:08:04
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:04:03.733000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    COMMENT         : ch 2026.02
+    MOVIE/ENCODER   : Lavf60.21.101
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1596 [SAR 1:1 DAR 320:133], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 1390311
+        NUMBER_OF_FRAMES: 35394
+        NUMBER_OF_BYTES : 256295216
+        _STATISTICS_WRITING_APP: mkvmerge v84.0 ('Sleeper') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-02-20 01:51:45
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        DURATION        : 00:24:34.791000000
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   35 fps= 17 q=-0.0 size=N/A time=00:00:01.50 bitrate=N/A speed=0.746x    [out#0/null @ 0x55705cce1700] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps= 22 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.918x    

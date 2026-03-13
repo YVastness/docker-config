@@ -1,0 +1,143 @@
+[matroska,webm @ 0x55ce066ba080] Could not find codec parameters for stream 2 (Subtitle: hdmv_pgs_subtitle (pgssub)): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/TV Shows/绝命毒师 (2008)/Season 1/绝命毒师 - S01E02 - 第2集.mkv':
+  Metadata:
+    title           : cXcY@FRDS
+    encoder         : libebml v1.3.1 + libmatroska v1.4.2
+    creation_time   : 2022-11-05T04:08:13.000000Z
+  Duration: 00:48:01.98, start: 0.000000, bitrate: 9674 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 3840x2160 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 9019920
+        BPS-eng         : 9019920
+        DURATION        : 00:47:58.751000000
+        DURATION-eng    : 00:47:58.751000000
+        NUMBER_OF_FRAMES: 69021
+        NUMBER_OF_FRAMES-eng: 69021
+        NUMBER_OF_BYTES : 3245763037
+        NUMBER_OF_BYTES-eng: 3245763037
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:08:13
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:08:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : English-DD5.1￡cXcY
+        BPS             : 640000
+        BPS-eng         : 640000
+        DURATION        : 00:48:01.984000000
+        DURATION-eng    : 00:48:01.984000000
+        NUMBER_OF_FRAMES: 90062
+        NUMBER_OF_FRAMES-eng: 90062
+        NUMBER_OF_BYTES : 230558720
+        NUMBER_OF_BYTES-eng: 230558720
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:08:13
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:08:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Subtitle: hdmv_pgs_subtitle (pgssub) (default) (forced)
+      Metadata:
+        title           : 中上英下-SUP_YYeTs字幕￡cXcY
+        BPS             : 23119
+        BPS-eng         : 23119
+        DURATION        : 00:46:01.259000000
+        DURATION-eng    : 00:46:01.259000000
+        NUMBER_OF_FRAMES: 910
+        NUMBER_OF_FRAMES-eng: 910
+        NUMBER_OF_BYTES : 7980030
+        NUMBER_OF_BYTES-eng: 7980030
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:08:13
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:08:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(chi): Subtitle: ass (ssa)
+      Metadata:
+        title           : 简体中文-ASS_R3-官方字幕￡cXcY
+        BPS             : 92
+        BPS-eng         : 92
+        DURATION        : 00:46:37.330000000
+        DURATION-eng    : 00:46:37.330000000
+        NUMBER_OF_FRAMES: 437
+        NUMBER_OF_FRAMES-eng: 437
+        NUMBER_OF_BYTES : 32335
+        NUMBER_OF_BYTES-eng: 32335
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:08:13
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:08:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(chi): Subtitle: subrip (srt)
+      Metadata:
+        title           : 简体中文-SRT_YYeTs字幕￡cXcY
+        BPS             : 39
+        BPS-eng         : 39
+        DURATION        : 00:46:01.260000000
+        DURATION-eng    : 00:46:01.260000000
+        NUMBER_OF_FRAMES: 506
+        NUMBER_OF_FRAMES-eng: 506
+        NUMBER_OF_BYTES : 13719
+        NUMBER_OF_BYTES-eng: 13719
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:08:13
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:08:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : 英文-ASS_官方字幕￡cXcY
+        BPS             : 82
+        BPS-eng         : 82
+        DURATION        : 00:46:37.920000000
+        DURATION-eng    : 00:46:37.920000000
+        NUMBER_OF_FRAMES: 423
+        NUMBER_OF_FRAMES-eng: 423
+        NUMBER_OF_BYTES : 28743
+        NUMBER_OF_BYTES-eng: 28743
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:08:13
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:08:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fdd00001f80] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7fdd00001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fdd00001f80] n:   0 pts:    226 pts_time:0.226   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:D8510F25 plane_checksum:[01DABC6F 40BCB22E B035A06A] mean:[288 412 503] stdev:[168.3 76.3 30.5]
+[Parsed_showinfo_0 @ 0x7fdd00001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : cXcY@FRDS
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 9019920
+        BPS-eng         : 9019920
+        DURATION        : 00:47:58.751000000
+        DURATION-eng    : 00:47:58.751000000
+        NUMBER_OF_FRAMES: 69021
+        NUMBER_OF_FRAMES-eng: 69021
+        NUMBER_OF_BYTES : 3245763037
+        NUMBER_OF_BYTES-eng: 3245763037
+        _STATISTICS_WRITING_APP: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_APP-eng: mkvmerge v8.3.0 ('Over the Horizon') 32bit
+        _STATISTICS_WRITING_DATE_UTC: 2022-11-05 04:08:13
+        _STATISTICS_WRITING_DATE_UTC-eng: 2022-11-05 04:08:13
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fdd00001f80] n:   1 pts:   5231 pts_time:5.231   duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:E5FA1580 plane_checksum:[E0AF2F34 4806930B EC9B5332] mean:[149 479 504] stdev:[91.2 22.6 15.1]
+[Parsed_showinfo_0 @ 0x7fdd00001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7fdd00001f80] n:   2 pts:  10236 pts_time:10.236  duration:     41 duration_time:0.041   fmt:yuv420p10le cl:left sar:1/1 s:3840x2160 i:P iskey:1 type:I checksum:308CF8B6 plane_checksum:[BF907BA0 8F6F088A 6A1A748C] mean:[221 465 569] stdev:[129.1 22.2 19.7]
+[Parsed_showinfo_0 @ 0x7fdd00001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55ce06707e00] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.25 bitrate=N/A speed=11.2x    

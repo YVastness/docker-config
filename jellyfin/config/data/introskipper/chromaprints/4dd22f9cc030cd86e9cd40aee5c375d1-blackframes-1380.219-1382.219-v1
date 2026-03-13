@@ -1,0 +1,35 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/遮天 (2023)/Season 1/遮天 - S01E112 - 第112集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:23:30.22, start: 0.000000, bitrate: 6473 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 3840x2160 [SAR 1:1 DAR 16:9], 6341 kb/s, 25 fps, 25 tbr, 12800 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f4f74002340] frame:8 pblack:50 pts:4365 t:0.341016 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4f74002340] frame:9 pblack:57 pts:4877 t:0.381016 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4f74002340] frame:10 pblack:61 pts:5389 t:0.421016 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f4f74002340] frame:11 pblack:66 pts:5901 t:0.461016 type:B last_keyframe:0
+frame=   30 fps= 20 q=-0.0 size=N/A time=00:00:01.24 bitrate=N/A speed=0.825x    [out#0/null @ 0x561030431a00] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps= 26 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.06x    

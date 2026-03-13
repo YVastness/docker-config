@@ -1,0 +1,43 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Girls/JAV_output/森日向子/MIKR-018/MIKR-018.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf59.27.100
+  Duration: 01:59:14.24, start: 0.000000, bitrate: 6011 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 5746 kb/s, 29.97 fps, 29.97 tbr, 30k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 255 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 29.97 fps, 29.97 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:49 pblack:55 pts:49240 t:1.641333 type:P last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:50 pblack:61 pts:50241 t:1.674700 type:B last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:51 pblack:66 pts:51242 t:1.708067 type:P last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:52 pblack:72 pts:52243 t:1.741433 type:B last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:53 pblack:86 pts:53244 t:1.774800 type:P last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:54 pblack:96 pts:54245 t:1.808167 type:B last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:55 pblack:99 pts:55246 t:1.841533 type:P last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:56 pblack:99 pts:56247 t:1.874900 type:B last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:57 pblack:99 pts:57248 t:1.908267 type:P last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:58 pblack:99 pts:58249 t:1.941633 type:B last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:59 pblack:99 pts:59250 t:1.975000 type:B last_keyframe:4
+[Parsed_blackframe_0 @ 0x7f09ac002340] frame:60 pblack:99 pts:60251 t:2.008367 type:P last_keyframe:4
+[out#0/null @ 0x5555c7299740] video:26KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   60 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=5.59x    

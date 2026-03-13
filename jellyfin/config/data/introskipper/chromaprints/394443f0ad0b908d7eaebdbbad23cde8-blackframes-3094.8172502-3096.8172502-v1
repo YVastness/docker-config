@@ -1,0 +1,35 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/TV Shows/纸牌屋 (2013)/Season 3/纸牌屋 - S03E03 - 第 29 章.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : ShanaEncoder
+  Duration: 00:52:24.15, start: 0.000000, bitrate: 15752 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x2160 [SAR 1:1 DAR 16:9], 13542 kb/s, 23.98 fps, 23.98 tbr, 24k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: dts (dca) (DTS-HD MA) (mp4a / 0x6134706D), 48000 Hz, 5.1(side), s16p (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x2160 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   19 fps=4.7 q=-0.0 size=N/A time=00:00:00.83 bitrate=N/A speed=0.208x    [Parsed_blackframe_0 @ 0x7f7704002340] frame:24 pblack:52 pts:24612 t:1.025500 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7704002340] frame:25 pblack:54 pts:25613 t:1.067208 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7704002340] frame:26 pblack:54 pts:26614 t:1.108917 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7f7704002340] frame:27 pblack:51 pts:27615 t:1.150625 type:P last_keyframe:0
+frame=   40 fps=8.9 q=-0.0 size=N/A time=00:00:01.71 bitrate=N/A speed=0.378x    [out#0/null @ 0x560fb4b0dd00] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=9.9 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.423x    

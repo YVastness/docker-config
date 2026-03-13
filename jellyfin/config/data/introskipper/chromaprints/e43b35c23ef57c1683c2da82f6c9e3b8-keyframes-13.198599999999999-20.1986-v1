@@ -1,0 +1,39 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/天相 (2025)/Season 1/天相 - S01E14 - 第14集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.16.100
+  Duration: 00:20:48.21, start: 0.000000, bitrate: 23759 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 23495 kb/s, 30 fps, 30 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : 【https://link3.cc/panclub】
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2]: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7fd528001f80] config in time_base: 1/90000, frame_rate: 30/1
+[Parsed_showinfo_0 @ 0x7fd528001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7fd528001f80] n:   0 pts:  72126 pts_time:0.8014  duration:   3000 duration_time:0.0333333 fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:DCD894DB plane_checksum:[72E21393 42FCAE78 3053D2C1] mean:[63 512 512] stdev:[0.7 0.4 0.0]
+[Parsed_showinfo_0 @ 0x7fd528001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        handler_name    : 【https://link3.cc/panclub】
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7fd528001f80] n:   1 pts: 606126 pts_time:6.734733 duration:   3000 duration_time:0.0333333 fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:65CAAA57 plane_checksum:[4710FC1F 44FCA1B7 AC4B0C72] mean:[693 497 524] stdev:[233.9 9.3 9.5]
+[Parsed_showinfo_0 @ 0x7fd528001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7fd528001f80] n:   2 pts:1185126 pts_time:13.168067 duration:   3000 duration_time:0.0333333 fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:DAFDA74B plane_checksum:[DC16F878 C0C16C74 98154250] mean:[455 508 518] stdev:[160.5 7.2 7.5]
+[Parsed_showinfo_0 @ 0x7fd528001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x562df1fb8d40] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:06.76 bitrate=N/A speed=17.4x    

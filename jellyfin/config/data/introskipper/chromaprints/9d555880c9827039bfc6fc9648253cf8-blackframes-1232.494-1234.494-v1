@@ -1,0 +1,53 @@
+[png @ 0x55aeae8e54c0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x55aeae8df000] Stream #2: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x55aeae8df000] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/天相 (2025)/Season 1/天相 - S01E04 - 第4集.mp4':
+  Metadata:
+    title           : 你在做什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-10-28T10:40:08.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:20:49.74, start: 0.000000, bitrate: 25533 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt2020nc/bt2020/smpte2084), 3840x1632 [SAR 1:1 DAR 40:17], 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 25266176
+        DURATION        : 00:20:49.700000000
+        NUMBER_OF_FRAMES: 37491
+        NUMBER_OF_BYTES : 3946892603
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-28 10:40:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        BPS             : 256000
+        DURATION        : 00:20:49.744000000
+        NUMBER_OF_FRAMES: 53822
+        NUMBER_OF_BYTES : 39991821
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-28 10:40:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在做什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt2020nc/bt2020/smpte2084, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        BPS             : 25266176
+        DURATION        : 00:20:49.700000000
+        NUMBER_OF_FRAMES: 37491
+        NUMBER_OF_BYTES : 3946892603
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-10-28 10:40:08
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   14 fps=7.0 q=-0.0 size=N/A time=00:00:00.46 bitrate=N/A speed=0.233x    frame=   40 fps= 16 q=-0.0 size=N/A time=00:00:01.33 bitrate=N/A speed=0.532x    [out#0/null @ 0x55aeae92cbc0] video:26KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   60 fps= 20 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.683x    

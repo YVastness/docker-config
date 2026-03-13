@@ -1,0 +1,55 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/诛仙 (2022)/Season 3/诛仙 - S03E06 - 第6集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-07-02T19:44:03.2739904+08:00
+    encoder         : Lavf62.0.102
+  Duration: 00:20:59.33, start: 0.000000, bitrate: 4408 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, bt709), 3840x1608 [SAR 1:1 DAR 160:67], 4277 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f63f0001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f63f0001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f63f0001f80] n:   0 pts: 217170 pts_time:2.413   duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:F8BC572B plane_checksum:[427FF8BB B12DDCA7 98EF81AB] mean:[81 130 126] stdev:[10.9 0.9 1.3]
+[Parsed_showinfo_0 @ 0x7f63f0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f63f0001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e342063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f63f0001f80] 
+[Parsed_showinfo_0 @ 0x7f63f0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    date            : 2025-07-02T19:44:03.2739904+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:02.44 bitrate=N/A speed=4.87x    [Parsed_showinfo_0 @ 0x7f63f0001f80] n:   1 pts: 224370 pts_time:2.493   duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:148439BD plane_checksum:[8A0ED84D 274CB0A9 274CB0A9] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f63f0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f63f0001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e342063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f63f0001f80] 
+[Parsed_showinfo_0 @ 0x7f63f0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    2 fps=2.0 q=-0.0 size=N/A time=00:00:02.52 bitrate=N/A speed=2.52x    frame=    2 fps=1.3 q=-0.0 size=N/A time=00:00:02.52 bitrate=N/A speed=1.68x    [Parsed_showinfo_0 @ 0x7f63f0001f80] n:   2 pts: 757170 pts_time:8.413   duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:F7866C8F plane_checksum:[1EF40171 BC40AD4C 6231BDC3] mean:[96 123 142] stdev:[45.4 5.2 10.9]
+[Parsed_showinfo_0 @ 0x7f63f0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f63f0001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e342063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f63f0001f80] 
+[Parsed_showinfo_0 @ 0x7f63f0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f63f0001f80] n:   3 pts:1297170 pts_time:14.413  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:1/1 s:3840x1608 i:P iskey:1 type:I checksum:6638FBE1 plane_checksum:[86D3BD43 6EF99A2C 5535A463] mean:[106 119 159] stdev:[32.5 5.6 15.7]
+[Parsed_showinfo_0 @ 0x7f63f0001f80]   side data - H.26[45] User Data Unregistered SEI message: UUID=2ca2de09-b517-47db-bb55-a4fe7fc2fc4e
+[Parsed_showinfo_0 @ 0x7f63f0001f80] User Data=54656e63656e742d563236352d312e362e392e332d70316b3138346731366c68363466347261312e20436f707972696768742028632920323032322054656e63656e742e20416c6c207269676874732072657365727665642e207074772d312e31372e342063722d6931322e306132392e352072636d2d61646170742076732d3934
+[Parsed_showinfo_0 @ 0x7f63f0001f80] 
+[Parsed_showinfo_0 @ 0x7f63f0001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55f0c71f6540] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=1.1 q=-0.0 Lsize=N/A time=00:00:02.52 bitrate=N/A speed=1.42x    

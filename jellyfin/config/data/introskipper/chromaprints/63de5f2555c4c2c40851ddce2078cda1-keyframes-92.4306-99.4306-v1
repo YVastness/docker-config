@@ -1,0 +1,64 @@
+[png @ 0x55b3d52b85c0] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x55b3d52b2080] Stream #2: not enough frames to estimate rate; consider increasing probesize
+[matroska,webm @ 0x55b3d52b2080] Could not find codec parameters for stream 2 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/TV Shows/凡人修仙传 (2025)/Season 1/凡人修仙传 - S01E26 - 第26集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-08-11T05:54:22.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:46:50.66, start: 0.000000, bitrate: 27098 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 60 fps, 60 tbr, 1k tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 26834545
+        DURATION        : 00:46:50.600000000
+        NUMBER_OF_FRAMES: 168636
+        NUMBER_OF_BYTES : 9427646651
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-11 05:54:22
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 256000
+        DURATION        : 00:46:50.659000000
+        NUMBER_OF_FRAMES: 121045
+        NUMBER_OF_BYTES : 89941102
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-11 05:54:22
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f500c001f80] config in time_base: 1/1000, frame_rate: 60/1
+[Parsed_showinfo_0 @ 0x7f500c001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f500c001f80] n:   0 pts:   3569 pts_time:3.569   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:EE4BF56A plane_checksum:[A2A2A55B 3053D2C1 269D7D3F] mean:[64 512 510] stdev:[2.4 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f500c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p10le(tv, bt709, progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 26834545
+        DURATION        : 00:46:50.600000000
+        NUMBER_OF_FRAMES: 168636
+        NUMBER_OF_BYTES : 9427646651
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-08-11 05:54:22
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:03.58 bitrate=N/A speed=7.17x    [Parsed_showinfo_0 @ 0x7f500c001f80] n:   1 pts:   7569 pts_time:7.569   duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:9C28F40C plane_checksum:[F03ADF55 0BC74AE6 2062C9C2] mean:[225 525 492] stdev:[34.9 9.9 8.2]
+[Parsed_showinfo_0 @ 0x7f500c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x7f500c001f80] n:   2 pts:  17569 pts_time:17.569  duration:     16 duration_time:0.016   fmt:yuv420p10le cl:left sar:1/1 s:3840x1632 i:P iskey:1 type:I checksum:EA87DAA1 plane_checksum:[9052E8C4 1A046219 100E8FB5] mean:[280 490 543] stdev:[151.2 24.5 41.5]
+[Parsed_showinfo_0 @ 0x7f500c001f80] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x55b3d52e8880] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.58 bitrate=N/A speed=6.53x    

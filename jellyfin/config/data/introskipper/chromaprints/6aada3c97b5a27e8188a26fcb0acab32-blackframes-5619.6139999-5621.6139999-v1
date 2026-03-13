@@ -1,0 +1,63 @@
+[png @ 0x55c92990e180] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x55c929906000] Could not find codec parameters for stream 3 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/仙逆剧场版：神临之战 (2025)/仙逆剧场版：神临之战 (2025).mp4':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-05-30T09:17:56.000000Z
+  Duration: 01:33:56.86, start: 0.000000, bitrate: 5606 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1598 [SAR 1:1 DAR 1920:799], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        title           : 无人在意做自己
+        BPS             : 5221008
+        DURATION        : 01:33:56.800000000
+        NUMBER_OF_FRAMES: 140920
+        NUMBER_OF_BYTES : 3678722348
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-30 09:17:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP
+        BPS             : 256000
+        DURATION        : 01:33:56.864000000
+        NUMBER_OF_FRAMES: 176152
+        NUMBER_OF_BYTES : 180379648
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-30 09:17:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC
+        BPS             : 125342
+        DURATION        : 01:33:56.842000000
+        NUMBER_OF_FRAMES: 264227
+        NUMBER_OF_BYTES : 88317085
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-30 09:17:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1598 [SAR 1:1 DAR 1920:799], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        title           : 无人在意做自己
+        BPS             : 5221008
+        DURATION        : 01:33:56.800000000
+        NUMBER_OF_FRAMES: 140920
+        NUMBER_OF_BYTES : 3678722348
+        _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-05-30 09:17:56
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=   33 fps=0.0 q=-0.0 size=N/A time=00:00:01.36 bitrate=N/A speed=2.72x    [out#0/null @ 0x55c929a55180] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   49 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=3.24x    

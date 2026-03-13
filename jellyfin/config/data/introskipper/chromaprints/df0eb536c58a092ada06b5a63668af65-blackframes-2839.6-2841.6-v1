@@ -1,0 +1,56 @@
+Input #0, matroska,webm, from '/media/TV Shows/长安的荔枝 (2025)/Season 1/长安的荔枝 - S01E18 - 李善德寻找神秘转运近路.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2025-06-14T13:51:38.000000Z
+  Duration: 00:47:49.60, start: 0.000000, bitrate: 14178 kb/s
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(pc), 3840x1608 [SAR 1:1 DAR 160:67], 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 13667441
+        DURATION        : 00:47:49.440000000
+        NUMBER_OF_FRAMES: 71736
+        NUMBER_OF_BYTES : 4902237815
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-14 13:51:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 5, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 0
+  Stream #0:1(div): Audio: eac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        title           : 杜比环绕声
+        BPS             : 384000
+        DURATION        : 00:47:49.600000000
+        NUMBER_OF_FRAMES: 89675
+        NUMBER_OF_BYTES : 137740800
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-14 13:51:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(div): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : 普通音效
+        BPS             : 125349
+        DURATION        : 00:47:49.461000000
+        NUMBER_OF_FRAMES: 134506
+        NUMBER_OF_BYTES : 44960535
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-14 13:51:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(pc, progressive), 3840x1608 [SAR 1:1 DAR 160:67], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        BPS             : 13667441
+        DURATION        : 00:47:49.440000000
+        NUMBER_OF_FRAMES: 71736
+        NUMBER_OF_BYTES : 4902237815
+        _STATISTICS_WRITING_APP: mkvmerge v92.0 ('Everglow') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2025-06-14 13:51:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+      Side data:
+        DOVI configuration record: version: 1.0, profile: 5, level: 6, rpu flag: 1, el flag: 0, bl flag: 1, compatibility id: 0
+frame=   21 fps= 21 q=-0.0 size=N/A time=00:00:00.84 bitrate=N/A speed=0.836x    frame=   44 fps= 29 q=-0.0 size=N/A time=00:00:01.76 bitrate=N/A speed=1.17x    [out#0/null @ 0x55c10602c880] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 30 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.18x    

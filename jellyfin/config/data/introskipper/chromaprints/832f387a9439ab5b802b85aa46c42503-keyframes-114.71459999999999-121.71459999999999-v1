@@ -1,0 +1,47 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/神国之上 (2025)/Season 1/神国之上 - S01E08 - 第8集.mkv':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: mp42dby1iso2mp41
+    date            : 2025-07-19T09:53:48.8992784+08:00
+    encoder         : Lavf62.0.102
+  Duration: 00:21:11.41, start: 0.000000, bitrate: 12992 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv), 3840x1608, 12699 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](und): Audio: eac3 (ec-3 / 0x332D6365), 48000 Hz, stereo, fltp, 96 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+      Side data:
+        audio service type: main
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7f7858001f80] config in time_base: 1/90000, frame_rate: 25/1
+[Parsed_showinfo_0 @ 0x7f7858001f80] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7f7858001f80] n:   0 pts: 198486 pts_time:2.2054  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:0/1 s:3840x1608 i:P iskey:1 type:I checksum:797EB4C1 plane_checksum:[DB4C5360 274CB0A9 274CB0A9] mean:[18 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7f7858001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 512
+    compatible_brands: mp42dby1iso2mp41
+    date            : 2025-07-19T09:53:48.8992784+08:00
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, progressive), 3840x1608, q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    1 fps=0.0 q=-0.0 size=N/A time=00:00:02.24 bitrate=N/A speed=4.39x    [Parsed_showinfo_0 @ 0x7f7858001f80] n:   1 pts: 616086 pts_time:6.8454  duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:0/1 s:3840x1608 i:P iskey:1 type:I checksum:23D72139 plane_checksum:[C74434B2 31FC960A 895A566E] mean:[23 128 130] stdev:[3.3 1.1 2.0]
+[Parsed_showinfo_0 @ 0x7f7858001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7f7858001f80] n:   2 pts: 918486 pts_time:10.2054 duration:   3600 duration_time:0.04    fmt:yuv420p cl:left sar:0/1 s:3840x1608 i:P iskey:1 type:I checksum:E659935C plane_checksum:[360D5F3F C911BA63 D3B879AB] mean:[97 121 144] stdev:[45.6 18.2 20.1]
+[Parsed_showinfo_0 @ 0x7f7858001f80] color_range:tv color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x55b52efa4b40] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=2.0 q=-0.0 Lsize=N/A time=00:00:06.88 bitrate=N/A speed=6.85x    

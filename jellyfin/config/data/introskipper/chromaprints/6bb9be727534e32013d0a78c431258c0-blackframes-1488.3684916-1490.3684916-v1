@@ -1,0 +1,75 @@
+[png @ 0x55d806886900] Invalid PNG signature 0xFFD8FFE000104A46.
+[matroska,webm @ 0x55d806874000] Could not find codec parameters for stream 4 (Video: png, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Input #0, matroska,webm, from '/media/Animes/一人之下 (2016)/Season 6/一人之下 - S06E12 - 第12集.mp4':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-03-13T01:55:19.000000Z
+    MOVIE/ENCODER   : Lavf61.3.100
+  Duration: 00:25:12.06, start: 0.000000, bitrate: 2046 kb/s
+  Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 3840x1596 [SAR 1:1 DAR 320:133], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 1336973
+        DURATION        : 00:25:11.917000000
+        NUMBER_OF_FRAMES: 36286
+        NUMBER_OF_BYTES : 252674180
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:55:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1: Audio: eac3, 48000 Hz, stereo, fltp, 128 kb/s (default)
+      Metadata:
+        title           : DDP2.0 [GyWEB]
+        BPS             : 128000
+        DURATION        : 00:25:12.064000000
+        NUMBER_OF_FRAMES: 47252
+        NUMBER_OF_BYTES : 24193024
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:55:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2: Audio: aac (LC), 48000 Hz, 5.1, fltp (default)
+      Metadata:
+        title           : AAC5.1 [GyWEB]
+        BPS             : 253356
+        DURATION        : 00:25:11.978000000
+        NUMBER_OF_FRAMES: 70874
+        NUMBER_OF_BYTES : 47883734
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:55:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+      Metadata:
+        title           : AAC2.0 [GyWEB]
+        BPS             : 317350
+        DURATION        : 00:25:11.978000000
+        NUMBER_OF_FRAMES: 70874
+        NUMBER_OF_BYTES : 59978362
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:55:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4: Video: png, none, 90k tbr, 90k tbn (attached pic)
+      Metadata:
+        filename        : SB.png
+        mimetype        : image/png
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 你在找什么？[GyWEB]
+    MOVIE/ENCODER   : Lavf61.3.100
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1596 [SAR 1:1 DAR 320:133], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        title           : [GyWEB]
+        BPS             : 1336973
+        DURATION        : 00:25:11.917000000
+        NUMBER_OF_FRAMES: 36286
+        NUMBER_OF_BYTES : 252674180
+        _STATISTICS_WRITING_APP: mkvmerge v93.0 ('Goblu') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-03-13 01:55:19
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x55d8069fd540] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps= 25 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=1.03x    

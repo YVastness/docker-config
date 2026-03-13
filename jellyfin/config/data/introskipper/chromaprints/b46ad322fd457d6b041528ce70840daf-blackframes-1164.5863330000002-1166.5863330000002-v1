@@ -1,0 +1,44 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/Animes/完美世界 (2021)/Season 1/完美世界 - S01E258 - 第258集.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf60.16.100
+  Duration: 00:19:54.58, start: 0.000000, bitrate: 4642 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main 10) (hev1 / 0x31766568), yuv420p10le(tv, bt709), 3840x1636 [SAR 1:1 DAR 960:409], 4511 kb/s, 25 fps, 25 tbr, 90k tbn (default)
+      Metadata:
+        handler_name    : 【https://link3.cc/panclub】
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2]: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 125 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.1.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 3840x1636 [SAR 1:1 DAR 960:409], q=2-31, 200 kb/s, 25 fps, 25 tbn (default)
+      Metadata:
+        handler_name    : 【https://link3.cc/panclub】
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.3.100 wrapped_avframe
+frame=    8 fps=4.0 q=-0.0 size=N/A time=00:00:00.32 bitrate=N/A speed=0.16x    [Parsed_blackframe_0 @ 0x7f707c002340] frame:21 pblack:52 pts:77010 t:0.855667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:22 pblack:97 pts:80610 t:0.895667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:23 pblack:100 pts:84209 t:0.935656 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:24 pblack:100 pts:87810 t:0.975667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:25 pblack:100 pts:91410 t:1.015667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:26 pblack:99 pts:95009 t:1.055656 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:27 pblack:99 pts:98610 t:1.095667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:28 pblack:99 pts:102210 t:1.135667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:29 pblack:99 pts:105810 t:1.175667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:30 pblack:99 pts:109410 t:1.215667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:31 pblack:99 pts:113010 t:1.255667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:32 pblack:84 pts:116610 t:1.295667 type:B last_keyframe:18
+[Parsed_blackframe_0 @ 0x7f707c002340] frame:33 pblack:62 pts:120210 t:1.335667 type:B last_keyframe:18
+frame=   37 fps= 15 q=-0.0 size=N/A time=00:00:01.48 bitrate=N/A speed=0.591x    [out#0/null @ 0x55a483f73c80] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   50 fps= 18 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=0.704x    

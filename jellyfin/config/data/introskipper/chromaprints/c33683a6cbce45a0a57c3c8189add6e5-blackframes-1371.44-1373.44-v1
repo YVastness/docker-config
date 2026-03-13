@@ -1,0 +1,54 @@
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 33589578 (0x200894a) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 136595954 (0x82449f2) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 262491169 (0xfa54c21) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 388210729 (0x1723a029) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 514258621 (0x1ea6f6bd) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 662889268 (0x2782e334) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 792860518 (0x2f421766) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 913315131 (0x3670153b) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 1048702740 (0x3e81ef14) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 1167283471 (0x4593550f) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 1301307565 (0x4d9060ad) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 1394861416 (0x5323e568) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 1516903694 (0x5a6a1d0e) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 1672489330 (0x63b02972) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 1797998235 (0x6b2b469b) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 1924314559 (0x72b2b5bf) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 2053358557 (0x7a63c3dd) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 2181209780 (0x82029eb4) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 2300627118 (0x8920c8ae) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 2428728620 (0x90c3752c) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 2553412565 (0x9831fbd5) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 2795649327 (0xa6a2392f) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 2928907369 (0xae939469) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 3068150960 (0xb6e044b0) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 3157429765 (0xbc328e05) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 3306195516 (0xc5108a3c) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 3408706061 (0xcb2cba0d) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 3567269535 (0xd4a0369f) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 3660621285 (0xda30a5e5) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] 0x00 at pos 3811620455 (0xe330b667) invalid as first byte of an EBML number
+[matroska,webm @ 0x556b1f865000] File ended prematurely
+    Last message repeated 1 times
+Input #0, matroska,webm, from '/media/Animes/沧元图 (2023)/Season 1/沧元图 - S01E31 - 第31集.mp4':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-12-06T02:37:18.000000Z
+  Duration: 00:23:21.44, start: 0.000000, bitrate: 22327 kb/s
+  Stream #0:0(chi): Video: hevc (Main 10), yuv420p10le(tv, bt709), 3840x1776 [SAR 1:1 DAR 80:37], 25 fps, 25 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x556b1f865000] File ended prematurely
+[vost#0:0/wrapped_avframe @ 0x556b1f8af880] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(progressive), 3840x1776 [SAR 1:1 DAR 80:37], q=2-31, 200 kb/s, 25 fps, 1k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x556b1f8c8580] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x556b1f8c8580] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    

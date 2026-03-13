@@ -1,0 +1,124 @@
+[matroska,webm @ 0x561d67627000] 0x00 at pos 7069304 (0x6bde78) invalid as first byte of an EBML number
+    Last message repeated 1 times
+[matroska,webm @ 0x561d67627000] 0x00 at pos 54438421 (0x33eaa15) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 105034566 (0x642b346) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 152550824 (0x917bda8) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 203248906 (0xc1d550a) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 249497758 (0xedf089e) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 298916101 (0x11d11905) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 350161966 (0x14df0c2e) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 397330701 (0x17aec90d) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 447878565 (0x1ab215a5) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 499304457 (0x1dc2c809) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 547747599 (0x20a5f70f) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 597676696 (0x239fd298) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 644859422 (0x266fc61e) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 697298178 (0x298fed02) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 745162474 (0x2c6a46ea) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 796837712 (0x2f7ec750) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 894897614 (0x35570dce) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 943439607 (0x383bbef7) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 992980076 (0x3b2fac6c) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1041675138 (0x3e16b382) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1092247632 (0x411a6050) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1140206181 (0x43f62a65) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1187977235 (0x46cf1813) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1238982690 (0x49d96022) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1288465042 (0x4ccc6a92) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1337477403 (0x4fb8491b) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1388476382 (0x52c277de) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1436002021 (0x5597a6e5) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1485598601 (0x588c6f89) invalid as first byte of an EBML number
+[matroska,webm @ 0x561d67627000] File ended prematurely
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1436002021 (0x5597a6e5) invalid as first byte of an EBML number
+Input #0, matroska,webm, from '/media/Animes/仙逆 (2023)/Season 1/仙逆 - S01E12 - 第12集.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2024-10-13T10:17:47.000000Z
+  Duration: 00:20:14.11, start: 0.000000, bitrate: 10101 kb/s
+  Stream #0:0(chi): Video: hevc (Main), yuv420p(tv, bt709), 3840x1632 [SAR 1:1 DAR 40:17], 25 fps, 25 tbr, 1k tbn (default)
+  Stream #0:1(chi): Audio: eac3, 48000 Hz, stereo, fltp, 256 kb/s (default)
+      Metadata:
+        title           : DDP2.0
+  Stream #0:2(chi): Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : AAC2.0
+Stream mapping:
+  Stream #0:0 -> #0:0 (hevc (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1436002021 (0x5597a6e5) invalid as first byte of an EBML number
+[hevc @ 0x561d67655480] Could not find ref with POC 72
+[hevc @ 0x561d67655480] Could not find ref with POC 64
+[hevc @ 0x561d67655480] Could not find ref with POC 80
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 72
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 64
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 80
+[hevc @ 0x561d6765b940] Could not find ref with POC 72
+[hevc @ 0x561d6765b940] Could not find ref with POC 64
+[hevc @ 0x561d6765b940] Could not find ref with POC 80
+[hevc @ 0x561d67670fc0] Could not find ref with POC 72
+[hevc @ 0x561d67670fc0] Could not find ref with POC 64
+[hevc @ 0x561d67670fc0] Could not find ref with POC 80
+[hevc @ 0x561d67644380] Could not find ref with POC 72
+[hevc @ 0x561d67644380] Could not find ref with POC 64
+[hevc @ 0x561d67644380] Could not find ref with POC 80
+[hevc @ 0x561d67655480] Could not find ref with POC 72
+[hevc @ 0x561d67655480] Could not find ref with POC 64
+[hevc @ 0x561d67655480] Could not find ref with POC 80
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 72
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 64
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 80
+[hevc @ 0x561d6765b940] Could not find ref with POC 80
+[hevc @ 0x561d6765b940] Could not find ref with POC 72
+[hevc @ 0x561d6765b940] Could not find ref with POC 64
+[hevc @ 0x561d67670fc0] Could not find ref with POC 80
+[hevc @ 0x561d67670fc0] Could not find ref with POC 72
+[hevc @ 0x561d67670fc0] Could not find ref with POC 64
+[hevc @ 0x561d67644380] Could not find ref with POC 80
+[hevc @ 0x561d67644380] Could not find ref with POC 72
+[hevc @ 0x561d67644380] Could not find ref with POC 64
+[hevc @ 0x561d67655480] Could not find ref with POC 80
+[hevc @ 0x561d67655480] Could not find ref with POC 72
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 80
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 72
+[hevc @ 0x561d6765b940] Could not find ref with POC 80
+[hevc @ 0x561d6765b940] Could not find ref with POC 72
+[hevc @ 0x561d67670fc0] Could not find ref with POC 80
+[hevc @ 0x561d67670fc0] Could not find ref with POC 72
+[hevc @ 0x561d67644380] Could not find ref with POC 80
+[hevc @ 0x561d67644380] Could not find ref with POC 72
+[hevc @ 0x561d67655480] Could not find ref with POC 80
+[hevc @ 0x561d67655480] Could not find ref with POC 72
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 80
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 72
+[hevc @ 0x561d6765b940] Could not find ref with POC 80
+[matroska,webm @ 0x561d67627000] 0x00 at pos 1485598601 (0x588c6f89) invalid as first byte of an EBML number
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 128
+[hevc @ 0x561d6765b940] Could not find ref with POC 128
+[hevc @ 0x561d67670fc0] Could not find ref with POC 128
+[hevc @ 0x561d67644380] Could not find ref with POC 128
+[hevc @ 0x561d67655480] Could not find ref with POC 128
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 128
+[hevc @ 0x561d6765b940] Could not find ref with POC 128
+[hevc @ 0x561d67670fc0] Could not find ref with POC 128
+[matroska,webm @ 0x561d67627000] File ended prematurely
+[hevc @ 0x561d67644380] Could not find ref with POC 128
+[hevc @ 0x561d67655480] Could not find ref with POC 128
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 128
+[hevc @ 0x561d6765b940] Could not find ref with POC 128
+[hevc @ 0x561d67670fc0] Could not find ref with POC 128
+[hevc @ 0x561d67644380] Could not find ref with POC 128
+[hevc @ 0x561d67655480] Could not find ref with POC 128
+[hevc @ 0x561d676ae7c0] Could not find ref with POC 128
+[hevc @ 0x561d6765b940] Could not find ref with POC 128
+[hevc @ 0x561d67670fc0] Could not find ref with POC 128
+[vost#0:0/wrapped_avframe @ 0x561d6765d4c0] No filtered frames for output stream, trying to initialize anyway.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0(chi): Video: wrapped_avframe, yuv420p(progressive), 3840x1632 [SAR 1:1 DAR 40:17], q=2-31, 200 kb/s, 25 fps, 1k tbn (default)
+      Metadata:
+        encoder         : Lavc61.3.100 wrapped_avframe
+[out#0/null @ 0x561d67672540] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+[out#0/null @ 0x561d67672540] Output file is empty, nothing was encoded(check -ss / -t / -frames parameters if used)
+frame=    0 fps=0.0 q=0.0 Lsize=N/A time=N/A bitrate=N/A speed=N/A    
