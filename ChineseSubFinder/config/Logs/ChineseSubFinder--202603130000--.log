@@ -225,3 +225,55 @@
 [INFO]: 2026-03-13 17:21:26 - PreDownloadProcess.Check() End
 [INFO]: 2026-03-13 17:21:26 - PreDownloadProcess.Wait() Done.
 [INFO]: 2026-03-13 17:21:26 - Download.SupplierCheck() End
+[INFO]: 2026-03-13 18:21:24 - Download.SupplierCheck() Start ...
+[INFO]: 2026-03-13 18:21:24 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2026-03-13 18:21:24 - PreDownloadProcess.Init() Start...
+[INFO]: 2026-03-13 18:21:24 - ClearRodTmpRootFolder Done
+[INFO]: 2026-03-13 18:21:24 - PreDownloadProcess.Init() End
+[INFO]: 2026-03-13 18:21:24 - PreDownloadProcess.Check() Start...
+[INFO]: 2026-03-13 18:21:24 - UseHttpProxy = false
+[INFO]: 2026-03-13 18:21:24 - UrlConnectednessTest Target Site https://baidu.com Speed: 174 ms, Status: true
+[INFO]: 2026-03-13 18:21:24 - Check Sub Supplier Start...
+[INFO]: 2026-03-13 18:21:24 - xunlei Check Alive = true, Speed = 113 ms
+[ERROR]: 2026-03-13 18:21:24 - a4k CheckAlive.Get Get "https://www.a4k.net": EOF
+[WARNING]: 2026-03-13 18:21:24 - a4k Check Alive = false
+[ERROR]: 2026-03-13 18:21:24 - assrt NewHttpClient: Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[ERROR]: 2026-03-13 18:21:24 - assrt CheckAlive Error Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[WARNING]: 2026-03-13 18:21:24 - assrt Check Alive = false
+[INFO]: 2026-03-13 18:21:24 - shooter Check Alive = true, Speed = 688 ms
+[INFO]: 2026-03-13 18:21:24 - Alive Supplier: xunlei
+[INFO]: 2026-03-13 18:21:24 - Alive Supplier: shooter
+[INFO]: 2026-03-13 18:21:24 - Check Sub Supplier End
+[INFO]: 2026-03-13 18:21:24 - MovieFolder Index 0 -- /media/Movies
+[INFO]: 2026-03-13 18:21:24 - MovieFolder Index 1 -- /media/Girls/JAV_output
+[INFO]: 2026-03-13 18:21:24 - SeriesPaths Index 0 -- /media/TV Shows
+[INFO]: 2026-03-13 18:21:24 - SeriesPaths Index 1 -- /media/Animes
+[INFO]: 2026-03-13 18:21:24 - PreDownloadProcess.Check() End
+[INFO]: 2026-03-13 18:21:24 - PreDownloadProcess.Wait() Done.
+[INFO]: 2026-03-13 18:21:24 - Download.SupplierCheck() End
+[INFO]: 2026-03-13 19:21:24 - Download.SupplierCheck() Start ...
+[INFO]: 2026-03-13 19:21:24 - PreDownloadProcess.Init().Check().Wait()...
+[INFO]: 2026-03-13 19:21:24 - PreDownloadProcess.Init() Start...
+[INFO]: 2026-03-13 19:21:24 - ClearRodTmpRootFolder Done
+[INFO]: 2026-03-13 19:21:24 - PreDownloadProcess.Init() End
+[INFO]: 2026-03-13 19:21:24 - PreDownloadProcess.Check() Start...
+[INFO]: 2026-03-13 19:21:24 - UseHttpProxy = false
+[INFO]: 2026-03-13 19:21:24 - UrlConnectednessTest Target Site https://baidu.com Speed: 169 ms, Status: true
+[INFO]: 2026-03-13 19:21:24 - Check Sub Supplier Start...
+[INFO]: 2026-03-13 19:21:24 - xunlei Check Alive = true, Speed = 60 ms
+[ERROR]: 2026-03-13 19:21:24 - assrt NewHttpClient: Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[ERROR]: 2026-03-13 19:21:24 - assrt CheckAlive Error Get "https://api.assrt.net/v1/user/quota?token=YEk2xsrohTz2tsmM27xUfdZKjOXiR7Ty": EOF
+[WARNING]: 2026-03-13 19:21:24 - assrt Check Alive = false
+[ERROR]: 2026-03-13 19:21:24 - a4k CheckAlive.Get Get "https://www.a4k.net": EOF
+[WARNING]: 2026-03-13 19:21:24 - a4k Check Alive = false
+[INFO]: 2026-03-13 19:21:24 - shooter Check Alive = true, Speed = 690 ms
+[INFO]: 2026-03-13 19:21:24 - Alive Supplier: xunlei
+[INFO]: 2026-03-13 19:21:24 - Alive Supplier: shooter
+[INFO]: 2026-03-13 19:21:24 - Check Sub Supplier End
+[INFO]: 2026-03-13 19:21:24 - MovieFolder Index 0 -- /media/Movies
+[INFO]: 2026-03-13 19:21:24 - MovieFolder Index 1 -- /media/Girls/JAV_output
+[INFO]: 2026-03-13 19:21:24 - SeriesPaths Index 0 -- /media/TV Shows
+[INFO]: 2026-03-13 19:21:24 - SeriesPaths Index 1 -- /media/Animes
+[INFO]: 2026-03-13 19:21:24 - PreDownloadProcess.Check() End
+[INFO]: 2026-03-13 19:21:24 - PreDownloadProcess.Wait() Done.
+[INFO]: 2026-03-13 19:21:24 - Download.SupplierCheck() End

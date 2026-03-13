@@ -8582,3 +8582,1267 @@
    at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
    at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
 
+2026-03-13 09:48:30.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:48:30.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:50:00.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:50:00.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:51:30.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:51:30.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:53:00.2|Info|RssSyncService|Starting RSS Sync
+2026-03-13 09:53:00.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:53:00.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:53:01.1|Info|DownloadDecisionMaker|Processing 75 releases
+2026-03-13 09:53:01.4|Info|RssSyncService|RSS Sync Completed. Reports found: 75, Reports grabbed: 0
+2026-03-13 09:54:30.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:54:30.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:56:00.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:56:00.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:57:30.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:57:30.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:59:00.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 09:59:00.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:00:30.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:00:30.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:01:30.3|Info|SceneMappingService|Updating Scene mappings
+2026-03-13 10:02:00.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:02:00.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:03:30.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:03:30.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:05:00.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:05:00.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:06:30.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:06:30.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:08:00.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:08:00.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:08:30.5|Info|RssSyncService|Starting RSS Sync
+2026-03-13 10:08:31.4|Info|DownloadDecisionMaker|Processing 75 releases
+2026-03-13 10:08:31.6|Info|RssSyncService|RSS Sync Completed. Reports found: 75, Reports grabbed: 0
+2026-03-13 10:09:30.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:09:30.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:11:00.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:11:00.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:12:30.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:12:30.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:14:00.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:14:00.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:15:30.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:15:30.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:17:00.7|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:17:00.7|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:18:00.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:18:00.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:19:30.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:19:30.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:21:00.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:21:00.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:22:30.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:22:30.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:24:00.9|Info|RssSyncService|Starting RSS Sync
+2026-03-13 10:24:00.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:24:00.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:24:01.7|Info|DownloadDecisionMaker|Processing 75 releases
+2026-03-13 10:24:01.9|Info|RssSyncService|RSS Sync Completed. Reports found: 75, Reports grabbed: 0
+2026-03-13 10:25:30.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:25:30.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:27:01.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:27:01.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:28:31.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:28:31.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:30:01.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:30:01.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:31:31.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:31:31.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:33:01.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:33:01.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:34:31.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:34:31.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:36:01.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:36:01.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:37:31.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:37:31.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:39:01.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:39:01.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:39:31.2|Info|RssSyncService|Starting RSS Sync
+2026-03-13 10:39:32.1|Info|DownloadDecisionMaker|Processing 75 releases
+2026-03-13 10:39:32.2|Info|RssSyncService|RSS Sync Completed. Reports found: 75, Reports grabbed: 0
+2026-03-13 10:40:31.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:40:31.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:42:01.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:42:01.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:43:31.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:43:31.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:45:01.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:45:01.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:46:31.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:46:31.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:47:31.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:47:31.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:49:01.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:49:01.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:50:31.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:50:31.5|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:52:01.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:52:01.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:53:31.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:53:31.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:55:01.6|Info|RssSyncService|Starting RSS Sync
+2026-03-13 10:55:01.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:55:01.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:55:09.0|Info|DownloadDecisionMaker|Processing 75 releases
+2026-03-13 10:55:09.2|Info|RssSyncService|RSS Sync Completed. Reports found: 75, Reports grabbed: 0
+2026-03-13 10:56:31.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:56:31.6|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:58:01.7|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:58:01.7|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:59:31.7|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 10:59:31.7|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:01:01.7|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:01:01.7|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:02:31.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:02:31.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:04:01.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:04:01.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:05:31.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:05:31.8|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:07:01.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:07:01.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:08:31.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:08:31.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:10:01.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:10:01.9|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:10:31.9|Info|RssSyncService|Starting RSS Sync
+2026-03-13 11:10:32.9|Info|DownloadDecisionMaker|Processing 75 releases
+2026-03-13 11:10:33.1|Info|RssSyncService|RSS Sync Completed. Reports found: 75, Reports grabbed: 0
+2026-03-13 11:11:32.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:11:32.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:12:32.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:12:32.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:14:02.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:14:02.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:15:32.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:15:32.0|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:17:02.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:17:02.1|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:18:02.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:18:02.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:19:32.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:19:32.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:21:02.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:21:02.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:22:32.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:22:32.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:24:02.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:24:02.3|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:25:32.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:25:32.2|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:26:02.3|Info|RssSyncService|Starting RSS Sync
+2026-03-13 11:26:05.1|Info|DownloadDecisionMaker|Processing 75 releases
+2026-03-13 11:26:05.2|Info|RssSyncService|RSS Sync Completed. Reports found: 75, Reports grabbed: 0
+2026-03-13 11:27:02.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:27:02.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:28:32.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
+2026-03-13 11:28:32.4|Error|DownloadMonitoringService|Couldn't process tracked download 
+
+[v4.0.15.2941] System.ArgumentNullException: Value cannot be null. (Parameter 'key')
+   at System.ThrowHelper.ThrowArgumentNullException(String name)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.TryGetValue(TKey key, TValue& value)
+   at NzbDrone.Common.Cache.Cached`1.Find(String key) in ./Sonarr.Common/Cache/Cached.cs:line 70
+   at NzbDrone.Core.Download.TrackedDownloads.TrackedDownloadService.TrackDownload(DownloadClientDefinition downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/TrackedDownloadService.cs:line 207
+   at NzbDrone.Core.Download.TrackedDownloads.DownloadMonitoringService.ProcessClientItem(IDownloadClient downloadClient, DownloadClientItem downloadItem) in ./Sonarr.Core/Download/TrackedDownloads/DownloadMonitoringService.cs:line 136
+
